@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/ggsgbanner.png
@@ -18,6 +18,9 @@ sections:
         - title: Deals
           description: ""
           url: /privacy/
+        - title: Challenges
+          description: ""
+          url: http://www.mse.gov.sg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
