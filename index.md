@@ -34,14 +34,14 @@ sections:
   - infopic:
       title: Go Green Events
       description: Infopic description
-      button: Button Text
+      button: Learn more
       image: /images/picture1.png
       alt: Image alt text
       url: "#"
   - infopic:
       title: Go Green Challenges
       description: Infopic description
-      button: Button Text
+      button: Learn more
       alt: Image alt text
       image: /images/picture1.png
       url: "#"
