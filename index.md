@@ -45,4 +45,10 @@ sections:
       alt: Image alt text
       image: /images/picture1.png
       url: "#"
+  - infopic:
+      title: Go Green Deals
+      description: Infopic description
+      button: Learn more
+      url: "#"
+      alt: Image alt text
 ---
