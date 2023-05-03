@@ -37,9 +37,12 @@ sections:
       button: Button Text
       image: /images/picture1.png
       alt: Image alt text
+      url: "#"
   - infopic:
       title: Go Green Challenges
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/picture1.png
+      url: "#"
 ---
