@@ -20,7 +20,7 @@ sections:
           url: /privacy/
         - title: Challenges
           description: ""
-          url: http://www.mse.gov.sg
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
