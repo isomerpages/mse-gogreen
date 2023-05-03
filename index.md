@@ -31,4 +31,15 @@ sections:
       url: "#"
       alt: Image alt text
       image: /images/picture1.png
+  - infopic:
+      title: Go Green Events
+      description: Infopic description
+      button: Button Text
+      image: /images/picture1.png
+      alt: Image alt text
+  - infopic:
+      title: Go Green Challenges
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
