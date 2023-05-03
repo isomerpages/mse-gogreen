@@ -51,4 +51,8 @@ sections:
       button: Learn more
       url: "#"
       alt: Image alt text
+      image: /images/picture1.png
+  - resources:
+      title: Events
+      button: Learn more
 ---
