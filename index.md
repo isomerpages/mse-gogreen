@@ -22,9 +22,12 @@ sections:
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: GO GREEN YOUR WAY
+      description: Lorem ipsum
+  - infopic:
+      title: Go Green Experiences
+      description: Participate in....
+      button: Learn more
+      url: "#"
+      alt: Image alt text
 ---
