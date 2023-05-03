@@ -2,11 +2,11 @@ title: Title
 url: https://www.gogreen.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#08aad7"
+  primary-color: "#00a651"
   secondary-color: "#00a651"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#08aad7"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
