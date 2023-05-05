@@ -28,7 +28,7 @@ sections:
       title: Go Green Experiences
       description: Participate in....
       button: Learn more
-      url: "#"
+      url: /resources/go-green-experiences/
       alt: Image alt text
       image: /images/picture1.png
   - infopic:
@@ -37,19 +37,19 @@ sections:
       button: Learn more
       image: /images/picture1.png
       alt: Image alt text
-      url: "#"
+      url: resources/go-green-events
   - infopic:
       title: Go Green Challenges
       description: Infopic description
       button: Learn more
       alt: Image alt text
       image: /images/picture1.png
-      url: "#"
+      url: resources/go-green-challenges
   - infopic:
       title: Go Green Deals
       description: Infopic description
       button: Learn more
-      url: "#"
+      url: /resources/go-green-deals
       alt: Image alt text
       image: /images/picture1.png
   - resources:
