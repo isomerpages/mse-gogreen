@@ -1,7 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About Us
+  - title: About
     collection: about-us
+  - title: Programmes
+    url: /programmes
   - title: Contact Us
     url: /contact-us/
   - title: Resources
