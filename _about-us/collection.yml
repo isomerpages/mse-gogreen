@@ -4,5 +4,5 @@ collections:
     order:
       - About Us.md
       - Our History.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - General Information/.keep
+      - General Information/subfolder-page.md
