@@ -53,6 +53,6 @@ sections:
       alt: Image alt text
       image: /images/picture1.png
   - resources:
-      title: Events
+      title: Events and Deals
       button: Learn more
 ---
