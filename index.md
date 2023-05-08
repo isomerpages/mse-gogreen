@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ggsgbanner.png
+      background: /images/artboard 1.png
       key_highlights:
         - title: Experiences
           description: ""
