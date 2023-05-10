@@ -3,9 +3,8 @@ title: Our Programmes
 permalink: /programmes/our-programmes/
 description: Our Programmes
 ---
+![](/images/our-programmes.png)
 ### <span class="tx-green">Our Programmes</span>
-
-   
 
 Whether you’re a foodie looking for greener dishes, or a parent who wants the whole family to have fun without waste, Go Green SG has something for you.
 
