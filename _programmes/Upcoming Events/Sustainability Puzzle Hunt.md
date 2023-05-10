@@ -4,6 +4,7 @@ permalink: /programme/upcoming-events/sustainability-puzzle-hunt/
 description: ""
 third_nav_title: Upcoming Events
 ---
+![](/images/banner-sustainability-puzzle-hunt.png)
 ### <span class="tx-green">Sustainability Puzzle Hunt</span>
 
 Ready, set GREEN! Take on the role of an urban planner and navigate challenges like limited land space to design a sustainable and vibrant cityscape in Singapore. Sign up to get started!
