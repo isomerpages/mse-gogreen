@@ -2,4 +2,5 @@ collections:
   programme:
     output: true
     order:
+      - Upcoming Events/Our Programme.md
       - Upcoming Events/.keep
