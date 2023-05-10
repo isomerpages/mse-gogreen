@@ -19,12 +19,12 @@ sections:
       button: Learn more
       url: /resources/go-green-experiences/
       alt: Image alt text
-      image: /images/picture1.png
+      image: /images/go-green-tours.png
   - infopic:
       title: Go Green Workshops & Talks
       description: Engage in hands-on activities and listen to sustainability conferences.
       button: Learn more
-      image: /images/picture1.png
+      image: /images/go-green-workshops-talks.png
       alt: Image alt text
       url: resources/go-green-events
   - infopic:
@@ -32,7 +32,7 @@ sections:
       description: Enjoy a fun-packed day at festivals and shows.
       button: Learn more
       alt: Image alt text
-      image: /images/picture1.png
+      image: /images/go-green-events.png
       url: resources/go-green-challenges
   - infopic:
       title: Go Green Retail & Dining
@@ -40,19 +40,21 @@ sections:
       button: Learn More
       url: /
       alt: Image alt text
+      image: /images/go-green-retail-dinning.png
   - infopic:
       title: Go Green Challenges & Deals
       description: Shop, save and adopt a sustainable lifestyle
       button: Learn more
       url: /resources/go-green-deals
       alt: Image alt text
-      image: /images/picture1.png
+      image: /images/go-green-challenges-deals.png
   - infopic:
       title: Go Green Initiatives
       description: Become an advocate for sustainability in your community.
       button: Learn More
       url: /
       alt: Image alt text
+      image: /images/go-green-initiatives.png
   - resources:
       title: Events and Deals
       button: Learn more
