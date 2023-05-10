@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Our Programme.md
+      - Upcoming Events/Sustainability Puzzle Hunt.md
       - Upcoming Events/.keep
