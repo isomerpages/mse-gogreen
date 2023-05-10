@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/artboard 1.png
+      background: /images/artboard-1.png
       key_highlights:
         - title: Experiences
           description: ""
@@ -18,9 +18,6 @@ sections:
         - title: Deals
           description: ""
           url: /privacy/
-        - title: Challenges
-          description: ""
-          url: ""
       title: Go Green, Your Way
   - infobar:
       title: GO GREEN YOUR WAY
