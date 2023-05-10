@@ -3,6 +3,7 @@ title: Events Overview
 permalink: /programme/events-overview/
 description: ""
 ---
+![](/images/tbc-banner.png)
 ### <span class="tx-green">TBC Event</span>
 
 Details to come!
