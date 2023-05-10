@@ -1,10 +1,15 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: About
-    collection: about-us
+  - title: About Us
+    url: /permalink
   - title: Programmes
-    url: /programmes
+    collection: programme
   - title: Resources
     resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: Pages with SUbmenu
+    url: /about-us
+    sublinks:
+      - title: Submenu 1
+        url: /permalink
