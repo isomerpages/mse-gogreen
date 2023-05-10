@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about-us/
-  - title: Programmes
-    collection: programmes
+  - title: Our Programmes
+    collection: our-programmes
   - title: Pages with Submenu
     url: /about-us/
     sublinks:
