@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /about-us/
   - title: Programmes
-    collection: programme
+    collection: programmes
   - title: Pages with Submenu
     url: /about-us/
     sublinks:
