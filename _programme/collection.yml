@@ -1,4 +1,5 @@
 collections:
   programme:
     output: true
-    order: []
+    order:
+      - Upcoming Events/.keep
