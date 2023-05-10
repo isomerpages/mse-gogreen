@@ -21,6 +21,7 @@ sections:
         - title: Challenges
           description: ""
           url: ""
+      title: Go Green, Your Way
   - infobar:
       title: GO GREEN YOUR WAY
       description: Lorem ipsum
