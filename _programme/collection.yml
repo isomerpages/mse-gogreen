@@ -2,7 +2,7 @@ collections:
   programme:
     output: true
     order:
-      - Events Overview.md
       - Our Programme.md
-      - Upcoming Events/Sustainability Puzzle Hunt.md
       - Upcoming Events/.keep
+      - Upcoming Events/Sustainability Puzzle Hunt.md
+      - Events Overview.md
