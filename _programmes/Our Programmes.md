@@ -61,6 +61,7 @@ description: Our Programmes
 		border-radius: 1rem;
 		background-color: transparent;
 		cursor: pointer;
+		font-weight: bold;
 	}
 	
 	.programmes__item__actions > .button-primary {
