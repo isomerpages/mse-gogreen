@@ -8,7 +8,7 @@ description: Our Programmes
 		gap: 1rem;
 	}
 	
-	.programmes-item {
+	.programmes__item {
 		width: calc(33.33% - .5rem) !important;
 	}
 	
@@ -16,23 +16,45 @@ description: Our Programmes
 		width: 100%;
 	}
 	
-	.programmes-item > h2 {
+	.programmes__item > h2 {
 		color:white;
 		font-size: 1rem;
 		line-height: 1rem;
-		margin: 1rem 0;
+		margin: 1rem 0 .5rem;
+	}
+	
+	.programmes__item__detail > ul {
+		display: flex;
+		flex-direction: column;
+		list-style-type: none;
+		margin: 0;
 	}
 </style>
 
 <div class="row">
-	<div style="background-color: green;" class="programmes-item col is-one-third">
+	<div style="background-color: green;" class="programmes__item col is-one-third">
 		<img src="/images/our-programmes.png">
 		<h2>Sustainability Puzzle Hunt</h2>
+		<div class="programmes__item__detail">
+			<ul>
+				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Admission: Free (registration required)</strong></li>
+				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
+				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+			</ul>
+		</div>
+		<div class="programmes__item__body">
+			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+		</p></div>
+		<div class="programmes__item__actions">
+			<button>Find out more</button>
+			<button>Register</button>
+		</div>
 	</div>
-	<div style="background-color: yellow;" class="programmes-item col is-one-third">
+	<div style="background-color: yellow;" class="programmes__item col is-one-third">
 		<p>Halo 2</p>
 	</div>
-	<div style="background-color: red;" class="programmes-item col is-one-third">
+	<div style="background-color: red;" class="programmes__item col is-one-third">
 		<p>Halo 3</p>
 	</div>
 </div>
