@@ -53,6 +53,16 @@ description: Our Programmes
 		border-radius: 1rem;
 		background-color: transparent;
 	}
+	
+	.button-primary {
+		background-color: #529c57;
+		color: white;
+	}
+	
+	.button-secondary {
+		border: 1px solid #43b453;
+		color: #43b453
+	}
 </style>
 
 <div class="row">
@@ -71,8 +81,8 @@ description: Our Programmes
 			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
 		</p></div>
 		<div class="programmes__item__actions">
-			<button>Find out more</button>
-			<button>Register</button>
+			<button class="button-primary">Find out more</button>
+			<button class="button-secondary">Register</button>
 		</div>
 	</div>
 	<div style="background-color: yellow;" class="programmes__item col is-one-third">
