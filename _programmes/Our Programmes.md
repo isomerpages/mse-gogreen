@@ -20,7 +20,7 @@ description: Our Programmes
 		color: black;
 		font-size: 1.5rem;
 		line-height: 1.5rem;
-		margin: 1rem 0 .5rem;
+		margin: 1rem 0 0.5rem;
 	}
 	
 	.programmes__item__detail > ul {
@@ -48,7 +48,7 @@ description: Our Programmes
 	
 	.programmes__item__actions > button {
 		border: 1px solid black;
-		padding: .5rem 1rem;
+		padding: 0.5rem 1rem;
 		height: fit-content;
 		border-radius: 1rem;
 		background-color: transparent;
@@ -62,7 +62,7 @@ description: Our Programmes
 	
 	.button-secondary {
 		border: 1px solid #43b453;
-		color: #43b453
+		color: #43b453;
 	}
 </style>
 
