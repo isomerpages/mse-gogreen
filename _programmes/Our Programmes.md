@@ -4,7 +4,13 @@ permalink: /programmes/
 description: Our Programmes
 ---
 <style>
-
+	.row {
+		gap: 1rem;
+	}
+	
+	.programmes-item {
+		width: calc(33.33% - 1em);
+	}
 	
 	.programmes > img {
 		width: 100%;
