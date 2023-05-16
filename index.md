@@ -23,12 +23,12 @@ sections:
       button: Learn more
       url: /programmes/tours
       alt: Go Green Tours
-      image: /images/go-green-tours.png
+      image: /images/go-green-tours-2.png
   - infopic:
       title: Go Green Workshops & Talks
       description: Engage in hands-on activities and listen to sustainability conferences.
       button: Learn more
-      image: /images/go-green-workshops-talks.png
+      image: /images/go-green-workshops-and-talks-2.png
       alt: Image alt text
       url: /programmes/workshops-and-talks/
   - infopic:
@@ -36,7 +36,7 @@ sections:
       description: Enjoy a fun-packed day at festivals and shows.
       button: Learn more
       alt: Image alt text
-      image: /images/go-green-events.png
+      image: /images/go-green-events-2.png
       url: /programmes/events/
   - infopic:
       title: Go Green Retail & Dining
@@ -44,7 +44,7 @@ sections:
       button: Learn More
       url: /programmes/retail-and-dining/
       alt: Image alt text
-      image: /images/go-green-retail-dinning.png
+      image: /images/go-green-events.png
   - infopic:
       title: Go Green Challenges & Deals
       description: Shop, save and adopt a sustainable lifestyle
