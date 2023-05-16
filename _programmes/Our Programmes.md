@@ -29,6 +29,17 @@ description: Our Programmes
 		list-style-type: none;
 		margin: 0;
 	}
+	
+	.programmes__item__actions {
+		display: flex;
+		align-items: center;
+	}
+	
+	.programmes__item__actions > button {
+		border: 1px solid black;
+		padding: .5rem 1rem;
+	height: fit-content;
+	}
 </style>
 
 <div class="row">
