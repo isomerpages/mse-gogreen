@@ -27,13 +27,17 @@ description: Our Programmes
 		display: flex;
 		flex-direction: column;
 		list-style-type: none;
-		margin: 0.5rem 0;
+		margin: 1rem 0;
 	}
 	
 	.programmes__item__detail > ul > li {
 		margin: 0;
-		font-size: 0.8rem;
-		line-height: 1;
+		font-size: 1rem;
+		line-height: 1.25;
+	}
+	
+	.programmes__item__detail > ul > li:last-child {
+		margin: 0;
 	}
 	
 	.programmes__item__body > p {
