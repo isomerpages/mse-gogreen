@@ -17,7 +17,7 @@ description: Our Programmes
 	}
 	
 	.programmes__item > h2 {
-		color:white;
+		color: black;
 		font-size: 1.5rem;
 		line-height: 1.5rem;
 		margin: 1rem 0 .5rem;
