@@ -78,7 +78,7 @@ description: Our Programmes
 
 <div class="row">
 	<div class="programmes__item col is-one-third">
-		<img src="/images/our-programmes.png">
+		<img src="/images/Programmes/sustainability-puzzle-hunt.png">
 		<h2>Sustainability Puzzle Hunt</h2>
 		<div class="programmes__item__detail">
 			<ul>
@@ -97,7 +97,7 @@ description: Our Programmes
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
-				<img src="/images/our-programmes.png">
+				<img src="/images/Programmes/make-experience.png">
 		<h2>Sustainability Puzzle Hunt</h2>
 		<div class="programmes__item__detail">
 			<ul>
@@ -116,7 +116,64 @@ description: Our Programmes
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
-				<img src="/images/our-programmes.png">
+				<img src="/images/Programmes/project-green.png">
+		<h2>Sustainability Puzzle Hunt</h2>
+		<div class="programmes__item__detail">
+			<ul>
+				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Admission: Free (registration required)</strong></li>
+				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
+				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+			</ul>
+		</div>
+		<div class="programmes__item__body">
+			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+		</p></div>
+		<div class="programmes__item__actions">
+			<button class="button-primary">Find out more</button>
+			<button class="button-secondary">Register</button>
+		</div>
+	</div>
+	<div class="programmes__item col is-one-third">
+				<img src="/images/Programmes/aquaponic.png">
+		<h2>Sustainability Puzzle Hunt</h2>
+		<div class="programmes__item__detail">
+			<ul>
+				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Admission: Free (registration required)</strong></li>
+				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
+				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+			</ul>
+		</div>
+		<div class="programmes__item__body">
+			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+		</p></div>
+		<div class="programmes__item__actions">
+			<button class="button-primary">Find out more</button>
+			<button class="button-secondary">Register</button>
+		</div>
+	</div>
+	<div class="programmes__item col is-one-third">
+				<img src="/images/Programmes/clean-up.png">
+		<h2>Sustainability Puzzle Hunt</h2>
+		<div class="programmes__item__detail">
+			<ul>
+				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Admission: Free (registration required)</strong></li>
+				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
+				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+			</ul>
+		</div>
+		<div class="programmes__item__body">
+			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+		</p></div>
+		<div class="programmes__item__actions">
+			<button class="button-primary">Find out more</button>
+			<button class="button-secondary">Register</button>
+		</div>
+	</div>
+	<div class="programmes__item col is-one-third">
+				<img src="/images/Programmes/plant-a-tree.png">
 		<h2>Sustainability Puzzle Hunt</h2>
 		<div class="programmes__item__detail">
 			<ul>
