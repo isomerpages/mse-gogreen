@@ -47,7 +47,7 @@ description: Our Programmes
 	}
 	
 	.programmes__item__actions > button {
-		border: 1px solid black;
+		border: 2px solid black;
 		padding: 0.5rem 1rem;
 		height: fit-content;
 		border-radius: 1rem;
@@ -55,13 +55,14 @@ description: Our Programmes
 		cursor: pointer;
 	}
 	
-	.button-primary {
+	.programmes__item__actions > .button-primary {
 		background-color: #529c57;
+		border: 2px solid #529c57;
 		color: white;
 	}
 	
-	.button-secondary {
-		border: 1px solid #43b453;
+	.programmes__item__actions > .button-secondary {
+		border: 2px solid #43b453;
 		color: #43b453;
 	}
 </style>
