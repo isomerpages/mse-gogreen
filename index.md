@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/artboard-1.png
+      background: /images/artboard-2.png
       title: Go Green, Your Way
       button: Join Us Now
       url: /programmes
