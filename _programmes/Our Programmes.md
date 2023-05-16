@@ -3,6 +3,33 @@ title: Our Programmes
 permalink: /programmes/
 description: Our Programmes
 ---
+<style>
+
+	
+	.programmes > img {
+		width: 100%;
+	}
+	
+	.programmes-item > h2 {
+		color:white;
+		font-size: 1rem;
+		line-height: 1rem;
+	}
+</style>
+
+<div class="row">
+	<div style="background-color: green;" class="programmes-item col is-one-third">
+		<img src="/images/our-programmes.png">
+		<h2>Sustainability Puzzle Hunt</h2>
+	</div>
+	<div style="background-color: yellow;" class="programmes-item col is-one-third">
+		<p>Halo 2</p>
+	</div>
+	<div style="background-color: red;" class="programmes-item col is-one-third">
+		<p>Halo 3</p>
+	</div>
+</div>
+
 ![](/images/our-programmes.png)
 ### <span class="tx-green">Our Programmes</span>
 
