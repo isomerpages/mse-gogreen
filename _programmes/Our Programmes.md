@@ -27,7 +27,7 @@ description: Our Programmes
 		display: flex;
 		flex-direction: column;
 		list-style-type: none;
-		margin: 0;
+		margin: 0.5rem 0;
 	}
 	
 	.programmes__item__detail > ul > li {
