@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Challenges & Deals/.keep
       - Retail & Dining/.keep
       - Events/.keep
       - Workshops & Talks/.keep
