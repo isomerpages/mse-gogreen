@@ -60,6 +60,6 @@ sections:
       alt: Image alt text
       image: /images/go-green-initiatives.png
   - resources:
-      title: Events and Deals
+      title: What's On
       button: Learn more
 ---
