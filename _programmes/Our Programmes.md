@@ -32,11 +32,13 @@ description: Our Programmes
 	
 	.programmes__item__detail > ul > li {
 		margin: 0;
-		font-size: 1rem;
+		font-size: 0.8rem;
+		line-height: 1;
 	}
 	
 	.programmes__item__body > p {
 		font-size: 1rem;
+		line-height: 1.25;
 	}
 	
 	.programmes__item__actions {
