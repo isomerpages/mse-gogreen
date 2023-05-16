@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Events/.keep
       - Workshops & Talks/.keep
       - Our Programmes.md
       - Tours/.keep
