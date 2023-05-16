@@ -20,6 +20,7 @@ description: Our Programmes
 		color:white;
 		font-size: 1rem;
 		line-height: 1rem;
+		margin: 1rem 0;
 	}
 </style>
 
