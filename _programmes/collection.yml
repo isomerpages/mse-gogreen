@@ -2,14 +2,14 @@ collections:
   programmes:
     output: true
     order:
-      - Initiatives/.keep
-      - Challenges & Deals/.keep
-      - Retail & Dining/.keep
-      - Events/.keep
-      - Workshops & Talks/.keep
       - Our Programmes.md
       - Tours/.keep
       - Tours/Our Tours.md
+      - Workshops & Talks/.keep
+      - Events/.keep
+      - Retail & Dining/.keep
+      - Challenges & Deals/.keep
+      - Initiatives/.keep
       - Upcoming Events/.keep
       - Upcoming Events/Sustainability Puzzle Hunt.md
       - Events Overview.md
