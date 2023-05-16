@@ -52,6 +52,7 @@ description: Our Programmes
 		height: fit-content;
 		border-radius: 1rem;
 		background-color: transparent;
+		cursor: pointer;
 	}
 	
 	.button-primary {
