@@ -43,12 +43,15 @@ description: Our Programmes
 		display: flex;
 		align-items: center;
 		margin-top: 1rem;
+		gap: 0.5rem;
 	}
 	
 	.programmes__item__actions > button {
 		border: 1px solid black;
 		padding: .5rem 1rem;
 		height: fit-content;
+		border-radius: 1rem;
+		background-color: transparent;
 	}
 </style>
 
