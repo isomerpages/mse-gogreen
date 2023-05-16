@@ -18,8 +18,8 @@ description: Our Programmes
 	
 	.programmes__item > h2 {
 		color:white;
-		font-size: 1rem;
-		line-height: 1rem;
+		font-size: 1.5rem;
+		line-height: 1.5rem;
 		margin: 1rem 0 .5rem;
 	}
 	
@@ -28,6 +28,11 @@ description: Our Programmes
 		flex-direction: column;
 		list-style-type: none;
 		margin: 0;
+	}
+	
+	.programmes__item__detail > li {
+		margin: 0;
+		font-size: 1rem;
 	}
 	
 	.programmes__item__actions {
