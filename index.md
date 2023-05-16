@@ -16,7 +16,7 @@ sections:
       description: Sustainability starts with you. Join our programmes to build a
         greener future.
       button: Download our programme booklet
-      url: /programmes
+      url: /files/lorem-ipsum.pdf
   - infopic:
       title: Go Green Tours
       description: Learn about Singapore's sustainability efforts
