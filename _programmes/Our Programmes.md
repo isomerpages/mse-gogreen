@@ -30,7 +30,7 @@ description: Our Programmes
 		margin: 0;
 	}
 	
-	.programmes__item__detail > li {
+	.programmes__item__detail > ul > li {
 		margin: 0;
 		font-size: 1rem;
 	}
