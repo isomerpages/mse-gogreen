@@ -6,10 +6,11 @@ description: Our Programmes
 <style>
 	.row {
 		gap: 1rem;
+		flex-wrap: wrap;
 	}
 	
 	.programmes__item {
-		width: calc(33.33% - .5rem) !important;
+		flex: 0 1 calc(33% - 0.5rem) !important;
 	}
 	
 	.programmes > img {
