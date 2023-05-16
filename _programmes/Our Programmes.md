@@ -21,6 +21,8 @@ description: Our Programmes
 		font-size: 1.5rem;
 		line-height: 1.5rem;
 		margin: 1rem 0 0.5rem;
+		font-weight: bold;
+		color: #509b55;
 	}
 	
 	.programmes__item__detail > ul {
