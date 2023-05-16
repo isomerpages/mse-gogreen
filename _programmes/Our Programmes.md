@@ -35,15 +35,20 @@ description: Our Programmes
 		font-size: 1rem;
 	}
 	
+	.programmes__item__body > p {
+		font-size: 1rem;
+	}
+	
 	.programmes__item__actions {
 		display: flex;
 		align-items: center;
+		margin-top: 1rem;
 	}
 	
 	.programmes__item__actions > button {
 		border: 1px solid black;
 		padding: .5rem 1rem;
-	height: fit-content;
+		height: fit-content;
 	}
 </style>
 
