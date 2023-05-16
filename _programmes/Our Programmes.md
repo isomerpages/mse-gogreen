@@ -9,7 +9,7 @@ description: Our Programmes
 	}
 	
 	.programmes-item {
-		width: calc(33.33% - 1em);
+		width: calc(33.33% - .5rem) !important;
 	}
 	
 	.programmes > img {
