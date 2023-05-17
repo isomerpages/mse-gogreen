@@ -99,36 +99,36 @@ description: Our Programmes
 	</div>
 	<div class="programmes__item col is-one-third">
 				<img src="/images/Programmes/make-experience.png">
-		<h2>Sustainability Puzzle Hunt</h2>
+		<h2>_/\/\/\ake Experience</h2>
 		<div class="programmes__item__detail">
 			<ul>
-				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Date: 7 Feb 2023, 3 July 2023</strong></li>
 				<li><strong>Admission: Free (registration required)</strong></li>
 				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+				<li><strong>Organiser: GINLEE Studio</strong></li>
 			</ul>
 		</div>
 		<div class="programmes__item__body">
-			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+			<p>Get any style and any colour of pleat you want at _/\/\/\ake Experience by GINLEE. With built-in streamer, you can control the entire process to m...
 		</p></div>
 		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
+				<a class="button-primary">Find out more</a>
 			<a class="button-secondary">Register</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
 				<img src="/images/Programmes/project-green.png">
-		<h2>Sustainability Puzzle Hunt</h2>
+		<h2>Project Green</h2>
 		<div class="programmes__item__detail">
 			<ul>
-				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
-				<li><strong>Admission: Free (registration required)</strong></li>
+				<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
+				<li><strong>Admission: TBC</strong></li>
 				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+				<li><strong>Organiser: Capitaland Investment</strong></li>
 			</ul>
 		</div>
 		<div class="programmes__item__body">
-			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+			<p>Check out the second edition of Project Green, a sustainable pop-up showcase/marketplace at Raffles City. Featuring retailers, local...
 		</p></div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
@@ -137,17 +137,17 @@ description: Our Programmes
 	</div>
 	<div class="programmes__item col is-one-third">
 				<img src="/images/Programmes/aquaponic.png">
-		<h2>Sustainability Puzzle Hunt</h2>
+		<h2>Aquaponics Farm-to-Table Experience</h2>
 		<div class="programmes__item__detail">
 			<ul>
-				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
 				<li><strong>Admission: Free (registration required)</strong></li>
 				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+				<li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissotel The Stamford</strong></li>
 			</ul>
 		</div>
 		<div class="programmes__item__body">
-			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to design a sustainable and vibr...
 		</p></div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
@@ -156,17 +156,17 @@ description: Our Programmes
 	</div>
 	<div class="programmes__item col is-one-third">
 				<img src="/images/Programmes/clean-up.png">
-		<h2>Sustainability Puzzle Hunt</h2>
+		<h2>SMU Verts Beach Clean-up</h2>
 		<div class="programmes__item__detail">
 			<ul>
-				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Date: 8 July 2023, 8 Apr 2023</strong></li>
 				<li><strong>Admission: Free (registration required)</strong></li>
-				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+				<li><strong>Venue: TBC</strong></li>
+				<li><strong>Organiser: Singapore Management University</strong></li>
 			</ul>
 		</div>
 		<div class="programmes__item__body">
-			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+			<p>Open call for the SMU Verts beach clean up! Group up with your friends to clean up specific areas of the beach, and enjoy a sparkling clean day in the sun afterwards.
 		</p></div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
@@ -175,17 +175,17 @@ description: Our Programmes
 	</div>
 	<div class="programmes__item col is-one-third">
 				<img src="/images/Programmes/plant-a-tree.png">
-		<h2>Sustainability Puzzle Hunt</h2>
+		<h2>Plant A Tree @OurTanjongPagar event at Blk 35A Jalan Rumah Tinggi</h2>
 		<div class="programmes__item__detail">
 			<ul>
-				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
+				<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
 				<li><strong>Admission: Free (registration required)</strong></li>
-				<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-				<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+				<li><strong>Venue: 35A Jalan Rumah Tinggi</strong></li>
+				<li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
 			</ul>
 		</div>
 		<div class="programmes__item__body">
-			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+			<p>Join Plant A Tree @OurTanjongPagar, a year-long campaign to plant an additional 1.000 trees together with the resident in Tanjong Pagar town
 		</p></div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
