@@ -12,7 +12,9 @@ third_nav_title: Our Programmes
 	
 	.programmes__item {
 		flex: 0 1 calc(33% - 0.5rem) !important;
-		display: grid;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
 	}
 	
 	.programmes__item___header > img {
@@ -67,6 +69,7 @@ third_nav_title: Our Programmes
 		cursor: pointer;
 		font-weight: bold;
 		text-decoration: none;
+		margin-bottom: 0;
 	}
 	
 	.programmes__item__actions > .button-primary {
