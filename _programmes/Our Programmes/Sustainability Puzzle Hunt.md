@@ -4,12 +4,6 @@ permalink: /programmes/sustainability-puzzle-hunt/
 description: ""
 third_nav_title: Our Programmes
 ---
-<style>
-h2 {
-	color: black;
-}
-</style>
-
 ![](/images/sustainability-puzzle-hunt.png)
 
 ### Sustainability Puzzle Hunt
