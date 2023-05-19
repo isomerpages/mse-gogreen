@@ -12,19 +12,15 @@ third_nav_title: Our Programmes
 	
 	.programmes__item {
 		flex: 0 1 calc(33% - 0.5rem) !important;
-	display:flex;
-	flex-direction: column;
+		display: grid;
 	}
 	
-	.programmes__item > img {
+	.programmes__item___header > img {
 		margin: 0
+		width: 100%
 	}
 	
-	.programmes > img {
-		width: 100%;
-	}
-	
-	.programmes__item > h2 {
+	.programmes__item__header > h2 {
 		color: black;
 		font-size: 1.5rem;
 		line-height: 1.5rem;
@@ -87,8 +83,10 @@ third_nav_title: Our Programmes
 
 <div class="row">
 	<div class="programmes__item col is-one-third">
-		<img src="/images/Programmes/sustainability-puzzle-hunt.png">
-		<h2>Sustainability Puzzle Hunt</h2>
+		<div class="programmes__item__header">
+			<img src="/images/Programmes/sustainability-puzzle-hunt.png">
+			<h2>Sustainability Puzzle Hunt</h2>
+		</div>
 		<div class="programmes__item__detail">
 			<ul>
 				<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
@@ -106,8 +104,10 @@ third_nav_title: Our Programmes
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
-				<img src="/images/Programmes/make-experience.png">
-		<h2>_/\/\/\ake Experience</h2>
+		<div class="programmes__item__header">
+			<img src="/images/Programmes/make-experience.png">
+			<h2>_/\/\/\ake Experience</h2>
+		</div>
 		<div class="programmes__item__detail">
 			<ul>
 				<li><strong>Date: 7 Feb 2023, 3 July 2023</strong></li>
@@ -125,8 +125,10 @@ third_nav_title: Our Programmes
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
-				<img src="/images/Programmes/project-green.png">
-		<h2>Project Green</h2>
+		<div class="programmes__item__header">
+			<img src="/images/Programmes/project-green.png">
+			<h2>Project Green</h2>
+		</div>
 		<div class="programmes__item__detail">
 			<ul>
 				<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
@@ -144,8 +146,10 @@ third_nav_title: Our Programmes
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
-				<img src="/images/Programmes/aquaponic.png">
-		<h2>Aquaponics Farm-to-Table Experience</h2>
+		<div class="programmes__item__header">
+			<img src="/images/Programmes/aquaponic.png">
+			<h2>Aquaponics Farm-to-Table Experience</h2>
+		</div>
 		<div class="programmes__item__detail">
 			<ul>
 				<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
@@ -163,8 +167,10 @@ third_nav_title: Our Programmes
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
-				<img src="/images/Programmes/clean-up.png">
-		<h2>SMU Verts Beach Clean-up</h2>
+		<div class="programmes__item__header">
+			<img src="/images/Programmes/clean-up.png">
+			<h2>SMU Verts Beach Clean-up</h2>
+		</div>
 		<div class="programmes__item__detail">
 			<ul>
 				<li><strong>Date: 8 July 2023, 8 Apr 2023</strong></li>
@@ -182,8 +188,10 @@ third_nav_title: Our Programmes
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
-				<img src="/images/Programmes/plant-a-tree.png">
-		<h2>Plant A Tree @OurTanjongPagar event at Blk 35A Jalan Rumah Tinggi</h2>
+		<div class="programmes__item__header">
+			<img src="/images/Programmes/plant-a-tree.png">
+			<h2>Plant A Tree @OurTanjongPagar event at Blk 35A Jalan Rumah Tinggi</h2>
+		</div>
 		<div class="programmes__item__detail">
 			<ul>
 				<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
