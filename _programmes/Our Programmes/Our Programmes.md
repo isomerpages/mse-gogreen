@@ -64,6 +64,7 @@ third_nav_title: Our Programmes
 		background-color: transparent;
 		cursor: pointer;
 		font-weight: bold;
+		text-decoration: none;
 	}
 	
 	.programmes__item__actions > .button-primary {
@@ -94,7 +95,7 @@ third_nav_title: Our Programmes
 			<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
 		</p></div>
 		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
+			<a href="/programmes/sustainability-puzzle-hunt/" class="button-primary">Find out more</a>
 			<a class="button-secondary">Register</a>
 		</div>
 	</div>
