@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Our Programmes/Sustainability Puzzle Hunt.md
-      - Our Programmes/Our Programmes.md
       - Our Programmes/.keep
+      - Our Programmes/Our Programmes.md
+      - Our Programmes/Sustainability Puzzle Hunt.md
       - Tours/.keep
       - Tours/Our Tours.md
       - Tours/9 to 11 July.md
