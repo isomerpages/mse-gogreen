@@ -12,6 +12,12 @@ third_nav_title: Our Programmes
 	
 	.programmes__item {
 		flex: 0 1 calc(33% - 0.5rem) !important;
+	display:flex;
+	flex-direction: column;
+	}
+	
+	.programmes__item > img {
+		margin: 0
 	}
 	
 	.programmes > img {
