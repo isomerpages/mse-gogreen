@@ -12,7 +12,7 @@ h2 {
 
 ![](/images/sustainability-puzzle-hunt.png)
 
-## Sustainability Puzzle Hunt
+### Sustainability Puzzle Hunt
 
 **Ready, get, set, GREEN! Take on the role of an urban planner and navigate challenges, like limited land space to design a sustainable and vibrant cityscape in Singapore. Singapore up to get started!**
 
