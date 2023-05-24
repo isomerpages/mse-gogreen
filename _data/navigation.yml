@@ -19,13 +19,4 @@ links:
   - title: Resources
     resource_room: true
   - title: Contact Us
-    url: /contact-us-2/
-  - title: FAQ
-    url: /faq/
-  - title: Contact Us Example
-    url: /contact-us
-    sublinks:
-      - title: Contact Us 1
-        url: /contact-us
-      - title: Contact Us 2
-        url: /contact-us-2
+    url: /contact-us/
