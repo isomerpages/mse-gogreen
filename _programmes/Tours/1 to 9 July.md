@@ -105,7 +105,7 @@ third_nav_title: Tours
 			</div>
 		</div>
 		<div class="programmes__item__actions">
-			<a href="/programmes/sustainability-puzzle-hunt/" class="button-primary">Find out more</a>
+			<a href="/sustainability-puzzle-hunt/" class="button-primary">Find out more</a>
 			<a class="button-secondary">Register</a>
 		</div>
 	</div>
