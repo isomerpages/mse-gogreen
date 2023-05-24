@@ -5,6 +5,18 @@ description: ""
 third_nav_title: Tours
 ---
 <style>
+	
+	.btn-link-wrapper {
+		flex-wrap: wrap;
+		width: 70%;
+	}
+	
+	@media screen and (max-width: 768px) {
+		.btn-link-wrapper {
+			width: 100%;
+		}
+	}
+	
 	.btn-link {
 		text-align: center;
 		display: block;
@@ -13,15 +25,16 @@ third_nav_title: Tours
 		text-decoration: none !important;
 		padding: 16px 0;
 		border-radius: 16px;
+		margin-bottom: 0 !important;
 	}
 </style>
 
 ![Banner Tours](/images/Programmes/banner-tours.png)
 
-## Tour Singapore, sustainability
+# Tour Singapore, sustainability
 See our island through a green lens with the green tours below
 
-<div class="row">
+<div class="row btn-link-wrapper">
 	<div class="col is-half">
 		<a class="btn-link" href="#">1-9 July</a>	
 	</div>
