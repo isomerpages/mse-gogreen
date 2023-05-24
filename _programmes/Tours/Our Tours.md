@@ -8,6 +8,7 @@ third_nav_title: Tours
 	
 	.btn-link-wrapper {
 		flex-wrap: wrap;
+		margin-top: 16px;
 		width: 70%;
 	}
 	
