@@ -5,9 +5,13 @@ description: ""
 third_nav_title: Our Programmes
 ---
 <style>
-		.link-img > img {
-			width: 50%;
-		}
+	.link-img {
+		display: inline-block;
+	}
+	
+	.link-img > img {
+		width: 100%;
+	}
 </style>
 
 ![](/images/sustainability-puzzle-hunt.png)
