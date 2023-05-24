@@ -9,14 +9,9 @@ links:
         url: /about/our-partners
   - title: Programmes
     collection: programmes
-  - title: Pages with Submenu
-    url: /about-us/
-    sublinks:
-      - title: Submenu 1
-        url: /about-us/
-      - title: Submenu Title
-        url: /permalink
   - title: Resources
     resource_room: true
+  - title: Partners
+    url: /partners
   - title: Contact Us
     url: /contact-us/
