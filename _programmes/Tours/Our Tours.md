@@ -25,7 +25,7 @@ third_nav_title: Tours
 		background-color: #529c56;
 		text-decoration: none !important;
 		padding: 16px 0;
-		border-radius: 16px;
+		border-radius: 24px;
 		margin-bottom: 0 !important;
 	}
 </style>
