@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Upcoming.md
       - Our Programmes.md
       - Tours/.keep
       - Tours/Our Tours.md
