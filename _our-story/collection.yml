@@ -1,6 +1,0 @@
-collections:
-  our-story:
-    output: true
-    order:
-      - Our Partners.md
-      - Our Story.md
