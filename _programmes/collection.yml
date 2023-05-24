@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Programmes/.keep
-      - Our Programmes/Our Programmes.md
       - Our Programmes/Sustainability Puzzle Hunt.md
       - Tours/.keep
       - Tours/Our Tours.md
