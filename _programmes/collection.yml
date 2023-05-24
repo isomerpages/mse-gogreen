@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Example Folder/.keep
       - Our Programmes.md
       - Tours/.keep
       - Tours/Our Tours.md
