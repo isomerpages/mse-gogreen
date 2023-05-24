@@ -37,15 +37,15 @@ See our island through a green lens with the green tours below
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
-		<a class="btn-link" href="#">1-9 July</a>	
+		<a class="btn-link" href="1-9-july">1-9 July</a>	
 	</div>
 	<div class="col is-half">
-		<a class="btn-link" href="#">10-16 July</a>
+		<a class="btn-link" href="10-16-july">10-16 July</a>
 	</div>
 	<div class="col is-half">
-		<a class="btn-link" href="#">17-23 July</a>
+		<a class="btn-link" href="17-23-july">17-23 July</a>
 	</div>
 	<div class="col is-half">
-		<a class="btn-link" href="#">24-31 July</a>
+		<a class="btn-link" href="24-31-july">24-31 July</a>
 	</div>
 </div>
