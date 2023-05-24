@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-us-old:
     output: true
     order:
       - Our History.md
