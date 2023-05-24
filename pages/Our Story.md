@@ -3,6 +3,13 @@ title: Our Story
 permalink: /about/our-story/
 description: ""
 ---
+<style>
+	.row_custom {
+		flex-wrap: wrap;
+		margin-top: 1rem;
+	}
+</style>
+
 ![](/images/banner-about-us.png)
 
 Led by the Ministry of Sustainability and the Environment, Go Green SG (formerly known as Climate Action Week) is a whole-of-nation movement to rally the community to take collective action towards a sustainable future for Singapore. It comprises a series of sustainability-related events and activities in July organised by our 3P partners.
@@ -15,7 +22,7 @@ Let’s work together in achieving our shared vision of a green, liveable and cl
 
 # Check out our highlights from 2022
 
-<div class="row">
+<div class="row row_custom">
 	<div class="col is-one-third">
 		<img src="/images/Our%20Story/gogreensg_website-40.png">
 	</div>
