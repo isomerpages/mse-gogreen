@@ -5,7 +5,7 @@ description: Our Programmes
 third_nav_title: Our Programmes
 ---
 <style>
-	.row {
+	.row_custom {
 		gap: 1rem;
 		flex-wrap: wrap;
 	}
@@ -82,6 +82,29 @@ third_nav_title: Our Programmes
 		border: 2px solid #43b453;
 		color: #43b453 !important;
 	}
+	
+	.btn-link-wrapper {
+		flex-wrap: wrap;
+		margin-top: 16px;
+		width: 70%;
+	}
+	
+	@media screen and (max-width: 768px) {
+		.btn-link-wrapper {
+			width: 100%;
+		}
+	}
+	
+	.btn-link {
+		text-align: center;
+		display: block;
+		color: white !important;
+		background-color: #529c56;
+		text-decoration: none !important;
+		padding: 16px 0;
+		border-radius: 24px;
+		margin-bottom: 0 !important;
+	}
 </style>
 
 ![Banner Programmes](/images/Programmes/banner-programmes.png)
@@ -105,7 +128,7 @@ Remember to register to secure your slot.
 	</div>
 </div>
 
-<div class="row">
+<div class="row row_custom">
 	<div class="programmes__item col is-one-third">
 		<div class="programmes__item__wrapper">
 			<div class="programmes__item__header">
