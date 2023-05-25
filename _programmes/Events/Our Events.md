@@ -33,8 +33,11 @@ third_nav_title: Events
 
 ![Banner Events](/images/Programmes/banner-events.png)
 
-# Have some green fun
-Green events are being rolled out all July long - just keep scrolling!
+# Green is the colour that <br>brings people together
+
+Whether you’re looking for a memorable family day or couples activity, you can share the green fun this July.
+
+Check out our list below of all the exciting events happening each week!
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
