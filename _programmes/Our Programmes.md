@@ -32,9 +32,13 @@ description: Our Programmes
 
 ![Banner Programmes](/images/Programmes/banner-programmes.png)
 
-# Over 100+ green programmes
-July is a green month - browse our calendar of activities and events below! 
-Remember to register to secure your slot.
+# Take your pick from over<br> 100 green programmes
+
+Paint your July green with our calendar of exciting activities and events below!
+
+Choose how YOU want to go green with us, and remember to register to secure your spot.
+
+Your path to going green starts now!
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
