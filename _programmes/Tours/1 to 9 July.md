@@ -106,7 +106,6 @@ third_nav_title: Tours
 		</div>
 		<div class="programmes__item__actions">
 			<a href="/sustainability-puzzle-hunt/" class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
@@ -130,7 +129,6 @@ third_nav_title: Tours
 		</div>
 		<div class="programmes__item__actions">
 				<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
@@ -154,7 +152,6 @@ third_nav_title: Tours
 		</div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
@@ -178,7 +175,6 @@ third_nav_title: Tours
 		</div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
@@ -202,7 +198,6 @@ third_nav_title: Tours
 		</div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
@@ -226,7 +221,6 @@ third_nav_title: Tours
 		</div>
 		<div class="programmes__item__actions">
 			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
 		</div>
 	</div>
 </div>
