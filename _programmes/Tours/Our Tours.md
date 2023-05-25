@@ -33,8 +33,10 @@ third_nav_title: Tours
 
 ![Banner Tours](/images/Programmes/banner-tours.png)
 
-# Tour Singapore, sustainability
-See our island through a green lens with the green tours below
+# Explore the greener side <br>of Singapore
+Experience our island through a green lens with our educational tours below.
+
+Learn more about our native wildlife and conservation areas, check out how we’ve implemented green technology into our city, and explore the different side of familiar landmarks like Gardens by the Bay, Sentosa and more!
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
