@@ -33,8 +33,8 @@ third_nav_title: Retail & Dining
 
 ![Banner Retail &amp; Dining](/images/Programmes/banner-retail-dining.png)
 
-# Green value deals
-Keep scrolling to discover retail and dining offers with a sustainable twist.
+# The hottest deals, with a <br>side of green
+Shop our specially curated list of retail and dining offers from your favourite local brands and food outlets - all with a special green twist.
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
