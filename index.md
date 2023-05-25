@@ -13,10 +13,8 @@ sections:
       url: /programmes
   - infobar:
       title: Coming July 2023
-      description: Sustainability starts with you. Join our programmes to build a
-        greener future.
-      button: Download our programme booklet
-      url: /files/lorem-ipsum.pdf
+      description: Add a splash of green to your life. Explore 100+ programmes and
+        start living more sustainably today!
   - infopic:
       title: Go Green Tours
       description: Learn about Singapore's sustainability efforts
