@@ -33,8 +33,8 @@ third_nav_title: Initiatives
 
 ![Banner Initiatives](/images/Programmes/banner-initiatives.png)
 
-# Explore green options
-With green initiatives, there's no need to pick and choose - keep scrolling and see them all!
+# Join the green revolution
+Make the choice to go green your way. Check out our full list of green initiatives below and take the first step towards a greener lifestyle this July!
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
