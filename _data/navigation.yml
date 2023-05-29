@@ -7,8 +7,8 @@ links:
         url: /about/our-story
       - title: Our Partners
         url: /about/our-partners/
-  - title: Programmes
-    collection: programmes
+  - title: Programmes Old
+    collection: programmes-old
   - title: Resources
     resource_room: true
   - title: Partners
