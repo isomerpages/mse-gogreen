@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Retail & Dining/24 to 31 July.md
       - Retail & Dining/Our Retail & Dining.md
       - Retail & Dining/.keep
       - Events/.keep
