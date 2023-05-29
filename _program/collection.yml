@@ -2,10 +2,10 @@ collections:
   program:
     output: true
     order:
-      - Tours/24 to 31 July.md
-      - Tours/17 to 23 July.md
-      - Tours/10 to 16 July.md
-      - Tours/1 to 9 July.md
-      - Tours/Our Tours.md
       - Tours/.keep
+      - Tours/Our Tours.md
+      - Tours/1 to 9 July.md
+      - Tours/10 to 16 July.md
+      - Tours/17 to 23 July.md
+      - Tours/24 to 31 July.md
       - Our Programmes.md
