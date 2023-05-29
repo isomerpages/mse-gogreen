@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Events/Our Events.md
       - Events/.keep
       - Our Programmes.md
       - Tours/.keep
