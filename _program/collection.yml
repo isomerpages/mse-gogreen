@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Events/1 to 9 July.md
       - Events/10 to 16 July.md
       - Events/17 to 23 July.md
       - Events/24 to 31 July.md
