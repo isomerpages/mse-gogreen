@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Events/17 to 23 July.md
       - Events/24 to 31 July.md
       - Events/Our Events.md
       - Events/.keep
