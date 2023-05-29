@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Workshops & Talks/10 to 16 July.md
       - Workshops & Talks/17 to 23 July.md
       - Workshops & Talks/24 to 31 July.md
       - Workshops & Talks/Our Workshops & Talks.md
