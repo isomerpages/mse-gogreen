@@ -2,12 +2,12 @@ collections:
   program:
     output: true
     order:
+      - Retail & Dining/.keep
+      - Retail & Dining/Our Retail & Dining.md
       - Retail & Dining/1 to 9 July.md
       - Retail & Dining/10 to 16 July.md
       - Retail & Dining/17 to 23 July.md
       - Retail & Dining/24 to 31 July.md
-      - Retail & Dining/Our Retail & Dining.md
-      - Retail & Dining/.keep
       - Events/.keep
       - Events/Our Events.md
       - Events/1 to 9 July.md
