@@ -2,30 +2,6 @@ collections:
   program:
     output: true
     order:
-      - Initiatives/.keep
-      - Initiatives/Our Initiatives.md
-      - Initiatives/1 to 9 July.md
-      - Initiatives/10 to 16 July.md
-      - Initiatives/17 to 23 July.md
-      - Initiatives/24 to 31 July.md
-      - Challenges & Deals/.keep
-      - Challenges & Deals/Our Challenges & Deals.md
-      - Challenges & Deals/1 to 9 July.md
-      - Challenges & Deals/10 to 16 July.md
-      - Challenges & Deals/17 to 23 July.md
-      - Challenges & Deals/24 to 31 July.md
-      - Retail & Dining/.keep
-      - Retail & Dining/Our Retail & Dining.md
-      - Retail & Dining/1 to 9 July.md
-      - Retail & Dining/10 to 16 July.md
-      - Retail & Dining/17 to 23 July.md
-      - Retail & Dining/24 to 31 July.md
-      - Events/.keep
-      - Events/Our Events.md
-      - Events/1 to 9 July.md
-      - Events/10 to 16 July.md
-      - Events/17 to 23 July.md
-      - Events/24 to 31 July.md
       - Our Programmes.md
       - Tours/.keep
       - Tours/Our Tours.md
@@ -39,3 +15,27 @@ collections:
       - Workshops & Talks/10 to 16 July.md
       - Workshops & Talks/17 to 23 July.md
       - Workshops & Talks/24 to 31 July.md
+      - Events/.keep
+      - Events/Our Events.md
+      - Events/1 to 9 July.md
+      - Events/10 to 16 July.md
+      - Events/17 to 23 July.md
+      - Events/24 to 31 July.md
+      - Retail & Dining/.keep
+      - Retail & Dining/Our Retail & Dining.md
+      - Retail & Dining/1 to 9 July.md
+      - Retail & Dining/10 to 16 July.md
+      - Retail & Dining/17 to 23 July.md
+      - Retail & Dining/24 to 31 July.md
+      - Challenges & Deals/.keep
+      - Challenges & Deals/Our Challenges & Deals.md
+      - Challenges & Deals/1 to 9 July.md
+      - Challenges & Deals/10 to 16 July.md
+      - Challenges & Deals/17 to 23 July.md
+      - Challenges & Deals/24 to 31 July.md
+      - Initiatives/.keep
+      - Initiatives/Our Initiatives.md
+      - Initiatives/1 to 9 July.md
+      - Initiatives/10 to 16 July.md
+      - Initiatives/17 to 23 July.md
+      - Initiatives/24 to 31 July.md
