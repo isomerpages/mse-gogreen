@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Initiatives/Our Initiatives.md
       - Initiatives/.keep
       - Challenges & Deals/.keep
       - Challenges & Deals/Our Challenges & Deals.md
