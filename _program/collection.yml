@@ -2,12 +2,12 @@ collections:
   program:
     output: true
     order:
+      - Challenges & Deals/.keep
+      - Challenges & Deals/Our Challenges & Deals.md
       - Challenges & Deals/1 to 9 July.md
       - Challenges & Deals/10 to 16 July.md
       - Challenges & Deals/17 to 23 July.md
       - Challenges & Deals/24 to 31 July.md
-      - Challenges & Deals/Our Challenges & Deals.md
-      - Challenges & Deals/.keep
       - Retail & Dining/.keep
       - Retail & Dining/Our Retail & Dining.md
       - Retail & Dining/1 to 9 July.md
