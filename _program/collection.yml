@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Retail & Dining/Our Retail & Dining.md
       - Retail & Dining/.keep
       - Events/.keep
       - Events/Our Events.md
