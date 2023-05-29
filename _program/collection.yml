@@ -2,5 +2,6 @@ collections:
   program:
     output: true
     order:
+      - Tours/Our Tours.md
       - Tours/.keep
       - Our Programmes.md
