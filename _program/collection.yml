@@ -2,6 +2,7 @@ collections:
   program:
     output: true
     order:
+      - Tours/1 to 9 July.md
       - Tours/Our Tours.md
       - Tours/.keep
       - Our Programmes.md
