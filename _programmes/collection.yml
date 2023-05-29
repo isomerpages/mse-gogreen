@@ -1,5 +1,5 @@
 collections:
-  program:
+  programmes:
     output: true
     order:
       - Our Programmes.md
