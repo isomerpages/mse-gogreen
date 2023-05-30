@@ -11,7 +11,7 @@ links:
     collection: go-green-sg-activities
   - title: Resources
     resource_room: true
-  - title: Partners
-    url: /partners
+  - title: FAQ
+    url: /faq
   - title: Contact Us
     url: /contact
