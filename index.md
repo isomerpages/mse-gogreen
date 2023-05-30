@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/artboard-2.png
+      background: /images/artboard-3.png
       title: Go Green, Your Way
       button: Join Us Now
       url: /programmes
@@ -21,12 +21,12 @@ sections:
       button: Learn more
       url: /programmes/tours
       alt: Go Green Tours
-      image: /images/go-green-tours-2.png
+      image: /images/go-green-tours-3.png
   - infopic:
       title: Go Green Workshops & Talks
       description: Engage in hands-on activities and listen to sustainability conferences.
       button: Learn more
-      image: /images/go-green-workshops-and-talks-2.png
+      image: /images/go-green-workshops-talks-3.png
       alt: Image alt text
       url: /programmes/workshops-and-talks/
   - infopic:
@@ -34,7 +34,7 @@ sections:
       description: Enjoy a fun-packed day at festivals and shows.
       button: Learn more
       alt: Image alt text
-      image: /images/go-green-events-2.png
+      image: /images/go-green-events-3.png
       url: /programmes/events/
   - infopic:
       title: Go Green Retail & Dining
@@ -49,14 +49,14 @@ sections:
       button: Learn more
       url: /programmes/challenges-and-deals/
       alt: Image alt text
-      image: /images/go-green-challenges-deals.png
+      image: /images/go-green-challenges-deals-3.png
   - infopic:
       title: Go Green Initiatives
       description: Become an advocate for sustainability in your community.
       button: Learn More
       url: /programmes/initiatives/
       alt: Image alt text
-      image: /images/go-green-initiatives.png
+      image: /images/go-green-initiatives-3.png
   - resources:
       title: What's On
       button: Learn more
