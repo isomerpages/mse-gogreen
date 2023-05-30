@@ -3,18 +3,18 @@ title: I BeLeaf In You
 permalink: /i-be-leaf-in-you/
 description: ""
 ---
-![](/images/Events/question%20113%20-%20b2.jpg)
+![](/images/Workshop%20&amp;%20Talks/i%20beleaf%20in%20you.jpg)
 
-**Curious about what kind of business ideas the agri-preneurs from Singapore University of Social Sciences (SUSS) are developing? Join the bazaar, listen to their pitch, and buy some food made with the harvest from the SUSS Experiential Urban Farm!**
+**Single-use plastics have resulted in the significant growth in waste. Bring your own plastic bottles and learn how to convert them into useful planters!**
 
-Date: 22 July 2023, 4:00 pm – 7:00 pm<br>
-Admission: Free (registration required)<br>
-Venue: Outside SUSS Starbucks, 461 Clementi Road<br>
-Organiser:  Singapore University of Social Sciences  (SUSS)
+Date: 8 July 2023, 9:00 am – 10:30 am<br>
+Admission: $10<br>
+Venue: 32 Simei Street 1, Metta Building, Level 2<br>
+Organiser:  Metta Welfare Association
 
-Join students of the SUSS Agri-preneur Incubation Programme at their bazaar where they showcase their business ideas, pitch to customers, and sell their products or services. Come and check out what our young aspiring students are up to, and also sample some delicious food made with the fresh harvest from the SUSS Experiential Urban Farm! 
+Adopt eco-friendly practices to reduce the amount of plastic wastes going to our landfill. Reuse plastic bottles for gardening and do your part to save our environment. <br> This workshop will be a wonderful bonding activity for the whole family. <br> Each participant will also be entitled to an ECO draw, and one lucky winner will walk away with our Eco-prize. 
 
-<a class="btn-link" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
+<a class="btn-link" href="">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
