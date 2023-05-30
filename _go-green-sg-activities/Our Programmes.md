@@ -30,7 +30,7 @@ description: Our Programmes
 	}
 </style>
 
-![Banner Programmes](/images/Programmes/banner-programmes.png)
+![Banner Programmes](/images/Programmes/banner-programmes-3.png)
 
 # Take your pick from over<br> 100 green programmes
 
@@ -41,17 +41,23 @@ Choose how YOU want to go green with us, and remember to register to secure your
 Your path to going green starts now!
 
 <div class="row btn-link-wrapper">
-	<div class="col is-half">
-		<a class="btn-link" href="1-9-july">1-9 July</a>	
+	<div class="col is-one-third">
+		<a class="btn-link" href="/programmes/tours">Tours</a>	
 	</div>
-	<div class="col is-half">
-		<a class="btn-link" href="10-16-july">10-16 July</a>
+	<div class="col is-one-third">
+		<a class="btn-link" href="/programmes/workshop-talks">Workshop &amp; Talks</a>
 	</div>
-	<div class="col is-half">
-		<a class="btn-link" href="17-23-july">17-23 July</a>
+	<div class="col is-one-third">
+		<a class="btn-link" href="#">Events</a>
 	</div>
-	<div class="col is-half">
-		<a class="btn-link" href="24-31-july">24-31 July</a>
+	<div class="col is-is-one-third">
+		<a class="btn-link" href="#">Retail &amp; Dining</a>
+	</div>
+	<div class="col is-one-third">
+		<a class="btn-link" href="#">Challenges &amp; Deals</a>
+	</div>
+	<div class="col is-is-one-third">
+		<a class="btn-link" href="#">Initiatives</a>
 	</div>
 </div>
 
