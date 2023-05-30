@@ -3,7 +3,7 @@ title: Let's Go Green App Challenge
 permalink: /lets-go-green-app-challenge/
 description: ""
 ---
-![Sustainability Puzzle Hunt](/images/sustainability-puzzle-hunt.png)
+![](/images/Challenges%20&amp;%20Deals/susgain%20let_s%20go%20green%20challenge%20-%20july%202023.png)
 
 **Earn points and stand a chance to win prizes by joining susGain’s ‘Let’s Go Green’ App Challenge! Make an impact - redeemed points go towards climate and humanitarian efforts.**
 
