@@ -16,6 +16,8 @@ Join this free guided walk at Jurong Lake Gardens to appreciate and learn about 
 
 Witness various birds and animals that visit the garden and learn about the sustainability efforts in the Gardens.
 
+The tour is for children above 4 years old and anyone who would like to explore Jurong Lake Gardens and its biodiversity.
+
 8.00am session:
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/biodiversity-tour-at-jlg-29-july-session-1">
