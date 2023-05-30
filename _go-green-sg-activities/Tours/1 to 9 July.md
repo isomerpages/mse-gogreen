@@ -308,34 +308,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-intertidal.jpg">
-        <h2>Uncover the Intertidal Zone with a Naturalist Guide</h2>
+        <img src="/images/Tours/rain%20forest%20tour.jpg">
+        <h2>Rainforest Tour</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 4,5,6,7,8,20,21,22 July</strong></li>
+          <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Admission: Adult: $71, Child: $37</strong>
+            <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
-            <strong>Venue: Changi Beach</strong>
+            <strong>
+              Venue: Singapore Botanic Gardens, Visitor Services Counter at
+              Visitor Centre (Nearest Entrance: Nassim Gate)
+            </strong>
           </li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover a hidden world beneath the ocean, all this and more when the
-          tide retreats. Our walk is a rare opportunity for participants to…
+          Discover the enchantment of our tropical rainforest with our volunteer
+          guides.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/uncover-the-intertidal-zone-with-a-naturalist-guide/" class="button-primary">
+      <a href="/rainforest-tour/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -343,36 +345,34 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tribe-png.jpg">
-        <h2>Zero to Hero Food Sustainability Tour</h2>
+        <img src="/images/Tours/learning%20forest%20tour.jpg">
+        <h2>Learning Forest Tour</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Date: 8, 22 July</strong></li>
           <li>
-            <strong>
-              Admission: Adult: 100 SGD, Senior: 80 SGD, Child: 60 SGD
-            </strong>
+            <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
             <strong>
-              Venue: Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan
-              Road East S608608
+              Venue: Singapore Botanic Gardens, Visitor Services Counter at
+              Learning Forest (Nearest Entrance: Tyersall Gate)
             </strong>
           </li>
-          <li><strong>Organiser: Tribe Ptd Ltd</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          An immersive, privately-guided, multi-venue experiential tour into
-          Singapore’s the heartlands. Deep dive into the wet market on a hunt
-          for green ‘waste’ and transform them…
+          The Learning Forest features a network of boardwalks and elevated
+          walkways that allow visitors to explore habitats ranging from a
+          freshwater forest wetland to a lowland rainforest
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">
+      <a href="/learning-forest-tour/" class="button-primary">
         Find out more
       </a>
     </div>
