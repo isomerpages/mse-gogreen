@@ -1,5 +1,5 @@
 collections:
-  go-green-sggg-activities:
+  go-green-sg-activities:
     output: true
     order:
       - Our Programmes.md
