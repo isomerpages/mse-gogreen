@@ -42,7 +42,7 @@ sections:
       button: Learn More
       url: /programmes/retail-and-dining/
       alt: Image alt text
-      image: /images/go-green-events.png
+      image: /images/go-green-retail-dining-3.png
   - infopic:
       title: Go Green Challenges & Deals
       description: Shop, save and adopt a sustainable lifestyle
