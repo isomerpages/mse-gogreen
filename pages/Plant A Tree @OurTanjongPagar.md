@@ -26,7 +26,7 @@ This initiative is only open to residents in Tanjong Pagar and Radin Mas.  Inter
 
 Every tree planted by residents will be mapped on NParks’ TreeSG map and digitally represented by a Non-Fungible Token (NFT)    created by TPTC. The NFT and a recognition e-certificate will be transferred to residents for retention. 
 
-<a class="btn-link" href="https://www.tptc.org.sg/plantatree/">
+<a class="btn-link" target="_blank" href="https://www.tptc.org.sg/plantatree/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
