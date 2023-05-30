@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/tribe-png.jpg)
 
-**An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost. Embark on an exclusive behind-the-scenes tour to a research institute to learn more about food waste reduction. **
+**An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost. Embark on an exclusive behind-the-scenes tour to a research institute to learn more about food waste reduction.**
 
 Date: 
 1. 8 July, 10:00 am – 1:00 pm 
