@@ -204,24 +204,24 @@ third_nav_title: Tours
 	<div class="programmes__item col is-one-third">
 		<div class="programmes__item__wrapper">
 			<div class="programmes__item__header">
-				<img src="/images/Programmes/plant-a-tree.png">
-				<h2>Plant A Tree @OurTanjongPagar event at Blk 35A Jalan Rumah Tinggi</h2>
+				<img src="/images/Tours/tribe-png.jpg">
+				<h2>Zero to Hero Food Sustainability Tour</h2>
 			</div>
 			<div class="programmes__item__detail">
 				<ul>
-					<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: 35A Jalan Rumah Tinggi</strong></li>
-					<li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
+					<li><strong>Date: 8, 22 July</strong></li>
+					<li><strong>Admission: Adult: 100 SGD, Senior: 80 SGD, Child: 60 SGD</strong></li>
+					<li><strong>Venue: Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan Road East S608608</strong></li>
+					<li><strong>Organiser: Tribe Ptd Ltd</strong></li>
 				</ul>
 			</div>
 			<div class="programmes__item__body">
-				<p>Join Plant A Tree @OurTanjongPagar, a year-long campaign to plant an additional 1.000 trees together with the resident in Tanjong Pagar town
+				<p>An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them…
 			</p>
 			</div>
 		</div>
 		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
+			<a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">Find out more</a>
 		</div>
 	</div>
 </div>
