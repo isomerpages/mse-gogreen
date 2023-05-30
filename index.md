@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Go Green
+title: Go Green SG
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
