@@ -3,9 +3,9 @@ title: Explore Changi’s Seagrass Habitat with Young Nautilus
 permalink: /explore-changis-seagrass-habitat-with-young-nautilus/
 description: ""
 ---
+![](/images/Tours/question%20112%20-%20changi%20seagrass%20patch%20treasure%20hunt%20(intertidal%20walk)_-%201______.jpg)
 
-
-**Explore the treasures and sea life hidden in the seagras s habitat, while learning how we can protect Singapore’s delicate marine ecosystem. **
+**Explore the treasures and sea life hidden in the seagras s habitat, while learning how we can protect Singapore’s delicate marine ecosystem.**
 
 Date: 8 July, 8:30 am – 10:30 am<br>
 Admission: Enjoy $10 off with promo code “YNGOGREENSG”.
