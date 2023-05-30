@@ -3,7 +3,7 @@ title: Exclusive Promo Code for Green Label Merchants on Foodpanda
 permalink: /exclusive-promo-code-for-green-label-merchants-on-foodpanda/
 description: ""
 ---
-![Sustainability Puzzle Hunt](/images/sustainability-puzzle-hunt.png)
+![](/images/Challenges%20&amp;%20Deals/foodpanda%20image%2016-9.png)
 
 **Enjoy a discount when ordering from Green Label merchants on Foodpanda!**
 
