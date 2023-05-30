@@ -3,6 +3,6 @@ title: Get in touch with us!
 permalink: /contact/
 description: ""
 ---
-Feel free to email us at [mail@email.com](mailto:mail@email.com) or contact us via our social media if you have any questions/comments about Go Green 2023.
-	
-If you have questions/comments about specific events, do direct them to their respective organisers!
+Please contact us via this form [this form](https://form.gov.sg/64538dec0922f60012ab7cc0) if you have any questions / comments about Go Green SG 2023.
+
+If you have questions / comments about specific activities, do direct them to the respective organisers.
