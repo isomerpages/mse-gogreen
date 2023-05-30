@@ -9,8 +9,8 @@ description: ""
 
 <p>
 Date: 
-1. 8 July, 9.30am (35A Jalan Rumah  Tinggi)
-2. 15 July, 8:15am  (Blk 83 Commonwealth Close)
+1. 8 July, 9.30am to 10.30am (35A Jalan Rumah  Tinggi)
+2. 15 July, 8.15am to 9.15am (Blk 83 Commonwealth Close)
 
 Admission: Free<br>
 Venue: 
