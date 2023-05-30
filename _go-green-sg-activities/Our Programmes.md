@@ -9,7 +9,6 @@ description: Our Programmes
 	.btn-link-wrapper {
 		flex-wrap: wrap;
 		margin-top: 16px;
-		width: 70%;
 	}
 	
 	@media screen and (max-width: 768px) {
