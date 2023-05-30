@@ -3,7 +3,7 @@ title: Rainforest Tour
 permalink: /rainforest-tour/
 description: ""
 ---
-![Sustainability Puzzle Hunt](/images/sustainability-puzzle-hunt.png)
+![Rainforest Tour](/images/Tours/rain%20forest%20tour.jpg)
 
 **Discover the enchantment of our tropical rainforest with our volunteer guides.**
 
