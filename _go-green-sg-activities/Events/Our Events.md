@@ -31,7 +31,7 @@ third_nav_title: Events
 	
 </style>
 
-![Banner Events](/images/Programmes/banner-events.png)
+![Banner Events](/images/Programmes/banner-events-3.png)
 
 # Green is the colour that <br>brings people together
 
