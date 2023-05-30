@@ -25,21 +25,21 @@ Let’s work together in achieving our shared vision of a green, liveable and cl
 
 <div class="row row_custom">
 	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-40.png">
+		<img src="">
 	</div>
 	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-43.png">
+		<img src="">
 	</div>
 	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-42.png">
+		<img src="">
 	</div>
 	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-41.png">
+		<img src="">
 	</div>
 	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-44.png">
+		<img src="">
 	</div>
 	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-45.png">
+		<img src="">
 	</div>
 </div>
