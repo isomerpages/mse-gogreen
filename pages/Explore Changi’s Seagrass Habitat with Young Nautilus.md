@@ -3,3 +3,30 @@ title: Explore Changi’s Seagrass Habitat with Young Nautilus
 permalink: /explore-changis-seagrass-habitat-with-young-nautilus/
 description: ""
 ---
+
+
+**Explore the treasures and sea life hidden in the seagras s habitat, while learning how we can protect Singapore’s delicate marine ecosystem. **
+
+Date: 8 July, 8:30 am – 10:30 am<br>
+Admission: Enjoy $10 off with promo code “YNGOGREENSG”.
+1. $48 per Adult Ticket (U.P $58)
+2. $46 per Child Ticket (U.P $56)
+
+Venue: Changi Seagrass Intertidal Zone (Near Changi Carpark 7)<br>
+Organiser: Young Nautilus 
+
+The Changi Seagrass Intertidal walk provides a rare opportunity for you to explore and discover the seagrass habitat.  Participants can look forward to encountering marine animals such as seahorses, pipefishes, and sea stars, and understanding more about Singapore’s delicate marine ecosystem and how such habitats are facing increasing danger from environmental issues. Participants will also learn how adopting an environmentally sustainable lifestyle can directly preserve and protect the natural ecosystems of Singapore.  
+
+<a class="btn-link" target="_blank" href="https://youngnautilus.com/product/small-group-nature-intertidal-mangrove-walk/">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
