@@ -88,116 +88,117 @@ third_nav_title: Tours
 	<div class="programmes__item col is-one-third">
 		<div class="programmes__item__wrapper">
 			<div class="programmes__item__header">
-				<img src="/images/Programmes/sustainability-puzzle-hunt.png">
-				<h2>Sustainability Puzzle Hunt</h2>
+				<img src="/images/Tours/tupforest.jpg">
+				<h2>Forest stream walk and survey</h2>
 			</div>
 			<div class="programmes__item__detail">
 				<ul>
-					<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
+					<li><strong>Date: 1, 7, 14, 21, 28 July, 7:15 pm – 8:30 pm</strong></li>
+					<li><strong>Admission: Adult: $49, Child: $37</strong></li>
+					<li><strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong></li>
+					<li><strong>Organiser: The Untamed Paths</strong></li>
 				</ul>
 			</div>
 			<div class="programmes__item__body">
-				<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
+				<p>Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous…
 			</p>
 			</div>
 		</div>
 		<div class="programmes__item__actions">
-			<a href="/sustainability-puzzle-hunt/" class="button-primary">Find out more</a>
+			<a href="/forest-stream-walk-and-survey/" class="button-primary">Find out more</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
 		<div class="programmes__item__wrapper">
 			<div class="programmes__item__header">
-				<img src="/images/Programmes/make-experience.png">
-				<h2>_/\/\/\ake Experience</h2>
+				<img src="/images/Tours/tup-nightmangrove.jpg">
+				<h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
 			</div>
 			<div class="programmes__item__detail">
 				<ul>
-					<li><strong>Date: 7 Feb 2023, 3 July 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: GINLEE Studio</strong></li>
+					<li><strong>Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July, 8:00 pm-10:00 pm</strong></li>
+					<li><strong>Admission: Adult: $71, Child: $37</strong></li>
+					<li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+					<li><strong>Organiser: The Untamed Paths</strong></li>
 				</ul>
 			</div>
 			<div class="programmes__item__body">
-				<p>Get any style and any colour of pleat you want at _/\/\/\ake Experience by GINLEE. With built-in streamer, you can control the entire process to m...
+				<p>At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs…
 				</p>
 			</div>
 		</div>
 		<div class="programmes__item__actions">
-				<a class="button-primary">Find out more</a>
+				<a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">Find out more</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
 		<div class="programmes__item__wrapper">
 			<div class="programmes__item__header">
-				<img src="/images/Programmes/project-green.png">
-				<h2>Project Green</h2>
+				<img src="/images/Tours/tupspot.png">
+				<h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
 			</div>
 			<div class="programmes__item__detail">
 				<ul>
-					<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
-					<li><strong>Admission: TBC</strong></li>
+					<li><strong>Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28, 30, 31 July, 8:00 pm – 10:00 pm</strong></li>
+					<li><strong>Admission: Adult: $71, Child: $37</strong></li>
+					<li><strong>Venue: Bukit Batok Park</strong></li>
+					<li><strong>Organiser: The Untamed Paths</strong></li>
+				</ul>
+			</div>
+			<div class="programmes__item__body">
+				<p>This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate…
+			</p>
+			</div>
+		</div>
+		<div class="programmes__item__actions">
+			<a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">Find out more</a>
+		</div>
+	</div>
+	<div class="programmes__item col is-one-third">
+		<div class="programmes__item__wrapper">
+			<div class="programmes__item__header">
+				<img src="/images/Tours/tup-fullintertidal.jpg">
+				<h2>The Full Intertidal: Explore, Learn, Engage</h2>
+			</div>
+			<div class="programmes__item__detail">
+				<ul>
+					<li><strong>Date: 4,5,6,7,8,9,20,21,22 July</strong></li>
+					<li><strong>Admission: Adult: $71, Child: $37</strong></li>
+					<li><strong>Venue: Changi Beach</strong></li>
+					<li><strong>Organiser: The Untamed Paths</strong></li>
+				</ul>
+			</div>
+			<div class="programmes__item__body">
+				<p>We immerse you in the rich marine biodiversity of our chosen intertidal site, before taking direct action in a beach cleanup, and wrapping up with…
+			</p>
+			</div>
+		</div>
+		<div class="programmes__item__actions">
+			<a href="/the-full-intertidal-explore-learn-engage/" class="button-primary">Find out more</a>
+		</div>
+	</div>
+	<div class="programmes__item col is-one-third">
+		<div class="programmes__item__wrapper">
+			<div class="programmes__item__header">
+				<img src="/images/Tours/woopa-png.jpg">
+				<h2>Zero to Hero Food Sustainability Tour
+</h2>
+			</div>
+			<div class="programmes__item__detail">
+				<ul>
+					<li><strong>Date: 8,9 July</strong></li>
+					<li><strong>Admission: $20 per pax</strong></li>
 					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: Capitaland Investment</strong></li>
+					<li><strong>Organiser: Woopa Travels (Monster Day Tour)</strong></li>
 				</ul>
 			</div>
 			<div class="programmes__item__body">
-				<p>Check out the second edition of Project Green, a sustainable pop-up showcase/marketplace at Raffles City. Featuring retailers, local...
+				<p>Embark on a 2.5-hour puzzle hunt adventure around Marina Bay, learning about sustainability while having fun with friends and family.
 			</p>
 			</div>
 		</div>
 		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
-		</div>
-	</div>
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/aquaponic.png">
-				<h2>Aquaponics Farm-to-Table Experience</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissotel The Stamford</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to design a sustainable and vibr...
-			</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
-		</div>
-	</div>
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/clean-up.png">
-				<h2>SMU Verts Beach Clean-up</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 8 July 2023, 8 Apr 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: TBC</strong></li>
-					<li><strong>Organiser: Singapore Management University</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Open call for the SMU Verts beach clean up! Group up with your friends to clean up specific areas of the beach, and enjoy a sparkling clean day in the sun afterwards.
-			</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
+			<a href="/the-melting-menace-sustainability-puzzle-hunt" class="button-primary">Find out more</a>
 		</div>
 	</div>
 	<div class="programmes__item col is-one-third">
