@@ -16,7 +16,7 @@ D2L.sg aims to reduce food waste by recovering food items from F&amp;B/lifestyle
 
 Join D2L.sg as a Volunteer to recover and distribute rescued food items to organisations, low-income families, etc. Establishments with surplus food can also indicate their interest to be a part of this meaningful movement.   
 
-<a class="btn-link" href="https://linktr.ee/d2l.sg">
+<a class="btn-link" target="_blank" href="https://linktr.ee/d2l.sg">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
