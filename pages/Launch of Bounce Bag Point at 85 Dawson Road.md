@@ -18,7 +18,7 @@ To encourage shoppers to adopt more sustainable habits like bringing their own b
   
 TPTC will launch a new Bounce Bag Point at Blk 85 Dawson Road (outside Sheng Siong supermarket) in support of Go Green SG.
 
-<a class="btn-link" href="https://www.facebook.com/ourtanjongpagar">
+<a class="btn-link" target="_blank" href="https://www.facebook.com/ourtanjongpagar">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
