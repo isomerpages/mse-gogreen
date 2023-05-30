@@ -17,7 +17,7 @@ Find out how you can reduce your carbon footprint and fight the climate crisis a
 Discover how small changes in our transport habits can make a huge difference in our fight against climate change. Complete a series of ‘quests’ to learn how Singapore’s land transport system is going green and make a pledge to do your part for a sustainable land transport future.
 Explore the main Gallery too for a behind-the-scenes look at how LTA plans, designs and builds our land transport system while balancing efficiency, liveability and inclusivity as it leverages technology for smarter urban mobility. See you there!
 
-<a class="btn-link" href="www.go.gov.sg/smg">
+<a class="btn-link" target="_blank" href="www.go.gov.sg/smg">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
