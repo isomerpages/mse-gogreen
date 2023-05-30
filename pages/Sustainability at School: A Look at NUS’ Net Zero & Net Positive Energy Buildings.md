@@ -4,18 +4,18 @@ title: "Sustainability at School: A Look at NUS’ Net Zero & Net Positive Energ
 permalink: /sustainability-at-school-a-look-at-nus-net-zero-and-net-positive-energy-buildings/
 description: ""
 ---
+![](/images/Tours/use%20this%20photo%20question%20111%20-%20nus_sde1_finbarr_fallon_14.jpg)
 
+**Find out how NUS is leading the way for a sustainably-designed future in this special tour of its Net Zero and Net-Positive energy buildings.**
 
-**Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to design a sustainable and vibrant cityscape in Singapore. Sign up to get started!**
+Date: 15 July, 9:00 am – 10:30 am and 11:00 am – 12:30 pm<br>
+Admission: Free<br>
+Venue: National University of Singapore, NUS SDE4 Level 4, 8 Architecture Drive, 117356<br>
+Organiser: National University of Singapore
 
-Date: 3 July 2023, 9 July 2023<br>
-Admission: Free (registration required)<br>
-Venue: Marina Bay Sands and Gardens by the Bay<br>
-Organiser: Woopa Travels (Monster Day Tours)
+Join this exclusive behind the scenes tour to visit the sustainable developments on the NUS campus. These include Singapore's first purpose-built Net-Zero Energy (NZE) building designed to be climate responsive, energy efficient, and consume as much energy as it creates. It features a host of sustainable designs including solar roof installations, a hybrid cooling system, innovative ventilation systems, as well as architectural structures that provide much-needed shade in Singapore’s tropical climate. Check out how learning and collaborative spaces have been rejuvenated and retrofitted with innovative features for improved energy efficiency.
 
-From vertical greens that reach up to the sky, to underground spaces hundreds of metres deep, Singapore had to be creative in using our limited land space. With brilliant foresight, our city planners have designed Marina Bay to be the model for sustainable and liveable cities around the world. Learn about how Singapore can continue to remain a city of the future with deliberate urban planning and what we can do as citizens to contribute towards making Singapore one of the best cities to live in. Through the sustainability puzzle hunt, participants will be able to appreciate the complexities and challenges of designing an urban city that is sustainable and vibrant, especially with Singapore’s limited land space as well as recognize the efforts places into the greening of Singapore, why this is important and what the future plans are for growing Singapore’s reputation as a City in a Garden.
-
-<a class="btn-link" target="_blank" href="#">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/633084351337">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
