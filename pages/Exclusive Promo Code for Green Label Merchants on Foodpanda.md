@@ -3,3 +3,31 @@ title: Exclusive Promo Code for Green Label Merchants on Foodpanda
 permalink: /exclusive-promo-code-for-green-label-merchants-on-foodpanda/
 description: ""
 ---
+![Sustainability Puzzle Hunt](/images/sustainability-puzzle-hunt.png)
+
+**Enjoy a discount when ordering from Green Label merchants on Foodpanda!**
+
+Date: 1-31 July<br>
+Admission: N/A<br>
+Venue: NIL<br>
+Organiser: Foodpanda
+
+Customers ordering food from Green Label merchants on Foodpanda can enjoy $3 off a minimum $30 spent with the code GOGREEN. 
+
+The Green Label programme is a certification scheme which identifies sustainable restaurants on the platform, making it easy for consumers to make the conscious choice to support more environmentally friendly establishments.
+
+T&amp;Cs apply, while stocks last.
+
+<a class="btn-link" href="https://www.foodpanda.sg/campaigns?url_key=green-label-restos">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
