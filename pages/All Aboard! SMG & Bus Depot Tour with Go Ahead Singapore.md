@@ -22,9 +22,7 @@ The tour is suitable for individuals, families, and groups who are interested in
 
 Join us for a journey into the world of sustainable transport and discover how you can help make a difference!
 
-<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events">
-	<img src="/images/gogreensg_website-32.png">
-</a>
+<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events"><img src="/images/gogreensg_website-32.png"></a>
 
 <style>
 	.btn-link {
