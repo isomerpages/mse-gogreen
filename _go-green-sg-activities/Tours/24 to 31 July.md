@@ -278,6 +278,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
+        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/e-waste-recycling/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
