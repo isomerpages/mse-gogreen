@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 8 July, 10:00 am – 1:00 pm |  22 July, 10:00 am – 1:00 pm<br>
 **Admission:** Adult: $100 | Senior: $80 | Child: $60<br>
-**Venue:** Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan Road East S608608<br>
+**Venue:** Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan Road East<br>
 **Organiser:** Tribe Ptd Ltd
 
 What is Singapore doing to ensure and secure our food supply? What role can you play to strengthen our food supply resilience? 
