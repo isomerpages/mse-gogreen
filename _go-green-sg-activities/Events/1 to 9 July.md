@@ -93,7 +93,7 @@ third_nav_title: Events
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Events/passiton.png">
-        <h2>GREEN HOUSE</h2>
+        <h2>GREEN-HOUSE</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
