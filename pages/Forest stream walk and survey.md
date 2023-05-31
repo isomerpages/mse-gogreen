@@ -9,7 +9,6 @@ description: ""
 
 **Date:** 1, 7, 14, 21, 28 July, 7:15 – 8:30 pm<br>
 **Admission:** Adult: $49 | Child: $37<br>
-
 **Venue:** 91 Lorong Chencharu (ground up initiative)<br>
 **Organiser:**  The Untamed Paths
 
