@@ -31,6 +31,10 @@ Our tour kicks off with an indoor session where you'll get a peek into our uncon
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
