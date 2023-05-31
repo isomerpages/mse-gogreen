@@ -102,7 +102,7 @@ third_nav_title: Events
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Outside SUSS Starbucks, 461 Clementi Road</strong>
+            <strong>Venue: Outside SUSS Starbucks. 461 Clementi Road</strong>
           </li>
           <li>
             <strong>
