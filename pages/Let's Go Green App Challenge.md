@@ -17,7 +17,7 @@ Use these points to redeem any of its three rewards that can make a positive env
 Participants will also stand to win prizes sponsored by sustainable local partner brands.
 Download the susGain app through the App Store or Google Play today to take part!
 
-<a class="btn-link" href="www.susGain.com">
+<a class="btn-link" target="_blank" href="www.susGain.com">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -25,7 +25,9 @@ Download the susGain app through the App Store or Google Play today to take part
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
