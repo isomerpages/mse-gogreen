@@ -35,6 +35,10 @@ The tour is for children above 4 years old and anyone who would like to explore 
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
