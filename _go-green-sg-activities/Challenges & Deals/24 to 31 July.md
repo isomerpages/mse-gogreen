@@ -124,7 +124,7 @@ third_nav_title: Challenges & Deals
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="">
+        <img src="/images/Challenges%20&amp;%20Deals/question%20112%20-%20metta%20cafe.png">
         <h2>BYO and enjoy 10 percent off your takeaway orders</h2>
       </div>
       <div class="programmes__item__detail">
