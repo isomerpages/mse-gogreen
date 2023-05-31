@@ -303,6 +303,35 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/abraclean.jpg">
+        <h2>Journey into Glass Recycling with Abraclean</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8, 15, 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Jurong East MRT</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Find out how this glass recycling facility processes glass waste into “Abrablast”, a recycled glass abrasive which can be used for blasting and coating.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/journey-into-glass-recycling-with-abraclean/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- Learning Forest Tour -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
