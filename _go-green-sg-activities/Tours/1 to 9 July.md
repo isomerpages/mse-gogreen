@@ -130,7 +130,7 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1, 7, 14, 21, 28 July, 7:15 pm – 8:30 pm</strong>
+            <strong>Date: 1, 7, 14, 21, 28 July</strong>
           </li>
           <li><strong>Admission: Adult: $49, Child: $37</strong></li>
           <li>
@@ -163,8 +163,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July, 8:00
-              pm-10:00 pm
+              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29
             </strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
@@ -197,7 +196,7 @@ third_nav_title: Tours
           <li>
             <strong>
               Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
-              30, 31 July, 8:00 pm – 10:00 pm
+              30, 31 July
             </strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
@@ -594,7 +593,7 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Behind the scenes Bus Tour of Changi Water Reclamation Plant -->
+  <!-- Behind-the-scenes Bus Tour of Changi Water Reclamation Plant -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -620,9 +619,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Take an exclusive bus tour within the Changi Water Reclamatio n Plant
-          (CWRP) to understand how PUB treats used water and gives it a new
-          life…
+          Take an exclusive bus tour within the Changi Water Reclamation Plant (CWRP) to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
         </p>
       </div>
     </div>
