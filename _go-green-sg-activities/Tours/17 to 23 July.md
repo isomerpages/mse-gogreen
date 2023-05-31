@@ -98,7 +98,7 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1, 7, 14, 21, 28 July, 7:15 pm – 8:30 pm</strong>
+            <strong>Date: 1, 7, 14, 21, 28 July</strong>
           </li>
           <li><strong>Admission: Adult: $49, Child: $37</strong></li>
           <li>
@@ -109,9 +109,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass,
-          it’s easy to forget where one is. A humble, snaking stream turns into
-          an adventurous…
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
         </p>
       </div>
     </div>
@@ -132,9 +130,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July, 8:00
-              pm-10:00 pm
-            </strong>
+              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July</strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
           <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
@@ -143,9 +139,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          At dusk, step onto a boardwalk through a pitch-dark mangrove forest
-          and begin an immersive exploration to spot mangrove inhabitants such
-          as horseshoe crabs, vinegar crabs…
+          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
         </p>
       </div>
     </div>
@@ -167,7 +161,7 @@ third_nav_title: Tours
           <li>
             <strong>
               Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
-              30, 31 July, 8:00 pm – 10:00 pm
+              30, 31 July
             </strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
@@ -177,9 +171,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          This exploration will be conducted at night, when the forest comes to
-          life! With our senses, we will pick out the creatures of the night,
-          appreciate…
+          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
         </p>
       </div>
     </div>
@@ -206,9 +198,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          We immerse you in the rich marine biodiversity of our chosen
-          intertidal site, before taking direct action in a beach cleanup, and
-          wrapping up with…
+          We immerse you in the rich marine biodiversity of our chosen intertidal site, before taking direct action in a beach cleanup, and wrapping up with a hands-on intertidal artifacts session!
         </p>
       </div>
     </div>
@@ -274,7 +264,7 @@ third_nav_title: Tours
         <p>
           The Learning Forest features a network of boardwalks and elevated
           walkways that allow visitors to explore habitats ranging from a
-          freshwater forest wetland to a lowland rainforest
+          freshwater forest wetland to a lowland rainforest.
         </p>
       </div>
     </div>
@@ -293,7 +283,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22 July, 10:00am – 10:45am</strong></li>
+          <li><strong>Date: 22 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -329,7 +319,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22 July, 9:30am – 11:00amm</strong></li>
+          <li><strong>Date: 22 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -377,8 +367,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series
-          of quests at the children’s exhibition on greener commutes…
+          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
         </p>
       </div>
     </div>
@@ -397,7 +386,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22 July, 2:00 pm – 4:00 pm</strong></li>
+          <li><strong>Date: 22 July</strong></li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
@@ -412,9 +401,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Did you know that SUSS has a rooftop ecosystem consisting of
-          soil-based, hydroponic, and experimental aquaponic farming systems and
-          even a bee garden? Join us…
+          Did you know that SUSS has a rooftop ecosystem consisting of soil-based, hydroponic, and experimental aquaponic farming systems and even a bee garden? Join us for some fun, hands-on activities!
         </p>
       </div>
     </div>
@@ -431,12 +418,12 @@ third_nav_title: Tours
         <img src="/images/Tours/newater%20visitor%20centre_1920x1080.jpg">
         <h2>
           Learn Interesting Facts about High grade Reclaimed Water at NEWater
-          Visitor Centre
+          Visitor Centre.
         </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22, 29 July, 11:00 am – 1:00 pm</strong></li>
+          <li><strong>Date: 22, 29 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -471,7 +458,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22, 29 July, 10:00 am - 11:00 am</strong></li>
+          <li><strong>Date: 22, 29 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -510,7 +497,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 13, 20, 27 July, 9:30 am - 11:30 am</strong></li>
+          <li><strong>Date: 13, 20, 27 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -528,7 +515,7 @@ third_nav_title: Tours
         <p>
           Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
           Singapore’s National Water Agency PUB produces clean water from clean
-          energy
+          energy.
         </p>
       </div>
     </div>
