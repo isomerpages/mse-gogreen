@@ -41,7 +41,9 @@ The initiative hopes to promote appreciation for the design process and to allow
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
