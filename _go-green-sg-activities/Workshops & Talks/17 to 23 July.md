@@ -168,7 +168,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 22 July 2023</strong>
+            <strong>Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
@@ -203,7 +203,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 20, 27 July 2023</strong>
+            <strong>Date: 20 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
