@@ -10,7 +10,7 @@ description: ""
 Date: 8, 15, 22 July 2023, 10:00am – 11:30 am<br>
 Admission: Free (registration required)<br>
 Venue: Jurong East MRT.<br>
-Organiser:  Singapore University of Social Sciences  (SUSS)
+Organiser:  National Environmental Agency
 
 Find out how this glass recycling facility processes glass waste into “Abrablast”, a recycled glass abrasive which can be used for blasting and coating.
 
