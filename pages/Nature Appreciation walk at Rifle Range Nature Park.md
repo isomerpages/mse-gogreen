@@ -22,7 +22,9 @@ Join us for a morning guided walk to learn about the rich variety of plants and 
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
