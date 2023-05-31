@@ -3,7 +3,7 @@ title: Building Wildlife friendly Spaces at Mandai
 permalink: /building-wildlife-friendly-spaces-at-mandai/
 description: ""
 ---
-![Sustainability Puzzle Hunt](/images/sustainability-puzzle-hunt.png)
+![](/images/Tours/mandai.jpg)
 
 **Mandai Wildlife Reserve is home to a myriad of native plants and animals. Join us on an insightful tour to discover how we balanced development in Mandai with wildlife protection.**
 
