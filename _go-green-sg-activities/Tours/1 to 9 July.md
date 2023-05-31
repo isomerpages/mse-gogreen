@@ -130,7 +130,7 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1, 7, 14, 21, 28 July</strong>
+            <strong>Date: 1, 7 July</strong>
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
@@ -161,10 +161,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29
+              Date: 1, 4, 6, 8
             </strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -191,10 +191,9 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
-              30, 31 July</strong>
+              Date: 2, 3, 5, 7, 9 July</strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Bukit Batok Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -219,8 +218,8 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 4, 5, 6, 7, 8, 9, 20 ,21, 22 July</strong></li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Date: 4, 5, 6, 7, 8, 9 July</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Changi Beach</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -245,9 +244,9 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 4, 5, 6, 7, 8, 20, 21, 22 July</strong></li>
+          <li><strong>Date: 4, 5, 6, 7, 8 July</strong></li>
           <li>
-            <strong>Admission: Adult: $71, Child: $37</strong>
+            <strong>Admission: Adult: $71 | Child: $37</strong>
           </li>
           <li>
             <strong>Venue: Changi Beach</strong>
@@ -276,7 +275,7 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Date: 8, 9 July</strong></li>
-          <li><strong>Admission: $20 per pax</strong></li>
+          <li><strong>Admission: $20</strong></li>
           <li>
             <strong>Venue: Marina Bay Sands and Gardens by the Bay</strong>
           </li>
@@ -304,10 +303,10 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8, 22 July</strong></li>
+          <li><strong>Date: 8 July</strong></li>
           <li>
             <strong>
-              Admission: Adult: 100 SGD, Senior: 80 SGD, Child: 60 SGD
+              Admission: Adult: $100 | Senior: $80 | Child: $60
             </strong>
           </li>
           <li>
@@ -375,7 +374,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8, 22 July</strong></li>
+          <li><strong>Date: 8 </strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -556,7 +555,7 @@ third_nav_title: Tours
         <ul>
           <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Admission: Adult: $48, Child: $46</strong>
+            <strong>Admission: Adult: $48 | Child: $46</strong>
           </li>
           <li>
             <strong>
@@ -628,7 +627,7 @@ third_nav_title: Tours
           <li><strong>Date: 8 July</strong></li>
           <li>
             <strong>
-              Admission: $60 per pax, or $100 for 1 adult and 1 child
+              Admission: $60 per pax | $100 for 1 adult and 1 child
             </strong>
           </li>
           <li>
@@ -662,7 +661,7 @@ third_nav_title: Tours
         <ul>
           <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Admission: $20 per pax</strong>
+            <strong>Admission: $20</strong>
           </li>
           <li>
             <strong>
