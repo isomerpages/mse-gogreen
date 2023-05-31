@@ -26,7 +26,9 @@ Freshwater forest streams are considered rare habitats in Singapore. They provid
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
