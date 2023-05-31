@@ -167,7 +167,7 @@ third_nav_title: Initiatives
             <strong>Date: 1 - 31 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Various</strong></li>
+          <li><strong>Venue: Various locations</strong></li>
           <li><strong>Organiser: Divert for 2nd Life (D2L.sg)</strong></li>
         </ul>
       </div>
@@ -196,7 +196,7 @@ third_nav_title: Initiatives
           <li>
             <strong>Date: 8, 15 July</strong>
           </li>
-          <li><strong>Admission: Free</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
               Venue: Blk 35A Jalan Rumah Tinggi, Blk 83 Commonwealth Close
