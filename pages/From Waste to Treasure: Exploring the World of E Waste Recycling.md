@@ -9,7 +9,7 @@ description: ""
 Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.**
 
 
-Date: 14, 21, 28 July 2023, 4:00pm - 5:30pm<br>
+Date: 14, 21, 28 July 2023, 4:00 - 5:30pm<br>
 Admission: Free (registration required)<br>
 Venue: Jurong East MRT<br>
 Organiser: National Environment Agency
