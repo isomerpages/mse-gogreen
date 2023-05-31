@@ -7,9 +7,9 @@ description: ""
 
 **Join us at the Community Compost Corner at Jurong Lake Gardens and help to create compost  from food scraps and plant trimmings.**
 
-Date: 8 July &amp; 22 July, 9:00am – 10:00am<br>
+Date: 8, 22 July, 9:00 – 10:00 am<br>
 Admission: Free (registration required)<br>
-Venue: Jurong Lake Gardens, Lakeside Garden<br>
+Venue: Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road<br>
 Organiser: National Parks Board
 
 Join this community composting programme to learn how to create composts out of horticulture waste and food scraps.
