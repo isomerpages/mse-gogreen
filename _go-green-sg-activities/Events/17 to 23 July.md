@@ -98,7 +98,7 @@ third_nav_title: Events
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 22 July, 4:00pm - 7:00pm</strong>
+            <strong>Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
