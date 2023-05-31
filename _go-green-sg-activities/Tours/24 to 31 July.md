@@ -88,38 +88,37 @@ third_nav_title: Tours
 </style>
 
 <div class="row row_custom">
-  <!-- Uncover the Intertidal Zone with a Naturalist Guide -->
+   <!-- Night explorations: Mangrove Night Walk with Naturalist Guide -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-intertidal.jpg">
-        <h2>Uncover the Intertidal Zone with a Naturalist Guide</h2>
+        <img src="/images/Tours/tup-nightmangrove.jpg">
+        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 4, 5, 6, 7, 8, 20, 21, 22 July</strong></li>
           <li>
-            <strong>Admission: Adult: $71, Child: $37</strong>
+            <strong>
+              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July</strong>
           </li>
-          <li>
-            <strong>Venue: Changi Beach</strong>
-          </li>
+          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Discover a hidden world beneath the ocean, all this and more when the tide retreats. Our walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
+          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/uncover-the-intertidal-zone-with-a-naturalist-guide/" class="button-primary">
+      <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
         Find out more
       </a>
     </div>
-  </div>
-  <!-- Forest Stream Walk and Survery -->
+  </div> 
+	  <!-- Forest Stream Walk and Survery -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -150,36 +149,42 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Night explorations: Mangrove Night Walk with Naturalist Guide -->
+	  <!-- Make the Switch: The Quest for Greener Land Transport -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
+        <h2>Make the Switch: The Quest for Greener Land Transport</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
+          <li><strong>Date: 1 - 28 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July</strong>
+              Venue: Singapore Mobility Gallery
+              <br>
+              1 Hampshire Road, Block 1 Level 1
+            </strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
+          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
+      <a href="/make-the-switch-the-quest-for-greener-land-transport" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
+	
   <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -212,65 +217,33 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Biodiversity Tour @ Jurong Lake Gardens -->
+	<!-- Uncover the Intertidal Zone with a Naturalist Guide -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/biodiversity%20tour%20jurong%20lake%20gardens.jpg">
-        <h2>Biodiversity Tour @ Jurong Lake Gardens</h2>
+        <img src="/images/Tours/tup-intertidal.jpg">
+        <h2>Uncover the Intertidal Zone with a Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 29 July</strong></li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong></li>
-          <li><strong>Organiser: National Parks Board</strong></li>
+          <li><strong>Date: 4, 5, 6, 7, 8, 20, 21, 22 July</strong></li>
+          <li>
+            <strong>Admission: Adult: $71, Child: $37</strong>
+          </li>
+          <li>
+            <strong>Venue: Changi Beach</strong>
+          </li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Appreciate and learn about the rich biodiversity at Jurong Lake
-          Gardens with this free guided walk.
+         Discover a hidden world beneath the ocean, all this and more when the tide retreats. Our walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/biodiversity-tour-at-jurong-lake-gardens//" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-  <!-- Make the Switch: The Quest for Greener Land Transport -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
-        <h2>Make the Switch: The Quest for Greener Land Transport</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 1 - 28 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Singapore Mobility Gallery
-              <br>
-              1 Hampshire Road, Block 1 Level 1
-            </strong>
-          </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/make-the-switch-the-quest-for-greener-land-transport" class="button-primary">
+      <a href="/uncover-the-intertidal-zone-with-a-naturalist-guide/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -418,6 +391,34 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Biodiversity Tour @ Jurong Lake Gardens -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/biodiversity%20tour%20jurong%20lake%20gardens.jpg">
+        <h2>Biodiversity Tour @ Jurong Lake Gardens</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 29 July</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Appreciate and learn about the rich biodiversity at Jurong Lake
+          Gardens with this free guided walk.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/biodiversity-tour-at-jurong-lake-gardens//" class="button-primary">
         Find out more
       </a>
     </div>
