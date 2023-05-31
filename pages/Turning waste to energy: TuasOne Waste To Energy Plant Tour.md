@@ -7,19 +7,17 @@ description: ""
 
 **How does Singapore deal with the huge volume of waste we generate every day? Learn how Singapore’s efficient waste disposable system reduces solid waste by 90% and powers the country at the same time.**
 
-Date: 11 July, 2:30 – 4:30 pm&nbsp;<br>
-25 July, 2:30 – 4:30 pm<br>
-
+Date: 11, 25 July, 2:30 – 4:30pm <br>
 Admission: Free (registration required) <br>
-Venue: 94 Tuas South Ave 3&nbsp;<br> 
-*Participants who do not wish to take the shuttle bus may choose to drive to the location and find parking nearby. Parking lots for participants are not available.&nbsp;<br>
-Shuttle bus at Jurong East MRT. <br>
+Venue: Jurong East MRT <br>
+Organiser:  National Environment Agency
 
-Organiser:  Otolith Enrichment
+Get an exclusive behind-the-scenes look at how the plant incinerates 3,600 tonnes of waste and generates 120 megawatts of electricity daily.  The energy generated from incineration is enough to meet the electricity demand of 240,000 4-room HDB flats!
 
-How does Singapore deal with the huge volume of waste we generate every day? Learn how Singapore’s efficient waste disposable system reduces solid waste by 90% and powers the country at the same time.
+Participants must be 13 years old and above. This facility is not accessible by wheelchair.
+ame time.
 
-<a class="btn-link" target="_blank" href="[www.cgs.gov.sg/experiences](http://www.cgs.gov.sg/experiences)">
+<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
