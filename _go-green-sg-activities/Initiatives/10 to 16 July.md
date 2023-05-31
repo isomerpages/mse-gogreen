@@ -134,7 +134,7 @@ third_nav_title: Initiatives
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road</strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
