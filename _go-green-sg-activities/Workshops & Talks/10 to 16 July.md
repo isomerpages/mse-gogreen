@@ -102,8 +102,7 @@ third_nav_title: Workshops & Talks
           </li>
           <li>
             <strong>
-              Admission: $88 for OneTee, $128 for two tee, $88 for pack sized
-              bag, $108 for pack sized bag + po cuts
+              Admission: $88 - $128
             </strong>
           </li>
           <li>
