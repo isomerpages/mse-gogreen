@@ -284,7 +284,7 @@ third_nav_title: Tours
           <li><strong>Date: 22 July</strong></li>
           <li><strong>Admission: Adult: $100 | Senior: $80 | Child: $60</strong></li>
           <li>
-            <strong>Venue: Marina Bay Sands and Gardens by the Bay</strong>
+            <strong>Venue: Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan Road East</strong>
           </li>
           <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
@@ -311,10 +311,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 8, 15, 22 July</strong>
+              Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -340,10 +340,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 8, 22 July</strong>
+              Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: No. 3 Fourth Lok Yang Road</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -368,7 +368,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8, 22 July</strong></li>
+          <li><strong>Date: 22 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -399,7 +399,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/learning%20forest%20tour.jpg">
+        <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
           Boat Tour to Singapore’s largest floating solar farm at Tengeh
           Reservoir
@@ -407,13 +407,13 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 13, 20, 27 July</strong></li>
+          <li><strong>Date: 20 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
             <strong>
-              Venue: Environment Building, 40 Scotts Road, Singapore 228231
+              Venue: Environment Building, 40 Scotts Road
             </strong>
           </li>
           <li>
@@ -446,10 +446,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 14, 21, 28 July</strong>
+              Date: 21 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -578,7 +578,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 22, 27, 29 July</strong>
+              Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd</strong></li>
@@ -609,7 +609,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22, 29 July</strong></li>
+          <li><strong>Date: 22 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -644,7 +644,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22, 29 July</strong></li>
+          <li><strong>Date: 22 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
