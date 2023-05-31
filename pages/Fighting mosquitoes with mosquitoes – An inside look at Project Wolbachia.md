@@ -7,8 +7,7 @@ description: ""
 
 **Afraid of mosquito bites? Find out how Singapore mass produces mosquitoes to fight dengue through Project Wolbachia.**
 
-Date: 29 July, 9:00 am – 10:30 am <br>
-29 July, 11:00 am – 12.30 pm <br>
+Date: 29 July, 9:00 am – 10:30 am, 11:00 am – 12.30 pm <br>
 
 Admission: Free (registration required)<br>
 Venue: 5008 Ang Mo Kio Avenue 5 #06-13, Techplace 2 <br>
