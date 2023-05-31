@@ -7,12 +7,13 @@ description: ""
 
 **Learn how to upcycle food waste into organic compost to grow your very own vegetables, with a  special hands-on community gardening experience!**
 
-Date: 22 Jul, 2:00 pm – 05:00 pm<br>
-Admission: Free (registration required)<br>
-Venue: OurSpace@KimTian at Kim Tian West Resident Committee<br>
-Organiser: Holocene Pte Ltd
+**Date:** 22 July, 2:00 – 5:00 pm<br>
+**Admission:** Free (registration required)<br>
+**Venue:** OurSpace@KimTian, Kim Tian West Resident Committee<br>
+**Organiser:** Holocene Pte Ltd
 
 This workshop aims to cultivate an appreciation for circular economy principles by educating participants on how food waste can be upcycled into organic compost to grow edible greens. 
+
 Participants will enjoy a hands-on community gardening experience and get to grow their own vegetables. This workshop is held in support of Singapore's “Grow Local” initiative and “30 by 30”  food security vision.
 
 <a target="_blank" class="btn-link" href="https://docs.google.com/forms/d/1JbMmXIk_6Zhmi1g7ZmEkAQ2nIgtKvKbOwxTGnzk6otc/viewform?edit_requested=true">
