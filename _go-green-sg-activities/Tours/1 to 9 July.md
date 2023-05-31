@@ -219,7 +219,7 @@ third_nav_title: Tours
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-race-on-sunshine.jpg">
+        <img src="/images/Tours/race on sunshine.jpg">
         <h2>Race on Sunshine – Discovering Solar Energy</h2>
       </div>
       <div class="programmes__item__detail">
