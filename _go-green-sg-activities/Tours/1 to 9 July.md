@@ -141,9 +141,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass,
-          it’s easy to forget where one is. A humble, snaking stream turns into
-          an adventurous…
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
         </p>
       </div>
     </div>
@@ -173,9 +171,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          At dusk, step onto a boardwalk through a pitch-dark mangrove forest
-          and begin an immersive exploration to spot mangrove inhabitants such
-          as horseshoe crabs, vinegar crabs…
+          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
         </p>
       </div>
     </div>
@@ -196,8 +192,7 @@ third_nav_title: Tours
           <li>
             <strong>
               Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
-              30, 31 July
-            </strong>
+              30, 31 July</strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
           <li><strong>Venue: Bukit Batok Park</strong></li>
@@ -206,9 +201,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          This exploration will be conducted at night, when the forest comes to
-          life! With our senses, we will pick out the creatures of the night,
-          appreciate…
+          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
         </p>
       </div>
     </div>
@@ -234,9 +227,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          We immerse you in the rich marine biodiversity of our chosen
-          intertidal site, before taking direct action in a beach cleanup, and
-          wrapping up with…
+          We immerse you in the rich marine biodiversity of our chosen intertidal site, before taking direct action in a beach cleanup, and wrapping up with a hands-on intertidal artifacts session!
         </p>
       </div>
     </div>
@@ -266,8 +257,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover a hidden world beneath the ocean, all this and more when the
-          tide retreats. Our walk is a rare opportunity for participants to…
+          Discover a hidden world beneath the ocean, all this and more when the tide retreats. Our walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
         </p>
       </div>
     </div>
@@ -281,7 +271,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/woopa-png.jpg">
-        <h2>Zero to Hero Food Sustainability Tour</h2>
+        <h2>The Melting Menace (Sustainability Puzzle Hunt)</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -510,8 +500,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series
-          of quests at the children’s exhibition on greener commutes…
+          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
         </p>
       </div>
     </div>
@@ -546,9 +535,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our guided tour to the Singapore Mobility Gallery and Go Ahead
-          Singapore bus depot at Loyang for a behind-the-scenes look at how we
-          are greening…
+          Join our guided tour to the Singapore Mobility Gallery and Go Ahead Singapore bus depot at Loyang for a behind-the-scenes look at how we are greening our public transport network and learn about the processes involved in ensuring our bus network runs safely, reliably, and efficiently daily!
         </p>
       </div>
     </div>
