@@ -9,14 +9,14 @@ description: ""
 Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.**
 
 
-Date: 14, 21, 28 July 2023, 4:00 - 5:30pm<br>
-Admission: Free (registration required)<br>
-Venue: Jurong East MRT<br>
-Organiser: National Environment Agency
+**Date:** 14, 21, 28 July 2023, 4:00 - 5:30 pm<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Shuttle bus from Jurong East MRT<br>
+**Organiser:** National Environment Agency
 
-Since 2021, ALBA has been collecting e-waste across the island for proper treatment and recycling. Appointed as the Producer Responsibility Scheme operator by NEA , the company is responsible for the collection and proper treatment of consumer e-waste on behalf of the producers. ALBA has deployed more than 550 e-waste recycling bins nationwide, at convenient locations such as community centres, supermarkets, electronics stores and government buildings many of which you would have seen before. Travel to the heart of their operations and  visit  the ALBA E-Waste showroom and observe how the sorting processes are done.  There will be a 10 – 15 min talk giving the overview of ALBA’s operations and responsibilities.  
+Since 2021, ALBA has been collecting e-waste across the island for proper treatment and recycling. Appointed as the Producer Responsibility Scheme operator by NEA, the company is responsible for the collection and proper treatment of consumer e-waste on behalf of the producers. ALBA has deployed more than 550 e-waste recycling bins nationwide, at convenient locations such as community centres, supermarkets, electronics stores and government buildings many of which you would have seen before. Travel to the heart of their operations and  visit  the ALBA E-Waste showroom and observe how the sorting processes are done.  There will be a 10 – 15 min talk giving the overview of ALBA’s operations and responsibilities.  
 
-Participants must be 12 years old and above. This facility  is not accessible by wheelchair.
+Participants must be 12 years old and above. This facility is not accessible by wheelchair.
 
 
 
