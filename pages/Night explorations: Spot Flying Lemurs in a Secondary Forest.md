@@ -7,14 +7,10 @@ description: ""
 
 **This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.**
 
-Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28, 30, 31 July, 8:00 pm – 10:00 pm<br>
-Admission: 
-- Adult: $71
-- Child: $37
-<br>
-
-Venue: Bukit Batok Park<br>
-Organiser: The Untamed Paths
+**Date:** 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28, 30, 31 July, 8:00 pm – 10:00 pm<br>
+**Admission:** Adult: $71 | Child: $37<br>
+**Venue:** Bukit Batok Park<br>
+**Organiser:** The Untamed Paths
 
 Join this exciting night tour of Bukit Batok Park to encounter interesting wildlife such as frogs, water snakes, crabs and colugos (a kind of furry, flying tree-dweller). Participants will also pick up behavioural observation skills and nifty bits of rainforest ecology from field expert guides.
  
