@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/abraclean.jpg)
 
-**Can glass be recycled? Learn how Abraclean turns glass into useful products such as “Abrablast” and construction materials in this glass recycling journey. **
+<b>Can glass be recycled? Learn how Abraclean turns glass into useful products such as “Abrablast” and construction materials in this glass recycling journey. <b>
 
 Date: 22 July 2023, 4:00 pm – 7:00 pm<br>
 Admission: Free (registration required)<br>
@@ -30,4 +30,4 @@ Join students of the SUSS Agri-preneur Incubation Programme at their bazaar wher
 	.btn-link > img {
 		width: 100%;
 	}
-</style>
+</style></b></b>
