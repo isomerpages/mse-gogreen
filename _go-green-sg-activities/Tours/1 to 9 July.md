@@ -226,7 +226,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 8, 15, 22 July</strong>
+              Date: 1, 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
@@ -481,7 +481,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 8, 15, 22 July</strong>
+              Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Jurong East MRT</strong></li>
@@ -510,7 +510,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 8, 22 July</strong>
+              Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: No. 3 Fourth Lok Yang Road</strong></li>
