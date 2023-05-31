@@ -8,7 +8,7 @@ description: ""
 **An engineering marvel and haven for biodiversity, don’t miss this rare opportunity to visit Semakau, Singapore’s offshore landfill**
 
 Date: 22 July, 10:00 am – 12:00 pm <br>
-27 July, 2:00 – 04:00 pm <br>
+27 July, 2:00 – 4:00 pm <br>
 29 July, 10:00 am – 12:00 pm<br>
 
 Admission: Free (registration required) <br>
@@ -19,7 +19,7 @@ Singapore generates a huge amount of waste daily. Do you know how our waste is p
 
 Participants must be 7 years old and above.&nbsp; Children between ages 7 and 11 must be accompanied by an adult. This facility is not accessible by wheelchair.
 
-<a class="btn-link" target="_blank" href="www.cgs.gov.sg/experiences">
+<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
