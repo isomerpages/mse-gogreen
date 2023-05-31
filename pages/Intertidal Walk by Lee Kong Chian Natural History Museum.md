@@ -3,14 +3,13 @@ title: Intertidal Walk by Lee Kong Chian Natural History Museum
 permalink: /intertidal-walk-lkc/
 description: ""
 ---
+![](/images/Tours/intertidal%20lkc.jpg)
+**Get up-close and personal with fascinating marine life and their habitats.**
 
 
-**Find out how we are turning food waste from hawker centre into something useful!**
-
-
-Date: 30 July, 10:30 - 11:30am<br>
+Date: Early July<br>
 Admission: Free (registration required)<br>
-Venue: Our Tampines Hub, 1 Tampines Walk<br>
+Venue: Marine South Pier<br>
 Organiser: National Environmental Agency
 
 Did you know that food waste accounts for about 12 per cent of the total waste generated in Singapore? In 2021, we generated 817,000 tonnes of food waste, which is equivalent to 56,000 double-decker buses! 
