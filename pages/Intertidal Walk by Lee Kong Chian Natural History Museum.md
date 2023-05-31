@@ -10,16 +10,11 @@ description: ""
 Date: Early July<br>
 Admission: Free (registration required)<br>
 Venue: Marine South Pier<br>
-Organiser: National Environmental Agency
+Organiser: National Environment Agency
 
-Did you know that food waste accounts for about 12 per cent of the total waste generated in Singapore? In 2021, we generated 817,000 tonnes of food waste, which is equivalent to 56,000 double-decker buses! 
+Explore Singapore’s diverse marine ecology through this 2-hour intertidal walk. Get your feet wet and spot hidden  marine creatures such as starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals on our sandy beaches. 
 
-Find out how we can turn food waste into something useful and reduce the amount of waste we send to Semakau Landfill! Learn about  the food waste collection processes at  hawker centres, and how food waste is processed and turned into fertilisers for community garden. Participants will get to bring home fertiliser made from food waste to use on their own plants.
-
-
-
-
-
+Keep a lookout for the latest on dates and registration details on Lee Kong Chian Natural History Museum Facebook, from June to early August.
 
 <a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/cgs-experiences">
 	<img src="/images/more-info-btn.png">
