@@ -7,10 +7,10 @@ description: ""
 
 **Immerse in the blending of culture and nature with a nature appreciation walk at this former Hainan village turned park.**
 
-Date: 22 July, 9:30am – 11:00am<br>
-Admission: Free (registration required)<br>
-Venue: Thompson Nature Park<br>
-Organiser: National Parks Board
+**Date:** 22 July, 9:30 – 11:00 am<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Thompson Nature Park<br>
+**Organiser:** National Parks Board
 
 Located to the east of the Central Catchment Nature Reserve, between Old Upper Thomson Road and Upper Thomson Road, Thomson Nature Park acts as a green buffer to the Central Catchment Nature Reserve. This 50-hectare buffer park is unique for its rich cultural heritage as the site of a former Hainan Village. It is also home to a rich array of biodiversity and is notably a key conservation site for the critically endangered Raffles’ Banded Langur (*Presbytis femoralis femoralis*). 
  
