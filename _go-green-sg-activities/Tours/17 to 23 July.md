@@ -99,9 +99,9 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July</strong>
+              Date: 18, 20, 22 July</strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -128,9 +128,9 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1, 7, 14, 21, 28 July</strong>
+            <strong>Date: 21 July</strong>
           </li>
-          <li><strong>Admission: Adult: $49, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
             <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
           </li>
@@ -188,14 +188,14 @@ third_nav_title: Tours
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-race-on-sunshine.jpg">
+        <img src="/images/Tours/race on sunshine.jpg">
         <h2>Race on Sunshine – Discovering Solar Energy</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 1, 8, 15, 22 July</strong>
+              Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
@@ -225,11 +225,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
-              30, 31 July
+              Date: 17, 19, 21, 23 July
             </strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Bukit Batok Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -255,8 +254,8 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 4, 5, 6, 7, 8, 9, 20, 21, 22 July</strong></li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Date: 20, 21, 22 July</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Changi Beach</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -277,28 +276,27 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/woopa-png.jpg">
+        <img src="/images/Tours/tribe-png.jpg">
         <h2>Zero to Hero Food Sustainability Tour</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8, 9 July</strong></li>
-          <li><strong>Admission: $20 per pax</strong></li>
+          <li><strong>Date: 22 July</strong></li>
+          <li><strong>Admission: Adult: $100 | Senior: $80 | Child: $60</strong></li>
           <li>
             <strong>Venue: Marina Bay Sands and Gardens by the Bay</strong>
           </li>
-          <li><strong>Organiser: Woopa Travels (Monster Day Tour)</strong></li>
+          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Embark on a 2.5-hour puzzle hunt adventure around Marina Bay, learning
-          about sustainability while having fun with friends and family.
+          An experiential tour into the heartlands and wet market. Forage for green 'waste' and ugly food and transform them into useful compost.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/the-melting-menace-sustainability-puzzle-hunt" class="button-primary">
+      <a href="//zero-to-hero-food-sustainability-tour/" class="button-primary">
         Find out more
       </a>
     </div>
