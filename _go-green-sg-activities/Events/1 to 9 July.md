@@ -157,7 +157,7 @@ third_nav_title: Events
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Events/question%20110%20-%20cdl%20logo%20(high%20res).jpg">
+        <img src="/images/Events/y4c%20logo.png">
         <h2>Youth4Climate Festival 2023</h2>
       </div>
       <div class="programmes__item__detail">
