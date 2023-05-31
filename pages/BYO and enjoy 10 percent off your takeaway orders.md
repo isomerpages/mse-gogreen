@@ -3,6 +3,7 @@ title: BYO and enjoy 10 percent off your takeaway orders
 permalink: /byo-and-enjoy-10-percent-off-your-takeaway-orders/
 description: ""
 ---
+![](/images/Challenges%20&amp;%20Deals/question%20112%20-%20metta%20cafe.png)
 
 **Enjoy 10% off for takeaway hot beverages and meals when you bring your own mug/container. Let’s do our part to encourage reusables and reduce disposables.**
 
