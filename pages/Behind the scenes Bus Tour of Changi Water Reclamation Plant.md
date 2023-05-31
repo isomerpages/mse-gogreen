@@ -31,6 +31,10 @@ This tour is only open to visitors who are 18 years old and above.
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
