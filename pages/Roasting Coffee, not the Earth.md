@@ -17,7 +17,7 @@ In Southeast Asia, demand for kopi luwak – highly prized coffee made of cherri
 The good news is, there is a way to enjoy a cuppa joe without costing the Earth. At this event, learn about the link between biodiversity and climate crises, and the environmental impact of the cultivation and consumption of coffee. 
 Participants will receive a $18 gift card that can be used at The Social Space outlets and a free cup of rainforest-friendly coffee. 
 
-<a class="btn-link" href="https://thesocialspace.co/products/coffee-conversation-workshop-with-nus-centre-for-nature-based-climate-solutions">
+<a target="_blank" class="btn-link" href="https://thesocialspace.co/products/coffee-conversation-workshop-with-nus-centre-for-nature-based-climate-solutions">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -25,7 +25,9 @@ Participants will receive a $18 gift card that can be used at The Social Space o
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
