@@ -7,10 +7,10 @@ description: ""
 
 **Did you know that SUSS has a rooftop ecosystem consisting of soil-based, hydroponic, and experimental aquaponic farming systems and even a bee garden? Join us for some fun, hands-on activities!**
 
-Date: 22 July 2023, 2:00 pm – 4:00 pm<br>
-Admission: Free (registration required)<br>
-Venue: Singapore University of Social Sciences, 463 Clementi Rd, SR.C.5.07<br>
-Organiser:  Singapore University of Social Sciences
+**Date:** 22 July 2023, 2:00 – 4:00 pm<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Singapore University of Social Sciences, 463 Clementi Rd, SR.C.5.07<br>
+**Organiser:**  Singapore University of Social Sciences
 
 SUSS and Nutrious Farms have set up a rooftop farm (SUSS Experiential Urban Farm) with soil-based, hydroponic, aquaponic farming systems and even a bee garden, to bring members of the public on an experiential learning journey.   
 
