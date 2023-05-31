@@ -484,7 +484,7 @@ third_nav_title: Tours
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -513,7 +513,7 @@ third_nav_title: Tours
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: No. 3 Fourth Lok Yang Road</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
