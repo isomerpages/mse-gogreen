@@ -128,8 +128,7 @@ third_nav_title: Challenges
           <li>
             <strong>Date: 1 - 31 July</strong>
           </li>
-          <li><strong>Admission: Registration not required</strong></li>
-          <li>
+                    <li>
             <strong>Venue: Metta Café, 32 Simei Street 1, Level 1</strong>
           </li>
           <li><strong>Organiser: Metta Welfare Association</strong></li>
