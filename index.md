@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/artboard-3.png
+      background: /images/artboard-4.png
       title: Go Green, Your Way
       button: Join Us Now
       url: /programmes
@@ -21,12 +21,12 @@ sections:
       button: Learn more
       url: /programmes/tours
       alt: Go Green Tours
-      image: /images/go-green-tours-3.png
+      image: /images/go-green-tours-4.png
   - infopic:
       title: Go Green <br>Workshops & Talks
       description: Engage in hands-on activities and listen to sustainability conferences.
       button: Learn more
-      image: /images/go-green-workshops-talks-3.png
+      image: /images/go-green-workshop-talks-4.png
       alt: Image alt text
       url: /programmes/workshops-and-talks/
   - infopic:
@@ -34,7 +34,7 @@ sections:
       description: Enjoy a fun-packed day at festivals and shows.
       button: Learn more
       alt: Image alt text
-      image: /images/go-green-events-3.png
+      image: /images/go-green-events-4.png
       url: /programmes/events/
   - infopic:
       title: Go Green <br>Retail & Dining
@@ -42,21 +42,21 @@ sections:
       button: Learn More
       url: /programmes/retail-and-dining/
       alt: Image alt text
-      image: /images/go-green-retail-dining-3.png
+      image: /images/go-green-retail-dining-4.png
   - infopic:
       title: Go Green <br> Challenges & Deals
       description: Shop, save and adopt a sustainable lifestyle
       button: Learn more
       url: /programmes/challenges-and-deals/
       alt: Image alt text
-      image: /images/go-green-challenges-deals-3.png
+      image: /images/go-green-challenges-deals-4.png
   - infopic:
       title: Go Green <br>Initiatives
       description: Become an advocate for sustainability in your community.
       button: Learn More
       url: /programmes/initiatives/
       alt: Image alt text
-      image: /images/go-green-initiatives-3.png
+      image: /images/go-green-initiatives-4.png
   - resources:
       title: What's On
       button: Learn more
