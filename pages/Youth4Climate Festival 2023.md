@@ -29,6 +29,10 @@ Recognising that youths play a pivotal role in a sustainable future, the Youth4C
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
