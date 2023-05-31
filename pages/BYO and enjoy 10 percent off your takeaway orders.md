@@ -17,7 +17,7 @@ In support of Go Green SG, the vegetarian cafe will offer a 10% discount for eve
 
 
 <a class="btn-link" target="_blank" href="mailto:mettacafe@metta.org.sg">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
