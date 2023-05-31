@@ -37,6 +37,10 @@ Discover a hidden world beneath the ocean, all this and more when the tide retre
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	
 	.btn-link > img {
 		width: 100%;
 	}
