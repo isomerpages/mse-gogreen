@@ -7,7 +7,7 @@ description: ""
 
 **Kickstart sustainable habits with the PlanetSustain app. Track your carbon footprint and identify ways to reduce it by practising responsible consumption and reducing energy usage.**
 
-**Date:** 1-31 July<br>
+**Date:** 1 - 31 July<br>
 **Organiser:** InvoSystems Solutions Pte Ltd
 
 The programme utilises the PlanetSustain mobile app to: 
