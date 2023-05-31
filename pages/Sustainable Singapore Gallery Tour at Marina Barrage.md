@@ -19,7 +19,7 @@ Organiser: PUB, Singapore’s National Water Agency
 Sustainability has always been integral to Singapore’s development since independence, and we are committed to ensure that everyone continues to enjoy a clean and green environment. Navigate through the Sustainable Singapore Gallery at the Marina Barrage to learn how we are creating a liveable and sustainable Singapore for current and future generations.
 This tour is suitable for visitors of all ages. 
 
-<a class="btn-link" href="http://www.pub.gov.sg/marinabarrage/ssg/tour">
+<a target="_blank" class="btn-link" href="http://www.pub.gov.sg/marinabarrage/ssg/tour">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -27,6 +27,10 @@ This tour is suitable for visitors of all ages.
 	.btn-link {
 		display: inline-block;
 	}
+	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	
 	.btn-link > img {
 		width: 100%;
