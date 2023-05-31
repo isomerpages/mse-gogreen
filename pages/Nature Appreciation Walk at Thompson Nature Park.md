@@ -24,7 +24,9 @@ Through this guided walk, visitors will gain a greater appreciation of Singapore
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
