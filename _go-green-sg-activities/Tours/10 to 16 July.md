@@ -198,7 +198,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 15 July, 09:00am</strong></li>
+          <li><strong>Date: 15 July, 9:00am</strong></li>
           <li>
             <strong>
               Admission: Admission fees into the National Orchid Garden applies.
@@ -236,7 +236,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 15 July, 09:00am</strong></li>
+          <li><strong>Date: 15 July, 9:00am</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -335,7 +335,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 1-28 July</strong></li>
+          <li><strong>Date: 1 - 28 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
