@@ -130,7 +130,7 @@ third_nav_title: Initiatives
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 5, 12, 19, 26 July</strong>
+            <strong>Date: 12 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
@@ -194,7 +194,7 @@ third_nav_title: Initiatives
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 8, 15 July</strong>
+            <strong>Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
           <li>
@@ -228,7 +228,7 @@ third_nav_title: Initiatives
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 3-31 July</strong></li>
+          <li><strong>Date: TBC</strong></li>
           <li><strong>Admission: N/A</strong></li>
           <li><strong>Venue: 85 Dawson Road</strong></li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
