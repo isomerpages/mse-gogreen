@@ -374,7 +374,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8 </strong></li>
+          <li><strong>Date: 8 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
