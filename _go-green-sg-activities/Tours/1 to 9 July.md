@@ -132,7 +132,7 @@ third_nav_title: Tours
           <li>
             <strong>Date: 1, 7, 14, 21, 28 July</strong>
           </li>
-          <li><strong>Admission: Adult: $49, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
             <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
           </li>
