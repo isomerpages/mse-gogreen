@@ -93,7 +93,7 @@ third_nav_title: Initiatives
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Initiatives/community%20composting%20volunteer%20programme.jpg">
-        <h2>Community Composting Volunteer Programme @ JLG</h2>
+        <h2>Community Composting Volunteer Programme @ Jurong Lake Gardens</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -102,7 +102,7 @@ third_nav_title: Initiatives
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road</strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
@@ -134,7 +134,7 @@ third_nav_title: Initiatives
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road</strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
