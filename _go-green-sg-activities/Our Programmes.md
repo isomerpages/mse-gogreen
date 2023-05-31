@@ -47,16 +47,16 @@ Your path to going green starts now!
 		<a class="btn-link" href="/programmes/workshop-talks">Workshop &amp; Talks</a>
 	</div>
 	<div class="col is-one-third">
-		<a class="btn-link" href="#">Events</a>
+		<a class="btn-link" href="/programmes/events/">Events</a>
 	</div>
 	<div class="col is-is-one-third">
-		<a class="btn-link" href="#">Retail &amp; Dining</a>
+		<a class="btn-link" href="/programmes/retail-and-dining/">Retail &amp; Dining</a>
 	</div>
 	<div class="col is-one-third">
-		<a class="btn-link" href="#">Challenges &amp; Deals</a>
+		<a class="btn-link" href="/programmes/challenges-and-deals/">Challenges &amp; Deals</a>
 	</div>
 	<div class="col is-is-one-third">
-		<a class="btn-link" href="#">Initiatives</a>
+		<a class="btn-link" href="/programmes/initiatives/">Initiatives</a>
 	</div>
 </div>
 
