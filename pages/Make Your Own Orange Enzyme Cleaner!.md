@@ -7,7 +7,7 @@ description: ""
 
 **Learn how to turn your orange peels into your very own natural and organic cleaners!**
 
-**Date:** 8 July, 11:00 am - 12:30pm<br>
+**Date:** 8 July, 11:00 am - 12:30 pm<br>
 **Admission:** $10<br>
 **Venue:** 32 Simei Street 1, Level 4<br>
 **Organiser:** Metta Welfare Association
