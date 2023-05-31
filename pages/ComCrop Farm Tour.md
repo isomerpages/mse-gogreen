@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/question%20114%20-%201664984858397.jpg)
 
-**Enjoy a tour around Singapore's pioneering rooftop farm. Learn  ComCrop's contribution to Singapore's food security and the innovation and considerations behind their operations. **
+**Enjoy a tour around Singapore's pioneering rooftop farm. Learn  ComCrop's contribution to Singapore's food security and the innovation and considerations behind their operations.**
 
 Date: 08 July, 10:00 am – 11:30 am<br>
 Admission: $20 per pax<br>
