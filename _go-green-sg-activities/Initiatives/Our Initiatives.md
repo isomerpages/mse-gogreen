@@ -38,15 +38,15 @@ Make the choice to go green your way. Check out our full list of green initiativ
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
-		<a class="btn-link" href="/programmes/1-9-july">1-9 July</a>	
+		<a class="btn-link" href="/programmes/initiatives/1-9-july">1-9 July</a>	
 	</div>
 	<div class="col is-half">
-		<a class="btn-link" href="/programmes/10-16-july">10-16 July</a>
+		<a class="btn-link" href="/programmes/initiatives/10-16-july">10-16 July</a>
 	</div>
 	<div class="col is-half">
-		<a class="btn-link" href="/programmes/17-23-july">17-23 July</a>
+		<a class="btn-link" href="/programmes/initiatives/17-23-july">17-23 July</a>
 	</div>
 	<div class="col is-half">
-		<a class="btn-link" href="/programmes/24-31-july">24-31 July</a>
+		<a class="btn-link" href="/programmes/initiatives/24-31-july">24-31 July</a>
 	</div>
 </div>
