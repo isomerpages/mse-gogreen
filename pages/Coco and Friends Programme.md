@@ -24,7 +24,9 @@ This programme is recommended for children from 5 – 7 years old
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
