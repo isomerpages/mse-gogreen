@@ -10,7 +10,7 @@ description: ""
 
 Date: 15 July, 9:00 am – 10:30 am and 11:00 am – 12:30 pm<br>
 Admission: Free<br>
-Venue: National University of Singapore, NUS SDE4 Level 4, 8 Architecture Drive, 117356<br>
+Venue: National University of Singapore<br>NUS SDE4 Level 4<br>8 Architecture Drive, 117356<br>
 Organiser: National University of Singapore
 
 Join this exclusive behind the scenes tour to visit the sustainable developments on the NUS campus. These include Singapore's first purpose-built Net-Zero Energy (NZE) building designed to be climate responsive, energy efficient, and consume as much energy as it creates. It features a host of sustainable designs including solar roof installations, a hybrid cooling system, innovative ventilation systems, as well as architectural structures that provide much-needed shade in Singapore’s tropical climate. Check out how learning and collaborative spaces have been rejuvenated and retrofitted with innovative features for improved energy efficiency.
