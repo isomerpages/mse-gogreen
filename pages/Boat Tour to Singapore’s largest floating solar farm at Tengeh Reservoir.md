@@ -7,15 +7,11 @@ description: ""
 
 **Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how Singapore’s National Water Agency PUB produces clean water from clean energy**
 
-Date: 
-1. 13 July, 9:30 am – 11:30 am
-2. 20 July, 9:30 am – 11:30 am
-3. 27 July, 9:30 am – 11:30 am
+**Date:** 13 July, 9:30 – 11:30 am | 20 July, 9:30 - 11:30 am | 27 July, 9:30 – 11:30 am
 <br>
-
-Admission: Free (registration required)<br>
-Venue: Environment Building, 40 Scotts Road, Singapore 228231<br>
-Organiser: PUB, Singapore’s National Water Agency
+**Admission:** Free (registration required)<br>
+**Venue:** Environment Building, 40 Scotts Road<br>
+**Organiser:** PUB, Singapore’s National Water Agency
 
 With water demand projected to almost double by 2065, Singapore’s energy needs will increase as we rely more on weather-resilient yet energy-intensive sources of water – NEWater and desalinated water. A key strategy to manage our energy use is increasing renewable energy production through the deployment of solar photovoltaic (PV) systems on our land installations and reservoirs.  
 
