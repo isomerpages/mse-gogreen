@@ -3,7 +3,7 @@ title: Rainforest Tour
 permalink: /rainforest-tour/
 description: ""
 ---
-![Rainforest Tour](/images/Tours/rain%20forest%20tour.jpg)
+![Rain Forest Tour](/images/Tours/rain%20forest%20tour.jpg)
 
 **Discover the enchantment of our tropical rainforest with our volunteer guides.**
 
