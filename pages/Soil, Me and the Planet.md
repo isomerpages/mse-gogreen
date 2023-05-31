@@ -19,7 +19,7 @@ This is an introductory hands-on workshop that highlights the interconnectivity 
 
 The 2-hour indoor workshop is designed for ages 10 and above.
 
-<a class="btn-link" href="https://livingsoil.asia/offerings">
+<a class="btn-link" target="_blank" href="https://livingsoil.asia/offerings">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -27,7 +27,9 @@ The 2-hour indoor workshop is designed for ages 10 and above.
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
