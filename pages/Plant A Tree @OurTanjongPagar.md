@@ -34,7 +34,9 @@ Every tree planted by residents will be mapped on NParks’ TreeSG map and digit
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
