@@ -18,11 +18,9 @@ Organiser: City Developments Limited
 
 Recognising that youths play a pivotal role in a sustainable future, the Youth4Climate Festival is one of City Developments Limited’s flagship programmes in support of youth empowerment and social good. Initiated in 2018, the festival aims to provide Singapore’s youth with a platform to express their passion for the environment and green wishes for the future through workshops, talks, musical performances, movie screenings and other exciting fringe activities.
 
-<!--
-<a href="https://cdlsustainability.com/climate-action/youth4climate/" class="btn-link">
+<a target="_blank" class="btn-link" href="https://cdlsustainability.com/climate-action/youth4climate/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
--->
 
 <style>
 	.btn-link {
