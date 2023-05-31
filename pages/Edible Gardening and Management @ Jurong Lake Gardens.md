@@ -7,10 +7,10 @@ description: ""
 
 **Volunteer with us at Jurong Lake Gardens for an evening of gardening and basic horticultural maintenance for our edible plant collections.**
 
-Date: 5 July, 12 July, 19 July, 26 July, 4:00pm – 6:00 pm <br>
-Admission: Free (registration required)<br>
-Venue: Jurong Lake Gardens, Lakeside Garden<br>
-Organiser: National Parks Board
+**Date:** 5 July, 12 July, 19 July, 26 July, 4:00pm – 6:00 pm <br>
+**Admission:** Free (registration required)<br>
+**Venue:** Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road<br>
+**Organiser:** National Parks Board
 
 Are you keen to pick up gardening or want to know more about caring for edible plants?
 
@@ -18,8 +18,6 @@ Join this hands-on programme to learn about basic horticultural maintenance such
 
 This activity is open to 13 years old and above.
  
-Edible Gardening and Management (volunteer.gov.sg)
-
 <a class="btn-link" target="_blank" href="https://www.volunteer.gov.sg/volunteer/opportunity/details/?id=30150c60-907b-ed11-aa0a-8af5e23ce689">
 	<img src="/images/gogreensg_website-32.png">
 </a>
