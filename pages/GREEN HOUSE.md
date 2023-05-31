@@ -8,7 +8,7 @@ description: ""
 **GREEN-HOUSE is Singapore's first and largest immersive retail experience that brings a sustainable urban home to life. Discover over 70 local home and lifestyle brands, and participate in workshops that encourage low-carbon-footprint lifestyle.**
 
 **Date:** 8 - 9 July, 10:00 am - 9:00 pm<br>
-**Admission:** Free<br>
+**Admission:** Free (registration required)<br>
 **Venue:** Castlery Liat Towers<br>
 **Organiser:** Pass It On
 
