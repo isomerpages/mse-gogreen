@@ -102,8 +102,7 @@ third_nav_title: Workshops & Talks
           </li>
           <li>
             <strong>
-              Admission: $88 for OneTee, $128 for two tee, $88 for pack sized
-              bag, $108 for pack sized bag + po cuts
+              Admission: $88 - $128
             </strong>
           </li>
           <li>
@@ -136,7 +135,7 @@ third_nav_title: Workshops & Talks
           <li>
             <strong>Date: 8 July</strong>
           </li>
-          <li><strong>Admission: $10 per pax</strong></li>
+          <li><strong>Admission: $10</strong></li>
           <li>
             <strong>Venue: 32 Simei Street 1, Level 4</strong>
           </li>
@@ -171,8 +170,7 @@ third_nav_title: Workshops & Talks
           <li><strong>Admission: $20</strong></li>
           <li>
             <strong>
-              Venue: The Social Space 333 Kreta Ayer Rd, #01-14, Singapore
-              080333
+              Venue: The Social Space. 333 Kreta Ayer Rd, #01-14
             </strong>
           </li>
           <li>
