@@ -31,7 +31,7 @@ third_nav_title: Workshops & Talks
 	
 </style>
 
-![Banner Workshop &amp; Talks](/images/Programmes/banner-workshop-talks-3.png)
+![](/images/Programmes/banner-workshop-talks-4.png)
 
 # Get hands-on at our <br>green workshops
 Sign up for any of our sustainability-themed workshops happening this July and learn about the environment, give old soft toys a new lease on life, and more.
