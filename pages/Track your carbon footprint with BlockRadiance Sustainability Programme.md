@@ -24,7 +24,7 @@ Download PlanetSustain for Apple iOS on App Store
 https://apps.apple.com/sg/app/planetsustain/id1672527905 
 
 
-<a class="btn-link" href="https://www.blockradiance.com/PlanetSustain-1">
+<a target="_blank" class="btn-link" href="https://www.blockradiance.com/PlanetSustain-1">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -32,6 +32,10 @@ https://apps.apple.com/sg/app/planetsustain/id1672527905
 	.btn-link {
 		display: inline-block;
 	}
+	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	
 	.btn-link > img {
 		width: 100%;
