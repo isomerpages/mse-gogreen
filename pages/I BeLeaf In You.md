@@ -14,7 +14,7 @@ Organiser:  Metta Welfare Association
 
 Adopt eco-friendly practices to reduce the amount of plastic wastes going to our landfill. Reuse plastic bottles for gardening and do your part to save our environment. <br> This workshop will be a wonderful bonding activity for the whole family. <br> Each participant will also be entitled to an ECO draw, and one lucky winner will walk away with our Eco-prize. 
 
-<a class="btn-link" href="">
+<a target="_blank" class="btn-link" href="">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -22,7 +22,9 @@ Adopt eco-friendly practices to reduce the amount of plastic wastes going to our
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
