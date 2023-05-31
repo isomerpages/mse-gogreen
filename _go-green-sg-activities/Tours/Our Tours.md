@@ -31,7 +31,7 @@ third_nav_title: Tours
 	
 </style>
 
-![Banner Tours](/images/Programmes/banner-tours-3.png)
+![](/images/Programmes/banner-tours-4.png)
 
 # Explore the greener side <br>of Singapore
 Experience our island through a green lens with our educational tours below.
