@@ -93,7 +93,7 @@ third_nav_title: Initiatives
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Initiatives/community%20composting%20volunteer%20programme.jpg">
-        <h2>Community Composting Volunteer Programme @ JLG</h2>
+        <h2>Community Composting Volunteer Programme @ Jurong Lake Gardens</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -229,8 +229,7 @@ third_nav_title: Initiatives
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Date: 3 - 31 July</strong></li>
-          <li><strong>Admission: N/A</strong></li>
-          <li><strong>Venue: 85 Dawson Road</strong></li>
+                    <li><strong>Venue: 85 Dawson Road</strong></li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
         </ul>
       </div>
