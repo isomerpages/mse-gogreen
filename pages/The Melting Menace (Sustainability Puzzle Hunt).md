@@ -34,6 +34,10 @@ But the fun doesn't stop there - a finale awaits the players at the end of the j
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	
 	.btn-link > img {
 		width: 100%;
 	}
