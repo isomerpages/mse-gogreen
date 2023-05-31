@@ -7,18 +7,16 @@ description: ""
 
 **Fashion The Change 2023 showcases a collection of youths’ ideas and visions on what is their sustainability manifesto in fashion.**
 
-Date: 3-14 July, 10.30am - 9.30pm<br>
-Admission: Free (registration not required)<br>
-Venue: Design Orchard @ 250 Orchard Road<br>
+Date: 3 - 14 July, 10:30 am - 9:30 pm<br>
+Admission: Free<br>
+Venue: Design Orchard. 250 Orchard Road<br>
 Organiser: Singapore Fashion Council
 
-Fashion The Change 2023 showcases a collection of youths’ ideas and visions on sustainable fashion. The fashion youth community will also lead the curation of exhibition and window displays to further develop an active participatory role and engagement.  
+Fashion The Change 2023 showcases a collection of youths’ ideas and visions on sustainable fashion. The youth fashion community will also lead the curation of exhibition and window displays to further develop an active participatory role and engagement.  
 
 Located within Design Orchard, the exhibition brings together a blend of fashion sustainability and innovation to showcase various medium of fashion.
 
-<a target="_blank" class="btn-link" href="#">
-	<img src="/images/gogreensg_website-32.png">
-</a>
+
 
 <style>
 	.btn-link {
