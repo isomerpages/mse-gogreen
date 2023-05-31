@@ -7,10 +7,10 @@ description: ""
 
 **Discover the enchantment of our tropical rainforest with our volunteer guides.**
 
-Date: 8 July, 09:00am – 10:00am<br>
-Admission: Free (registration required)<br>
-Venue: Singapore Botanic Gardens, Visitor Services Counter at Visitor Centre (Nearest Entrance: Nassim Gate)<br>
-Organiser: National Parks Board
+**Date:** 8 July, 09:00 – 10:00am<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Singapore Botanic Gardens, Visitor Services Counter at Visitor Centre (Nearest Entrance: Nassim Gate)<br>
+**Organiser:** National Parks Board
 
 Come and be amazed by the Rainforest at the Gardens, one of the oldest remnants of primary forest in Singapore.
 
@@ -20,7 +20,7 @@ Among the rich species of plants found in the Rain Forest are trees of economic 
 
 This tour is recommended for 6 years old and above. No pets are allowed.
 
-Registration is required in-person at Nassim Visitor Services Desk by 8.45am. Limited slots per session on a first-come-first-served basis.
+Registration is required in-person at Nassim Visitor Services Desk by 8:45 am. Limited slots per session on a first-come-first-served basis.
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/rain-tour-july">
 	<img src="/images/gogreensg_website-32.png">
