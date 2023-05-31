@@ -7,10 +7,8 @@ description: ""
 
 **Enjoy a discount when ordering from Green Label merchants on Foodpanda!**
 
-Date: 1-31 July<br>
-Admission: N/A<br>
-Venue: NIL<br>
-Organiser: Foodpanda
+**Date:** 1 - 31 July<br>
+**Organiser:** foodpanda
 
 Customers ordering food from Green Label merchants on Foodpanda can enjoy $3 off a minimum $30 spent with the code GOGREEN. 
 
