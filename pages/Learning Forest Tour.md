@@ -28,7 +28,9 @@ Registration is required by 8.45am at the Tyersall Visitor Services Desk. Limite
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
