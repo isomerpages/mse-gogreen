@@ -515,6 +515,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/fighting%20mosquitoes%20with%20mosquitoes%20–%20an%20inside%20look%20at%20project%20wolbachia%20%20%20%20.jpg">
+        <h2>Fighting mosquitoes with mosquitoes – An inside look at Project Wolbachia
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 5008 Ang Mo Kio Avenue 5 #06-13, Techplace 2</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Afraid of mosquito bites? Find out how Singapore mass produces mosquitoes to fight dengue through Project Wolbachia.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/fighting-moquitoes-with-mosquitoes/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Biodiversity Tour @ Jurong Lake Gardens -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
