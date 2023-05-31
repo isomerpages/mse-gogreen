@@ -133,7 +133,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 27 July 2023</strong>
+            <strong>Date: 27 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
