@@ -88,37 +88,6 @@ third_nav_title: Tours
 </style>
 
 <div class="row row_custom">
-  <!-- Forest Stream Walk and Survery -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 1, 7, 14, 21, 28 July</strong>
-          </li>
-          <li><strong>Admission: Adult: $49, Child: $37</strong></li>
-          <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
-          </li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/forest-stream-walk-and-survey/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
   <!-- Night explorations: Mangrove Night Walk with Naturalist Guide -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -150,7 +119,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-	 <!-- Make the Switch: The Quest for Greener Land Transport -->
+	<!-- Forest Stream Walk and Survery -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupforest.jpg">
+        <h2>Forest stream walk and survey</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1, 7, 14, 21, 28 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $49, Child: $37</strong></li>
+          <li>
+            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+          </li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-stream-walk-and-survey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+<!-- Make the Switch: The Quest for Greener Land Transport -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -246,7 +246,47 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Orchid Garden Tour -->
+    <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/learning%20forest%20tour.jpg">
+        <h2>
+          Boat Tour to Singapore’s largest floating solar farm at Tengeh
+          Reservoir
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 13, 20, 27 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Environment Building, 40 Scotts Road, Singapore 228231
+            </strong>
+          </li>
+          <li>
+            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
+          Singapore’s National Water Agency PUB produces clean water from clean
+          energy.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Orchid Garden Tour -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -425,44 +465,5 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/learning%20forest%20tour.jpg">
-        <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh
-          Reservoir
-        </h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 13, 20, 27 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Environment Building, 40 Scotts Road, Singapore 228231
-            </strong>
-          </li>
-          <li>
-            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
-          </li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
-          Singapore’s National Water Agency PUB produces clean water from clean
-          energy.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
+
 </div>
