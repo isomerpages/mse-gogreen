@@ -185,7 +185,8 @@ third_nav_title: Tours
         Find out more
       </a>
     </div>
-  </div> <div class="programmes__item col is-one-third">
+  </div> 
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tup-nightmangrove.jpg">
@@ -211,6 +212,35 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tup-race-on-sunshine.jpg">
+        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 8, 15, 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/race-on-sunshine-discovering-solar-energy/" class="button-primary">
         Find out more
       </a>
     </div>
