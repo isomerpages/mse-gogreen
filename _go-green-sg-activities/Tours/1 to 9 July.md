@@ -85,6 +85,39 @@ third_nav_title: Tours
 </style>
 
 <div class="row row_custom">
+  <!-- Mandai -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mandai.jpg">
+        <h2>Building Wildlife-friendly Spaces at Mandai</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 1, 9 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>Venue: Mandai Wildlife West</strong>
+          </li>
+          <li><strong>Organiser: Mandai Wildlife Group</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Mandai Wildlife Reserve is home to a myriad of native plants and
+          animals. Join us on an insightful tour to discover how we balanced
+          development in Mandai with wildlife protection.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/building-wildlife-friendly-spaces-at-mandai" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -373,6 +406,295 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/learning-forest-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Coco and Friends Programme -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/coco%20and%20friends%20programme.jpg">
+        <h2>Coco and Friends Programme</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 8 July</strong></li>
+          <li>
+            <strong>Admission: $10 per child (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Bukit Timah Nature Reserve (meet at Visitor Centre)
+            </strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Younger children can look forward to appreciating and learning
+          Singapore’s native biodiversity in our forest through this programme.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/coco-and-friends-programme" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Mangroves and Climate Change Tour -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mangroves%20and%20climate%20change.png">
+        <h2>Mangroves and Climate Change Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 9 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Sungei Buloh Wetland Reserve
+              <br>
+              Visitor Centre
+              <br>
+              60 Kranji Way, Singapore 739453
+            </strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn how man and nature work together as we integrate human
+          engineering with natural mangroves to preserve our shores and
+          biodiversity for the future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/mangroves-and-climate-change-tour" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Make the Switch: The Quest for Greener Land Transport -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
+        <h2>Make the Switch: The Quest for Greener Land Transport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 1-28 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Singapore Mobility Gallery
+              <br>
+              1 Hampshire Road, Block 1 Level 1
+            </strong>
+          </li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join our Eco-warriors to fight climate change by completing a series
+          of quests at the children’s exhibition on greener commutes…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-the-switch-the-quest-for-greener-land-transport" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- All Aboard! SMG & Bus Depot Tour with Go Ahead Singapore -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/smg%20bus%20depot%20tour%20with%20go%20ahead%20singapore.jpg">
+        <h2>All Aboard! SMG &amp; Bus Depot Tour with Go Ahead Singapore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 8 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Singapore Mobility Gallery
+              <br>
+              1 Hampshire Road, Block 1 Level 1
+            </strong>
+          </li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join our guided tour to the Singapore Mobility Gallery and Go Ahead
+          Singapore bus depot at Loyang for a behind-the-scenes look at how we
+          are greening…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/all-aboard-smg-bus-depot-tour-with-go-ahead-singapore" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Explore Changi’s Seagrass Habitat with Young Nautilus -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/question%20112%20-%20changi%20seagrass%20patch%20treasure%20hunt%20(intertidal%20walk)_-%201______.jpg">
+        <h2>Explore Changi’s Seagrass Habitat with Young Nautilus</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 8 July</strong></li>
+          <li>
+            <strong>Admission: Adult: $48, Child: $46</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Changi Seagrass Intertidal Zone (Near Changi Carpark 7)
+            </strong>
+          </li>
+          <li><strong>Organiser: Young Nautilus</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Explore the treasures and sea life hidden in the seagras s habitat,
+          while learning how we can protect Singapore’s delicate marine
+          ecosystem.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/explore-changis-seagrass-habitat-with-young-nautilus" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Behind the scenes Bus Tour of Changi Water Reclamation Plant -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
+        <h2>Behind the scenes Bus Tour of Changi Water Reclamation Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 6, 9 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Behind the scenes Bus Tour of Changi Water Reclamation
+              Plant
+            </strong>
+          </li>
+          <li>
+            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Take an exclusive bus tour within the Changi Water Reclamatio n Plant
+          (CWRP) to understand how PUB treats used water and gives it a new
+          life…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-bus-tour-of-changi-water-reclamation-plant" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Regenerative Garden Experience -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/question%20112%20-%20img_1937.JPG">
+        <h2>Regenerative Garden Experience</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 8 July</strong></li>
+          <li>
+            <strong>
+              Admission: $60 per pax, or $100 for 1 adult and 1 child
+            </strong>
+          </li>
+          <li>
+            <strong>Venue: Methodist Girls’ School Biodiverse Garden</strong>
+          </li>
+          <li><strong>Organiser: Living Soil Asia</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Experience an enriching tour through Methodist Girls’ School’s
+          biodiverse garden, learning about its origins and participating in
+          engaging activities such as composting and pruning.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/regenerative-garden-experience" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- ComCrop Farm Tour -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/question%20114%20-%201664984858397.jpg">
+        <h2>ComCrop Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 8 July</strong></li>
+          <li>
+            <strong>Admission: $20 per pax</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: ComCrop, Rooftop 15 Woodlands Loop, Singapore 728322
+            </strong>
+          </li>
+          <li><strong>Organiser: ComCrop</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Enjoy a tour around Singapore’s pioneering rooftop farm. Learn
+          ComCrop’s contribution to Singapore’s food security and the innovation
+          and considerations behind their operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/comcrop-farm-tour" class="button-primary">
         Find out more
       </a>
     </div>
