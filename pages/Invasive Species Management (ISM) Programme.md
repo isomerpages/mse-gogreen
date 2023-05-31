@@ -22,7 +22,9 @@ Invasive species pose a threat to biodiversity. They compete for space, light, w
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
