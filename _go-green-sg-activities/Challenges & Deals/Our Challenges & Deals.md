@@ -31,7 +31,7 @@ third_nav_title: Challenges & Deals
 	
 </style>
 
-![Banner Challenges &amp; Deals](/images/Programmes/banner-challenges-deals-3.png)
+![](/images/Programmes/banner-challenges-deals-4.png)
 # How green can you go?
 Take on our sustainability-themed challenges and stand to win great deals and prizes.
 
