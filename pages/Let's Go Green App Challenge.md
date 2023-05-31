@@ -18,7 +18,7 @@ Participants will also stand to win prizes sponsored by sustainable local partne
 Download the susGain app through the App Store or Google Play today to take part!
 
 <a class="btn-link" target="_blank" href="www.susGain.com">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
