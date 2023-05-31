@@ -98,11 +98,11 @@ third_nav_title: Initiatives
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 5, 12, 19, 26 July</strong>
+            <strong>Date: 26 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road</strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
@@ -161,7 +161,7 @@ third_nav_title: Initiatives
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 3 - 31 July</strong></li>
+          <li><strong>Date: TBC</strong></li>
           <li><strong>Admission: N/A</strong></li>
           <li><strong>Venue: 85 Dawson Road</strong></li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
