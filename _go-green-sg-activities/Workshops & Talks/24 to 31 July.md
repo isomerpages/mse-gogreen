@@ -98,7 +98,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1-31 July</strong>
+            <strong>Date: 1 - 31 July</strong>
           </li>
           <li>
             <strong>
