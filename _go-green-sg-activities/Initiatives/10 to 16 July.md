@@ -199,7 +199,7 @@ third_nav_title: Initiatives
           <li><strong>Admission: Free</strong></li>
           <li>
             <strong>
-              Venue: Blk 35A Jalan Rumah Tinggi, Blk 83 Commonwealth Close
+              Venue: Blk 83 Commonwealth Close
             </strong>
           </li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
