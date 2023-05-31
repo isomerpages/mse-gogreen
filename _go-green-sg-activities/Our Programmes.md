@@ -44,7 +44,7 @@ Your path to going green starts now!
 		<a class="btn-link" href="/programmes/tours">Tours</a>	
 	</div>
 	<div class="col is-one-third">
-		<a class="btn-link" href="/programmes/workshop-talks">Workshop &amp; Talks</a>
+		<a class="btn-link" href="/programmes/workshops-and-talks/">Workshop &amp; Talks</a>
 	</div>
 	<div class="col is-one-third">
 		<a class="btn-link" href="/programmes/events/">Events</a>
