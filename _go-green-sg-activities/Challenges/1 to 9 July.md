@@ -205,4 +205,33 @@ third_nav_title: Challenges
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/woopa-png.jpg">
+        <h2>The Melting Menace (Sustainability Puzzle Hunt)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 8, 9 July</strong></li>
+          <li><strong>Admission: $20</strong></li>
+          <li>
+            <strong>Venue: Marina Bay Sands and Gardens by the Bay</strong>
+          </li>
+          <li><strong>Organiser: Woopa Travels (Monster Day Tour)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Embark on a 2.5-hour puzzle hunt adventure around Marina Bay, learning
+          about sustainability while having fun with friends and family.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-melting-menace-sustainability-puzzle-hunt" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
