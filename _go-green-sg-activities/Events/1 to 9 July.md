@@ -133,9 +133,9 @@ third_nav_title: Events
           <li>
             <strong>Date: 3 - 14 July</strong>
           </li>
-          <li><strong>Admission: Free (registration not required)</strong></li>
+          <li><strong>Admission: Free </strong></li>
           <li>
-            <strong>Venue: Design Orchard @ 250 Orchard Road</strong>
+            <strong>Venue: Design Orchard. 250 Orchard Road</strong>
           </li>
           <li><strong>Organiser: Singapore Fashion Council</strong></li>
         </ul>
