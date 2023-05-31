@@ -7,17 +7,17 @@ description: ""
 
 **Afraid of mosquito bites? Find out how Singapore mass produces mosquitoes to fight dengue through Project Wolbachia.**
 
-Date: 29 July, 9:00 am – 10:30 am, 11:00 am – 12.30 pm <br>
+Date: 29 July, 9:00 – 10:30 am, 11:00 – 12.30 pm <br>
 
 Admission: Free (registration required)<br>
 Venue: 5008 Ang Mo Kio Avenue 5 #06-13, Techplace 2 <br>
-Organiser:  National Environmental Agency  
+Organiser:  National Environment Agency  
 
 Visit the National Environment Agency’s highly automated facility to find out&nbsp; the science behind Project Wolbachia and how Singapore mass produces mosquitoes to fight dengue.&nbsp;
 
 Participants must be 3 years old and above. This facility is not accessible by wheelchair. Participants must wear covered shoes. Long pants are recommended.
 
-<a class="btn-link" target="_blank" href="[www.cgs.gov.sg/experiences](http://www.cgs.gov.sg/experiences)">
+<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
