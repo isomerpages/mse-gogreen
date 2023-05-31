@@ -5,228 +5,447 @@ description: ""
 third_nav_title: Tours
 ---
 <style>
-.row_custom {
-		gap: 1rem;
-		flex-wrap: wrap;
-	}
-	
-	.programmes__item {
-		flex: 0 1 calc(33% - 0.5rem) !important;
-		display: flex;
-		flex-direction: column;
-		justify-content: space-between;
-	}
-	
-	.programmes__item___header > img {
-		margin: 0
-		width: 100%
-	}
-	
-	.programmes__item__header > h2 {
-		color: black;
-		font-size: 1.5rem;
-		line-height: 1.5rem;
-		margin: 1rem 0 0.5rem;
-		font-weight: bold;
-		color: #509b55;
-	}
-	
-	.programmes__item__detail > ul {
-		display: flex;
-		flex-direction: column;
-		list-style-type: none;
-		margin: 1rem 0;
-	}
-	
-	.programmes__item__detail > ul > li {
-		margin: 0;
-		font-size: 1rem;
-		line-height: 1.25;
-	}
-	
-	.programmes__item__detail > ul > li:last-child {
-		margin: 0;
-	}
-	
-	.programmes__item__body > p {
-		font-size: 1rem;
-		line-height: 1.25;
-	}
-	
-	.programmes__item__actions {
-		display: flex;
-		align-items: center;
-		margin-top: 1rem;
-		gap: 0.5rem;
-	}
-	
-	.programmes__item__actions > a {
-		border: 2px solid black;
-		padding: 0.5rem 1rem;
-		height: fit-content;
-		border-radius: 1rem;
-		background-color: transparent;
-		cursor: pointer;
-		font-weight: bold;
-		text-decoration: none;
-		margin-bottom: 0;
-	}
-	
-	.programmes__item__actions > .button-primary {
-		background-color: #529c57;
-		border: 2px solid #529c57;
-		color: white !important;
-	}
-	
-	.programmes__item__actions > .button-secondary {
-		border: 2px solid #43b453;
-		color: #43b453 !important;
-	}
+  .row_custom {
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .programmes__item {
+    flex: 0 1 calc(33% - 0.5rem) !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .programmes__item___header > img {
+    margin: 0;
+    width: 255px;
+    height: 191px;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .programmes__item__header > h2 {
+    color: black;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin: 1rem 0 0.5rem;
+    font-weight: bold;
+    color: #509b55;
+  }
+
+  .programmes__item__detail > ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin: 1rem 0;
+  }
+
+  .programmes__item__detail > ul > li {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.25;
+  }
+
+  .programmes__item__detail > ul > li:last-child {
+    margin: 0;
+  }
+
+  .programmes__item__body > p {
+    font-size: 1rem;
+    line-height: 1.25;
+  }
+
+  .programmes__item__actions {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    gap: 0.5rem;
+  }
+
+  .programmes__item__actions > a {
+    border: 2px solid black;
+    padding: 0.5rem 1rem;
+    height: fit-content;
+    border-radius: 1rem;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 0;
+  }
+
+  .programmes__item__actions > .button-primary {
+    background-color: #529c57;
+    border: 2px solid #529c57;
+    color: white !important;
+  }
+
+  .programmes__item__actions > .button-secondary {
+    border: 2px solid #43b453;
+    color: #43b453 !important;
+  }
 </style>
-	
+
 <div class="row row_custom">
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/sustainability-puzzle-hunt.png">
-				<h2>Sustainability Puzzle Hunt</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 3 July 2023, 9 July 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: Woopa Travels (Monster Day Tours)</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to  design a sustainable and vibr...
-			</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-			<a href="/programmes/sustainability-puzzle-hunt/" class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
-		</div>
-	</div>
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/make-experience.png">
-				<h2>_/\/\/\ake Experience</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 7 Feb 2023, 3 July 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: GINLEE Studio</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Get any style and any colour of pleat you want at _/\/\/\ake Experience by GINLEE. With built-in streamer, you can control the entire process to m...
-				</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-				<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
-		</div>
-	</div>
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/project-green.png">
-				<h2>Project Green</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
-					<li><strong>Admission: TBC</strong></li>
-					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: Capitaland Investment</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Check out the second edition of Project Green, a sustainable pop-up showcase/marketplace at Raffles City. Featuring retailers, local...
-			</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
-		</div>
-	</div>
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/aquaponic.png">
-				<h2>Aquaponics Farm-to-Table Experience</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: Marina Bay Sands and Gardens by the Bay</strong></li>
-					<li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissotel The Stamford</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Ready, get set, GREEN! Take on the role of an urban planner and navigate challenges like limited land space to design a sustainable and vibr...
-			</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
-		</div>
-	</div>
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/clean-up.png">
-				<h2>SMU Verts Beach Clean-up</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 8 July 2023, 8 Apr 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: TBC</strong></li>
-					<li><strong>Organiser: Singapore Management University</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Open call for the SMU Verts beach clean up! Group up with your friends to clean up specific areas of the beach, and enjoy a sparkling clean day in the sun afterwards.
-			</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
-		</div>
-	</div>
-	<div class="programmes__item col is-one-third">
-		<div class="programmes__item__wrapper">
-			<div class="programmes__item__header">
-				<img src="/images/Programmes/plant-a-tree.png">
-				<h2>Plant A Tree @OurTanjongPagar event at Blk 35A Jalan Rumah Tinggi</h2>
-			</div>
-			<div class="programmes__item__detail">
-				<ul>
-					<li><strong>Date: 3 July 2023 - 27 August 2023</strong></li>
-					<li><strong>Admission: Free (registration required)</strong></li>
-					<li><strong>Venue: 35A Jalan Rumah Tinggi</strong></li>
-					<li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
-				</ul>
-			</div>
-			<div class="programmes__item__body">
-				<p>Join Plant A Tree @OurTanjongPagar, a year-long campaign to plant an additional 1.000 trees together with the resident in Tanjong Pagar town
-			</p>
-			</div>
-		</div>
-		<div class="programmes__item__actions">
-			<a class="button-primary">Find out more</a>
-			<a class="button-secondary">Register</a>
-		</div>
-	</div>
+  <!-- Forest Stream Walk and Survery -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupforest.jpg">
+        <h2>Forest stream walk and survey</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1, 7, 14, 21, 28 July, 7:15 pm – 8:30 pm</strong>
+          </li>
+          <li><strong>Admission: Adult: $49, Child: $37</strong></li>
+          <li>
+            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+          </li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Night falls and sheltered by majestic fruit trees and overgrown grass,
+          it’s easy to forget where one is. A humble, snaking stream turns into
+          an adventurous…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-stream-walk-and-survey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Night explorations: Mangrove Night Walk with Naturalist Guide -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tup-nightmangrove.jpg">
+        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July, 8:00
+              pm-10:00 pm
+            </strong>
+          </li>
+          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          At dusk, step onto a boardwalk through a pitch-dark mangrove forest
+          and begin an immersive exploration to spot mangrove inhabitants such
+          as horseshoe crabs, vinegar crabs…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupspot.png">
+        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
+              30, 31 July, 8:00 pm – 10:00 pm
+            </strong>
+          </li>
+          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Venue: Bukit Batok Park</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          This exploration will be conducted at night, when the forest comes to
+          life! With our senses, we will pick out the creatures of the night,
+          appreciate…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Orchid Garden Tour -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/orchid%20garden%20tour.jpg">
+        <h2>Orchid Garden Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 15 July, 09:00am</strong></li>
+          <li>
+            <strong>
+              Admission: Admission fees into the National Orchid Garden applies.
+              Check fees here:
+              https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden
+            </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Singapore Botanic Gardens, National Orchid Garden
+            </strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Explore the diversity of orchids with our volunteer guides. Take in
+          the beauty of over 1,000 species and 2,000 hybrids of orchids…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/orchid-garden-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Gallop Extension Tour -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gallop%20extension.jpg">
+        <h2>Gallop Extension Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 15 July, 09:00am</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Singapore Botanic Gardens, Visitor Services Counter at
+              Gallop Extension (Nearest Entrance: Gallop Gate)
+            </strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join us for a guided walk through the Gallop Extension of the
+          Singapore Botanical Gardens, viewing unique collections and galleries
+          along the trail.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/gallop-extension-tour" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Nature and heritage guided walk at Rail Corridor (Central) -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpg">
+        <h2>Nature and heritage guided walk at Rail Corridor (Central)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 15 July, 9:30am – 11:00am</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li>
+            <strong>Venue: Bukit Timah Railway Station</strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Discover how a 24km long continuous green passage allows wildlife
+          movement between major green spaces and still serves as a recreational
+          corridor for members…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-heritage-guided-walk-at-rail-corridor-central" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Nature Appreciation walk at Rifle Range Nature Park -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/nature%20appreciation%20walk%20at%20rifle%20range%20nature%20park.jpg">
+        <h2>Nature Appreciation walk at Rifle Range Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 15 July, 9:30am – 10:30am</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>Venue: Rifle Range Nature Park</strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Look forward to unique trails, birdwatching spots, scenic quarry
+          wetlands and beautiful aerial views at the Rifle Range Nature Park!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-appreciation-walk-at-rifle-range-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Make the Switch: The Quest for Greener Land Transport -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
+        <h2>Make the Switch: The Quest for Greener Land Transport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 1-28 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Singapore Mobility Gallery
+              <br>
+              1 Hampshire Road, Block 1 Level 1
+            </strong>
+          </li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join our Eco-warriors to fight climate change by completing a series
+          of quests at the children’s exhibition on greener commutes…
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-the-switch-the-quest-for-greener-land-transport" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Sustainability at School: A Look at NUS’ Net Zero & Net Positive Energy Buildings -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/use%20this%20photo%20question%20111%20-%20nus_sde1_finbarr_fallon_14.jpg">
+        <h2>
+          Sustainability at School: A Look at NUS’ Net Zero &amp; Net Positive
+          Energy Buildings
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 July, 9:00 am – 10:30 am and 11:00 am – 12:30 pm
+            </strong>
+          </li>
+          <li>
+            <strong>Admission: Free</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: National University of Singapore
+              <br>
+              NUS SDE4 Level 4
+              <br>
+              8 Architecture Drive, 117356
+            </strong>
+          </li>
+          <li><strong>Organiser: National University of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Find out how NUS is leading the way for a sustainably-designed future
+          in this special tour of its Net Zero and Net-Positive energy
+          buildings.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-at-school-a-look-at-nus-net-zero-and-net-positive-energy-buildings/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+  <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/learning%20forest%20tour.jpg">
+        <h2>
+          Boat Tour to Singapore’s largest floating solar farm at Tengeh
+          Reservoir
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 13, 20, 27 July, 9:30 am - 11:30 am</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Environment Building, 40 Scotts Road, Singapore 228231
+            </strong>
+          </li>
+          <li>
+            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
+          Singapore’s National Water Agency PUB produces clean water from clean
+          energy
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
