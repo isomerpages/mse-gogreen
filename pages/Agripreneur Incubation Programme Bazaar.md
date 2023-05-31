@@ -7,7 +7,7 @@ description: ""
 
 **Curious about what kind of business ideas the agri-preneurs from Singapore University of Social Sciences (SUSS) are developing? Join the bazaar, listen to their pitch, and buy some food made with the harvest from the SUSS Experiential Urban Farm!**
 
-**Date:** 22 July 2023, 4:00 pm – 7:00 pm<br>
+**Date:** 22 July, 4:00 pm – 7:00 pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Outside SUSS Starbucks, 461 Clementi Road<br>
 **Organiser:**  Singapore University of Social Sciences (SUSS)
