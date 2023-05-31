@@ -22,7 +22,7 @@ Changi Water Reclamation Plant, at the heart of DTSS Phase 1, is a state-of-the-
 This tour is exclusively for Singapore citizens, permanent residents, and holders of ICA-approved and MOM-approved passes with a valid FIN number, including holders of employment pass, student pass, work permit, or dependent pass. Please note that this is strictly a bus tour and there will be no alighting from the bus along this tour.
 This tour is only open to visitors who are 18 years old and above. 
 
-<a class="btn-link" href="https://form.gov.sg/64588df09b4f4a0013285257">
+<a target="_blank" class="btn-link" href="https://form.gov.sg/64588df09b4f4a0013285257">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
