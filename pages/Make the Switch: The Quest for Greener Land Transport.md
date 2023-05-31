@@ -7,10 +7,10 @@ description: ""
 
 **Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.**
 
-Date: 1 - 28 July, Mondays to Fridays 9:30 am – 5:00 pm<br>
-Admission: Free (registration required)<br>
-Venue: Singapore Mobility Gallery<br>1 Hampshire Road, Block 1 Level 1<br>
-Organiser:  Land Transport Authority (LTA)
+**Date:** 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Singapore Mobility Gallery<br>1 Hampshire Road, Block 1 Level 1<br>
+**Organiser:**  Land Transport Authority (LTA)
 
 Our planet has been warming significantly, accelerating climate change. One of the main culprits is uncontrolled greenhouse gas emissions, much of which is created by human activity. This includes activities from the land transport sector.
 Find out how you can reduce your carbon footprint and fight the climate crisis at the “Make the Switch: The Quest for Greener Land Transport” physical exhibition at the Singapore Mobility Gallery (SMG)!
