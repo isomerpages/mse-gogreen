@@ -7,10 +7,10 @@ description: ""
 
 **Explore the diversity of orchids with our volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.**
 
-Date: 15 July, 09:00am<br>
-Admission: Admission fees into the National Orchid Garden applies. Check fees here: [https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden](https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden)<br>
-Venue: Singapore Botanic Gardens, National Orchid Garden <br>
-Organiser: National Parks Board
+**Date:** 15 July, 09:00am<br>
+**Admission:** Admission fees into the National Orchid Garden applies. Check fees here: [https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden](https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden)<br>
+**Venue:** Singapore Botanic Gardens, National Orchid Garden <br>
+**Organiser:** National Parks Board
 
 Since 1859, orchids have been closely associated with the Gardens. The products of the Gardens' orchid breeding programme, which began in 1928, deserve a place where they can be displayed in their full splendour. 
 
