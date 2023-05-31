@@ -23,6 +23,10 @@ Join students of the SUSS Agri-preneur Incubation Programme at their bazaar wher
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
