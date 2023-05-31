@@ -85,6 +85,38 @@ third_nav_title: Initiatives
 </style>
 
 <div class="row row_custom">
+  <!-- Community Composting Volunteer Programme @ JLG -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/community%20composting%20volunteer%20programme.jpg">
+        <h2>Community Composting Volunteer Programme @ JLG</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 8 &amp; 22 July, 9:00am - 10:00am</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join us at the Community Compost Corner at Jurong Lake Gardens and
+          help to create compost from food scraps and plant trimmings.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/community-composting-volunteer-programme-jlg" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- Edible Gardening and Management @ Jurong Lake Gardens -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
