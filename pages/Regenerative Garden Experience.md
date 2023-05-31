@@ -24,7 +24,9 @@ This experience is recommended for adults, children 10 years old and above, and 
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
