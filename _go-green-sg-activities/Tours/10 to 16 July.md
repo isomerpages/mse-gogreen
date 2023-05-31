@@ -259,8 +259,8 @@ third_nav_title: Tours
               Date: 8, 15, 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Jurong East MRT</strong></li>
-          <li><strong>National Environment Agency</strong></li>
+          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -271,6 +271,36 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/journey-into-glass-recycling-with-abraclean/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
+        <h2>Turning waste to energy: TuasOne Waste To Energy Plant Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 11, 25 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
+          <li><strong>Organiser: Otolith Enrichment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       How does Singapore deal with the huge volume of waste we generate every day? Learn how Singapore’s efficient waste disposable system reduces solid waste by 90% and powers the country at the same time.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/creuse-wood-upcycling-journey/" class="button-primary">
         Find out more
       </a>
     </div>
