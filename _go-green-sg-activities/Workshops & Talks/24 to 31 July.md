@@ -102,8 +102,7 @@ third_nav_title: Workshops & Talks
           </li>
           <li>
             <strong>
-              Admission: $88 for OneTee, $128 for twOtee, $88 for pack sized
-              bag, $108 for pack sized bag + pOcuts
+              Admission: $88 - $128
             </strong>
           </li>
           <li>
@@ -134,7 +133,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 20, 27 July 2023</strong>
+            <strong>Date: 27 July 2023</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
