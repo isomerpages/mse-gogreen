@@ -23,7 +23,7 @@ sections:
       alt: Go Green Tours
       image: /images/go-green-tours-3.png
   - infopic:
-      title: Go Green Workshops & Talks
+      title: Go Green <br>Workshops & Talks
       description: Engage in hands-on activities and listen to sustainability conferences.
       button: Learn more
       image: /images/go-green-workshops-talks-3.png
