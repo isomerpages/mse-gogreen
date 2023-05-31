@@ -228,7 +228,7 @@ third_nav_title: Initiatives
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 3 - 31 July</strong></li>
+          <li><strong>Date: TBC</strong></li>
                     <li><strong>Venue: 85 Dawson Road</strong></li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
         </ul>
