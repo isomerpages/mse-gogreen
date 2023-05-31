@@ -296,7 +296,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="//zero-to-hero-food-sustainability-tour/" class="button-primary">
+      <a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">
         Find out more
       </a>
     </div>
