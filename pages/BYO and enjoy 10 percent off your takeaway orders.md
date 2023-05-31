@@ -25,6 +25,10 @@ In support of Go Green SG, the vegetarian cafe will offer a 10% discount for eve
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
