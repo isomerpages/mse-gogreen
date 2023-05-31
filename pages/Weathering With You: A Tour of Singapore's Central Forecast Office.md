@@ -22,7 +22,7 @@ Participants must be 12 years old and above. This facility is not accessible by 
 
 
 <a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/cgs-experiences">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
