@@ -161,7 +161,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8
+              Date: 1, 4, 6, 8 July
             </strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
@@ -312,7 +312,7 @@ third_nav_title: Tours
           <li>
             <strong>
               Venue: Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan
-              Road East S608608
+              Road East
             </strong>
           </li>
           <li><strong>Organiser: Tribe Ptd Ltd</strong></li>
@@ -454,7 +454,7 @@ third_nav_title: Tours
               <br>
               Visitor Centre
               <br>
-              60 Kranji Way, Singapore 739453
+              60 Kranji Way
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -665,7 +665,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: ComCrop, Rooftop 15 Woodlands Loop, Singapore 728322
+              Venue: ComCrop, Rooftop 15 Woodlands Loop
             </strong>
           </li>
           <li><strong>Organiser: ComCrop</strong></li>
