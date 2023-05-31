@@ -484,8 +484,8 @@ third_nav_title: Tours
               Date: 8, 15, 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Jurong East MRT</strong></li>
-          <li><strong>National Environment Agency</strong></li>
+          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -496,6 +496,35 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/journey-into-glass-recycling-with-abraclean/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/wood%20upcycling%20journey.jpg">
+        <h2>CREUSE Wood Upcycling Journey</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8, 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: No. 3 Fourth Lok Yang Road</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        See how damaged wooden pallets that are seemingly beyond repair can be transformed into useful lifestyle products.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/creuse-wood-upcycling-journey/" class="button-primary">
         Find out more
       </a>
     </div>
