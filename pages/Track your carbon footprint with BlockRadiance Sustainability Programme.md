@@ -25,7 +25,7 @@ https://apps.apple.com/sg/app/planetsustain/id1672527905
 
 
 <a target="_blank" class="btn-link" href="https://www.blockradiance.com/PlanetSustain-1">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
