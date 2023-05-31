@@ -25,7 +25,9 @@ Explore the main Gallery too for a behind-the-scenes look at how LTA plans, desi
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
