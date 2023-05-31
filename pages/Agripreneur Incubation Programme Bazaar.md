@@ -14,7 +14,7 @@ Organiser:  Singapore University of Social Sciences  (SUSS)
 
 Join students of the SUSS Agri-preneur Incubation Programme at their bazaar where they showcase their business ideas, pitch to customers, and sell their products or services. Come and check out what our young aspiring students are up to, and also sample some delicious food made with the fresh harvest from the SUSS Experiential Urban Farm! 
 
-<a class="btn-link" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
+<a class="btn-link" target="_blank" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
