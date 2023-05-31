@@ -16,17 +16,17 @@ Fashion The Change 2023 showcases a collection of youths’ ideas and visions on
 
 Located within Design Orchard, the exhibition brings together a blend of fashion sustainability and innovation to showcase various medium of fashion.
 
-<!--
-<a href="#" class="btn-link">
+<a target="_blank" class="btn-link" href="#">
 	<img src="/images/gogreensg_website-32.png">
 </a>
--->
 
 <style>
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
