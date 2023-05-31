@@ -7,21 +7,16 @@ description: ""
 
 **Experience GINLEE's latest circular initiative - /\/\/\ake O, where our in-house professionals will guide you to customize your very own pleated bag on-demand or repurpose your unwanted t-shirts to create a Tee Bag that is furnished with specially printed 3D-handles**
 
-Date: 1-31 July<br>
-11:30 am - 1:00 pm<br>
-2:30 pm - 4:00 pm<br>
-4:00 pm - 5:30 pm
+**Date:** 1 - 31 July, 11:30 am - 1:00 pm | 2:30 - 4:00 pm | 4:00 - 5:30 pm
 <br>
-Admission:<br>
-Tee-tO-bag workshop<br>
-$88 for OneTee<br>
-$128 for twOtee <br>
-cOts Experience<br>
-$88 for pack sized bag<br>
-$108 for pack sized bag + pOcuts
+**Admission:**<br>
+***Tee-tO-bag workshop***<br>
+$88 for OneTee | $128 for twOtee <br>
+***cOts Experience***<br>
+$88 for pack sized bag | $108 for pack sized bag + pOcuts
 <br>
-Venue: GINLEE Studio, National Design Centre #03-05<br>
-Organiser: GINLEE Studio
+**Venue:** GINLEE Studio, National Design Centre #03-05<br>
+**Organiser:** GINLEE Studio
 
 With its thoughtful design and sustainable production process, GINLEE’s _/\/\/\ake O workshop breaks through the noise in an industry saturated by fast fashion, to create a space for customers to reimagine how good design can reduce waste and transform the unwanted into unique products.
  
