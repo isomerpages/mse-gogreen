@@ -19,7 +19,7 @@ The Green Label programme is a certification scheme which identifies sustainable
 T&amp;Cs apply, while stocks last.
 
 <a class="btn-link" target="_blank" href="https://www.foodpanda.sg/campaigns?url_key=green-label-restos">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
