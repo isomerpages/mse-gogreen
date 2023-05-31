@@ -3,8 +3,7 @@ title: Race on Sunshine – Discovering Solar Energy
 permalink: /race-on-sunshine-discovering-solar-energy/
 description: ""
 ---
-
-
+![](/images/Tours/race%20on%20sunshine.jpg)
 **Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.**
 
 Date: 1, 8, 15, 22 July, 3:00 – 5:00 pm<br>
