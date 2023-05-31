@@ -18,7 +18,7 @@ Bring your food scraps from home such as fruit peels, vegetable trimmings and co
 
 This activity is open to everyone.
 
-Community Composting @ Jurong Lake Gardens (volunteer.gov.sg)
+
 
 <a class="btn-link" target="_blank" href="https://www.volunteer.gov.sg/volunteer/opportunity/details/?id=9273df97-187c-ed11-aa05-a1feb0251406">
 	<img src="/images/gogreensg_website-32.png">
