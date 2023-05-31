@@ -3,7 +3,7 @@ title: Youth4Climate Festival 2023
 permalink: /youth4climate-festival-2023/
 description: ""
 ---
-![](/images/Events/question%20110%20-%20cdl%20logo%20(high%20res).jpg)
+![](/images/Events/y4c%20logo.png)
 
 **Enjoy musical performances, movie screenings, talks, workshops, a flea market and exciting activities organised by youths and groups with a passion for going green.**
 
