@@ -88,7 +88,7 @@ third_nav_title: Workshops & Talks
 </style>
 
 <div class="row row_custom">
-  <!-- Make O -->
+  <!-- /\/\/\ake O -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -98,7 +98,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1-31 July</strong>
+            <strong>Date: 1 - 31 July</strong>
           </li>
           <li>
             <strong>
@@ -168,7 +168,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 08 July, 9:00 am – 11:00 am</strong>
+            <strong>Date: 8 July, 9:00 am – 11:00 am</strong>
           </li>
           <li><strong>Admission: $20</strong></li>
           <li>
