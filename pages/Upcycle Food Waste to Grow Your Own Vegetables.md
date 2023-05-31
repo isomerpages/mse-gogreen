@@ -15,7 +15,7 @@ Organiser: Holocene Pte Ltd
 This workshop aims to cultivate an appreciation for circular economy principles by educating participants on how food waste can be upcycled into organic compost to grow edible greens. 
 Participants will enjoy a hands-on community gardening experience and get to grow their own vegetables. This workshop is held in support of Singapore's “Grow Local” initiative and “30 by 30”  food security vision.
 
-<a class="btn-link" href="https://docs.google.com/forms/d/1JbMmXIk_6Zhmi1g7ZmEkAQ2nIgtKvKbOwxTGnzk6otc/viewform?edit_requested=true">
+<a target="_blank" class="btn-link" href="https://docs.google.com/forms/d/1JbMmXIk_6Zhmi1g7ZmEkAQ2nIgtKvKbOwxTGnzk6otc/viewform?edit_requested=true">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
