@@ -100,10 +100,6 @@ third_nav_title: Challenges & Deals
           <li>
             <strong>Date: 1-31 July</strong>
           </li>
-          <li><strong>Admission: N/A</strong></li>
-          <li>
-            <strong>Venue: NIL</strong>
-          </li>
           <li><strong>Organiser: Foodpanda</strong></li>
         </ul>
       </div>
