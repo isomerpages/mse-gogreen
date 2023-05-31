@@ -98,7 +98,7 @@ third_nav_title: Challenges & Deals
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1-31 July</strong>
+            <strong>Date: 1 - 31 July</strong>
           </li>
           <li><strong>Organiser: Foodpanda</strong></li>
         </ul>
@@ -126,7 +126,7 @@ third_nav_title: Challenges & Deals
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1-31 July</strong>
+            <strong>Date: 1 - 31 July</strong>
           </li>
           <li><strong>Admission: Registration not required</strong></li>
           <li>
@@ -158,17 +158,15 @@ third_nav_title: Challenges & Deals
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 1-31 July</strong></li>
-          <li><strong>Admission: N/A</strong></li>
-          <li><strong>Venue: N/A</strong></li>
+          <li><strong>Date: 1 - 31 July</strong></li>
+          <li><strong></strong></li>
+          <li><strong></strong></li>
           <li><strong>Organiser: SusGain</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Earn points and stand a chance to win prizes by joining susGain’s
-          ‘Let’s Go Green’ App Challenge! Make an impact - redeemed points go
-          towards...
+          Earn points and stand a chance to win prizes by joining susGain’s ‘Let’s Go Green’ App Challenge! Make an impact - redeemed points go towards climate and humanitarian efforts.
         </p>
       </div>
     </div>
@@ -190,17 +188,15 @@ third_nav_title: Challenges & Deals
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 1-31 July</strong></li>
-          <li><strong>Admission: N/A</strong></li>
-          <li><strong>Venue: N/A</strong></li>
+          <li><strong>Date: 1 - 31 July</strong></li>
+          <li><strong></strong></li>
+          <li><strong></strong></li>
           <li><strong>Organiser: InvoSystems Solutions Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Earn points and stand a chance to win prizes by joining susGain’s
-          ‘Let’s Go Green’ App Challenge! Make an impact - redeemed points go
-          towards...
+          Kickstart sustainable habits with the PlanetSustain app. Track your carbon footprint and identify ways to reduce it by practising responsible consumption and reducing energy usage.
         </p>
       </div>
     </div>
