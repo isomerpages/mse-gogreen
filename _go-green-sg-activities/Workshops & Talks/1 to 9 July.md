@@ -134,7 +134,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 8 July, 11:00 am to 12:30pm</strong>
+            <strong>Date: 8 July</strong>
           </li>
           <li><strong>Admission: $10 per pax</strong></li>
           <li>
@@ -166,7 +166,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 8 July, 9:00 am – 11:00 am</strong>
+            <strong>Date: 8 July</strong>
           </li>
           <li><strong>Admission: $20</strong></li>
           <li>
