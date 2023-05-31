@@ -405,6 +405,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/old%20gadgets%202.jpg">
+        <h2>Old gadgets, new life: TES ewaste recycling journey
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd, 9 Benoi Sector</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Find out how precious metals in electronic waste (e-waste) are recovered and how they can be recycled into reusable materials.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/old-gadgets-new-life-tes-ewaste-recycling-journey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Orchid Garden Tour -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
