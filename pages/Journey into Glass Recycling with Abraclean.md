@@ -7,9 +7,9 @@ description: ""
 
 **Can glass be recycled? Learn how Abraclean turns glass into useful products such as “Abrablast” and construction materials in this glass recycling journey.**
 
-Date: 8, 15, 22 July 2023, 10:00am – 11:30 am<br>
+Date: 8, 15, 22 July 2023, 10:00 – 11:30 am<br>
 Admission: Free (registration required)<br>
-Venue: Jurong East MRT.<br>
+Venue: Jurong East MRT<br>
 Organiser:  National Environmental Agency
 
 Find out how this glass recycling facility processes glass waste into “Abrablast”, a recycled glass abrasive which can be used for blasting and coating.
@@ -19,7 +19,7 @@ Since the facility began operating in 2021, Abraclean has been diverting glass w
 Participants must be 9 years old and above. This facility   is not accessible by wheelchair. Participants must wear covered shoes and long pants. 
 
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/what-we-do/cgs2022/experiences">
+<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
