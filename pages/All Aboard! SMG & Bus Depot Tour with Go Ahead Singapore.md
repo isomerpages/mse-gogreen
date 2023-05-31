@@ -29,6 +29,10 @@ Join us for a journey into the world of sustainable transport and discover how y
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
