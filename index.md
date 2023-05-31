@@ -30,14 +30,14 @@ sections:
       alt: Image alt text
       url: /programmes/workshops-and-talks/
   - infopic:
-      title: Go Green Events
+      title: Go Green <br>Events
       description: Enjoy a fun-packed day at festivals and shows.
       button: Learn more
       alt: Image alt text
       image: /images/go-green-events-3.png
       url: /programmes/events/
   - infopic:
-      title: Go Green Retail & Dining
+      title: Go Green <br>Retail & Dining
       description: Treat yourself with sustainable goodies and farm-to-table experiences.
       button: Learn More
       url: /programmes/retail-and-dining/
@@ -51,7 +51,7 @@ sections:
       alt: Image alt text
       image: /images/go-green-challenges-deals-3.png
   - infopic:
-      title: Go Green Initiatives
+      title: Go Green <br>Initiatives
       description: Become an advocate for sustainability in your community.
       button: Learn More
       url: /programmes/initiatives/
