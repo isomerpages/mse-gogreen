@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 5, 12, 19, 26 July, 4:00 – 6:00 pm <br>
 **Admission:** Free (registration required)<br>
-**Venue:** Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road<br>
+**Venue:** Jurong Lake Gardens, Lakeside Garden<br>
 **Organiser:** National Parks Board
 
 Are you keen to pick up gardening or want to know more about caring for edible plants?
