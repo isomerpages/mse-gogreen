@@ -22,7 +22,9 @@ Mangroves are guardians of the coast, breaking waves and holding the shoreline t
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
