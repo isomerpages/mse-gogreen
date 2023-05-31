@@ -98,7 +98,7 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1, 7, 14, 21, 28 July, 7:15 pm – 8:30 pm</strong>
+            <strong>Date: 1, 7, 14, 21, 28 July</strong>
           </li>
           <li><strong>Admission: Adult: $49, Child: $37</strong></li>
           <li>
@@ -109,9 +109,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass,
-          it’s easy to forget where one is. A humble, snaking stream turns into
-          an adventurous…
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
         </p>
       </div>
     </div>
@@ -132,8 +130,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July, 8:00
-              pm-10:00 pm
+              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July
             </strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
@@ -143,9 +140,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          At dusk, step onto a boardwalk through a pitch-dark mangrove forest
-          and begin an immersive exploration to spot mangrove inhabitants such
-          as horseshoe crabs, vinegar crabs…
+          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
         </p>
       </div>
     </div>
@@ -167,7 +162,7 @@ third_nav_title: Tours
           <li>
             <strong>
               Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
-              30, 31 July, 8:00 pm – 10:00 pm
+              30, 31 July
             </strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
@@ -177,9 +172,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          This exploration will be conducted at night, when the forest comes to
-          life! With our senses, we will pick out the creatures of the night,
-          appreciate…
+          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
         </p>
       </div>
     </div>
@@ -198,12 +191,10 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 15 July, 9:00am</strong></li>
+          <li><strong>Date: 15 July</strong></li>
           <li>
             <strong>
               Admission: Admission fees into the National Orchid Garden applies.
-              Check fees here:
-              https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden
             </strong>
           </li>
           <li>
@@ -216,8 +207,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Explore the diversity of orchids with our volunteer guides. Take in
-          the beauty of over 1,000 species and 2,000 hybrids of orchids…
+          Explore the diversity of orchids with our volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.
         </p>
       </div>
     </div>
@@ -236,7 +226,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 15 July, 9:00am</strong></li>
+          <li><strong>Date: 15 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -272,7 +262,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 15 July, 9:30am – 11:00am</strong></li>
+          <li><strong>Date: 15 July</strong></li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>Venue: Bukit Timah Railway Station</strong>
@@ -282,9 +272,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover how a 24km long continuous green passage allows wildlife
-          movement between major green spaces and still serves as a recreational
-          corridor for members…
+          Discover how a 24km long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!
         </p>
       </div>
     </div>
@@ -303,7 +291,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 15 July, 9:30am – 10:30am</strong></li>
+          <li><strong>Date: 15 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -351,8 +339,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series
-          of quests at the children’s exhibition on greener commutes…
+          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
         </p>
       </div>
     </div>
@@ -376,7 +363,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 15 July, 9:00 am – 10:30 am and 11:00 am – 12:30 pm
+              Date: 15 July
             </strong>
           </li>
           <li>
@@ -420,7 +407,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 13, 20, 27 July, 9:30 am - 11:30 am</strong></li>
+          <li><strong>Date: 13, 20, 27 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -438,7 +425,7 @@ third_nav_title: Tours
         <p>
           Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
           Singapore’s National Water Agency PUB produces clean water from clean
-          energy
+          energy.
         </p>
       </div>
     </div>
