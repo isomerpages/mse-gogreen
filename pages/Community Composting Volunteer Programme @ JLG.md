@@ -28,7 +28,9 @@ Community Composting @ Jurong Lake Gardens (volunteer.gov.sg)
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
