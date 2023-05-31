@@ -25,6 +25,10 @@ Join us in our tree planting efforts in Singapore’s streetscapes, gardens, par
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	
 	.btn-link > img {
 		width: 100%;
 	}
