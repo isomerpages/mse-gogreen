@@ -17,7 +17,7 @@ third_nav_title: Challenges & Deals
     justify-content: space-between;
   }
 
-  .programmes__item___header > img {
+  .programmes__item__header > img {
     margin: 0;
     width: 255px;
     height: 191px;
