@@ -198,7 +198,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 4,5,6,7,8,9,20,21,22 July</strong></li>
+          <li><strong>Date: 4, 5, 6, 7, 8, 9, 20, 21, 22 July</strong></li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
           <li><strong>Venue: Changi Beach</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
@@ -227,7 +227,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8,9 July</strong></li>
+          <li><strong>Date: 8, 9 July</strong></li>
           <li><strong>Admission: $20 per pax</strong></li>
           <li>
             <strong>Venue: Marina Bay Sands and Gardens by the Bay</strong>
@@ -361,7 +361,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 1-28 July</strong></li>
+          <li><strong>Date: 1 - 28 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -397,7 +397,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22 July 2023, 2:00 pm – 4:00 pm</strong></li>
+          <li><strong>Date: 22 July, 2:00 pm – 4:00 pm</strong></li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
