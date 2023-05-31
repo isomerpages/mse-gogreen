@@ -24,6 +24,10 @@ Join this exclusive behind the scenes tour to visit the sustainable developments
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	
 	.btn-link > img {
 		width: 100%;
 	}
