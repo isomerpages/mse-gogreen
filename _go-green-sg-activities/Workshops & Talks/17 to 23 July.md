@@ -173,11 +173,11 @@ third_nav_title: Workshops & Talks
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Singapore University of Social Sciences, Seminar Room at Block C Level 5 Number 7. 463 Clementi Rd
+              Venue: Singapore University of Social Sciences (SUSS), Seminar Room at Block C Level 5 Number 7. 463 Clementi Rd
             </strong>
           </li>
           <li>
-            <strong>Organiser: Singapore University of Social Sciences</strong>
+            <strong>Organiser: SUSS</strong>
           </li>
         </ul>
       </div>
