@@ -278,7 +278,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/weathering%20with%20you.png">
+        <h2>Weathering With You: A Tour of Singapore's Central Forecast Office
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 28 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2, outside Starbucks</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Ever wondered where your daily weather forecasts come from? Or curious about the work of a weather forecaster? Visit the Meteorological Service Singapore’s Central Forecast Office to find out more!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/weathering-with-you/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- Learn Interesting Facts about High grade Reclaimed Water at NEWater Visitor Centre -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
