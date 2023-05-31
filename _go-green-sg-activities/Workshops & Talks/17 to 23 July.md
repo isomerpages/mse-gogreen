@@ -134,7 +134,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 22 Jul, 2:00 pm – 05:00 pm</strong>
+            <strong>Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
@@ -169,7 +169,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 22 July 2023, 9:00 am – 12:00 pm</strong>
+            <strong>Date: 22 July 2023</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
@@ -207,7 +207,7 @@ third_nav_title: Workshops & Talks
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 20, 27 July 2023, 7:00 pm – 9:00 pm</strong>
+            <strong>Date: 20, 27 July 2023</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
