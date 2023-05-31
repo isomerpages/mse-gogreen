@@ -8,7 +8,7 @@ description: ""
 **Younger children can look forward to appreciating and learning Singapore’s native biodiversity in our forest through this programme.**
 
 **Date:** 8 July, 9:30 – 10:30 am<br>
-**Admission:** $10 per child (registration required)<br>(includes a Nature Journal, Crayons, Sling bag)<br>Accompanying parent(s) can attend for free<br>
+**Admission:** $10 per child (registration required), Accompanying parent(s) can attend for free<br>(includes a Nature Journal, Crayons, Sling bag)<br>
 **Venue:** Bukit Timah Nature Reserve (meet at Visitor Centre)<br>
 **Organiser:** National Parks Board
 
