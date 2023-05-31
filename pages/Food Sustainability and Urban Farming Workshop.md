@@ -16,7 +16,7 @@ Worried about food security? Curious about how technology can help Singapore bec
 
 The Director of Nutrious Farms, the industrial partner of SUSS developing Agri-Preneur Incubation Programme  , will be sharing on Singapore's 30 by 30 vision  and strategies, different farming systems and automated technologies. Through the workshop, participants will gain a better understanding of the local agriculture industry’s efforts to strengthen food security.
 
-<a class="btn-link" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
+<a target="_blank" class="btn-link" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -24,7 +24,9 @@ The Director of Nutrious Farms, the industrial partner of SUSS developing Agri-P
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
