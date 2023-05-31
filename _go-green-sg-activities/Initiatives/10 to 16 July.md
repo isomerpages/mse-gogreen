@@ -17,9 +17,12 @@ third_nav_title: Initiatives
     justify-content: space-between;
   }
 
-  .programmes__item___header > img {
+    .programmes__item___header > img {
     margin: 0;
-    width: 100%;
+		width: 255px;
+		height: 191px;
+		object-fit: cover;
+		object-position: center;
   }
 
   .programmes__item__header > h2 {
