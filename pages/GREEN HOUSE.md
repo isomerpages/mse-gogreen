@@ -18,7 +18,7 @@ Visitors will also get to participate in workshops and talks such as understandi
  
 Come join us if you're new to sustainable living or are looking to deepen your knowledge and make a difference.
 
-<a class="btn-link" href="www.pass-it-on.co/green-house">
+<a class="btn-link" target="_blank" href="www.pass-it-on.co/green-house">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -26,7 +26,9 @@ Come join us if you're new to sustainable living or are looking to deepen your k
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
