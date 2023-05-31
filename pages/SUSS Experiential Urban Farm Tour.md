@@ -24,7 +24,9 @@ For just a day this July, this farm will be open for all to visit and learn. Don
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
