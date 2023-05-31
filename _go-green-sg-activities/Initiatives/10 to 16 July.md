@@ -97,7 +97,7 @@ third_nav_title: Initiatives
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 14 July, 2:30pm - 4:30pm</strong></li>
+          <li><strong>Date: 14 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -130,7 +130,7 @@ third_nav_title: Initiatives
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 5, 12, 19, 26 July, 4:00 pm – 6:000 pm</strong>
+            <strong>Date: 5, 12, 19, 26 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
