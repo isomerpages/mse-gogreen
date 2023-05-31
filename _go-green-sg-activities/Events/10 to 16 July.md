@@ -98,7 +98,7 @@ third_nav_title: Events
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 3 - 14 July, 10:30am - 9:30pm</strong>
+            <strong>Date: 3 - 14 July</strong>
           </li>
           <li><strong>Admission: Free (registration not required)</strong></li>
           <li>
