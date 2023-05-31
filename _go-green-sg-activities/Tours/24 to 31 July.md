@@ -184,7 +184,7 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-	
+
   <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -334,6 +334,36 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/weathering-with-you/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/semakau%20landfill.jpg">
+        <h2>Where Singapore’s waste goes: A tour of Semakau Landfill
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 27, 29 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       An engineering marvel and haven for biodiversity, don’t miss this rare opportunity to visit Semakau, Singapore’s offshore landfill.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/a-tour-of-semakau-landfill/" class="button-primary">
         Find out more
       </a>
     </div>
