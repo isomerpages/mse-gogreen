@@ -31,7 +31,7 @@ third_nav_title: Retail & Dining
 	
 </style>
 
-![Banner Retail &amp; Dining](/images/Programmes/banner-retail-dining-3.png)
+![](/images/Programmes/banner-retail-dining-4.png)
 
 # The hottest deals, with a <br>side of green
 Shop our specially curated list of retail and dining offers from your favourite local brands and food outlets - all with a special green twist.
