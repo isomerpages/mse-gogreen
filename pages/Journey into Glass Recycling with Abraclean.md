@@ -5,14 +5,19 @@ description: ""
 ---
 ![](/images/Tours/abraclean.jpg)
 
-<b>Can glass be recycled? Learn how Abraclean turns glass into useful products such as “Abrablast” and construction materials in this glass recycling journey. <b>
+**Can glass be recycled? Learn how Abraclean turns glass into useful products such as “Abrablast” and construction materials in this glass recycling journey.**
 
-Date: 22 July 2023, 4:00 pm – 7:00 pm<br>
+Date: 8, 15, 22 July 2023, 10:00am – 11:30 am<br>
 Admission: Free (registration required)<br>
-Venue: Outside SUSS Starbucks, 461 Clementi Road<br>
+Venue: Jurong East MRT.<br>
 Organiser:  Singapore University of Social Sciences  (SUSS)
 
-Join students of the SUSS Agri-preneur Incubation Programme at their bazaar where they showcase their business ideas, pitch to customers, and sell their products or services. Come and check out what our young aspiring students are up to, and also sample some delicious food made with the fresh harvest from the SUSS Experiential Urban Farm! 
+Find out how this glass recycling facility processes glass waste into “Abrablast”, a recycled glass abrasive which can be used for blasting and coating.
+
+Since the facility began operating in 2021, Abraclean has been diverting glass waste away from Semakau Landfill. By March 2024, Abraclean plans to recycle 3,500 tonnes of glass waste, enough to fill up seven Olympic-sized swimming pools. The tour will show how Abraclean converts trash to treasure and supports Singapore’s journey towards becoming a zero-waste nation. 
+
+Participants must be 9 years old and above. This facility   is not accessible by wheelchair. Participants must wear covered shoes and long pants. 
+
 
 <a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/what-we-do/cgs2022/experiences">
 	<img src="/images/gogreensg_website-32.png">
@@ -30,4 +35,4 @@ Join students of the SUSS Agri-preneur Incubation Programme at their bazaar wher
 	.btn-link > img {
 		width: 100%;
 	}
-</style></b></b>
+</style>
