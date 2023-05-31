@@ -24,6 +24,10 @@ Participants will enjoy a hands-on community gardening experience and get to gro
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	
 	.btn-link > img {
 		width: 100%;
 	}
