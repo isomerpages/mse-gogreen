@@ -20,7 +20,7 @@ Organiser: PUB, Singapore’s National Water Agency
 The NEWater Visitor Centre (NVC) is an education hub that promotes water sustainability in Singapore and shares how NEWater is produced. The Centre offers a fun-filled and enriching time for visitors with interactive tours and educational workshops. Customised for Go Green SG, this family-friendly programme includes a guided tour and 1-hour mini-rain garden  making workshop.
 This tour is recommended for families with kids above 6 years old.
 
-<a class="btn-link" href="https://form.gov.sg/645e0ff0f8f6650012026345">
+<a target="_blank" class="btn-link" href="https://form.gov.sg/645e0ff0f8f6650012026345">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -28,7 +28,9 @@ This tour is recommended for families with kids above 6 years old.
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
