@@ -47,7 +47,7 @@ sections:
       title: Go Green <br> Challenges & Deals
       description: Shop, save and adopt a sustainable lifestyle
       button: Learn more
-      url: /programmes/challenges-and-deals/
+      url: /programmes/challenges
       alt: Image alt text
       image: /images/go-green-challenges-deals-4.png
   - infopic:
