@@ -248,39 +248,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Marine Aquaculture Centre on St John’s Island -->
-  <div class="programmes__item col is-one-third">
+	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/marine%20aquaculture%20centre.png">
-        <h2>Marine Aquaculture Centre on St John’s Island</h2>
+        <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
+        <h2>Turning waste to energy: TuasOne Waste To Energy Plant Tour
+</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 28 July</strong>
+              Date: 11, 25 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li>
-            <strong>
-              Venue: Marine Aquaculture Centre, St John’s Island.</strong>
-          </li>
-          <li><strong>Organiser: Singapore Food Agency</strong></li>
+          <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
+          <li><strong>Organiser: Otolith Enrichment</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Curious how Singapore produces its own food despite our limited land? Learn how Singapore champions local foodfish production with a trip to the Marine Aquaculture Centre at St John’s Island!
+       How does Singapore deal with the huge volume of waste we generate every day? Learn how Singapore’s efficient waste disposable system reduces solid waste by 90% and powers the country at the same time.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/marine-aquaculture-centre-on-st-johns-island" class="button-primary">
+      <a href="/creuse-wood-upcycling-journey/" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
+
   <!-- Learn Interesting Facts about High grade Reclaimed Water at NEWater Visitor Centre -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -391,6 +389,39 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Marine Aquaculture Centre on St John’s Island -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/marine%20aquaculture%20centre.png">
+        <h2>Marine Aquaculture Centre on St John’s Island</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li>
+            <strong>
+              Venue: Marine Aquaculture Centre, St John’s Island.</strong>
+          </li>
+          <li><strong>Organiser: Singapore Food Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Curious how Singapore produces its own food despite our limited land? Learn how Singapore champions local foodfish production with a trip to the Marine Aquaculture Centre at St John’s Island!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/marine-aquaculture-centre-on-st-johns-island" class="button-primary">
         Find out more
       </a>
     </div>
