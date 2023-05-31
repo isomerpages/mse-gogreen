@@ -7,12 +7,14 @@ description: ""
 
 **Learn how to turn your orange peels into your very own natural and organic cleaners!**
 
-Date: 8 July, 11:00 am to 12:30pm<br>
-Admission: $10 per pax<br>
-Venue: 32 Simei Street 1, Level 4<br>
-Organiser: Metta Welfare Association
+**Date:** 8 July, 11:00 am - 12:30pm<br>
+**Admission:** $10<br>
+**Venue:** 32 Simei Street 1, Level 4<br>
+**Organiser:** Metta Welfare Association
 
-This workshop will raise awareness of the importance of food waste reduction by teaching participants how to turn orange peels into natural, organic multi-purpose orange enzyme cleaners. Participants will learn the full process from cutting the orange peels to bottling the orange-based cleaners. It's a wonderful bonding activity for the whole family. <br> Each participant will be entitled to an ECO draw and one lucky winner will walk away with our Eco-Prize
+This workshop will raise awareness of the importance of food waste reduction by teaching participants how to turn orange peels into natural, organic multi-purpose orange enzyme cleaners. Participants will learn the full process from cutting the orange peels to bottling the orange-based cleaners. It's a wonderful bonding activity for the whole family. 
+
+Each participant will be entitled to an ECO draw and one lucky winner will walk away with our Eco-Prize
 
 <a class="btn-link" target="_blank" href="mailto:enzyme@metta.org.sg">
 	<img src="/images/gogreensg_website-32.png">
