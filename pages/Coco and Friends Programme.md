@@ -7,10 +7,10 @@ description: ""
 
 **Younger children can look forward to appreciating and learning Singapore’s native biodiversity in our forest through this programme.**
 
-Date: 8 July, 9:30am – 10:30am<br>
-Admission: $10 per child. (registration required)<br>(includes a Nature Journal, Crayons, Sling bag)<br>Accompanying parent(s) can attend for free<br>
-Venue: Bukit Timah Nature Reserve (meet at Visitor Centre)<br>
-Organiser: National Parks Board
+**Date:** 8 July, 9:30 – 10:30 am<br>
+**Admission:** $10 per child<br>(includes a Nature Journal, Crayons, Sling bag)<br>Accompanying parent(s) can attend for free<br>
+**Venue:** Bukit Timah Nature Reserve (meet at Visitor Centre)<br>
+**Organiser:** National Parks Board
 
 Coco and Friends is a children’s programme aiming at raising understanding and awareness of Singapore’s native biodiversity found in our forests. Through the eyes of Coco the Malayan Colugo, children will embark on a nature adventure learning about Coco and his forest friends, and the plants that are useful to both man and animals. Each child will receive a Coco nature kit consisting of a creative and colourful nature journal, a set of crayons and a beautifully decorated sling bag. The guided walk will be around Hindhede Nature Park.
  
