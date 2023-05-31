@@ -44,6 +44,10 @@ Tour is suitable for all ages, families and couples!
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+		display: none;
+	}
+	
 	.btn-link > img {
 		width: 100%;
 	}
