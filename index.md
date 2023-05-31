@@ -16,7 +16,7 @@ sections:
       description: Add a splash of green to your life. Explore 100+ programmes and
         start living more sustainably today!
   - infopic:
-      title: Go Green Tours
+      title: Go Green <br>Tours
       description: Learn about Singapore's sustainability efforts
       button: Learn more
       url: /programmes/tours
