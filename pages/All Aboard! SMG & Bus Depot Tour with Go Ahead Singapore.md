@@ -9,7 +9,7 @@ description: ""
 
 Date: 8 July, 12:45pm – 4:30pm<br>
 Admission: Free (registration required)<br>
-Venue: Singapore Mobility Gallery, 1 Hampshire Road, Block 1 Level 1<br>
+Venue: Singapore Mobility Gallery<br>1 Hampshire Road, Block 1 Level 1<br>
 Organiser:  Land Transport Authority (LTA)
 
 Hop on board this exclusive tour to the Loyang Bus Depot for a look into the world of sustainable public transport with the Singapore Mobility Gallery and Go Ahead Singapore (GAS)!
