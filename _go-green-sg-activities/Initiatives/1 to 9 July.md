@@ -16,10 +16,11 @@ third_nav_title: Initiatives
     flex-direction: column;
     justify-content: space-between;
   }
-
-  .programmes__item___header > img {
+	
+  .programmes__item__header > img {
     margin: 0;
 		width: 255px;
+		background-color: red;
 		height: 191px;
 		object-fit: cover;
 		object-position: center;
