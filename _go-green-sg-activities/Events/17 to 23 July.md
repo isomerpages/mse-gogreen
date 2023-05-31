@@ -88,7 +88,7 @@ third_nav_title: Events
 </style>
 
 <div class="row row_custom">
-  <!-- Agripreneur Incubation Programme Bazaar -->
+  <!-- Agri-preneur Incubation Programme Bazaar -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -113,9 +113,7 @@ third_nav_title: Events
       </div>
       <div class="programmes__item__body">
         <p>
-          Curious about what kind of business ideas the agri-preneurs from
-          Singapore University of Social Sciences (SUSS) are developing? Join
-          the bazaar, listen to their pitch…
+         Are you curious about what kind of business ideas the SUSS agri-preneurs are developing? Join the bazaar, listen to their pitch, and buy some food made with the harvest from the SUSS Experiential Urban Farm!
         </p>
       </div>
     </div>
