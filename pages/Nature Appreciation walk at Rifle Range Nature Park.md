@@ -7,10 +7,10 @@ description: ""
 
 **Look forward to unique trails, birdwatching spots, scenic quarry wetlands and beautiful aerial views at the Rifle Range Nature Park!**
 
-Date: 15 July, 9:30am – 10:30am<br>
-Admission: Free (registration required)<br>
-Venue: Rifle Range Nature Park<br>
-Organiser: National Parks Board
+**Date:** 15 July, 9:30 – 10:30 am<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Rifle Range Nature Park<br>
+**Organiser:** National Parks Board
 
 Join us for a morning guided walk to learn about the rich variety of plants and animals found in the park. Get a chance to spot interesting types of wildlife such as the Malayan Colugo and the Stork-billed Kingfisher or hear the melodious call of the Straw-headed Bulbul. The walk will include visits to Gliders Boardwalk to view animal crossing features such as rope bridges and colugo poles, the Forest exploration corner and the Quarry Wetland, which is transformed from the former Sin Seng Quarry.
 
