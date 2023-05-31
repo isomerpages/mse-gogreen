@@ -11,7 +11,7 @@ description: ""
 Date: 30 July, 10:30 - 11:30am<br>
 Admission: Free (registration required)<br>
 Venue: Our Tampines Hub, 1 Tampines Walk<br>
-Organiser: National Environmental Agency
+Organiser: National Environment Agency
 
 Did you know that food waste accounts for about 12 per cent of the total waste generated in Singapore? In 2021, we generated 817,000 tonnes of food waste, which is equivalent to 56,000 double-decker buses! 
 
