@@ -98,7 +98,7 @@ third_nav_title: Initiatives
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 5, 12, 19, 26 July, 4:00 pm – 6:000 pm</strong>
+            <strong>Date: 5, 12, 19, 26 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
