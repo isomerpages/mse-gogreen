@@ -25,6 +25,10 @@ Join D2L.sg as a Volunteer to recover and distribute rescued food items to organ
 		display: inline-block;
 	}
 	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	
 	.btn-link > img {
 		width: 100%;
 	}
