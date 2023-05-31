@@ -162,7 +162,7 @@ third_nav_title: Events
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8 - 9 July, 10:00am - 9:00pm</strong></li>
+          <li><strong>Date: 8 - 9 July</strong></li>
           <li><strong>Admission: Free</strong></li>
           <li>
             <strong>
