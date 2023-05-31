@@ -132,7 +132,7 @@ third_nav_title: Initiatives
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1-31 July</strong>
+            <strong>Date: 1 - 31 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Various</strong></li>
@@ -161,7 +161,7 @@ third_nav_title: Initiatives
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 3-31 July</strong></li>
+          <li><strong>Date: 3 - 31 July</strong></li>
           <li><strong>Admission: N/A</strong></li>
           <li><strong>Venue: 85 Dawson Road</strong></li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
