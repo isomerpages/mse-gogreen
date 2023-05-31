@@ -99,10 +99,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July
+              Date: 11, 13, 15 July
             </strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -129,9 +129,9 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1, 7, 14, 21, 28 July</strong>
+            <strong>Date: 14 July</strong>
           </li>
-          <li><strong>Admission: Adult: $49, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
             <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
           </li>
@@ -195,7 +195,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 8, 15, 22 July</strong>
+              Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
@@ -225,8 +225,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
-              30, 31 July
+              Date: 10, 12, 14, 16 July
             </strong>
           </li>
           <li><strong>Admission: Adult: $71, Child: $37</strong></li>
@@ -256,10 +255,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 8, 15, 22 July</strong>
+              Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -286,11 +285,11 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 11, 25 July</strong>
+              Date: 11 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
-          <li><strong>Organiser: Otolith Enrichment</strong></li>
+          <li><strong>Organiser: National Environmental Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -309,7 +308,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/learning%20forest%20tour.jpg">
+        <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
           Boat Tour to Singapore’s largest floating solar farm at Tengeh
           Reservoir
@@ -317,13 +316,13 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 13, 20, 27 July</strong></li>
+          <li><strong>Date: 13 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
             <strong>
-              Venue: Environment Building, 40 Scotts Road, Singapore 228231
+              Venue: Environment Building, 40 Scotts Road 
             </strong>
           </li>
           <li>
@@ -356,10 +355,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 14, 21, 28 July</strong>
+              Date: 14 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -386,7 +385,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 14, 28 July</strong>
+              Date: 14 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Changi Airport Terminal 2, outside Starbucks</strong></li>
