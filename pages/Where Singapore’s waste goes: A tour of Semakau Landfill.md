@@ -7,8 +7,8 @@ description: ""
 
 **An engineering marvel and haven for biodiversity, don’t miss this rare opportunity to visit Semakau, Singapore’s offshore landfill**
 
-Date: 22 July, 10:00 am – 12:00 pm&nbsp;<br>
-27 July, 2:00 – 04:00 pm&nbsp;<br>
+Date: 22 July, 10:00 am – 12:00 pm <br>
+27 July, 2:00 – 04:00 pm <br>
 29 July, 10:00 am – 12:00 pm<br>
 
 Admission: Free (registration required) <br>
