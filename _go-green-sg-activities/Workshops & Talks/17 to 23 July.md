@@ -102,8 +102,8 @@ third_nav_title: Workshops & Talks
           </li>
           <li>
             <strong>
-              Admission: $88 for OneTee, $128 for twOtee, $88 for pack sized
-              bag, $108 for pack sized bag + pOcuts
+              Admission: $88 for OneTee, $128 for two tee, $88 for pack sized
+              bag, $108 for pack sized bag + po cuts
             </strong>
           </li>
           <li>
@@ -185,9 +185,7 @@ third_nav_title: Workshops & Talks
       </div>
       <div class="programmes__item__body">
         <p>
-          Come and learn how Singapore is pushing the boundaries of agriculture,
-          utilising technology and innovation to achieve greater food security,
-          and become an…
+          Come and learn how Singapore is pushing the boundaries of agriculture, utilising technology and innovation to achieve greater food security, and become an agricultural hub in the region.
         </p>
       </div>
     </div>
