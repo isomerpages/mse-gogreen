@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 8, 22 July, 9:00 – 10:00 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road<br>
+**Venue:** Jurong Lake Gardens, Lakeside Garden<br>
 **Organiser:** National Parks Board
 
 Join this community composting programme to learn how to create composts out of horticulture waste and food scraps.
