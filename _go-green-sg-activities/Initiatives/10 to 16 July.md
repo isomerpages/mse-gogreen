@@ -134,7 +134,7 @@ third_nav_title: Initiatives
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden. 50 Yuan Ching Road</strong>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
@@ -167,7 +167,7 @@ third_nav_title: Initiatives
             <strong>Date: 1 - 31 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Various</strong></li>
+          <li><strong>Venue: Various locations</strong></li>
           <li><strong>Organiser: Divert for 2nd Life (D2L.sg)</strong></li>
         </ul>
       </div>
