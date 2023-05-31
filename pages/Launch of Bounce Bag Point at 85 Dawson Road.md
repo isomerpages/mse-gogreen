@@ -26,7 +26,9 @@ TPTC will launch a new Bounce Bag Point at Blk 85 Dawson Road (outside Sheng Sio
 	.btn-link {
 		display: inline-block;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
