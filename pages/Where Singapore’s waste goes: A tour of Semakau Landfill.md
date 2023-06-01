@@ -9,10 +9,10 @@ description: ""
 
 **Date:** 22 July, 10:00 am – 12:00 pm | 27 July, 2:00 – 4:00 pm |29 July, 10:00 am – 12:00 pm<br>
 **Admission:** Free (registration required) <br>
-**Venue:** Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd <br>
+**Venue:** Pasir Panjang Ferry Terminal. 55 Pasir Panjang Rd <br>
 **Organiser:** National Environment Agency
 
-Singapore generates a huge amount of waste daily. Do you know how our waste is processed and where it eventually ends up? Located 8km off the southern coast of Singapore, find out more about the integral role this location plays in Singapore’s waste management and the important contribution everyone can make to achieve a more sustainable environment, by visiting Semakau Landfill, Singapore’s only landfill facility.
+Singapore generates a huge amount of waste daily. Do you know how our waste is processed and where it eventually ends up? Located 8 kilometres off the southern coast of Singapore, find out more about the integral role this location plays in Singapore’s waste management and the important contribution everyone can make to achieve a more sustainable environment, by visiting Semakau Landfill, Singapore’s only landfill facility.
 
 Participants must be 7 years old and above.  Children between ages 7 and 11 must be accompanied by an adult. This facility is not accessible by wheelchair.
 
