@@ -3,7 +3,7 @@ title: Nature and Heritage Guided Walk at Rail Corridor (Central)
 permalink: /nature-and-heritage-guided-walk-at-rail-corridor-central/
 description: ""
 ---
-![Nature and heritage guided walk at Rail Corridor (Central)](/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpg)
+![rail corridor](/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpeg)
 
 **Discover how a 24 kilometre long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!**
 
