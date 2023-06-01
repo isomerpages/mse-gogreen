@@ -444,7 +444,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/learning%20forest%20tour.jpg">
+        <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
           Boat Tour to Singapore’s largest floating solar farm at Tengeh
           Reservoir
