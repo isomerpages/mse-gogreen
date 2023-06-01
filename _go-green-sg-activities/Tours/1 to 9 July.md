@@ -522,7 +522,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-        Find out how this glass recycling facility processes glass waste into “Abrablast”, a recycled glass abrasive which can be used for blasting and coating.
+      Can glass be recycled? Learn how Abraclean turns glass into useful products such as “Abrablast” and construction materials in this glass recycling journey.
         </p>
       </div>
     </div>
