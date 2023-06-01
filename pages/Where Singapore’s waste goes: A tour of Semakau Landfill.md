@@ -3,7 +3,7 @@ title: "Where Singapore’s waste goes: A tour of Semakau Landfill"
 permalink: /a-tour-of-semakau-landfill/
 description: ""
 ---
-**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
 
 ![](/images/Tours/semakau%20landfill.jpg)
 
