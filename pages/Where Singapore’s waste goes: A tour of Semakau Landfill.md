@@ -7,7 +7,7 @@ description: ""
 
 **An engineering marvel and haven for biodiversity, don’t miss this rare opportunity to visit Semakau, Singapore’s offshore landfill**
 
-**Date:** 22 July, 10:00 am – 12:00 pm | 27 July, 2:00 – 4:00 pm |29 July, 10:00 am – 12:00 pm<br>
+**Date:** 22 July, 10:00 am – 12:00 pm | 27 July, 2:00 – 4:00 pm | 29 July, 10:00 am – 12:00 pm<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Pasir Panjang Ferry Terminal. 55 Pasir Panjang Rd <br>
 **Organiser:** National Environment Agency
