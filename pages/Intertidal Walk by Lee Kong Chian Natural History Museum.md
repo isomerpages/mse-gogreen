@@ -15,7 +15,7 @@ description: ""
 **Venue:** Marine South Pier<br>
 **Organiser:** National Environment Agency
 
-Explore Singapore’s diverse marine ecology through this 2-hour intertidal walk. Get your feet wet and spot hidden  marine creatures such as starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals on our sandy beaches. 
+Explore Singapore’s diverse marine ecology through this 2-hour intertidal walk. Get your feet wet and spot hidden marine creatures such as starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals on our sandy beaches. 
 
 Keep a lookout for the latest on dates and registration details on Lee Kong Chian Natural History Museum Facebook, from June to early August.
 
