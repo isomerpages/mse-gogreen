@@ -3,7 +3,9 @@ title: Food Waste Learning Journey at Our Tampines Hub
 permalink: /food-waste-oth/
 description: ""
 ---
-![](/images/Tours/food%20oth.jpg)
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
+
+![Our Tampines Hub](/images/Tours/food%20oth.jpg)
 
 **Find out how food waste from a hawker centre can be turned into something useful!**
 
