@@ -3,7 +3,7 @@ title: "Turning waste to energy: TuasOne Waste To Energy Plant Tour"
 permalink: /tuasone-waste-to-energy-plant-tour/
 description: ""
 ---
-**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
 
 ![](/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png)
 
