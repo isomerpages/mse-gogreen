@@ -561,46 +561,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Mangroves and Climate Change Tour -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/mangroves%20and%20climate%20change.png">
-        <h2>Mangroves and Climate Change Tour</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 9 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Sungei Buloh Wetland Reserve
-              <br>
-              Visitor Centre
-              <br>
-              60 Kranji Way
-            </strong>
-          </li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Learn how man and nature work together as we integrate human
-          engineering with natural mangroves to preserve our shores and
-          biodiversity for the future.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/mangroves-and-climate-change-tour" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
- 
   <!-- All Aboard! SMG & Bus Depot Tour with Go Ahead Singapore -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -777,4 +737,44 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	  <!-- Mangroves and Climate Change Tour -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mangroves%20and%20climate%20change.png">
+        <h2>Mangroves and Climate Change Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 9 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Sungei Buloh Wetland Reserve
+              <br>
+              Visitor Centre
+              <br>
+              60 Kranji Way
+            </strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn how man and nature work together as we integrate human
+          engineering with natural mangroves to preserve our shores and
+          biodiversity for the future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/mangroves-and-climate-change-tour" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+ 
 </div>
