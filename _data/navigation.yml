@@ -1,15 +1,15 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo-go-green.png
 links:
+  - title: About
+    url: /about
+    sublinks:
+      - title: Our Story
+        url: /about/our-story
+      - title: Our Partners
+        url: /about/our-partners/
+  - title: Go Green SG Activities
+    collection: go-green-sg-activities
+  - title: FAQ
+    url: /faq
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /contact

@@ -2,31 +2,37 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: Go Green SG Secretariat
+feedback: "#"
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6746 2729
+      - email: email@mail.com
+      - other: ""
+    title: Contact 1
+  - content:
+      - phone: 1 800 000 0000
+      - email: email@mail.com
+      - other: ""
+    title: Contact 2
+locations:
+  - address:
+      - Address 1
+      - Address 2
+      - Address 3
+    title: Map
+    operating_hours:
+      - days: Monday
+        time: 9 AM - 5 PM
+        description: Description Hours
+      - days: Tuesday
+        time: 9 AM - 5 PM
+        description: ""
+      - days: Wednesday
+        time: 9 AM - 5 PM
+        description: ""
+      - days: Thursday
+        time: 9 AM - 5 PM
+        description: ""
+    maps_link: ""
 ---
