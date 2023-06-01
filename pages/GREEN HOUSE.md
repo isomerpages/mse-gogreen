@@ -9,12 +9,14 @@ description: ""
 
 **Date:** 8 - 9 July, 10:00 am - 9:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Castlery Liat Towers<br>
+**Venue:** Castlery at Liat Towers<br>
 **Organiser:** Pass It On
 
-GREEN-HOUSE presented by Pass It On® is an experiential shop-the-house retail event that invites visitors to discover a wide range of sustainable home and lifestyle products; from sustainable foods and slow fashion to circular designed products and clean beauty. Visitors will get to shop these brands in an immersive manner where each brand will be displayed into a setting of a home, with the intention to inspire sustainable living. 
+GREEN-HOUSE - presented by Pass It On® - is an experiential shop-the-house retail event that invites visitors to discover a wide range of sustainable home and lifestyle products from sustainable foods and slow fashion to circular designed products and clean beauty. 
 
-Visitors will also get to participate in workshops and talks such as understanding the benefits of electric vehicles, upcycling textiles, vegetable tanned leathers and tooling, making your own natural deodorant and cooking with superfoods like insect-based protein solutions.
+Visitors will get to shop these brands in an immersive manner where each brand will be displayed into a setting of a home, with the intention to inspire sustainable living. 
+
+Visitors will also get to participate in workshops and talks about the benefits of electric vehicles, textiles upcycling, vegetable-tanned leathers and tooling, making your own natural deodorant and cooking with superfoods like insect-based protein solutions.
  
 Come join us if you're new to sustainable living or are looking to deepen your knowledge and make a difference.
 
