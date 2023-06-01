@@ -471,7 +471,7 @@ third_nav_title: Tours
               Date: 7, 8 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
-          <li><strong>Venue: City Sprouts, 102 Henderson Road</strong></li>
+          <li><strong>Venue: City Sprouts. 102 Henderson Road</strong></li>
           <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
