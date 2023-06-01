@@ -290,7 +290,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Environment Building, 40 Scotts Road 
+              Venue: Shuttle bus from Environment Building. 40 Scotts Road 
             </strong>
           </li>
           <li>
