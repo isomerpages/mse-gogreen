@@ -550,7 +550,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover how a 24km long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!
+          Discover how a 24 kilometre long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!
         </p>
       </div>
     </div>
