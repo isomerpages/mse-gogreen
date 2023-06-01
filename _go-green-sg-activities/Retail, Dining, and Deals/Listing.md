@@ -162,7 +162,7 @@ third_nav_title: Retail, Dining, and Deals
             <strong>
               Date: 1 - 31 July</strong>
           </li>
-          <li><strong>Organiser: Grabcar Pte Ltd</strong></li>
+          <li><strong>Organiser: Unabiz Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
