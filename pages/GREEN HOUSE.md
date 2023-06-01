@@ -21,9 +21,8 @@ Visitors will also get to participate in workshops and talks about the benefits 
 Come join us if you're new to sustainable living or are looking to deepen your knowledge and make a difference.
 
 <a class="btn-link" target="_blank" href="https://www.pass-it-on.co/green-house">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
-
 
 <style>
 	.btn-link {
