@@ -3,7 +3,7 @@ title: "From Waste to Treasure: Exploring the World of E Waste Recycling"
 permalink: /e-waste-recycling/
 description: ""
 ---
-**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
 
 ![](/images/Tours/alba%20treasure%20raw%20material-30.jpg)
 
