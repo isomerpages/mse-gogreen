@@ -3,6 +3,8 @@ title: Race on Sunshine – Discovering Solar Energy
 permalink: /race-on-sunshine-discovering-solar-energy/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+
 ![](/images/Tours/race%20on%20sunshine.jpg)
 **Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.**
 
@@ -15,7 +17,7 @@ Find out how solar energy is produced and utilised with a guided tour of Singapo
 
 Participants must be 8 years old and above.
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
+<a class="btn-link" target="_blank" href="https://www.defencecollectivesg.com/raceonsunshine/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
