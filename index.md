@@ -37,14 +37,14 @@ sections:
       url: /programmes/events/
   - infopic:
       title: Go Green <br>Retail, Dining & Deals
-      description: Treat yourself with sustainable goodies and farm-to-table experiences.
+      description: Enjoy special offers for sustainable products and services
       button: Learn More
       url: /programmes/retail-dining-and-deals/
       alt: Image alt text
       image: /images/go-green-retail-dining-4.png
   - infopic:
       title: Go Green <br> Challenges
-      description: Shop, save and adopt a sustainable lifestyle.
+      description: Take part in eco challenges to green up your life.
       button: Learn more
       url: /programmes/challenges
       alt: Image alt text
