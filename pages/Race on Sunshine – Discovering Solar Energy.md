@@ -10,7 +10,7 @@ description: ""
 
 **Date:** 1, 8, 15, 22 July, 3:00 – 5:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Singapore Discovery Centre. 510 Upper Jurong Road <br>
+**Venue:** Singapore Discovery Centre <br>
 **Organiser:** National Environment Agency
 
 Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
