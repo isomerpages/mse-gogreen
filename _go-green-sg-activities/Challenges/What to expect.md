@@ -33,7 +33,9 @@ third_nav_title: Challenges
 
 ![](/images/Programmes/banner-challenges-deals-4.png)
 # How green can you go?
-Take on our sustainability-themed challenges and stand to win great deals and prizes.
+Take part in sustainability-themed challenges that are specially designed to help you go green.
+
+Stand to win attractive prizes too!
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
