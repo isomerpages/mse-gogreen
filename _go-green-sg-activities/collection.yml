@@ -2,6 +2,7 @@ collections:
   go-green-sg-activities:
     output: true
     order:
+      - Testing new folder/Example Title.md
       - Testing new folder/.keep
       - Our Activities.md
       - Tours/.keep
