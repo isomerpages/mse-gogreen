@@ -315,7 +315,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
+        <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
