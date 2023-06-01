@@ -88,7 +88,97 @@ third_nav_title: Tours
 </style>
 
 <div class="row row_custom">
-  <!-- Mandai -->
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tup-nightmangrove.jpg">
+        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 4, 6, 8 July
+            </strong>
+          </li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
+          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupforest.jpg">
+        <h2>Forest stream walk and survey</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1, 7 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
+          <li>
+            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+          </li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-stream-walk-and-survey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/race on sunshine.jpg">
+        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 8 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/race-on-sunshine-discovering-solar-energy/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Mandai -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -117,36 +207,6 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/building-wildlife-friendly-spaces-at-mandai" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 1, 7 July</strong>
-          </li>
-          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
-          <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
-          </li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/forest-stream-walk-and-survey/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -186,65 +246,7 @@ third_nav_title: Tours
       </a>
     </div>
   </div> 
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 1, 4, 6, 8 July
-            </strong>
-          </li>
-          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 1, 8 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
-          <li><strong>National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/race-on-sunshine-discovering-solar-energy/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
+
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
