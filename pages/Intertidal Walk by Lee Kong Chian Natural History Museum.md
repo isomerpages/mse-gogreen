@@ -18,7 +18,7 @@ Explore Singapore’s diverse marine ecology through this 2-hour intertidal walk
 
 Keep a lookout for the latest on dates and registration details on Lee Kong Chian Natural History Museum Facebook, from June to early August.
 
-<a class="btn-link" target="_blank" href="https://www.facebook.com/lkcnhm/">
+<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/how-can-we-act/events/events-details/2023/07/07/default-calendar/intertidal-walk-by-lee-kong-chian-natural-history-museum">
 	<img src="/images/more-info-btn.png">
 </a>
 
