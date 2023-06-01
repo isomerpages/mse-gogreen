@@ -3,7 +3,7 @@ title: "Weathering With You: A Tour of Singapore's Central Forecast Office"
 permalink: /weathering-with-you/
 description: ""
 ---
-**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
 
 ![](/images/Tours/weathering%20with%20you.png)
 
