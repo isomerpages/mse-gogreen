@@ -8,7 +8,7 @@ description: ""
 **Explore the treasures and sea life hidden in the seagrass habitat, while learning how we can protect Singapore’s delicate marine ecosystem.**
 
 **Date:** 8 July, 8:30 – 10:30 am<br>
-**Admission:** Adult: $48 | Child: $46 | Enjoy $10 off with promo code “YNGOGREENSG”.<br>
+**Admission:** Adult: $58 | Child: $56 | Enjoy $10 off with promo code “YNGOGREENSG”.<br>
 **Venue:** Changi Seagrass Intertidal Zone (Near Changi Carpark 7)<br>
 **Organiser:** Young Nautilus 
 
