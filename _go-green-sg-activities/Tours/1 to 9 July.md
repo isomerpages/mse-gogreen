@@ -102,7 +102,7 @@ third_nav_title: Tours
               Date: Early July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Marine South Pier</strong></li>
+          <li><strong>Venue: Pulau Semakau</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
