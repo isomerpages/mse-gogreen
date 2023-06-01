@@ -3,6 +3,8 @@ title: Fighting Mosquitoes With Mosquitoes – An Inside Look at Project Wolbach
 permalink: /fighting-moquitoes-with-mosquitoes/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
+
 ![](/images/Tours/fighting%20mosquitoes%20with%20mosquitoes%20–%20an%20inside%20look%20at%20project%20wolbachia%20%20%20%20.jpg)
 
 **Afraid of mosquito bites? Find out how Singapore mass produces mosquitoes to fight dengue through Project Wolbachia.**
