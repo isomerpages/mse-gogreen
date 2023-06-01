@@ -2,7 +2,7 @@ collections:
   go-green-sg-activities:
     output: true
     order:
-      - Tours New/Example Title 1.md
+      - Tours New/What to expect.md
       - Tours New/.keep
       - Our Activities.md
       - Tourss/What to expect.md
