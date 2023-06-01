@@ -8,7 +8,7 @@ description: ""
 **Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!**
 
 Date: 7, 8, 21, 22 July, 9:30 - 10:45 am<br>
-Admission: $30 per person<br>
+Admission: $30<br>
 Venue: CitySprouts, 102 Henderson Road<br>
 Organiser: CitySprouts
 
