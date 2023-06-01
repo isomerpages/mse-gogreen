@@ -478,7 +478,7 @@ third_nav_title: Tours
         <ul>
           <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Admission: $10 per child (registration required)</strong>
+            <strong>Admission: Child: $10 | Accompanying parent(s): Free</strong>
           </li>
           <li>
             <strong>
