@@ -7,10 +7,10 @@ description: ""
 **Get up-close and personal with fascinating marine life and their habitats.**
 
 
-Date: Early July<br>
-Admission: Free (registration required)<br>
-Venue: Marine South Pier<br>
-Organiser: National Environment Agency
+**Date:** Early July<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Marine South Pier<br>
+**Organiser:** National Environment Agency
 
 Explore Singapore’s diverse marine ecology through this 2-hour intertidal walk. Get your feet wet and spot hidden  marine creatures such as starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals on our sandy beaches. 
 
