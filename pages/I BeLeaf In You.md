@@ -18,8 +18,8 @@ This workshop will be a wonderful bonding activity for the whole family.
 
 Each participant will also be entitled to an ECO draw, and one lucky winner will walk away with an Eco-prize. 
 
-<a target="_blank" class="btn-link" href="mailto:ChanChen.oh@metta.org.sg">
-	<img src="/images/gogreensg_website-32.png">
+<a class="btn-link" target="_blank" href="mailto:ChanChen.oh@metta.org.sg">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
