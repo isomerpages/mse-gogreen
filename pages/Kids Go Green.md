@@ -9,10 +9,12 @@ description: ""
 
 **Date:** 15, 29 July, 9:00 - 10:15 am<br>
 **Admission:** $22<br>
-**Venue:** CitySprouts. 102 Henderson Road<br>
+**Venue:** CitySprouts, 102 Henderson Road<br>
 **Organiser:** CitySprouts
 
-A special edition for the kids! In this kid friendly workshop, kids and parents can have a fun family day together, going through various sustainable workshops. We hope kids will help incentivise their parents at home to keep up the sustainable practices and take these learnings with them. The workshops will be held at different stations on the farm and kids will take part in a scavenger hunt around the farm. Through the hunt, they will learn all about local plants, sustainable ecosystem, composting and food security. 
+A special edition just for the kids! In this kids-friendly workshop, kids and parents can have a fun family day together, going through various sustainable workshops. 
+
+We hope kids will help incentivise their parents at home to keep up the sustainable practices and take these learnings with them. The workshops will be held at different stations on the farm and kids will take part in a scavenger hunt around the farm. Through the hunt, they will learn all about local plants, sustainable ecosystem, composting and food security. 
 
 Each participant will have the opportunity to plant their own seeds that they can take home and watch it bloom. The hunt will end with an upcycling cereal box robot show and tell that is interactive and engaging for both parents and kids.
 
