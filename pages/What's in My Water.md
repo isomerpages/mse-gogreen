@@ -21,7 +21,7 @@ Sungei Buloh is home to many animals and plants. There are different types of aq
 
 
 
-<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/1-jul-whats-in-my-waterhttps://www.cgs.gov.sg/cgs-experiences">
+<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/1-jul-whats-in-my-water">
 	<img src="/images/more-info-btn.png">
 </a>
 
