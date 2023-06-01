@@ -10,7 +10,7 @@ in Singapore.**
 
 **Date:** 29 July, 09:30 - 11:00 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Sungei Buloh Wetland Reserve, Visitor Centre<br>60 Kranji Way<br>
+**Venue:** Sungei Buloh Wetland Reserve Visitor Centre<br>60 Kranji Way<br>
 **Organiser:** National Parks Board
 
 Did you know that more than 30 mangrove species can be found at Sungei Buloh?
