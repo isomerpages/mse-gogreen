@@ -10,7 +10,7 @@ description: ""
 
 **Date:** 4, 5 July, 3:00 - 5:00pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Yishun Neighbourhood Park Entrance<br>
+**Venue:** Earth Observatory of Singapore. 50 Nanyang Avenue<br>
 **Organiser:** Earth Observatory of Singapore
 
 The Earth Observatory of Singapore (EOS) Tour is an opportunity for participants to catch a glimpse of EOS' activities, and seeing first-hand how EOS is tackling the sustainability issues of the day.
