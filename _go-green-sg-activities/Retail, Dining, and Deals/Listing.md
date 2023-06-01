@@ -93,20 +93,20 @@ third_nav_title: Retail, Dining, and Deals
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Challenges%20&amp;%20Deals/foodpanda%20image%2016-9.png">
-        <h2>Exclusive Promo Code for Green Label Merchants on Foodpanda</h2>
+        <h2>Exclusive Promo Code for Green Label Merchants on foodpanda</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>Date: 1 - 31 July</strong>
           </li>
-          <li><strong>Organiser: Foodpanda</strong></li>
+          <li><strong>Organiser: foodpanda</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
           Enjoy a discount when ordering from Green Label merchants on
-          Foodpanda!
+         foodpanda!
         </p>
       </div>
     </div>
