@@ -3,7 +3,7 @@ title: CREUSE Wood Upcycling Journey
 permalink: /creuse-wood-upcycling-journey/
 description: ""
 ---
-**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
 
 ![](/images/Tours/wood%20upcycling%20journey.jpg)
 
