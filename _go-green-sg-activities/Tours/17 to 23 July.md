@@ -130,7 +130,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 13, 19, 25 July</strong>
+              Date: 19 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
