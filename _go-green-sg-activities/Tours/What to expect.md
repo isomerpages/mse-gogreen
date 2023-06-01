@@ -33,10 +33,12 @@ third_nav_title: Tours
 
 ![](/images/Programmes/banner-tours-4.png)
 
-# Explore the greener side <br>of Singapore
-Experience our island through a green lens with our educational tours below!
+# Explore Singapore in a new light
+Experience our island through a green lens as we go on a journey of discovery. 
 
-Learn more about our native wildlife and conservation areas, check out how we’ve implemented green technology into our city, and explore the different side of familiar landmarks like Gardens by the Bay, Sentosa and more!
+Peek at the wonders of nature, explore the different sides of familiar landmarks and visit places that are usually not open for public access. 
+
+As you take a walk amidst these hidden gems, gain a deeper understanding and appreciation of Singapore’s sustainability achievements.
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
