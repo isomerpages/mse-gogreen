@@ -5,7 +5,7 @@ description: ""
 ---
 ![Rain Forest Tour](/images/Tours/rain%20forest%20tour.jpg)
 
-**Discover the enchantment of our tropical rainforest with our volunteer guides.**
+**Discover the enchantment of our tropical rainforest with volunteer guides.**
 
 **Date:** 8 July, 9:00 – 10:00am<br>
 **Admission:** Free (registration required)<br>
