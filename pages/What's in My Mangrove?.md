@@ -5,19 +5,18 @@ description: ""
 ---
 ![Whats in my mangrove](/images/Tours/whats%20in%20my%20mangrove.png)
 
-**Participate in a guided walk of this unique mangrove wetlands, one of the last few
-in Singapore.**
+**Participate in a guided walk of this unique mangrove wetlands, one of the last few in Singapore.**
 
-**Date:** 29 July, 09:30 - 11:00 am<br>
+**Date:** 29 July, 9:30 - 11:00 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way<br>
+**Venue:** Sungei Buloh Wetland Reserve Visitor Centre<br>
 **Organiser:** National Parks Board
 
 Did you know that more than 30 mangrove species can be found at Sungei Buloh?
-The mangrove habitat, which occurs between the land and sea, poses a challenging
-environment for plants and animals to survive. Mangrove plants have to adapt to
-live through the constant flooding, high salt content and soils with poor oxygen
-levels. Learn about the unique features that these plants possess and the
+
+The mangrove habitat, which occurs between the land and sea, poses a challenging environment for plants and animals to survive. Mangrove plants have to adapt to live through the constant flooding, high salt content and soils with poor oxygen levels. 
+
+Learn about the unique features that these plants possess and the
 importance of mangrove habitats in this guided walk.
 
 
