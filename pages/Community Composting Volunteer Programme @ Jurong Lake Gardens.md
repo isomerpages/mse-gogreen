@@ -16,9 +16,6 @@ Join this community composting programme to learn how to create composts out of 
 
 Bring your food scraps from home such as fruit peels, vegetable trimmings and coffee grounds and create composts collectively!
 
-This activity is open to everyone.
-
-
 
 <a class="btn-link" target="_blank" href="https://www.volunteer.gov.sg/volunteer/opportunity/details/?id=9273df97-187c-ed11-aa05-a1feb0251406">
 	<img src="/images/gogreensg_website-32.png">
