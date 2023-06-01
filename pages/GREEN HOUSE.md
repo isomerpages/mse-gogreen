@@ -24,6 +24,7 @@ Come join us if you're new to sustainable living or are looking to deepen your k
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
+
 <style>
 	.btn-link {
 		display: inline-block;
