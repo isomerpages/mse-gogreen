@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/Tours/food%20oth.jpg)
 
-**Find out how we are turning food waste from our hawker centre into something useful!**
+**Find out how food waste from a hawker centre can be turned into something useful!**
 
 
 **Date:** 30 July, 10:30 - 11:30 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Our Tampines Hub. 1 Tampines Walk<br>
+**Venue:** Our Tampines Hub<br>
 **Organiser:** National Environment Agency
 
 Did you know that food waste accounts for about 12 per cent of the total waste generated in Singapore? In 2021, we generated 817,000 tonnes of food waste, which is equivalent to 56,000 double-decker buses! 
