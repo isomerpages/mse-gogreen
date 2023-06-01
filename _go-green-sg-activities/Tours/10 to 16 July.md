@@ -599,8 +599,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/use%20this%20photo%20question%20111%20-%20nus_sde1_finbarr_fallon_14.jpg">
         <h2>
-          Sustainability at School: A Look at NUS’ Net Zero &amp; Net Positive
-          Energy Buildings
+          Sustainability at School: A Look at NUS’ Net Zero &amp; Net Positive Energy Buildings
         </h2>
       </div>
       <div class="programmes__item__detail">
@@ -615,11 +614,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: National University of Singapore
-              <br>
-              NUS SDE4 Level 4
-              <br>
-              8 Architecture Drive, 117356
+              Venue: National University of Singapore (NUS), SDE4 Level 4. 8 Architecture Drive
             </strong>
           </li>
           <li><strong>Organiser: National University of Singapore</strong></li>
@@ -686,8 +681,8 @@ third_nav_title: Tours
               Date: 15, 16 July</strong>
           </li>
           <li><strong>Admission: $68 | $120 per pair</strong></li>
-          <li><strong>Venue: CitySprouts</strong></li>
-          <li><strong>Organiser: CitySprouts</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
