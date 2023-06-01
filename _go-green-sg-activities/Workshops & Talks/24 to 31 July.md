@@ -106,7 +106,7 @@ third_nav_title: Workshops & Talks
             </strong>
           </li>
           <li>
-            <strong>Venue: GINLEE Studio, National Design Centre #03-05</strong>
+            <strong>Venue: National Design Centre, GINLEE Studio, #03-05</strong>
           </li>
           <li><strong>Organiser: GINLEE Studio</strong></li>
         </ul>
@@ -170,7 +170,7 @@ third_nav_title: Workshops & Talks
         <ul>
           <li><strong>Date: 29 July</strong></li>
           <li>
-            <strong>Admission: $22 per person </strong>
+            <strong>Admission: $22 </strong>
           </li>
           <li>
             <strong>

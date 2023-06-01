@@ -1,5 +1,5 @@
 ---
-title: What's in my mangrove?
+title: What's in My Mangrove?
 permalink: /whats-in-my-mangrove/
 description: ""
 ---

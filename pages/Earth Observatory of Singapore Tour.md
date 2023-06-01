@@ -14,8 +14,10 @@ description: ""
 **Organiser:** Earth Observatory of Singapore
 
 The Earth Observatory of Singapore (EOS) Tour is an opportunity for participants to catch a glimpse of EOS' activities, and seeing first-hand how EOS is tackling the sustainability issues of the day.
+
 The visit will include a walk through the EOS laboratories to learn about how EOS scientists are looking at past climates and at the solutions to adapt to future climate change. Participants will also get to think about sustainability in a broader perspective by considering other key aspects such as our resilience to natural hazards.
-The tour is open for all, but the content would be more suited for students from secondary schools and adults. <br>
+The tour is open for all, but the content would be more suited for students from secondary schools and adults.
+
 Due to limited capacity, registration for this tour will be on a first come, first served basis. Another slot may be opened on 5 July if the 4 July tour is oversubscribed. 
 
 

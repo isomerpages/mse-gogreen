@@ -133,7 +133,7 @@ third_nav_title: Tours
               Date: 1 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre
 60 Kranji Way</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
@@ -180,7 +180,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -306,7 +305,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div> 
-
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -336,6 +334,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- Earth Observatory of Singapore-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/eos%20premises.jpg">
+        <h2>Earth Observatory of Singapore Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 4, 5 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore, 50 Nanyang Avenue</strong></li>
+          <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Learn more about Earth Observatory of Singapore’s research and projects, and how they are tackling sustainability issues of the day.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/eos-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Full Intertidal-->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -392,7 +422,73 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
- 
+   <!-- Behind-the-scenes Bus Tour of Changi Water Reclamation Plant -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
+        <h2>Behind the scenes Bus Tour of Changi Water Reclamation Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 6, 9 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Changi Water Reclamation Plant
+            </strong>
+          </li>
+          <li>
+            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Take an exclusive bus tour within the Changi Water Reclamation Plant (CWRP) to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-bus-tour-of-changi-water-reclamation-plant" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- City Farm Tours with Tasting-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/cs_ffl.jpg">
+        <h2>City Farm Tours With Tasting
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 7, 8 July</strong>
+          </li>
+          <li><strong>Admission: $30</strong></li>
+          <li><strong>Venue: CitySprouts, 102 Henderson Road</strong></li>
+          <li><strong>Organiser: CitySprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/city-farm-tours-with-tasting/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <!-- Zero to Hero Food Sustainability Tour-->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -659,42 +755,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Behind-the-scenes Bus Tour of Changi Water Reclamation Plant -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
-        <h2>Behind the scenes Bus Tour of Changi Water Reclamation Plant</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 6, 9 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Behind the scenes Bus Tour of Changi Water Reclamation
-              Plant
-            </strong>
-          </li>
-          <li>
-            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
-          </li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Take an exclusive bus tour within the Changi Water Reclamation Plant (CWRP) to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/behind-the-scenes-bus-tour-of-changi-water-reclamation-plant" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
   <!-- Regenerative Garden Experience -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -765,6 +825,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- What's in my Mud?-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/whats%20in%20my%20mud.png">
+        <h2>What's in My Mud?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre
+60 Kranji Way</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-mud/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Mangroves and Climate Change Tour -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -800,5 +892,4 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
- 
 </div>

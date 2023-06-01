@@ -116,12 +116,12 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
-  <!-- BYO and enjoy 10 percent off your takeaway orders -->
+  <!-- BYO and Enjoy Discounts For Takeaway Orders -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Challenges%20&amp;%20Deals/question%20112%20-%20metta%20cafe.png">
-        <h2>BYO and enjoy 10 percent off your takeaway orders</h2>
+        <h2>BYO and Enjoy Discounts For Takeaway Orders</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -129,7 +129,7 @@ third_nav_title: Retail, Dining, and Deals
             <strong>Date: 1 - 31 July</strong>
           </li>
                     <li>
-            <strong>Venue: Metta Café, 32 Simei Street 1, Level 1</strong>
+            <strong>Venue: Metta Café, 32 Simei Street 1</strong>
           </li>
           <li><strong>Organiser: Metta Welfare Association</strong></li>
         </ul>
@@ -148,5 +148,33 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
-
+	  <!-- Discounts for UnaBiz's Green Building Solutions-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/unabiz%20picture.png">
+        <h2>Discounts for UnaBiz's Green Building Solutions
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: Unabiz Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Enjoy discounts for Green Building solutions, including Indoor Air Quality and Energy Monitoring sensors!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/unabiz-green-building-discount/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>

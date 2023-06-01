@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 29 July, 8:00 am and 8:15 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Jurong Lake Gardens, Lakeside Garden<br>
+**Venue:** Jurong Lake Gardens<br>
 **Organiser:** National Parks Board
 
 Join this free guided walk at Jurong Lake Gardens to appreciate and learn about the various facets of biodiversity found around the garden. Take in the sights of the unique habitats, interesting plants and diverse animals!

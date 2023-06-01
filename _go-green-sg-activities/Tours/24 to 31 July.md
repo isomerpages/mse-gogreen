@@ -570,6 +570,69 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- What's in my Mangrove?-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/whats%20in%20my%20mangrove.png">
+        <h2>What's in My Mangrove?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
+60 Kranji Way</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Participate in a guided walk of this unique mangrove wetlands, one of the last few in Singapore.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-mangrove/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- Tiger Brewery Tour Sustainability Edition-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tigerbrewery.jpg">
+        <h2>Tiger Brewery Tour Sustainability Edition
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29, 30 July</strong>
+          </li>
+          <li><strong>Admission: $25</strong></li>
+          <li><strong>Venue: Tiger Brewery</strong></li>
+          <li><strong>Organiser: Asia Pacific Breweries Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Tiger’s dedication to brewing excellence and commitment to sustainability goes into every pint of beer. Step into the world of Tiger and experience how they are brewing a better world.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/tiger-brewery-tour-sustainability-edition/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Food Waste Learning Journey @ Our Tampines Hub -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

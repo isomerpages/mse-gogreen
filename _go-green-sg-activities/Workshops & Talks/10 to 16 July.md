@@ -135,14 +135,14 @@ third_nav_title: Workshops & Talks
         <ul>
           <li><strong>Date: 15 July</strong></li>
           <li>
-            <strong>Admission: $22 per person </strong>
+            <strong>Admission: $22 </strong>
           </li>
           <li>
             <strong>
-              Venue: CitySprouts, 102 Henderson Road
+              Venue: CitySprouts. 102 Henderson Road
             </strong>
           </li>
-          <li><strong>Organiser: Citysprouts</strong></li>
+          <li><strong>Organiser: CitySprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">

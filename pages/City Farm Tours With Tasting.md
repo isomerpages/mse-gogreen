@@ -7,10 +7,10 @@ description: ""
 
 **Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!**
 
-Date: 7, 8, 21, 22 July, 9:30 - 10:45 am<br>
-Admission: $30<br>
-Venue: CitySprouts, 102 Henderson Road<br>
-Organiser: CitySprouts
+**Date:** 7, 8, 21, 22 July, 9:30 - 10:45 am<br>
+**Admission:** $30<br>
+**Venue:** CitySprouts. 102 Henderson Road<br>
+**Organiser:** CitySprouts
 
 Hidden along the Henderson estate is a city urban farm that used to be a school. Come join us on a journey around the farm and learn about various techniques that are used such as aquaponics, hydroponics and even mushrooms.  Participants get to see the difference between the traditional farming, for example, on rice paddies, and the newer techniques that use less land and resources. 
 

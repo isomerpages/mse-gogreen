@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 22 July, 4:00 pm – 7:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Outside SUSS Starbucks. 461 Clementi Road<br>
+**Venue:** Singapore University of Social Sciences (SUSS)<br>
 **Organiser:**  Singapore University of Social Sciences (SUSS)
 
 Join students of the SUSS Agri-preneur Incubation Programme at their bazaar where they showcase their business ideas, pitch to customers, and sell their products or services. Come and check out what our young aspiring students are up to, and also sample some delicious food made with the fresh harvest from the SUSS Experiential Urban Farm! 

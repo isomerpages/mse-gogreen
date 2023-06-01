@@ -342,6 +342,69 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- City Farm Tours with Tasting-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/cs_ffl.jpg">
+        <h2>City Farm Tours With Tasting
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 22 July</strong>
+          </li>
+          <li><strong>Admission: $30</strong></li>
+          <li><strong>Venue: CitySprouts, 102 Henderson Road</strong></li>
+          <li><strong>Organiser: CitySprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/city-farm-tours-with-tasting/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- Tiger Brewery Tour Sustainability Edition-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tigerbrewery.jpg">
+        <h2>Tiger Brewery Tour Sustainability Edition
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 23 July</strong>
+          </li>
+          <li><strong>Admission: $25</strong></li>
+          <li><strong>Venue: Tiger Brewery</strong></li>
+          <li><strong>Organiser: Asia Pacific Breweries Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Tiger’s dedication to brewing excellence and commitment to sustainability goes into every pint of beer. Step into the world of Tiger and experience how they are brewing a better world.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/tiger-brewery-tour-sustainability-edition/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <!-- Race on Sunshine-->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -700,5 +763,67 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
+	  <!-- What's in my Mud?-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/whats%20in%20my%20mud.png">
+        <h2>What's in My Mud?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
+60 Kranji Way</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-mud/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- Mangrove Goodies-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mangrove%20goodies.png">
+        <h2>Mangrove Goodies
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Learn about our relationship with mangroves with this guided walk. Discover how mangrove plants and animals are related to our everyday life – from food to products, and even how they protect us.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/mangrove-goodies/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>

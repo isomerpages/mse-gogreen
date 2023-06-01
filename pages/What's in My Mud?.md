@@ -1,5 +1,5 @@
 ---
-title: What's in my Mud
+title: What's in My Mud?
 permalink: /whats-in-my-mud/
 description: ""
 ---

@@ -1,5 +1,5 @@
 ---
-title: Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir
+title: Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh Reservoir
 permalink: /boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/
 description: ""
 ---
@@ -20,6 +20,7 @@ PUB is helping Singapore achieve its national solar target of at least two gigaw
 Through this tour, participants will learn about PUB’s efforts to harness solar energy, and produce each drop of clean tap water at the turn of a tap in a sustainable manner.
 
 This tour is exclusively for Singapore citizens, permanent residents, and holders of ICA-approved and MOM-approved passes with a valid FIN number, including holders of employment pass, student pass, work permit, or dependent pass. 
+
 This tour is only open to visitors who are 18 years old and above.
 
 <a target="_blank" class="btn-link" href="https://form.gov.sg/6454f0409d94740011937f70">

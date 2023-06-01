@@ -106,7 +106,7 @@ third_nav_title: Workshops & Talks
             </strong>
           </li>
           <li>
-            <strong>Venue: GINLEE Studio, National Design Centre #03-05</strong>
+            <strong>Venue: National Design Centre, GINLEE Studio, #03-05</strong>
           </li>
           <li><strong>Organiser: GINLEE Studio</strong></li>
         </ul>
@@ -119,6 +119,37 @@ third_nav_title: Workshops & Talks
     </div>
     <div class="programmes__item__actions">
       <a href="/make-o" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- Au Naturale Beauty-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/cs_anb.png">
+        <h2>Au Naturale Beauty
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 5, 8 July</strong>
+          </li>
+          <li><strong>Admission: $30</strong></li>
+          <li><strong>Venue: CitySprouts</strong></li>
+          <li><strong>Organiser: CitySprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Learn to DIY natural detergents and scrubs with common household “waste” and watch it beautify you and the earth! Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/au-naturale-beauty/" class="button-primary">
         Find out more
       </a>
     </div>

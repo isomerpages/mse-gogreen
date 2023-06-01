@@ -7,10 +7,10 @@ description: ""
 
 **Let your kids come and scour our urban farm and discover sustainable practices and seeds to take home over a fun scavenger hunt! Enjoy interactive upcycling activities and have a blast!**
 
-Date: 15, 29 July, 9:00 - 10:15 am<br>
-Admission: $22<br>
-Venue: CitySprouts. 102 Henderson Road<br>
-Organiser: CitySprouts
+**Date:** 15, 29 July, 9:00 - 10:15 am<br>
+**Admission:** $22<br>
+**Venue:** CitySprouts. 102 Henderson Road<br>
+**Organiser:** CitySprouts
 
 A special edition for the kids! In this kid friendly workshop, kids and parents can have a fun family day together, going through various sustainable workshops. We hope kids will help incentivise their parents at home to keep up the sustainable practices and take these learnings with them. The workshops will be held at different stations on the farm and kids will take part in a scavenger hunt around the farm. Through the hunt, they will learn all about local plants, sustainable ecosystem, composting and food security. 
 
