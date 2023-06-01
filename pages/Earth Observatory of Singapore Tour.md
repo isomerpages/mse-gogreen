@@ -24,7 +24,7 @@ Due to limited capacity, registration for this tour will be on a first come, fir
 
 
 <a class="btn-link" target="_blank" href="https://forms.office.com/r/6tXFLhibyG">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
