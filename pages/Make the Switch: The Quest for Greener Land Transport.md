@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Singapore Mobility Gallery<br>1 Hampshire Road, Block 1 Level 1<br>
+**Venue:** Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road<br>
 **Organiser:**  Land Transport Authority (LTA)
 
 Our planet has been warming significantly, accelerating climate change. One of the main culprits is uncontrolled greenhouse gas emissions, much of which is created by human activity. This includes activities from the land transport sector.
