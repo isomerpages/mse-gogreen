@@ -197,7 +197,7 @@ third_nav_title: Tours
               Date: 18, 20, 22 July</strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park. Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -259,7 +259,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Environment Building, 40 Scotts Road
+              Venue: Shuttle bus from Environment Building. 40 Scotts Road
             </strong>
           </li>
           <li>
@@ -325,7 +325,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -357,7 +357,7 @@ third_nav_title: Tours
               Date: 21, 22 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
-          <li><strong>Venue: CitySprouts, 102 Henderson Road</strong></li>
+          <li><strong>Venue: City Sprouts. 102 Henderson Road</strong></li>
           <li><strong>Organiser: CitySprouts</strong></li>
         </ul>
       </div>
@@ -418,7 +418,7 @@ third_nav_title: Tours
               Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
@@ -446,7 +446,7 @@ third_nav_title: Tours
           <li><strong>Date: 22 July</strong></li>
           <li><strong>Admission: Adult: $100 | Senior: $80 | Child: $60</strong></li>
           <li>
-            <strong>Venue: Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan Road East</strong>
+            <strong>Venue: Clementi MRT Exit A (head down to bus stop). 31 Toh Guan Road East</strong>
           </li>
           <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
