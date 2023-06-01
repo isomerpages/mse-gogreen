@@ -3,6 +3,8 @@ title: Intertidal Walk by Lee Kong Chian Natural History Museum
 permalink: /intertidal-walk-lkc/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+
 ![](/images/Tours/intertidal%20lkc.jpg)
 **Get up-close and personal with fascinating marine life and their habitats.**
 
@@ -16,7 +18,7 @@ Explore Singapore’s diverse marine ecology through this 2-hour intertidal walk
 
 Keep a lookout for the latest on dates and registration details on Lee Kong Chian Natural History Museum Facebook, from June to early August.
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/cgs-experiences">
+<a class="btn-link" target="_blank" href="https://www.facebook.com/lkcnhm/">
 	<img src="/images/more-info-btn.png">
 </a>
 
