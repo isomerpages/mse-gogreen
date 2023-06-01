@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Activities.md
-      - Tours/Tours test.md
       - Tours/.keep
       - Tours/What to expect.md
       - Tours/1 to 9 July.md
