@@ -99,9 +99,9 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 4, 6, 8, 11, 13, 15, 18, 20, 22, 25, 27, 29 July</strong>
+              Date: 25, 27, 29 July</strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -128,9 +128,9 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1, 7, 14, 21, 28 July</strong>
+            <strong>Date: 28 July</strong>
           </li>
-          <li><strong>Admission: Adult: $49, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
             <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
           </li>
@@ -195,11 +195,11 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 2, 3, 5, 7, 9, 10, 12, 14, 16, 17, 19, 21, 23, 24, 26, 28,
+              Date: 24, 26, 28,
               30, 31 July
             </strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Bukit Batok Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -216,37 +216,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-	<!-- Uncover the Intertidal Zone with a Naturalist Guide -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tup-intertidal.jpg">
-        <h2>Uncover the Intertidal Zone with a Naturalist Guide</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 4, 5, 6, 7, 8, 20, 21, 22 July</strong></li>
-          <li>
-            <strong>Admission: Adult: $71, Child: $37</strong>
-          </li>
-          <li>
-            <strong>Venue: Changi Beach</strong>
-          </li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         Discover a hidden world beneath the ocean, all this and more when the tide retreats. Our walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/uncover-the-intertidal-zone-with-a-naturalist-guide/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	  <!-- TuasOne Waste to Energy Plant Tour -->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -259,7 +228,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 11, 25 July</strong>
+              Date: 25 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
@@ -288,7 +257,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 13, 19, 25 July</strong>
+              Date: 25 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
@@ -318,10 +287,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 14, 21, 28 July</strong>
+              Date: 28 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Jurong East MRT</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -348,7 +317,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 14, 28 July</strong>
+              Date: 28 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Changi Airport Terminal 2, outside Starbucks</strong></li>
@@ -378,7 +347,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 22, 27, 29 July</strong>
+              Date: 27, 29 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd</strong></li>
@@ -409,7 +378,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22, 29 July</strong></li>
+          <li><strong>Date: 29 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
@@ -444,13 +413,13 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 22, 29 July</strong></li>
+          <li><strong>Date: 29 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
             <strong>
-              Venue: Marina Barrage 8 Marina Gardens Dr, Singapore 018951
+              Venue: Marina Barrage 8 Marina Gardens Dr
             </strong>
           </li>
           <li>
@@ -483,13 +452,13 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 13, 20, 27 July</strong></li>
+          <li><strong>Date: 27 July</strong></li>
           <li>
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
             <strong>
-              Venue: Environment Building, 40 Scotts Road, Singapore 228231
+              Venue: Environment Building, 40 Scotts Road
             </strong>
           </li>
           <li>
