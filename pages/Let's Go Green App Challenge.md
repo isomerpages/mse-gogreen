@@ -10,9 +10,9 @@ description: ""
 **Date:** 1 - 31 July<br>
 **Organiser:** SusGain
 
-Participate in susGain’s ‘Let’s Go Green’ App Challenge in July and earn points for taking green actions such as bringing your own reusables, donating to the f ood bank, volunteering, recycling and more.  
+Participate in susGain’s ‘Let’s Go Green App Challenge in July and earn points for taking green actions such as bringing your own reusables, donating to the food bank, volunteering, recycling and more.  
 
-Use these points to redeem any of its three rewards that can make a positive environmental impact, i.e., planting a tree, donating a meal or removing trash from the ocean.    
+Use these points to redeem any of its three rewards that can make a positive environmental and social impact, i.e., planting a tree, donating a meal or removing trash from the ocean.    
 
 Participants will also stand to win prizes sponsored by sustainable local partner brands.
 
