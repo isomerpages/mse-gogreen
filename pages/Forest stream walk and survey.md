@@ -12,7 +12,7 @@ description: ""
 **Venue:** Ground-Up Initiative. 91 Lorong Chencharu<br>
 **Organiser:**  The Untamed Paths
 
-Freshwater forest streams are considered rare habitats in Singapore. They provide a great many ecosystem services that are not easily replaced by man-made longkangs. They house a high percentage of Singapore’s biodiversity, including over 30 species of freshwater fish and over 10 species of crabs and shrimp. On the walk, you would be led on a guided exploration to learn stream ecology and identification. It is an incredibly therapeutic and relaxing experience to tread through a natural stream surrounded by fronds.  
+Freshwater forest streams are considered rare habitats in Singapore. They provide a great many ecosystem services that are not easily replaced by man-made longkangs (i.e., drains). They house a high percentage of Singapore’s biodiversity, including over 30 species of freshwater fish and over 10 species of crabs and shrimp. On the walk, you would be led on a guided exploration to learn stream ecology and identification. It is an incredibly therapeutic and relaxing experience to tread through a natural stream surrounded by fronds.  
 
 <a class="btn-link" target="_blank" href="https://forms.gle/1NQxTMVkRxgJB5FJ8">
 	<img src="/images/gogreensg_website-32.png">
