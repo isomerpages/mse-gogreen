@@ -5,7 +5,7 @@ permalink: /faq/
 ## **FAQ**
 
 ### 1. What is Go Green SG?
-Go Green SG (formerly known as Climate Action Week) is a whole-of-nation-movement to rally the community to take collective action towards a sustainable future for Singapore. It's happening this July, with over 100+ sustainability-related events and activities organised by 90+ 3P partners.
+Go Green SG (formerly known as Climate Action Week) is a whole-of-nation-movement to rally the community to take collective action towards a sustainable future for Singapore. 
 
 Learn more about Go Green [here](/about)
 
