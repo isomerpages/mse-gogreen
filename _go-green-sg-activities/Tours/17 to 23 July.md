@@ -638,7 +638,7 @@ third_nav_title: Tours
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Singapore University of Social Sciences, 463 Clementi Rd,
+              Venue: Singapore University of Social Sciences, Seminar Room at Block C Level 5 Number 7. 463 Clementi Rd
               SR.C.5.07
             </strong>
           </li>
@@ -673,7 +673,7 @@ third_nav_title: Tours
               Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd</strong></li>
+          <li><strong>Venue: Pasir Panjang Ferry Terminal. 55 Pasir Panjang Rd</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -706,7 +706,7 @@ third_nav_title: Tours
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
-            <strong>Venue: NEWater Visitor Centre 20 Koh Sek Lim Road</strong>
+            <strong>Venue: NEWater Visitor Centre. 20 Koh Sek Lim Road</strong>
           </li>
           <li>
             <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
