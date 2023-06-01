@@ -88,6 +88,72 @@ third_nav_title: Tours
 </style>
 
 <div class="row row_custom">
+	<!-- Make the Switch: The Quest for Greener Land Transport -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
+        <h2>Make the Switch: The Quest for Greener Land Transport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 1 - 28 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Singapore Mobility Gallery
+              <br>
+              1 Hampshire Road, Block 1 Level 1
+            </strong>
+          </li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-the-switch-the-quest-for-greener-land-transport" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupspot.png">
+        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 10, 12, 14, 16 July
+            </strong>
+          </li>
+          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Venue: Bukit Batok Park</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- Night explorations: Mangrove Night Walk with Naturalist Guide -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -175,130 +241,6 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/forest-stream-walk-and-survey/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-<!-- Make the Switch: The Quest for Greener Land Transport -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
-        <h2>Make the Switch: The Quest for Greener Land Transport</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 1 - 28 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Singapore Mobility Gallery
-              <br>
-              1 Hampshire Road, Block 1 Level 1
-            </strong>
-          </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/make-the-switch-the-quest-for-greener-land-transport" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
-          <li><strong>National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/race-on-sunshine-discovering-solar-energy/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 10, 12, 14, 16 July
-            </strong>
-          </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
-          <li><strong>Venue: Bukit Batok Park</strong></li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/abraclean.jpg">
-        <h2>Journey into Glass Recycling with Abraclean</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
-          <li><strong>Organiser: National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-        Find out how this glass recycling facility processes glass waste into “Abrablast”, a recycled glass abrasive which can be used for blasting and coating.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/journey-into-glass-recycling-with-abraclean/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -429,6 +371,64 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/weathering-with-you/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/race on sunshine.jpg">
+        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/race-on-sunshine-discovering-solar-energy/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/abraclean.jpg">
+        <h2>Journey into Glass Recycling with Abraclean</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Find out how this glass recycling facility processes glass waste into “Abrablast”, a recycled glass abrasive which can be used for blasting and coating.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/journey-into-glass-recycling-with-abraclean/" class="button-primary">
         Find out more
       </a>
     </div>
