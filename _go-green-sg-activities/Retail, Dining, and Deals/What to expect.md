@@ -38,17 +38,3 @@ Love shopping and eating out?
 
 Don't miss these exclusive retail and dining experiences in the month of July - all with a special green twist.
 
-<div class="row btn-link-wrapper">
-	<div class="col is-half">
-		<a class="btn-link" href="1-9-july">1-9 July</a>	
-	</div>
-	<div class="col is-half">
-		<a class="btn-link" href="10-16-july">10-16 July</a>
-	</div>
-	<div class="col is-half">
-		<a class="btn-link" href="17-23-july">17-23 July</a>
-	</div>
-	<div class="col is-half">
-		<a class="btn-link" href="24-31-july">24-31 July</a>
-	</div>
-</div>
