@@ -8,7 +8,7 @@ description: ""
 **Experience an enriching tour through Methodist Girls’ School's biodiverse garden, learning about its origins and participating in engaging activities such as composting and pruning.**
 
 **Date:** 8 July, 09:00 am – 12.00 pm<br>
-**Admission:** $60 per pax | $100 for 1 adult and 1 child<br>
+**Admission:** $60 | $100 for 1 adult and 1 child<br>
 **Venue:** Methodist Girls’ School Biodiverse Garden<br>
 **Organiser:**  Living Soil Asia
 
