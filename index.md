@@ -11,19 +11,19 @@ sections:
       title: Go Green, Your Way
   - infobar:
       title: Coming July 2023
-      description: "Get ready for a month of fun-filled green activities and
+      description: Get ready for a month of fun-filled green activities and
         experiences! More events will be uploaded progressively, so please check
-        back to this site regularly! "
+        back to this site regularly!
   - infopic:
       title: Go Green <br>Tours
-      description: Learn about Singapore's sustainability efforts
+      description: Explore new and familiar places in Singapore with a green lens.
       button: Learn more
       url: /programmes/tours
       alt: Go Green Tours
       image: /images/go-green-tours-4.png
   - infopic:
       title: Go Green <br>Workshops & Talks
-      description: Engage in hands-on activities and listen to sustainability conferences.
+      description: Learn through interactive hands-on activities and enriching talks.
       button: Learn more
       image: /images/go-green-workshop-talks-4.png
       alt: Image alt text
@@ -44,14 +44,14 @@ sections:
       image: /images/go-green-retail-dining-4.png
   - infopic:
       title: Go Green <br> Challenges & Deals
-      description: Shop, save and adopt a sustainable lifestyle
+      description: Shop, save and adopt a sustainable lifestyle.
       button: Learn more
       url: /programmes/challenges
       alt: Image alt text
       image: /images/go-green-challenges-deals-4.png
   - infopic:
       title: Go Green <br>Initiatives
-      description: Become an advocate for sustainability in your community.
+      description: Be an advocate for sustainability in your community.
       button: Learn More
       url: /programmes/initiatives/
       alt: Image alt text
