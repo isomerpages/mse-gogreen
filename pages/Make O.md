@@ -15,7 +15,7 @@ $88 for OneTee | $128 for twOtee <br>
 ***cOts Experience***<br>
 $88 for pack sized bag | $108 for pack sized bag + pOcuts
 <br>
-**Venue:** GINLEE Studio, National Design Centre #03-05<br>
+**Venue:** National Design Centre, GINLEE Studio, #03-05<br>
 **Organiser:** GINLEE Studio
 
 With its thoughtful design and sustainable production process, GINLEE’s _/\/\/\ake O workshop breaks through the noise in an industry saturated by fast fashion, to create a space for customers to reimagine how good design can reduce waste and transform the unwanted into unique products.
