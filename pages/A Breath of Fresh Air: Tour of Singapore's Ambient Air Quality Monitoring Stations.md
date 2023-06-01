@@ -4,7 +4,7 @@ title: "A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality
 permalink: /breath-of-fresh-air/
 description: ""
 ---
-This activity is part of the Clean and Green Singapore (CGS) Experiences. For more tours under CGS experiences, visit https://www.cgs.gov.sg/cgs-experiences
+More tours are available under Clean &amp; Green Experiences! Please visit https://www.cgs.gov.sg/cgs-experiences
 
 ![](/images/Tours/aq_station_1.jpg)
 
@@ -26,8 +26,8 @@ Participants must be 13 years old and above. This facility is not accessible by 
 
 
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/cgs-experiences">
-	<img src="/images/more-info-btn.png">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/a-breath-of-fresh-air-singapores-ambient-air-quality-monitoring-stations-tickets-643525601397">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
