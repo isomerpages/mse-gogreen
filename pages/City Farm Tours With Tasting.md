@@ -9,8 +9,8 @@ description: ""
 
 **Date:** 7, 8, 21, 22 July, 9:30 - 10:45 am<br>
 **Admission:** $30<br>
-**Venue:** CitySprouts, 102 Henderson Road<br>
-**Organiser:** CitySprouts
+**Venue:** City Sprouts, 102 Henderson Road<br>
+**Organiser:** City Sprouts
 
 Hidden in the Henderson estate is a city urban farm that used to be a school. Come join CitySprouts on a journey around their farm and learn about various farming techniques such as aquaponics and hydroponics. Participants will also get to see the difference between the traditional farming (e.g on rice paddies), and the newer techniques that use less land and resources. 
 
