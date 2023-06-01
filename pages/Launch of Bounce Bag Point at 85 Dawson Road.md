@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Initiatives/question%20114%20-%204.jpg)
 
-**Contribute or take a reusable bag from the new Bounce Bag Point at Dawson Road before shopping and help reduce the use of plastic bags.**
+**Contribute or take a reusable bag from the new Bounce Bag Point at Dawson Road and help reduce the use of plastic bags.**
 
 **Date:** TBC <br>
 **Venue:** 85 Dawson Road<br>
@@ -17,8 +17,9 @@ To encourage shoppers to adopt more sustainable habits such as bringing their ow
   
 TPTC will launch a new Bounce Bag Point at Blk 85 Dawson Road (outside Sheng Siong supermarket) in support of Go Green SG.
 
+
 <a class="btn-link" target="_blank" href="https://www.facebook.com/ourtanjongpagar">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
