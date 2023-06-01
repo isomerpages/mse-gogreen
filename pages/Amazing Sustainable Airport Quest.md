@@ -8,7 +8,7 @@ description: ""
 **Embark on a fun quest around the airport to discover fun facts you’d never know! After the quest, play airport-themed games at Changi Experience Studio for a fun-filled time!**
 
 Date: 1- 31 July, 11:00 am - 6:00 pm<br>
-Admission: $50 per person<br>
+Admission: $50<br>
 Venue: Changi Experience Studio<br>
 Organiser: Changi Airport Group/Changi Experience Studio
 
