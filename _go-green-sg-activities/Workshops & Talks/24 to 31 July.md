@@ -170,7 +170,7 @@ third_nav_title: Workshops & Talks
         <ul>
           <li><strong>Date: 29 July</strong></li>
           <li>
-            <strong>Admission: $22 per person </strong>
+            <strong>Admission: $22 </strong>
           </li>
           <li>
             <strong>
