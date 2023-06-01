@@ -18,7 +18,7 @@ Participants can look forward to encountering marine animals such as seahorses, 
 
 Participants will also learn how adopting an environmentally sustainable lifestyle can directly preserve and protect the natural ecosystems of Singapore.  
 
-<a class="btn-link" target="_blank" href="https://youngnautilus.com/product/small-group-nature-intertidal-mangrove-walk/">
+<a class="btn-link" target="_blank" href="https://youngnautilus.com/product/mse-x-yn-go-green-8-july-small-nature-walks-unravelling-wildlife-mysteries/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
