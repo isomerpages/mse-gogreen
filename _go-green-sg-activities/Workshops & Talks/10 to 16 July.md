@@ -142,7 +142,7 @@ third_nav_title: Workshops & Talks
               Venue: CitySprouts. 102 Henderson Road
             </strong>
           </li>
-          <li><strong>Organiser: Citysprouts</strong></li>
+          <li><strong>Organiser: CitySprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
