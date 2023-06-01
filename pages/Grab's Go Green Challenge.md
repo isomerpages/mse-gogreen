@@ -7,9 +7,7 @@ description: ""
 
 **Go Green with Grab by taking part in the Go Green Challenge!**
 
-
 **Date:** Until 16 July<br>
-**Admission:** Free <br>
 **Organiser:** Grabcar Pte Ltd
 
 Grab will be organising a Go Green Challenge from 12 June to 16 July to raise awareness of its green features for its transport and delivery services and encourage the adoption of eco-friendly practices among consumers.
