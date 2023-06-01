@@ -633,7 +633,7 @@ third_nav_title: Tours
         <img src="/images/Tours/newater%20visitor%20centre_1920x1080.jpg">
         <h2>
           Learn Interesting Facts about High grade Reclaimed Water at NEWater
-          Visitor Centre.
+          Visitor Centre
         </h2>
       </div>
       <div class="programmes__item__detail">
