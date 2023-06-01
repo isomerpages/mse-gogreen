@@ -48,7 +48,7 @@ sections:
       button: Learn more
       url: /programmes/challenges
       alt: Image alt text
-      image: /images/go-green-challenges-deals-4.png
+      image: /images/challenges and deals.png
   - infopic:
       title: Go Green <br>Initiatives
       description: Be an advocate for sustainability in your community.
