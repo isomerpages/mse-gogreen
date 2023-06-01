@@ -256,7 +256,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery. 1 Hampshire Road, Block 1 Level 1
+              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road
             </strong>
           </li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
