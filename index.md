@@ -39,7 +39,7 @@ sections:
       title: Go Green <br>Retail & Dining
       description: Treat yourself with sustainable goodies and farm-to-table experiences.
       button: Learn More
-      url: /programmes/retail-and-dining/
+      url: /programmes/retail-dining-and-deals/
       alt: Image alt text
       image: /images/go-green-retail-dining-4.png
   - infopic:
