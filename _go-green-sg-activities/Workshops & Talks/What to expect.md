@@ -33,10 +33,10 @@ third_nav_title: Workshops & Talks
 
 ![](/images/Programmes/banner-workshop-talks-4.png)
 
-# Get hands-on at our <br>green workshops
-Sign up for any of our sustainability-themed workshops happening this July and learn about the environment, give old soft toys a new lease on life, and more.
+# Learn through interactive hands-on activities and enriching talks 
+Here's a great way to nurture your interest in the environment.
 
-Add your personal touch to our green efforts by registering below.
+Take part in these interactive workshops and hear from inspiring speakers to deepen your knowledge about sustainability!
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
