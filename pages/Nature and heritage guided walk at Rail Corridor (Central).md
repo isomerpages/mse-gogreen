@@ -5,7 +5,7 @@ description: ""
 ---
 ![Nature and heritage guided walk at Rail Corridor (Central)](/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpg)
 
-**Discover how a 24km long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!**
+**Discover how a 24 kilometre long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!**
 
 **Date:** 15 July, 9:30 – 11:00 am<br>
 **Admission:** Free (registration required)<br>
