@@ -8,7 +8,7 @@ description: ""
 **Take part in this 2-hour hands-on indoor workshop to learn all you need to know about soil, and its importance to the climate and human communities!**
 
 **Date:** 20, 27 July, 7:00 – 9:00 pm<br>
-**Admission:** Free (registration required)<br>
+**Admission:** $60<br>
 **Venue:** Kampong Bahru<br>
 **Organiser:** Living Soil Asia
 
