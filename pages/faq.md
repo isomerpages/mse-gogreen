@@ -53,6 +53,27 @@ activities that interest you. To sign up for an activity, click on the specific 
 registration.
 
 ### 7. Are the activities free or do I need to pay?
-Prices for activities are determined by our partners. Some partners have offered exclusive prices for
-their activities in support of Go Green SG, so do take this opportunity to sign up! There are also many
-activities that are free of charge!
+There are many
+activities that are free of charge! For charged activities, the prices are determined by our partners. Some partners have offered exclusive prices for
+their activities in support of Go Green SG, so do take this opportunity to sign up! 
+
+### 8. Do I need an account to register for an activity?
+You do not need an account to register for an activity unless required by our partners.
+
+### 9. I need to contact the organiser. How do I go about doing so?
+You may find the relevant contact details on the respective organiser’s registration page. If you need
+further assistance, please contact us at [go.gov.sg/gogreensgcontactus](https://form.gov.sg/64538dec0922f60012ab7cc0)
+
+### 10. How do I know if my registration for an activity has been confirmed? 
+The respective organiser will notify you to confirm your participation. If you need to reach them, you
+may find the relevant contact details from the respective organiser’s registration page.
+
+### 11. I need a refund / cancellation, what should I do?
+As activities are organised and hosted by our partners, please contact them regarding refunds and
+cancellations. Some partners may have specific terms and conditions for their activities.
+
+### 12. I have some questions regarding Go Green SG 2023. Where do I send them?
+You may submit your questions or feedback on the [Contact us](https://www.gogreen.gov.sg/contact/) page.
+
+### 13. I would like to organise an activity for Go Green SG 2023. How do I go about doing so?
+Registration for partners who would like to organise activites has closed. We welcome you to organise activities for the next edition of Go Green SG next year!
