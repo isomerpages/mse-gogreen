@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/Tours/tribe-png.jpg)
 
-**An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost. Embark on an exclusive behind-the-scenes tour to a research institute to learn more about food waste reduction.**
+**An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost. **
 
 **Date:** 8 July, 10:00 am – 1:00 pm |  22 July, 10:00 am – 1:00 pm<br>
 **Admission:** Adult: $100 | Senior: $80 | Child: $60<br>
-**Venue:** Clementi MRT Exit A (head down to bus stop). 31 Toh Guan Road East<br>
-**Organiser:** Tribe Ptd Ltd
+**Venue:** Clementi MRT Exit A<br>
+**Organiser:** Tribe Pte Ltd
 
 What is Singapore doing to ensure and secure our food supply? What role can you play to strengthen our food supply resilience? 
 
