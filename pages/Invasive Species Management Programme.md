@@ -12,7 +12,11 @@ description: ""
 **Venue:** Rail Corridor (South)<br>
 **Organiser:** National Parks Board
 
-Invasive species pose a threat to biodiversity. They compete for space, light, water and nutrients with native species, preventing them from establishing. Invasive species management is labour-intensive and needs to be sustained regularly. This programme will provide participants an opportunity to support National Parks Board staff in the removal of invasive species. They will also be equipped with information on trail etiquette and various invasive plant species, and a guide on how to effectively remove weeds.
+Invasive species pose a threat to biodiversity. They compete for space, light, water and nutrients with native species, preventing them from establishing. 
+
+Invasive species management is labour-intensive and needs to be sustained regularly. 
+
+This programme will provide participants an opportunity to support National Parks Board staff in the removal of invasive species. They will also be equipped with information on trail etiquette and various invasive plant species, and a guide on how to effectively remove weeds.
 
 <a class="btn-link" target="_blank" href="https://form.gov.sg/6465799f892e7c001308c97f">
 	<img src="/images/gogreensg_website-32.png">
