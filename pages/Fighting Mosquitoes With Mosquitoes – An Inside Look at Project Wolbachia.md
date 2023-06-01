@@ -18,7 +18,7 @@ Visit the National Environment Agency’s highly automated facility to find out 
 
 Participants must be 3 years old and above. This facility is not accessible by wheelchair. Participants must wear covered shoes. Long pants are recommended.
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/fighting-mosquitoes-with-mosquitoes-an-inside-look-at-project-wolbachia-tickets-643615299687">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
