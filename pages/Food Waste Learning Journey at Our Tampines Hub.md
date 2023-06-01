@@ -21,7 +21,7 @@ Find out how we can turn food waste into something useful and reduce the amount 
 
 Participants will get to bring home fertiliser made from food waste to use on their own plants.
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/cgs-experiences">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/food-waste-learning-journey-our-tampines-hub-tickets-643606021937">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
