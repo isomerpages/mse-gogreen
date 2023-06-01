@@ -5,12 +5,12 @@ description: ""
 ---
 ![](/images/Challenges%20&amp;%20Deals/foodpanda%20image%2016-9.png)
 
-**Enjoy a discount when ordering from Green Label merchants on Foodpanda!**
+**Enjoy a discount when ordering from Green Label merchants on foodpanda!**
 
 **Date:** 1 - 31 July<br>
 **Organiser:** foodpanda
 
-Customers ordering food from Green Label merchants on Foodpanda can enjoy $3 off a minimum $30 spent with the code GOGREEN. 
+Customers ordering food from Green Label merchants on foodpanda can enjoy $3 off a minimum $30 spent with the code GOGREEN. 
 
 The Green Label programme is a certification scheme which identifies sustainable restaurants on the platform, making it easy for consumers to make the conscious choice to support more environmentally friendly establishments.
 
