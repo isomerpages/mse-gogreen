@@ -88,6 +88,40 @@ third_nav_title: Events
 </style>
 
 <div class="row row_custom">
+	  <!-- Sustainable Movie Night -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/cs_movie.jpg">
+        <h2>Sustainable Movie Night
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 21 July</strong></li>
+          <li>
+            <strong>Admission: $30 per person </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: CitySprouts, 102 Henderson Road
+            </strong>
+          </li>
+          <li><strong>Organiser: Citysprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability during Climate Action Week. Indulge in a picnic on the rooftop with snack box and drinks.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainable-movie-night/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- Agri-preneur Incubation Programme Bazaar -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
