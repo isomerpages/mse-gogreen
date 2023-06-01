@@ -56,7 +56,4 @@ sections:
       url: /programmes/initiatives/
       alt: Image alt text
       image: /images/go-green-initiatives-4.png
-  - resources:
-      title: What's On
-      button: Learn more
 ---
