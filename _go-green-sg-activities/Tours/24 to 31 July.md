@@ -440,7 +440,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/newater%20visitor%20centre_1920x1080.jpg">
         <h2>
-          Learn Interesting Facts about High grade Reclaimed Water at NEWater
+         Tour of NEWater
           Visitor Centre
         </h2>
       </div>
@@ -451,7 +451,7 @@ third_nav_title: Tours
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
-            <strong>Venue: NEWater Visitor Centre. 20 Koh Sek Lim Road</strong>
+            <strong>Venue: NEWater Visitor Centre</strong>
           </li>
           <li>
             <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
@@ -467,7 +467,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/learn-interesting-facts-about-high-grade-reclaimed-water-at-newater-visitor-centre/" class="button-primary">
+      <a href="/tour-of-newater-visitor-centre/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -487,7 +487,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Marina Barrage. 8 Marina Gardens Drive
+              Venue: Marina Barrage
             </strong>
           </li>
           <li>
@@ -581,7 +581,7 @@ third_nav_title: Tours
               Date: 29 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
@@ -612,7 +612,7 @@ third_nav_title: Tours
               Date: 29, 30 July</strong>
           </li>
           <li><strong>Admission: $25</strong></li>
-          <li><strong>Venue: Tiger Brewery. 459 Jalan Ahmad Ibrahim</strong></li>
+          <li><strong>Venue: Tiger Brewery</strong></li>
           <li><strong>Organiser: Asia Pacific Breweries Singapore</strong></li>
         </ul>
       </div>
@@ -642,7 +642,7 @@ third_nav_title: Tours
               Date: 30 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Our Tampines Hub. 1 Tampines Walk</strong></li>
+          <li><strong>Venue: Our Tampines Hub</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
