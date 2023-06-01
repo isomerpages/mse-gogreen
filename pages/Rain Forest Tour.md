@@ -7,7 +7,7 @@ description: ""
 
 **Discover the enchantment of our tropical rainforest with our volunteer guides.**
 
-**Date:** 8 July, 09:00 – 10:00am<br>
+**Date:** 8 July, 9:00 – 10:00am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Singapore Botanic Gardens, Visitor Services Counter at Visitor Centre (Nearest Entrance: Nassim Gate)<br>
 **Organiser:** National Parks Board
