@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Workshop%20&amp;%20Talks/cs_anb.png)
 
-**Learn to DIY natural detergents and scrubs with common household “waste” and watch it beautify you and the earth! Minimize unnecessary waste by opting for zero-plastic beauty products at this workshop!**
+**Learn to DIY natural detergents and scrubs with common household “waste” and watch it beautify you and the earth! Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!**
 
 Date: <br>
 5, 19 July, 5:00 - 6:15 pm<br>
