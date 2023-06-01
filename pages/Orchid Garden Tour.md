@@ -5,7 +5,7 @@ description: ""
 ---
 ![Orchid Garden Tour](/images/Tours/orchid%20garden%20tour.jpg)
 
-**Explore the diversity of orchids with our volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.**
+**Explore the diversity of orchids with volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.**
 
 **Date:** 15 July, 9:00am<br>
 **Admission:** [Admission fees](https://www.nparks.gov.sg/sbg/our-gardens/tyersall-entrance/national-orchid-garden) into the National Orchid Garden applies<br>
