@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Workshop%20&amp;%20Talks/question%20114%20-%20img_5528.jpg)
 
-**Take part in this 2-hour hands-on indoor workshop to learn all you need to know about soil, and its importance to the climate and human communities!**
+**Take part in this 2-hour hands-on indoor workshop to learn all  about soil, and its importance to the climate and human communities!**
 
 **Date:** 20, 27 July, 7:00 – 9:00 pm<br>
 **Admission:** $60<br>
