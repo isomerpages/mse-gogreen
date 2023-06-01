@@ -5,16 +5,18 @@ description: ""
 ---
 ![](/images/Tours/smg%20bus%20depot%20tour%20with%20go%20ahead%20singapore.jpg)
 
-**Join our guided tour to the Singapore Mobility Gallery and Go Ahead Singapore bus depot at Loyang for a behind-the-scenes look at how we are greening our public transport network and learn about the processes involved in ensuring our bus network runs safely, reliably, and efficiently daily!**
+**Join a guided tour to the Singapore Mobility Gallery and Go Ahead Singapore bus depot at Loyang for a behind-the-scenes look at how Singapore is greening its public transport network and learn about the processes involved in ensuring the bus network runs safely, reliably, and efficiently daily!**
 
 **Date:** 8 July, 12:45 – 4:30 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Singapore Mobility Gallery<br>1 Hampshire Road, Block 1 Level 1<br>
+**Venue:** Singapore Mobility Gallery<br>
 **Organiser:**  Land Transport Authority (LTA)
 
 Hop on board this exclusive tour to the Loyang Bus Depot for a look into the world of sustainable public transport with the Singapore Mobility Gallery and Go Ahead Singapore (GAS)!
 
-Witness firsthand how we are greening our bus network with initiatives, such as the deployment of electric buses, recycling of old bus parts, and water conservation practices, as well as the use of solar energy to power our buses through the installation of solar panels on the roofs of our buses. GAS’ friendly officers will also be on hand to show you around the Training Academy and workshop facilities to discover how they maintain and operate their bus fleets to serve commuters daily.
+Witness firsthand how Singapore is greening its bus network with initiatives, such as the deployment of electric buses, recycling of old bus parts, and water conservation practices, as well as the use of solar energy to power our buses through the installation of solar panels on the roofs of our buses. 
+
+Officers from GAS will also be on hand to show you around the Training Academy and workshop facilities to discover how they maintain and operate their bus fleets to serve commuters daily.
 
 This programme also includes a tour of the Singapore Mobility Gallery, so don’t miss this opportunity to discover what goes behind-the-scenes in making our land transport network run safely, reliably and efficiently for everyone!  
 
