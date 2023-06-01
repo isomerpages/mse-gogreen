@@ -642,7 +642,7 @@ third_nav_title: Tours
               Date: 30 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Our Tampines Hub, 1 Tampines Walk</strong></li>
+          <li><strong>Venue: Our Tampines Hub. 1 Tampines Walk</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
