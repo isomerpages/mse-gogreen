@@ -7,9 +7,9 @@ description: ""
 
 **Curious how Singapore produces its own food despite our limited land? Learn how Singapore champions local foodfish production with a trip to the Marine Aquaculture Centre at St John’s Island!**
 
-**Date:** 28 July, 2:00 – 4:00 pm. Participants to meet at 1:30 pm at Marina South Pier Ferry Terminal<br>
+**Date:** 28 July, 2:00 – 4:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Marine Aquaculture Centre, St John’s Island. Further instructions will be provided at the point of attendance confirmation.<br>
+**Venue:** Marine Aquaculture Centre, St John’s Island<br>
 **Organiser:**  Singapore Food Agency
 
 Interested to learn more about aquaculture in Singapore? Join this exclusive tour to the Marine Aquaculture Centre located on St John’s Island, where you will learn about how the Singapore Food Agency contributes to food security and sustainability in Singapore through research into tropical marine foodfish. 
