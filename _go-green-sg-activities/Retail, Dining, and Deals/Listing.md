@@ -172,7 +172,7 @@ third_nav_title: Retail, Dining, and Deals
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/unabiz-green-building-discounts/" class="button-primary">
+      <a href="/unabiz-green-building-discount/" class="button-primary">
         Find out more
       </a>
     </div>
