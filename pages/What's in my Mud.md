@@ -19,13 +19,13 @@ The mudflats might look dull at first glance, but they are actually full of life
 **8 July session**
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/8-jul-whats-in-my-mud">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 **22 July session**
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/22-jul-whats-in-my-mud">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 
