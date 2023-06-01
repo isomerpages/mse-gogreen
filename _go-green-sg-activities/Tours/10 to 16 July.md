@@ -649,8 +649,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
-60 Kranji Way</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
