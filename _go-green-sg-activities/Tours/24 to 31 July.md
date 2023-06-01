@@ -565,7 +565,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/biodiversity-tour-at-jurong-lake-gardens//" class="button-primary">
+      <a href="/biodiversity-tour-at-jurong-lake-gardens/" class="button-primary">
         Find out more
       </a>
     </div>
