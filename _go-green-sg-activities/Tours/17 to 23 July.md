@@ -342,6 +342,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- City Farm Tours with Tasting-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/cs_ffl.jpg">
+        <h2>City Farm Tours With Tasting
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 22 July</strong>
+          </li>
+          <li><strong>Admission: $30</strong></li>
+          <li><strong>Venue: CitySprouts, 102 Henderson Road</strong></li>
+          <li><strong>Organiser: CitySprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/city-farm-tours-with-tasting/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <!-- Race on Sunshine-->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
