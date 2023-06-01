@@ -5,7 +5,7 @@ description: ""
 ---
 ![Learning Forest Tour](/images/Tours/learning%20forest%20tour.jpg)
 
-**The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest**
+**The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest.**
 
 **Date:** 8 July, 9:00 am | 22 July, 9:00 am<br>
 **Admission:** Free (registration required)<br>
