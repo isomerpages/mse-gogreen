@@ -12,7 +12,8 @@ description: ""
 **Venue:** Shuttle bus from Jurong East MRT <br>
 **Organiser:** National Environment Agency
 
-CREUSE is a local sustainable brand by XCEL, a local manufacturer and provider of innovate wooden pallets and packaging solutions. Learn about the concept of circular economy and tour around the facility to see how damaged pallets that are beyond repair are upcycled into useful lifestyle products such as stools, vases and coasters.<br> 
+CREUSE is a local sustainable brand by XCEL, a local manufacturer and provider of innovate wooden pallets and packaging solutions. Learn about the concept of circular economy and tour around the facility to see how damaged pallets that are beyond repair are upcycled into useful lifestyle products such as stools, vases and coasters.
+
 Children under 12 years old are required to be accompanied by an adult. The factory tour involves climbing of stairs.
 
 <a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
