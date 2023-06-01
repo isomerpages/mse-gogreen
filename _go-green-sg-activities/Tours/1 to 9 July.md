@@ -437,8 +437,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Behind the scenes Bus Tour of Changi Water Reclamation
-              Plant
+              Venue: Changi Water Reclamation Plant
             </strong>
           </li>
           <li>
