@@ -21,13 +21,13 @@ Sungei Buloh is home to many animals and plants. There are different types of aq
 **1 July session**
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/1-jul-whats-in-my-water">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 **15 July session**
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/15-jul-whats-in-my-water">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
