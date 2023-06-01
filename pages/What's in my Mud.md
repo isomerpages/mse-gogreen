@@ -16,13 +16,18 @@ Visitor Centre<br>60 Kranji Way<br>
 
 The mudflats might look dull at first glance, but they are actually full of life. Masters of disguise, the inhabitants camouflage with their surroundings and it often takes patience and a keen pair of eyes to spot them. Not only do these organisms help to maintain the health of the mud, they and are also an important source of food for animals. Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
 
-
-
-
+**8 July session**
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/8-jul-whats-in-my-mud">
 	<img src="/images/more-info-btn.png">
 </a>
+
+**22 July session**
+
+<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/22-jul-whats-in-my-mud">
+	<img src="/images/more-info-btn.png">
+</a>
+
 
 <style>
 	.btn-link {
