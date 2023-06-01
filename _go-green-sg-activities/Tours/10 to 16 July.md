@@ -614,7 +614,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: National University of Singapore (NUS), SDE4 Level 4. 8 Architecture Drive
+              Venue: National University of Singapore (NUS), School of Design and Environment 4, Level 4. 8 Architecture Drive
             </strong>
           </li>
           <li><strong>Organiser: National University of Singapore</strong></li>
