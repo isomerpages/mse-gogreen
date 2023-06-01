@@ -5,14 +5,16 @@ description: ""
 ---
 ![](/images/Tours/question%20112%20-%20img_1937.JPG)
 
-**Experience an enriching tour through Methodist Girls’ School's biodiverse garden, learning about its origins and participating in engaging activities such as composting and pruning.**
+**Experience an enriching tour through Methodist Girls’ School's biodiverse garden. Learn about its origins and participate in engaging activities such as composting and pruning.**
 
 **Date:** 8 July, 09:00 am – 12.00 pm<br>
 **Admission:** $60 | $100 for 1 adult and 1 child<br>
-**Venue:** Methodist Girls’ School Biodiverse Garden<br>
+**Venue:** Methodist Girls’ School<br>
 **Organiser:**  Living Soil Asia
 
-The Regenerative Garden Experience is a learning journey to the Biodiverse Garden in Methodist Girls' School. It includes an educational tour where participants can learn about the history of the garden and how the soil has improved over the years. Participants will get an opportunity to practise composting and pruning of the plants. They can also engage in citizen-led action research through soil exploration and observation. The data collected will be used for further growth of the garden. At the end of the event, participants will get to harvest and take home some herbs.
+The Regenerative Garden Experience is a learning journey to the Biodiverse Garden in Methodist Girls' School. It includes an educational tour where participants can learn about the history of the garden and how the soil has improved over the years. 
+
+Participants will get an opportunity to practise composting and pruning of the plants. They can also engage in citizen-led action research through soil exploration and observation. The data collected will be used for further growth of the garden. At the end of the event, participants will get to harvest and take home some herbs.
 
 This experience is recommended for adults, children 10 years old and above, and families interested in learning about gardens, biodiversity and soil in the Singaporean context.
 
