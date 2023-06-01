@@ -16,8 +16,7 @@ Over 250 exciting activities will be held under Go Green SG. These include inter
 promote sustainability within their organisations, as well as external activities for members of the
 public. 
 
-Activities that are open to members of the public include exclusive and specially curated behind-the-
-scenes sustainability tours, learning journeys, events, workshops, youth activities, promotions, and
+Activities that are open to members of the public include exclusive and specially curated behind-the-scenes sustainability tours, learning journeys, events, workshops, youth activities, promotions, and
 green challenges. Check out the list of activities on the “[Our Activities](https://www.gogreen.gov.sg/programmes/)” page.
 
 ### 3. Who are these activities organised by?
@@ -62,7 +61,7 @@ You do not need an account to register for an activity unless required by our pa
 
 ### 9. I need to contact the organiser. How do I go about doing so?
 You may find the relevant contact details on the respective organiser’s registration page. If you need
-further assistance, please contact us at [go.gov.sg/gogreensgcontactus](https://form.gov.sg/64538dec0922f60012ab7cc0)
+further assistance, please contact us on the ["Contact Us"](https://www.gogreen.gov.sg/contact/) page. 
 
 ### 10. How do I know if my registration for an activity has been confirmed? 
 The respective organiser will notify you to confirm your participation. If you need to reach them, you
@@ -73,7 +72,7 @@ As activities are organised and hosted by our partners, please contact them rega
 cancellations. Some partners may have specific terms and conditions for their activities.
 
 ### 12. I have some questions regarding Go Green SG 2023. Where do I send them?
-You may submit your questions or feedback on the [Contact us](https://www.gogreen.gov.sg/contact/) page.
+You may submit your questions or feedback on the ["Contact Us"](https://www.gogreen.gov.sg/contact/) page.
 
 ### 13. I would like to submit a proposal to organise an activity for Go Green SG 2023. How do I go about doing so?
 Registration for partners who would like to organise activities in support of Go Green SG 2023 has closed. We welcome you to organise activities for Go Green SG next year!
