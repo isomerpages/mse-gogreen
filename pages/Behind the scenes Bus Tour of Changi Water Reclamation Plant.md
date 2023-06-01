@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 6 July, 9:30 am – 12:30 pm | 9 July, 9:30 am – 12:30 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Environment Building, 40 Scotts Road<br>
+**Venue:** Shuttle bus from Environment Building. 40 Scotts Road<br>
 **Organiser**: PUB, Singapore’s National Water Agency
 
 A  used water superhighway for the future, the Deep Tunnel Sewerage System (DTSS) is a cost-efficient and sustainable solution conceived by Singapore's National Water Agency PUB to meet Singapore’s long-term needs for used water collection, treatment, reclamation, and disposal. DTSS uses deep tunnel sewers to convey used water by gravity to centralised water reclamation plants located at the coastal areas.  
