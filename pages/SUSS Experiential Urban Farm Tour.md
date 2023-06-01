@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 22 July 2023, 2:00 – 4:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Singapore University of Social Sciences, Seminar Room at Block C Level 5 Number 7. 463 Clementi Road<br>
+**Venue:** Singapore University of Social Sciences <br>
 **Organiser:** Singapore University of Social Sciences
 
 SUSS and Nutrious Farms have set up a rooftop farm (SUSS Experiential Urban Farm) with soil-based, hydroponic, aquaponic farming systems and even a bee garden, to bring members of the public on an experiential learning journey.   
