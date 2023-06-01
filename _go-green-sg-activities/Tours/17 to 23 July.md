@@ -355,7 +355,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $30</strong></li>
           <li><strong>Venue: City Sprouts. 102 Henderson Road</strong></li>
-          <li><strong>Organiser: CitySprouts</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
