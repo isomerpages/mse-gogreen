@@ -764,4 +764,35 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- Mangrove Goodies-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mangrove%20goodies.png">
+        <h2>Mangrove Goodies
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Learn about our relationship with mangroves with this guided walk. Discover how mangrove plants and animals are related to our everyday life – from food to products, and even how they protect us.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/mangrove-goodies/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
