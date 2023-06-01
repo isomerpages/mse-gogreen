@@ -3,7 +3,7 @@ title: ForestPlay at Passion Wave
 permalink: /forestplay-passionwave/
 description: ""
 ---
-![](/images/Tours/aq_station_1.jpg)
+
 
 **Good air quality safeguards public health! Find out how ambient air quality is being monitored in stations across Singapore.**
 
