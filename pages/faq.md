@@ -75,5 +75,5 @@ cancellations. Some partners may have specific terms and conditions for their ac
 ### 12. I have some questions regarding Go Green SG 2023. Where do I send them?
 You may submit your questions or feedback on the [Contact us](https://www.gogreen.gov.sg/contact/) page.
 
-### 13. I would like to organise an activity for Go Green SG 2023. How do I go about doing so?
-Registration for partners who would like to organise activites has closed. We welcome you to organise activities for the next edition of Go Green SG next year!
+### 13. I would like to submit a proposal to organise an activity for Go Green SG 2023. How do I go about doing so?
+Registration for partners who would like to organise activities in support of Go Green SG 2023 has closed. We welcome you to organise activities for Go Green SG next year!
