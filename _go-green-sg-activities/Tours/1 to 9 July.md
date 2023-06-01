@@ -132,7 +132,7 @@ third_nav_title: Tours
             </strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -162,7 +162,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -192,7 +192,7 @@ third_nav_title: Tours
               Date: 1, 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -256,9 +256,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery
-              <br>
-              1 Hampshire Road, Block 1 Level 1
+              Venue: Singapore Mobility Gallery. 1 Hampshire Road, Block 1 Level 1
             </strong>
           </li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
@@ -379,7 +377,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Clementi MRT Exit A (head down to bus stop) / 31 Toh Guan
+              Venue: Clementi MRT Exit A (head down to bus stop). 31 Toh Guan
               Road East
             </strong>
           </li>
@@ -576,9 +574,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery
-              <br>
-              1 Hampshire Road, Block 1 Level 1
+              Venue: Singapore Mobility Gallery. 1 Hampshire Road, Block 1 Level 1
             </strong>
           </li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
@@ -679,11 +675,11 @@ third_nav_title: Tours
           <li><strong>Date: 8 July</strong></li>
           <li>
             <strong>
-              Admission: $60 per pax | $100 for 1 adult and 1 child
+              Admission: $60 | $100 for 1 adult and 1 child
             </strong>
           </li>
           <li>
-            <strong>Venue: Methodist Girls’ School Biodiverse Garden</strong>
+            <strong>Venue: Methodist Girls’ School, Biodiverse Garden</strong>
           </li>
           <li><strong>Organiser: Living Soil Asia</strong></li>
         </ul>
@@ -752,11 +748,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Sungei Buloh Wetland Reserve
-              <br>
-              Visitor Centre
-              <br>
-              60 Kranji Way
+              Venue: Sungei Buloh Wetland Reserve, Visitor Centre. 60 Kranji Way
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
