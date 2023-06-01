@@ -3,6 +3,8 @@ title: "Weathering With You: A Tour of Singapore's Central Forecast Office"
 permalink: /weathering-with-you/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+
 ![](/images/Tours/weathering%20with%20you.png)
 
 **Ever wondered where your daily weather forecasts come from? Or curious about the work of a weather forecaster? Visit the Meteorological Service Singapore’s Central Forecast Office to find out more!**
@@ -21,7 +23,7 @@ Participants must be 12 years old and above. This facility is not accessible by 
 
 
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/cgs-experiences">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/weathering-with-you-a-tour-of-singapores-central-forecast-office-tickets-643520395827">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
