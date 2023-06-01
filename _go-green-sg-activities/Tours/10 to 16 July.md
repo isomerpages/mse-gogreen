@@ -385,7 +385,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
@@ -444,7 +444,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd, 9 Benoi Sector</strong></li>
+          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd. 9 Benoi Sector</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -472,7 +472,7 @@ third_nav_title: Tours
           <li><strong>Date: 15 July</strong></li>
           <li>
             <strong>
-              Admission: Admission fees into the National Orchid Garden applies.
+              Admission: Admission fees into the National Orchid Garden apply
             </strong>
           </li>
           <li>
