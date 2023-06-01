@@ -4,7 +4,7 @@ title: "A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality
 permalink: /breath-of-fresh-air/
 description: ""
 ---
-More tours are available under Clean &amp; Green Experiences! Please visit https://www.cgs.gov.sg/cgs-experiences
+**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
 
 ![](/images/Tours/aq_station_1.jpg)
 
