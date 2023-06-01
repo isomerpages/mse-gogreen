@@ -7,7 +7,7 @@ description: ""
 
 **The Learning Forest features a network of boardwalks and elevated walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest**
 
-**Date:** 8 July, 09:00 am | 22 July, 09:00 am<br>
+**Date:** 8 July, 9:00 am | 22 July, 9:00 am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Singapore Botanic Gardens, Visitor Services Counter at Learning Forest (Nearest Entrance: Tyersall Gate)<br>
 **Organiser:** National Parks Board
