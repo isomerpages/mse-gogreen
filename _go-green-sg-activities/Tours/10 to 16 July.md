@@ -642,5 +642,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
+	  <!-- What's in my Water? -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/whats%20in%20my%20water.png">
+        <h2>What's in My Water?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
+60 Kranji Way</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Join us for an interesting morning walk to learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-water/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
