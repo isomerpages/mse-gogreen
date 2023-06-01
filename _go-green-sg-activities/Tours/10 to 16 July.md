@@ -134,7 +134,7 @@ third_nav_title: Tours
               Date: 10, 12, 14, 16 July
             </strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Bukit Batok Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -192,7 +192,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 13, 19, 25 July</strong>
+              Date: 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
