@@ -711,7 +711,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: ComCrop, Rooftop 15 Woodlands Loop
+              Venue: ComCrop, Rooftop. 15 Woodlands Loop
             </strong>
           </li>
           <li><strong>Organiser: ComCrop</strong></li>
