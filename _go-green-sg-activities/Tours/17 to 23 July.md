@@ -194,7 +194,7 @@ third_nav_title: Tours
               Date: 18, 20, 22 July</strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park. Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
