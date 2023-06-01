@@ -638,9 +638,7 @@ third_nav_title: Tours
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Singapore University of Social Sciences, Seminar Room at Block C Level 5 Number 7. 463 Clementi Rd
-              SR.C.5.07
-            </strong>
+              Venue: Singapore University of Social Sciences, Seminar Room at Block C Level 5 Number 7. 463 Clementi Road</strong>
           </li>
           <li>
             <strong>Organiser: Singapore University of Social Sciences</strong>
