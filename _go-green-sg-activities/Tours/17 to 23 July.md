@@ -700,5 +700,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
+	  <!-- What's in my Mud?-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/whats%20in%20my%20mud.png">
+        <h2>What's in My Mud?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
+60 Kranji Way</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-mud/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
