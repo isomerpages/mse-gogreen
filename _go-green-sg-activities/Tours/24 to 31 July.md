@@ -102,7 +102,7 @@ third_nav_title: Tours
               Date: 25, 27, 29 July</strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -133,10 +133,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery
-              <br>
-              1 Hampshire Road, Block 1 Level 1
-            </strong>
+              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road</strong>
           </li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
         </ul>
@@ -259,7 +256,7 @@ third_nav_title: Tours
               Date: 27, 29 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd</strong></li>
+          <li><strong>Venue: Pasir Panjang Ferry Terminal. 55 Pasir Panjang Rd</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -280,8 +277,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh
-          Reservoir
+          Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir
         </h2>
       </div>
       <div class="programmes__item__detail">
@@ -292,7 +288,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Environment Building, 40 Scotts Road
+              Venue: Shuttle bus from Environment Building. 40 Scotts Road
             </strong>
           </li>
           <li>
@@ -328,7 +324,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -455,7 +451,7 @@ third_nav_title: Tours
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
-            <strong>Venue: NEWater Visitor Centre 20 Koh Sek Lim Road</strong>
+            <strong>Venue: NEWater Visitor Centre. 20 Koh Sek Lim Road</strong>
           </li>
           <li>
             <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
@@ -491,7 +487,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Marina Barrage 8 Marina Gardens Dr
+              Venue: Marina Barrage. 8 Marina Gardens Drive
             </strong>
           </li>
           <li>
@@ -526,7 +522,7 @@ third_nav_title: Tours
               Date: 29 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: 5008 Ang Mo Kio Avenue 5 #06-13, Techplace 2</strong></li>
+          <li><strong>Venue: Techplace 2, #06-13. 5008 Ang Mo Kio Avenue 5</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -585,8 +581,7 @@ third_nav_title: Tours
               Date: 29 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
-60 Kranji Way</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
