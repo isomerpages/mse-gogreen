@@ -12,7 +12,7 @@ description: ""
 **Venue:** Changi Beach<br>
 **Organiser:** The Untamed Paths
 
-Introducing participants to the intertidal environment and the rich marine biodiversity, including how marine critters have shown resilience via their repopulation of the reclaimed Changi Beach stretch. Following the exploration, participants are led into a beach clean-up for a good visual and experiential impact. This will progress into a facilitated discussion about what gets washed up, and the importance of ongoing efforts of waste management and increase uptake of reusables. Finally, there will be a hands-on segment about intertidal artefacts (shells, moults, skulls) that also wash up, wrapping up the experience.
+Participants will be introduced to the intertidal environment and the rich marine biodiversity, including how marine critters have shown resilience via their repopulation of the reclaimed Changi Beach stretch. Following the exploration, participants are led into a beach clean-up for a good visual and experiential impact. This will progress into a facilitated discussion about what gets washed up, and the importance of ongoing efforts of waste management and increase uptake of reusables. Finally, there will be a hands-on segment about intertidal artefacts (shells, moults, skulls) that also wash up, wrapping up the experience.
 
 <a class="btn-link" target="_blank" href="https://forms.gle/1NQxTMVkRxgJB5FJ8">
 	<img src="/images/gogreensg_website-32.png">
