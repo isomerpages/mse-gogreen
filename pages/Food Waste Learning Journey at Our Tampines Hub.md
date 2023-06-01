@@ -8,7 +8,7 @@ description: ""
 **Find out how we are turning food waste from hawker centre into something useful!**
 
 
-Date: 30 July, 10:30 - 11:30am<br>
+Date: 30 July, 10:30 - 11:30 am<br>
 Admission: Free (registration required)<br>
 Venue: Our Tampines Hub, 1 Tampines Walk<br>
 Organiser: National Environment Agency
