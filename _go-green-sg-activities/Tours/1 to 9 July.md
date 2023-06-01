@@ -180,7 +180,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -306,7 +305,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div> 
-
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -336,6 +334,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- Earth Observatory of Singapore-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/eos%20premises.jpg">
+        <h2>Earth Observatory of Singapore Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 4, 5 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore, 50 Nanyang Avenue</strong></li>
+          <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Learn more about Earth Observatory of Singapore’s research and projects, and how they are tackling sustainability issues of the day.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/eos-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Full Intertidal-->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
