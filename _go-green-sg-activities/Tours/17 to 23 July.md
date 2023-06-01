@@ -373,6 +373,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- Tiger Brewery Tour Sustainability Edition-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tigerbrewery.jpg">
+        <h2>Tiger Brewery Tour Sustainability Edition
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 23 July</strong>
+          </li>
+          <li><strong>Admission: $23 Weekdays, $25 Weekends</strong></li>
+          <li><strong>Venue: Tiger Brewery</strong></li>
+          <li><strong>Organiser: Asia Pacific Breweries Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Tiger’s dedication to brewing excellence and commitment to sustainability goes into every pint of beer. Step into the world of Tiger and experience how they are brewing a better world.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/tiger-brewery-tour-sustainability-edition/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <!-- Race on Sunshine-->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
