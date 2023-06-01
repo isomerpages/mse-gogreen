@@ -3,6 +3,8 @@ title: Journey into Glass Recycling with Abraclean
 permalink: /journey-into-glass-recycling-with-abraclean/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+
 ![](/images/Tours/abraclean.jpg)
 
 **Can glass be recycled? Learn how Abraclean turns glass into useful products such as “Abrablast” and construction materials in this glass recycling journey.**
@@ -19,7 +21,7 @@ Since the facility began operating in 2021, Abraclean has been diverting glass w
 Participants must be 9 years old and above. This facility is not accessible by wheelchair. Participants must wear covered shoes and long pants. 
 
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/journey-into-glass-recycling-with-abraclean-tickets-643505952627">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
