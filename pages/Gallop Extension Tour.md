@@ -19,7 +19,7 @@ This tour is recommended for 6 years old and above. No pets are allowed.
 Registration is required by 8.45am at the Gallop Visitor Services Desk (Nearest Entrance: Gallop Gate). Limited slots on a first-come-first-served basis. 
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/gallop-tour-3rd-sat-jul">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
