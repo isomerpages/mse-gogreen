@@ -14,7 +14,7 @@ description: ""
 **Venue:** Shuttle bus from Jurong East MRT <br>
 **Organiser:**  National Environment Agency
 
-Get an exclusive behind-the-scenes look at how the plant incinerates 3,600 tonnes of waste and generates 120 megawatts of electricity daily.  The energy generated from incineration is enough to meet the electricity demand of 240,000 4-room HDB flats!
+Get an exclusive behind-the-scenes look at how the TuasOne Waste to Energy Plant incinerates 3,600 tonnes of waste and generates 120 megawatts of electricity daily. The energy generated from incineration is enough to meet the electricity demand of 240,000 4-room HDB flats!
 
 Participants must be 13 years old and above. This facility is not accessible by wheelchair.
 
