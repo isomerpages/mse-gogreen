@@ -3,6 +3,8 @@ title: "From Waste to Treasure: Exploring the World of E Waste Recycling"
 permalink: /e-waste-recycling/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+
 ![](/images/Tours/alba%20treasure%20raw%20material-30.jpg)
 
 **Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? 
@@ -21,7 +23,7 @@ Participants must be 12 years old and above. This facility is not accessible by 
 
 
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/cgs-experiences">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/from-waste-to-treasure-exploring-the-world-of-e-waste-recycling-tickets-643516082927">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
