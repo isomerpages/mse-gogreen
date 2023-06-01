@@ -12,7 +12,9 @@ description: ""
 **Venue:** Bukit Timah Railway Station<br>
 **Organiser:** National Parks Board
 
-Calling all nature lovers! Join us for a morning walk at the Rail Corridor (Central). Rediscover the history of the former railway line and uncover interesting facts about heritage landmarks such as the old Bukit Timah Railway Station and the Staff Quarters. Visitors can also learn more about the common flora and fauna spotted around the area. This guided tour is suitable for everyone young and old. 
+Calling all nature lovers! During this morning walk at the Rail Corridor (Central), rediscover the history of the former railway line and uncover interesting facts about heritage landmarks such as the old Bukit Timah Railway Station and the Staff Quarters. 
+
+Visitors can also learn more about the common flora and fauna spotted around the area. This guided tour is suitable for everyone young and old. 
 
 <a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/cn_rail-corridor-guided-tour_15-july-2023">
 	<img src="/images/gogreensg_website-32.png">
