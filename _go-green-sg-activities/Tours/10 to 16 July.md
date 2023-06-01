@@ -103,10 +103,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery
-              <br>
-              1 Hampshire Road, Block 1 Level 1
-            </strong>
+              Venue: Singapore Mobility Gallery, Block 1, Level 1. 1 Hampshire Road</strong>
           </li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
         </ul>
@@ -169,7 +166,7 @@ third_nav_title: Tours
             </strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -219,7 +216,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
+        <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
