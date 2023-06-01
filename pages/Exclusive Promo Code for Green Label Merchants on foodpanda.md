@@ -14,7 +14,7 @@ Customers ordering from Green Label merchants on foodpanda can enjoy $3 off a mi
 
 The Green Label programme is a certification scheme which identifies sustainable restaurants on the platform, making it easy for consumers to make the conscious choice to support more environmentally friendly establishments.
 
-Terms and Conditions apply, while stocks last.
+Terms and conditions apply, while stocks last.
 
 <a class="btn-link" target="_blank" href="https://www.foodpanda.sg/campaigns?url_key=green-label-restos">
 	<img src="/images/more-info-btn.png">
