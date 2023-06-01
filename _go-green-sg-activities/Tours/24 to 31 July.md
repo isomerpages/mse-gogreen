@@ -184,7 +184,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-
   <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -248,6 +247,7 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	  <!-- TuasOne Waste to Energy Plant Tour -->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -274,6 +274,35 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/creuse-wood-upcycling-journey/" class="button-primary">
+        Find out more
+      </a>
+    </div>  
+			<!-- Tour of Singapore's Ambient Air Quality Monitoring Stations -->
+  </div>	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/aq_station_1.jpg">
+        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 19, 25 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Good air quality safeguards public health! Find out how ambient air quality is being monitored in stations across Singapore.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/breath-of-fresh-air/" class="button-primary">
         Find out more
       </a>
     </div>
