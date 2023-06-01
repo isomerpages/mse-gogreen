@@ -88,68 +88,6 @@ third_nav_title: Tours
 </style>
 
 <div class="row row_custom">
-  <!-- Night explorations: Mangrove Night Walk with Naturalist Guide -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 18, 20, 22 July</strong>
-          </li>
-          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>  
-	<!-- Forest Stream Walk and Survery -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 21 July</strong>
-          </li>
-          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
-          <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
-          </li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/forest-stream-walk-and-survey/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-
 <!-- Make the Switch: The Quest for Greener Land Transport -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -185,36 +123,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-	  <div class="programmes__item col is-one-third">
+		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+        <img src="/images/Tours/aq_station_1.jpg">
+        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 22 July</strong>
+              Date: 13, 19, 25 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+         Good air quality safeguards public health! Find out how ambient air quality is being monitored in stations across Singapore.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/race-on-sunshine-discovering-solar-energy/" class="button-primary">
+      <a href="/breath-of-fresh-air/" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
-  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
+	  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -245,6 +183,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+  <!-- Night explorations: Mangrove Night Walk with Naturalist Guide -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tup-nightmangrove.jpg">
+        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 18, 20, 22 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
+          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-explorations-mangrove-night-walk-with-naturalist-guide/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>  
   <!-- The Full Inertidal: Explore, Learn, Engage -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -268,6 +236,137 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/the-full-intertidal-explore-learn-engage/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	
+<!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
+        <h2>
+          Boat Tour to Singapore’s largest floating solar farm at Tengeh
+          Reservoir
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 20 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Environment Building, 40 Scotts Road
+            </strong>
+          </li>
+          <li>
+            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
+          Singapore’s National Water Agency PUB produces clean water from clean
+          energy.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
+        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/e-waste-recycling/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Forest Stream Walk and Survery -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupforest.jpg">
+        <h2>Forest stream walk and survey</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 21 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
+          <li>
+            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+          </li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-stream-walk-and-survey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/race on sunshine.jpg">
+        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/race-on-sunshine-discovering-solar-energy/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -391,76 +490,6 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/learning-forest-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-<!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
-        <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh
-          Reservoir
-        </h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 20 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Environment Building, 40 Scotts Road
-            </strong>
-          </li>
-          <li>
-            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
-          </li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
-          Singapore’s National Water Agency PUB produces clean water from clean
-          energy.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
-        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 21 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
-          <li><strong>Organiser: National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/e-waste-recycling/" class="button-primary">
         Find out more
       </a>
     </div>
