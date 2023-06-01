@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/food%20oth.jpg)
 
-**Find out how we are turning food waste from hawker centre into something useful!**
+**Find out how we are turning food waste from our hawker centre into something useful!**
 
 
 **Date:** 30 July, 10:30 - 11:30 am<br>
