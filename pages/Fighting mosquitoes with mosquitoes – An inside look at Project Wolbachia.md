@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 29 July, 9:00 – 10:30 am, 11:00 am – 12.30 pm <br>
 **Admission:** Free (registration required)<br>
-Venue: 5008 Ang Mo Kio Avenue 5 #06-13, Techplace 2 <br>
+**Venue:** Techplace 2, #06-13. 5008 Ang Mo Kio Avenue 5<br>
 **Organiser:**  National Environment Agency  
 
 Visit the National Environment Agency’s highly automated facility to find out&nbsp; the science behind Project Wolbachia and how Singapore mass produces mosquitoes to fight dengue.
