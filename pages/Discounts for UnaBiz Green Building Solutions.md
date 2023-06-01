@@ -3,10 +3,6 @@ title: Discounts for UnaBiz Green Building Solutions
 permalink: /unabiz-green-build-solutions/
 description: ""
 ---
-ffffff
-
-![Discounts for UnaBiz](/images/Challenges%20&amp;%20Deals/unabiz%20picture.png)
-
 **Enjoy discounts for Green Building solutions, including  Indoor Air Quality and Energy Monitoring sensors!**
 
 **Date:** 1 - 31 July<br>
