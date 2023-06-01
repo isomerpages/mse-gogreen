@@ -12,7 +12,7 @@ description: ""
 
 **Date:** Early July<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Marine South Pier<br>
+**Venue:** Pulau Semakau<br>
 **Organiser:** National Environment Agency
 
 Explore Singapore’s diverse marine ecology through this 2-hour intertidal walk. Get your feet wet and spot hidden marine creatures such as starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals on our sandy beaches. 
