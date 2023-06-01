@@ -31,13 +31,11 @@ description: Our Programmes
 
 ![Banner Programmes](/images/Programmes/banner-programmes-3.png)
 
-# Take your pick from over<br> 100 green programmes
+# Go Green, Your Way!
 
-Paint your July green with our calendar of exciting activities and events below!
+Paint your July green with these specially curated activities, programmes and experiences!
 
-Choose how YOU want to go green with us, and remember to register to secure your spot.
-
-Your path to going green starts now!
+Choose how YOU want to go green, and do sign up early to avoid disappointment! 
 
 <div class="row btn-link-wrapper">
 	<div class="col is-one-third">
@@ -50,7 +48,7 @@ Your path to going green starts now!
 		<a class="btn-link" href="/programmes/events/">Events</a>
 	</div>
 	<div class="col is-is-one-third">
-		<a class="btn-link" href="/programmes/retail-and-dining/">Retail &amp; Dining</a>
+		<a class="btn-link" href="/programmes/retail-and-dining/">Retail,  Dining &amp; Deals</a>
 	</div>
 	<div class="col is-one-third">
 		<a class="btn-link" href="/programmes/challenges/">Challenges</a>
