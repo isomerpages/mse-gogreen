@@ -3,7 +3,7 @@ title: "Old gadgets, new life: TES ewaste recycling journey"
 permalink: /old-gadgets-new-life-tes-ewaste-recycling-journey/
 description: ""
 ---
-**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
 
 ![](/images/Tours/old%20gadgets%202.jpg)
 
