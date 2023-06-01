@@ -14,7 +14,7 @@ description: ""
 
 Learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst a collection of some of the tallest tree species in Southeast Asia at the SPH Walk of Giants!
 
-You can also get up close and personal with a variety of species that are characteristic of lowland deciduous forests, a common forest type in Thailand, Laos, Cambodia, Vietnam and Myanmar. These include species such as Yang Na (*Dipterocarpus alatus*), Malayan Crape Myrtle (*Lagerstromia floribunda*) and the giant Lan Palm (*Corypha lecomtei*)
+You can also get up close and personal with a variety of species that are characteristic of lowland deciduous forests, a common forest type in Thailand, Laos, Cambodia, Vietnam and Myanmar. These include species such as Yang Na (*Dipterocarpus alatus*), Malayan Crape Myrtle (*Lagerstromia floribunda*) and the giant Lan Palm (*Corypha lecomtei*).
  
  This tour is recommended for 6 years old and above. No pets are allowed.
 
