@@ -158,4 +158,38 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+	  <!-- Kids Go Green -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/cs_kidsgogreen.jpg">
+        <h2>Kids Go Green
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 29 July</strong></li>
+          <li>
+            <strong>Admission: $22 per person </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: CitySprouts, 102 Henderson Road
+            </strong>
+          </li>
+          <li><strong>Organiser: Citysprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Let your kids come and scour our urban farm and discover sustainable practices and seeds to take home over a fun scavenger hunt! Enjoy interactive upcycling activities and have a blast!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/kids-go-green/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
