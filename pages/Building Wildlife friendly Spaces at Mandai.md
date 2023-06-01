@@ -7,7 +7,7 @@ description: ""
 
 **Mandai Wildlife Reserve is home to a myriad of native plants and animals. Join us on an insightful tour to discover how we balanced development in Mandai with wildlife protection.**
 
-**Date:** July, 10:00 am and 1:00 pm | 9 July, 10:00 am and 1:00pm<br>
+**Date:** 1 July, 10:00 am and 1:00 pm | 9 July, 10:00 am and 1:00pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Mandai Wildlife West<br>
 **Organiser:** Mandai Wildlife Group
