@@ -3,6 +3,8 @@ title: "Where Singapore’s waste goes: A tour of Semakau Landfill"
 permalink: /a-tour-of-semakau-landfill/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** https://www.cgs.gov.sg/cgs-experiences
+
 ![](/images/Tours/semakau%20landfill.jpg)
 
 **An engineering marvel and haven for biodiversity, don’t miss this rare opportunity to visit Semakau, Singapore’s offshore landfill**
@@ -16,7 +18,7 @@ Singapore generates a huge amount of waste daily. Do you know how our waste is p
 
 Participants must be 7 years old and above.  Children between ages 7 and 11 must be accompanied by an adult. This facility is not accessible by wheelchair.
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/experiences">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/where-singapores-waste-goes-a-tour-of-semakau-landfill-tickets-643575831637">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
