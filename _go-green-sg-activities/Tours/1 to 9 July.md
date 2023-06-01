@@ -346,7 +346,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 4, 5 July</strong>
+              Date: 4 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Earth Observatory of Singapore, 50 Nanyang Avenue</strong></li>
