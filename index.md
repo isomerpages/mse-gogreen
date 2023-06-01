@@ -4,18 +4,16 @@ title: Go Green SG
 description: Sign up for exclusive Go Green SG activities, programmes and experiences!
 image: /images/isomer-logo.svg
 permalink: /
-notification: "More events will be uploaded progressively, so please check back
-  to this site regularly! "
+notification: More events will be uploaded progressively, so please check back
+  to this site regularly!
 sections:
   - hero:
       background: /images/artboard-4.png
       title: Go Green, Your Way
-      button: Join Us Now
-      url: /programmes
   - infobar:
       title: Coming July 2023
-      description: "Add a splash of green to your life. Get ready for a month of
-        fun-filled green activities and experiences! "
+      description: Add a splash of green to your life. Get ready for a month of
+        fun-filled green activities and experiences!
   - infopic:
       title: Go Green <br>Tours
       description: Learn about Singapore's sustainability efforts
