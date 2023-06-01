@@ -31,9 +31,9 @@ description: Our Programmes
 
 ![Banner Programmes](/images/Programmes/banner-programmes-3.png)
 
-# Go Green, Your Way!
+# Go Green, Your Way
 
-Paint your July green with these specially curated activities, programmes and experiences!
+Paint your July green with these specially curated activities, programmes and experiences.
 
 Choose how YOU want to go green, and do sign up early to avoid disappointment! 
 
