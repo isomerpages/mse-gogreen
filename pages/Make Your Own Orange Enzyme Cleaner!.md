@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Workshop%20&amp;%20Talks/question%20111%20-%20eco%20at%20metta.JPG)
 
-**Learn how to turn your orange peels into your very own natural and organic cleaners!**
+**Learn how to turn orange peels into natural and organic cleaners!**
 
 **Date:** 8 July, 11:00 am - 12:30 pm<br>
 **Admission:** $10<br>
@@ -14,7 +14,7 @@ description: ""
 
 This workshop will raise awareness of the importance of food waste reduction by teaching participants how to turn orange peels into natural, organic multi-purpose orange enzyme cleaners. Participants will learn the full process from cutting the orange peels to bottling the orange-based cleaners. It's a wonderful bonding activity for the whole family. 
 
-Each participant will be entitled to an ECO draw and one lucky winner will walk away with our Eco-Prize
+Each participant will be entitled to an ECO draw and one lucky winner will walk away with an Eco-Prize.
 
 <a class="btn-link" target="_blank" href="mailto:enzyme@metta.org.sg">
 	<img src="/images/gogreensg_website-32.png">
