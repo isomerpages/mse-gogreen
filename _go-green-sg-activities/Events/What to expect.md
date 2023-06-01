@@ -33,11 +33,11 @@ third_nav_title: Events
 
 ![](/images/Programmes/banner-events-4.png)
 
-# Green is the colour that <br>brings people together
+# Green is the colour that brings people together
 
-Whether you’re looking for a memorable family day or couples activity, you can share the green fun this July.
+Round up your family and friends and spend quality time together in a green and meaningful way. 
 
-Check out our list below of all the exciting events happening each week!
+With exciting events happening each week, there's something for everyone! 
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
