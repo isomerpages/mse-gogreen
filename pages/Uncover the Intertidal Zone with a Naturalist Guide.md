@@ -12,7 +12,7 @@ description: ""
 **Venue:** Changi Beach<br>
 **Organiser:** The Untamed Paths
 
-Discover a hidden world beneath the ocean, all this and more when the tide retreats. The walk is a rare opportunity for participants to get up close with marine life that is so often overlooked. Observe closely as sand gobies and swimmer crabs scurry away with the waves. Ocean conservation is for everyone and humans as stakeholders and stewards can find purpose and meaning in learning about what goes on in it, so as to inform marine conservation for generations to come. 
+Discover a hidden world beneath the ocean, all this and more when the tide retreats. The walk is a rare opportunity for participants to get up close with marine life that is so often overlooked. Observe closely as sand gobies and swimmer crabs scurry away with the waves. Ocean conservation is for everyone. Humans as stakeholders and stewards can find purpose and meaning in learning about what goes on in it, so as to inform marine conservation for generations to come. 
 
 <a class="btn-link" target="_blank" href="https://forms.gle/1NQxTMVkRxgJB5FJ8">
 	<img src="/images/gogreensg_website-32.png">
