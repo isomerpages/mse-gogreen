@@ -387,7 +387,7 @@ third_nav_title: Tours
             <strong>
               Date: 21, 23 July</strong>
           </li>
-          <li><strong>Admission: $23 Weekdays, $25 Weekends</strong></li>
+          <li><strong>Admission: $25</strong></li>
           <li><strong>Venue: Tiger Brewery</strong></li>
           <li><strong>Organiser: Asia Pacific Breweries Singapore</strong></li>
         </ul>
