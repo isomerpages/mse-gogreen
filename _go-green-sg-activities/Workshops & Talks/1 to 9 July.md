@@ -127,7 +127,7 @@ third_nav_title: Workshops & Talks
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Events/passiton.png">
+        <img src="/images/Workshop%20&amp;%20Talks/question%20111%20-%20eco%20at%20metta.JPG">
         <h2>Make Your Own Orange Enzyme Cleaner!</h2>
       </div>
       <div class="programmes__item__detail">
