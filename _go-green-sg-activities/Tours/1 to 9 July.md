@@ -86,8 +86,38 @@ third_nav_title: Tours
     color: #43b453 !important;
   }
 </style>
-
 <div class="row row_custom">
+	  <!-- Intertidal Walk by Lee Kong Chian -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/intertidal%20lkc.jpg">
+        <h2>Intertidal Walk by Lee Kong Chian Natural History Museum
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: Early July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Marine South Pier</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Get up-close and personal with fascinating marine life and their habitats.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/intertidal-walk-lkc/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
