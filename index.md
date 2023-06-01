@@ -37,7 +37,7 @@ sections:
       url: /programmes/events/
   - infopic:
       title: Go Green <br>Retail, Dining & Deals
-      description: Enjoy special offers for sustainable products and services
+      description: Enjoy special offers for sustainable products and services.
       button: Learn More
       url: /programmes/retail-dining-and-deals/
       alt: Image alt text
