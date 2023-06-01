@@ -118,37 +118,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div> 
-	  <!-- Forest Stream Walk and Survery -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 28 July</strong>
-          </li>
-          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
-          <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
-          </li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/forest-stream-walk-and-survey/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	  <!-- Make the Switch: The Quest for Greener Land Transport -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -279,6 +248,139 @@ third_nav_title: Tours
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+        <img src="/images/Tours/semakau%20landfill.jpg">
+        <h2>Where Singapore’s waste goes: A tour of Semakau Landfill
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 27, 29 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       An engineering marvel and haven for biodiversity, don’t miss this rare opportunity to visit Semakau, Singapore’s offshore landfill.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/a-tour-of-semakau-landfill/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>  <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
+        <h2>
+          Boat Tour to Singapore’s largest floating solar farm at Tengeh
+          Reservoir
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 27 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Environment Building, 40 Scotts Road
+            </strong>
+          </li>
+          <li>
+            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
+          Singapore’s National Water Agency PUB produces clean water from clean
+          energy.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	  
+	<!-- Forest Stream Walk and Survey -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupforest.jpg">
+        <h2>Forest stream walk and survey</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 28 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
+          <li>
+            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+          </li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-stream-walk-and-survey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Marine Aquaculture Centre on St John’s Island -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/marine%20aquaculture%20centre.png">
+        <h2>Marine Aquaculture Centre on St John’s Island</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li>
+            <strong>
+              Venue: Marine Aquaculture Centre, St John’s Island.</strong>
+          </li>
+          <li><strong>Organiser: Singapore Food Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Curious how Singapore produces its own food despite our limited land? Learn how Singapore champions local foodfish production with a trip to the Marine Aquaculture Centre at St John’s Island!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/marine-aquaculture-centre-on-st-johns-island" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
         <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
 </h2>
@@ -332,36 +434,6 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/weathering-with-you/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/semakau%20landfill.jpg">
-        <h2>Where Singapore’s waste goes: A tour of Semakau Landfill
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 27, 29 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Pasir Panjang Ferry Terminal, 55 Pasir Panjang Rd</strong></li>
-          <li><strong>Organiser: National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-       An engineering marvel and haven for biodiversity, don’t miss this rare opportunity to visit Semakau, Singapore’s offshore landfill.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/a-tour-of-semakau-landfill/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -440,79 +512,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
-        <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh
-          Reservoir
-        </h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 27 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Environment Building, 40 Scotts Road
-            </strong>
-          </li>
-          <li>
-            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
-          </li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
-          Singapore’s National Water Agency PUB produces clean water from clean
-          energy.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/boat-tour-to-singapores-largest-floating-solar-farm-at-tengeh-reservoir/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <!-- Marine Aquaculture Centre on St John’s Island -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/marine%20aquaculture%20centre.png">
-        <h2>Marine Aquaculture Centre on St John’s Island</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 28 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li>
-            <strong>
-              Venue: Marine Aquaculture Centre, St John’s Island.</strong>
-          </li>
-          <li><strong>Organiser: Singapore Food Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Curious how Singapore produces its own food despite our limited land? Learn how Singapore champions local foodfish production with a trip to the Marine Aquaculture Centre at St John’s Island!
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/marine-aquaculture-centre-on-st-johns-island" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -567,6 +566,36 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/biodiversity-tour-at-jurong-lake-gardens//" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- Food Waste Learning Journey @ Our Tampines Hub -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/food%20oth.jpg">
+        <h2>Food Waste Learning Journey at Our Tampines Hub</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Our Tampines Hub, 1 Tampines Walk</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Find out how we are turning food waste from our hawker centre into something useful!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/food-waste-oth/" class="button-primary">
         Find out more
       </a>
     </div>
