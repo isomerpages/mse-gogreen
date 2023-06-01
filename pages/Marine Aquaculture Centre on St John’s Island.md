@@ -3,7 +3,7 @@ title: Marine Aquaculture Centre on St John’s Island
 permalink: /marine-aquaculture-centre-on-st-johns-island/
 description: ""
 ---
-![](/images/Tours/marine%20aquaculture%20centre.png)
+![Marine Aquaculture Centre](/images/Tours/marine%20aquaculture%20centre.png)
 
 **Curious how Singapore produces its own food despite our limited land? Learn how Singapore champions local foodfish production with a trip to the Marine Aquaculture Centre at St John’s Island!**
 
