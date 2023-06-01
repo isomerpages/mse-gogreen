@@ -115,7 +115,7 @@ third_nav_title: Initiatives
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/community-composting-volunteer-programme-jlg" class="button-primary">
+      <a href="/community-composting-volunteer-programme-jurong-lake-gardens" class="button-primary">
         Find out more
       </a>
     </div>
