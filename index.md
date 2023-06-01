@@ -2,7 +2,7 @@
 layout: homepage
 title: Go Green SG
 description: Sign up for exclusive Go Green SG activities, programmes and experiences!
-image: /images/isomer-logo.svg
+image: /images/tbc-banner.png
 permalink: /
 notification: ""
 sections:
