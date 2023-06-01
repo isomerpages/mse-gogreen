@@ -13,3 +13,5 @@ links:
     url: /faq
   - title: Contact Us
     url: /contact
+  - title: Menu Title
+    collection: go-green-sg-activities
