@@ -88,66 +88,7 @@ third_nav_title: Challenges
 </style>
 
 <div class="row row_custom">
-  <!-- Exclusive Promo Code for Green Label Merchants on Foodpanda -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/foodpanda%20image%2016-9.png">
-        <h2>Exclusive Promo Code for Green Label Merchants on Foodpanda</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 1 - 31 July</strong>
-          </li>
-          <li><strong>Organiser: Foodpanda</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Enjoy a discount when ordering from Green Label merchants on
-          Foodpanda!
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/exclusive-promo-code-for-green-label-merchants-on-foodpanda" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-  <!-- BYO and enjoy 10 percent off your takeaway orders -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/question%20112%20-%20metta%20cafe.png">
-        <h2>BYO and enjoy 10 percent off your takeaway orders</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 1 - 31 July</strong>
-          </li>
-                    <li>
-            <strong>Venue: Metta Café, 32 Simei Street 1, Level 1</strong>
-          </li>
-          <li><strong>Organiser: Metta Welfare Association</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Enjoy 10% off for takeaway hot beverages and meals when you bring your
-          own mug/container. Let’s do our part to encourage reusables and reduce
-          disposables.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/byo-and-enjoy-10-percent-off-your-takeaway-orders/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
+ 
   <!-- Let's Go Green App Challenge -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
