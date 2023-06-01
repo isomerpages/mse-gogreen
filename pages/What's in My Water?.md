@@ -5,16 +5,18 @@ description: ""
 ---
 ![](/images/Tours/whats%20in%20my%20water.png)
 
-**Join us for an interesting morning walk to learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.**
+**Learn about the creatures and plants that lives in and around the water edges of Sungei Buloh in this morning walk.**
 
 
 **Date:** 1, 15 July, 9:30 - 11:00am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Sungei Buloh Wetland Reserve
-Visitor Centre. 60 Kranji Way<br> 
+Visitor Centre<br> 
 **Organiser:** National Parks Board
 
-Sungei Buloh is home to many animals and plants. There are different types of aquatic habitats that can be found here, which ranges from freshwater to brackish water. During this walk, participants can learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
+Sungei Buloh is home to many animals and plants. There are different types of aquatic habitats that can be found here, which ranges from freshwater to brackish water. 
+
+During this walk, participants can learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
 
 
 
