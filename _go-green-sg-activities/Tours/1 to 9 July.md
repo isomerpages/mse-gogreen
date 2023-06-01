@@ -392,7 +392,42 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
- 
+   <!-- Behind-the-scenes Bus Tour of Changi Water Reclamation Plant -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
+        <h2>Behind the scenes Bus Tour of Changi Water Reclamation Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 6, 9 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Behind the scenes Bus Tour of Changi Water Reclamation
+              Plant
+            </strong>
+          </li>
+          <li>
+            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Take an exclusive bus tour within the Changi Water Reclamation Plant (CWRP) to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-bus-tour-of-changi-water-reclamation-plant" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -659,42 +694,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Behind-the-scenes Bus Tour of Changi Water Reclamation Plant -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
-        <h2>Behind the scenes Bus Tour of Changi Water Reclamation Plant</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 6, 9 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Behind the scenes Bus Tour of Changi Water Reclamation
-              Plant
-            </strong>
-          </li>
-          <li>
-            <strong>Organiser: PUB, Singapore’s National Water Agency</strong>
-          </li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Take an exclusive bus tour within the Changi Water Reclamation Plant (CWRP) to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/behind-the-scenes-bus-tour-of-changi-water-reclamation-plant" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
   <!-- Regenerative Garden Experience -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -765,6 +764,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		  <!-- What's in my Mud?-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/whats%20in%20my%20mud.png">
+        <h2>What's in My Mud?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
+60 Kranji Way</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-mud/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Mangroves and Climate Change Tour -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -800,5 +831,4 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
- 
 </div>
