@@ -19,6 +19,9 @@ During the tour, participants will have the opportunity to engage in an express 
 By attending our workshop, you gain valuable insights on the culinary world of vegan diet, understand how easy preparation can be, and unlock the secrets to crafting delectable vegan meals.
 
 
+<a class="btn-link" target="_blank" href="https://citysprouts.com.sg/collections/climate-action-week-go-green">
+	<img src="/images/gogreensg_website-32.png">
+</a>
 
 <style>
 	.btn-link {
