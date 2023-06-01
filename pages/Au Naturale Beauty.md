@@ -10,7 +10,7 @@ description: ""
 Date: <br>
 5, 19 July, 5:00 - 6:15 pm<br>
 8, 22 July, 2:00 - 3:15pm<br>
-Admission: $30 per person<br>
+Admission: $30<br>
 Venue: CitySprouts, 102 Henderson Road<br>
 Organiser: CitySprouts
 
