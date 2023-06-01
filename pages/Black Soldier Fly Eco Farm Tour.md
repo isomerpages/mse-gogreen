@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/otolith%20black%20soldier%20fly.jpg)
 
-**Say hi to the mighty Black Solider Fly! Come and learn how an insect so small is making big contributions to waste reductions by turning trash into treasure!**
+**Say hi to the mighty Black Solider Fly! Come and learn how an insect so small is making big contributions to waste reduction by turning trash into treasure!**
 
 **Date:** 1, 8, 22 July 2023, 10:00 am – 11:30 am<br>
 **Admission:** $28 <br>
