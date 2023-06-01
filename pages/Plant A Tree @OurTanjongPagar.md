@@ -13,7 +13,7 @@ description: ""
 **Venue:** Blk 35A Jalan Rumah Tinggi (8 July) | Blk 83 Commonwealth Close (15 July)<br>
 **Organiser:** Tanjong Pagar Town Council
 
-Plant A Tree @OurTanjongPagar is Tanjong Pagar Town Council’s (TPTC) year-long campaign to plant an additional 1,000 trees in Tanjong Pagar town in 2023. The campaign aims to support our national One Million Trees movement and foster community ownership and stewardship of the natural environment. 
+Plant A Tree @OurTanjongPagar is Tanjong Pagar Town Council’s (TPTC) year-long campaign to plant an additional 1,000 trees in Tanjong Pagar town in 2023. The campaign aims to support Singapore's One Million Trees movement and foster community ownership and stewardship of the natural environment. 
  
 This initiative is only open to residents in Tanjong Pagar and Radin Mas.  Interested residents can register their interest with TPTC.
 
