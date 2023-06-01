@@ -2,6 +2,7 @@ collections:
   go-green-sg-activities:
     output: true
     order:
+      - Tours New/1 to 9 July.md
       - Tours New/What to expect.md
       - Tours New/.keep
       - Our Activities.md
