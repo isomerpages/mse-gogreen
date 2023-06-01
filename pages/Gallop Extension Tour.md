@@ -8,7 +8,7 @@ description: ""
 **In this guided walk through the Gallop Extension of the Singapore Botanical Gardens, you will get to view unique collections and galleries along the trail.**
 
 **Date:** 15 July, 9:00 am<br>
-**Admission:** Free <br>
+**Admission:** Free (registration required)<br>
 **Venue:** Singapore Botanic Gardens<br>
 **Organiser:** National Parks Board
 
