@@ -36,7 +36,7 @@ third_nav_title: Retail, Dining, and Deals
 # Enjoy shopping and dining deals while going green
 Love shopping and eating out? 
 
-Don't miss these exclusive retail and dining offers in the month of July - all with a special green twist.
+Don't miss these exclusive retail and dining experiences in the month of July - all with a special green twist.
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
