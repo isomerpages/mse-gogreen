@@ -33,8 +33,11 @@ third_nav_title: Initiatives
 
 ![](/images/Programmes/banner-initiatives-4.png)
 
-# Join the green revolution
-Make the choice to go green your way. Check out our full list of green initiatives below and take the first step towards a greener lifestyle this July!
+# Join the green movement
+Many partners from the People, Private and Public sectors are leading the charge to go green. 
+
+From tree planting to food rescue, there are many opportunities to work together to protect our planet! 
+
 
 <div class="row btn-link-wrapper">
 	<div class="col is-half">
