@@ -20,9 +20,8 @@ You can also get up close and personal with a variety of species that are charac
 
 Registration is required by 8.45am at the Tyersall Visitor Services Desk. Limited slots per session on a first-come-first-served basis. 
 
-<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/lf-tour-july-2nd-sat">
-	<img src="/images/gogreensg_website-32.png">
-</a>
+
+<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/lf-tour-july-2nd-sat"> <img src="/images/more-info-btn.png"> </a>
 
 <style>
 	.btn-link {
