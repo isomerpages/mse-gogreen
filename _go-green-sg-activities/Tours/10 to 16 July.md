@@ -125,7 +125,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -156,7 +156,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -195,7 +195,7 @@ third_nav_title: Tours
               Date: 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
