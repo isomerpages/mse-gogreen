@@ -282,7 +282,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
-        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
+        <h2>From Waste to Treasure: Exploring the World of E-Waste Recycling
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -298,7 +298,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
+      What happens to your old mobile phones, laptops and other electronic items after you put them into the e-waste recycling bins? Find out at ALBA’s e-waste recycling plant.
         </p>
       </div>
     </div>
@@ -322,7 +322,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
