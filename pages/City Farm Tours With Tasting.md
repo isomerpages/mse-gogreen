@@ -12,7 +12,7 @@ description: ""
 **Venue:** City Sprouts, 102 Henderson Road<br>
 **Organiser:** City Sprouts
 
-Hidden in the Henderson estate is a city urban farm that used to be a school. Come join CitySprouts on a journey around their farm and learn about various farming techniques such as aquaponics and hydroponics. Participants will also get to see the difference between the traditional farming (e.g on rice paddies), and the newer techniques that use less land and resources. 
+Hidden in the Henderson estate is a city urban farm that used to be a school. Come join City Sprouts on a journey around their farm and learn about various farming techniques such as aquaponics and hydroponics. Participants will also get to see the difference between the traditional farming (e.g on rice paddies), and the newer techniques that use less land and resources. 
 
 As Singapore's landfill slowly reaches full capacity, we need to think about how to reduce waste. The tour will introduce easy composting methods such as biogas composting.
 
