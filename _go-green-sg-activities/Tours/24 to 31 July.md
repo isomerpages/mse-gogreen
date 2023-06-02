@@ -520,7 +520,7 @@ third_nav_title: Tours
               Date: 29 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Techplace 2, #06-13. 5008 Ang Mo Kio Avenue 5</strong></li>
+          <li><strong>Venue: Techplace 2, 5008 Ang Mo Kio Avenue 5</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
