@@ -418,7 +418,7 @@ third_nav_title: Tours
               Date: 28 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Changi Airport Terminal 2, outside Starbucks</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
