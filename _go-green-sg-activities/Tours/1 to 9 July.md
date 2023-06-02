@@ -291,7 +291,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes.
+         Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
