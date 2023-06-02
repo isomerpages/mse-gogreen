@@ -106,14 +106,14 @@ third_nav_title: Workshops & Talks
             </strong>
           </li>
           <li>
-            <strong>Venue: GINLEE Studio, National Design Centre #03-05</strong>
+            <strong>Venue: National Design Centre</strong>
           </li>
           <li><strong>Organiser: GINLEE Studio</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Experience GINLEE's latest circular initiative - _/\/\/\ake O, where our in-house professionals will guide you to customize your very own pleated bag on-demand or repurpose your unwanted t-shirts to create a Tee Bag that is furnished with specially printed 3D-handles.
+             Experience GINLEE's latest circular initiative - /\/\/\ake O, where you will be guided on how to customize your very own pleated bag or repurpose your unwanted t-shirts to create a Tee Bag that comes with specially printed 3D-handles.
         </p>
       </div>
     </div>
@@ -139,10 +139,10 @@ third_nav_title: Workshops & Talks
           </li>
           <li>
             <strong>
-              Venue: CitySprouts. 102 Henderson Road
+              Venue: City Sprouts
             </strong>
           </li>
-          <li><strong>Organiser: CitySprouts</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
