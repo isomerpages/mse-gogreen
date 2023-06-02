@@ -141,8 +141,7 @@ third_nav_title: Initiatives
       </div>
       <div class="programmes__item__body">
         <p>
-          Volunteer with us at Jurong Lake Gardens for an evening of gardening
-          and basic horticultural maintenance for our edible plant collections.
+          Join fellow volunteers at Jurong Lake Gardens for an evening of gardening and basic horticultural maintenance for the edible plant collections.
         </p>
       </div>
     </div>
@@ -199,7 +198,7 @@ third_nav_title: Initiatives
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Blk 35A Jalan Rumah Tinggi
+              Venue: Various locations
             </strong>
           </li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
