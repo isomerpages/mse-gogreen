@@ -133,7 +133,7 @@ third_nav_title: Tours
               Date: 19 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
@@ -154,7 +154,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -185,7 +185,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -194,7 +194,7 @@ third_nav_title: Tours
               Date: 18, 20, 22 July</strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -227,7 +227,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          We immerse you in the rich marine biodiversity of our chosen intertidal site, before taking direct action in a beach cleanup, and wrapping up with a hands-on intertidal artifacts session!
+         Immerse in the rich marine biodiversity, take part in a beach cleanup, and wrap up with a hands-on intertidal artifacts session!
         </p>
       </div>
     </div>
@@ -244,7 +244,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh
+          Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh
           Reservoir
         </h2>
       </div>
@@ -256,7 +256,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Shuttle bus from Environment Building. 40 Scotts Road
+              Venue: Shuttle bus from Environment Building
             </strong>
           </li>
           <li>
