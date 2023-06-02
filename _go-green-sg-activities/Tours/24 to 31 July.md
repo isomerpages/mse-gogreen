@@ -277,7 +277,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir
+          Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh Reservoir
         </h2>
       </div>
       <div class="programmes__item__detail">
@@ -288,7 +288,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Shuttle bus from Environment Building. 40 Scotts Road
+              Venue: Shuttle bus from Environment Building
             </strong>
           </li>
           <li>
@@ -324,7 +324,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
