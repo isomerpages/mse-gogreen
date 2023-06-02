@@ -697,7 +697,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join this guided tour for a behind-the-scenes look at Singapore is greening its public transport network and learn about the processes involved in ensuring the bus network runs safely, reliably, and efficiently daily!
+          Take a behind-the-scenes look at how Singapore is greening its public transport network and learn about the processes involved in ensuring the bus network runs safely, reliably, and efficiently daily!
         </p>
       </div>
     </div>
@@ -824,13 +824,13 @@ third_nav_title: Tours
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        Join this interesting guided walk featuring the lesser known creatures of the mudflats in Sungei Buloh.
         </p>
       </div>
     </div>
