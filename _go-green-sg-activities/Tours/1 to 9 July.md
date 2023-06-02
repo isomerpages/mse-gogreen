@@ -468,13 +468,13 @@ third_nav_title: Tours
               Date: 7, 8 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
-          <li><strong>Venue: City Sprouts. 102 Henderson Road</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
           <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-        Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!
+       Experience sustainable farming at this urban farm nestled in the Redhill estate. Learn about the benefits of aquaponics, hydroponics, composting, and biogas and take home a microgreen kit!
         </p>
       </div>
     </div>
