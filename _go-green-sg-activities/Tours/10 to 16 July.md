@@ -256,7 +256,7 @@ third_nav_title: Tours
               Date: 11 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environmental Agency</strong></li>
         </ul>
       </div>
