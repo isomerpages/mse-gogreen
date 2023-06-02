@@ -508,8 +508,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Gallop Extension (Nearest Entrance: Gallop Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -517,9 +516,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join us for a guided walk through the Gallop Extension of the
-          Singapore Botanical Gardens, viewing unique collections and galleries
-          along the trail.
+        In this guided walk through the Gallop Extension of the Singapore Botanical Gardens, you will get to view unique collections and galleries along the trail.
         </p>
       </div>
     </div>
@@ -533,8 +530,8 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpg">
-        <h2>Nature and heritage guided walk at Rail Corridor (Central)</h2>
+        <img src="/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpeg">
+        <h2>Nature and Heritage Guided Walk at Rail Corridor (Central)</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -558,7 +555,7 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Nature Appreciation walk at Rifle Range Nature Park -->
+  <!-- Nature Appreciation Walk at Rifle Range Nature Park -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -612,7 +609,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: National University of Singapore (NUS), School of Design and Environment 4, Level 4. 8 Architecture Drive
+              Venue: National University of Singapore (NUS), School of Design and Environment
             </strong>
           </li>
           <li><strong>Organiser: National University of Singapore</strong></li>
@@ -620,9 +617,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Find out how NUS is leading the way for a sustainably-designed future
-          in this special tour of its Net Zero and Net-Positive energy
-          buildings.
+          Find out how NUS is leading the way for a sustainably-designed future in this special tour of its Net Zero and Net-Positive energy buildings.
         </p>
       </div>
     </div>
@@ -647,13 +642,13 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Join us for an interesting morning walk to learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
+         Learn about the creatures and plants that live in and around the water edges of Sungei Buloh in this morning walk.
         </p>
       </div>
     </div>
