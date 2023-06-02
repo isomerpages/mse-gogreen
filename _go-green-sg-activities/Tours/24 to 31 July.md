@@ -357,7 +357,7 @@ third_nav_title: Tours
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Marine Aquaculture Centre, St John’s Island.</strong>
+              Venue: Marine Aquaculture Centre, St John’s Island</strong>
           </li>
           <li><strong>Organiser: Singapore Food Agency</strong></li>
         </ul>
@@ -378,7 +378,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
-        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
+        <h2>From Waste to Treasure: Exploring the World of E-Waste Recycling
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -394,7 +394,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
+       What happens to your old mobile phones, laptops and other electronic items after you put them into the e-waste recycling bins? Find out at ALBA’s e-waste recycling plant.
         </p>
       </div>
     </div>
