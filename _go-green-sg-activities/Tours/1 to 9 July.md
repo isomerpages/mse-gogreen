@@ -824,7 +824,7 @@ third_nav_title: Tours
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
@@ -855,7 +855,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Sungei Buloh Wetland Reserve, Visitor Centre. 60 Kranji Way
+              Venue: Sungei Buloh Wetland Reserve
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
