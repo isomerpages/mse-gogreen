@@ -21,7 +21,7 @@ As you explore the Marina Bay area, you'll learn about sustainability and the im
 
 But the fun doesn't stop there - a finale awaits the players at the end of the journey! 
 
-<a class="btn-link" target="_blank" href="https://www.monsterdaytours.com/ransack-at-marina-bay">
+<a class="btn-link" target="_blank" href="https://www.monsterdaytours.com/ransack-at-marina-bay/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
