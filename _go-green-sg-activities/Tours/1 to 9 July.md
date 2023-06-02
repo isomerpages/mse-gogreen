@@ -443,7 +443,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Take an exclusive bus tour within the Changi Water Reclamation Plant (CWRP) to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
+          Take an exclusive bus tour within the Changi Water Reclamation Plant to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
         </p>
       </div>
     </div>
