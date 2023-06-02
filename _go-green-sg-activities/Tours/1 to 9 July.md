@@ -408,7 +408,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover a hidden world beneath the ocean, all this and more when the tide retreats. Our walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
+          Discover a hidden world beneath the ocean when the tide retreats. This walk is a rare opportunity to get up close with marine life that is often overlooked.
         </p>
       </div>
     </div>
@@ -423,7 +423,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
-        <h2>Behind the scenes Bus Tour of Changi Water Reclamation Plant</h2>
+        <h2>Behind the Scenes Bus Tour of Changi Water Reclamation Plant</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
