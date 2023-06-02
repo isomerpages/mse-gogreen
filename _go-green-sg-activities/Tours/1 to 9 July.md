@@ -133,13 +133,12 @@ third_nav_title: Tours
               Date: 1 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>
-         Join us for an interesting morning walk to learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
+        <p>Learn about the creatures and plants that lives in and around the water edges of Sungei Buloh in this morning walk.
         </p>
       </div>
     </div>
@@ -153,7 +152,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -163,7 +162,7 @@ third_nav_title: Tours
             </strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -192,7 +191,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
