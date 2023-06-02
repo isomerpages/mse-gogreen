@@ -3,7 +3,7 @@ title: Kids Go Green
 permalink: /kids-go-green/
 description: ""
 ---
-![](/images/Workshop%20&amp;%20Talks/cs_kidsgogreen.jpg)
+![Kids Go Green](/images/Workshop%20&amp;%20Talks/cs_kidsgogreen.jpg)
 
 **Let your kids come and scour our urban farm and discover sustainable practices. Enjoy interactive upcycling activities and take part in a fun scavenger hunt.**
 
