@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/tribe-png.jpg)
 
-**An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost. **
+**An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost.**
 
 **Date:** 8 July, 10:00 am – 1:00 pm |  22 July, 10:00 am – 1:00 pm<br>
 **Admission:** Adult: $100 | Senior: $80 | Child: $60<br>
