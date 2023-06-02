@@ -107,7 +107,7 @@ third_nav_title: Challenges
       </div>
       <div class="programmes__item__body">
         <p>
-       Go Green with Grab by taking part in the Go Green Challenge!
+       Go Green with Grab by taking part in the Go Green Challenge.
         </p>
       </div>
     </div>
@@ -134,7 +134,7 @@ third_nav_title: Challenges
       </div>
       <div class="programmes__item__body">
         <p>
-          Earn points and stand a chance to win prizes by joining susGain’s ‘Let’s Go Green’ App Challenge! Make an impact - redeemed points go towards climate and humanitarian efforts.
+          Earn points and stand a chance to win prizes by joining the ‘Let’s Go Green’ App Challenge! Redeemed points go towards climate and humanitarian efforts.
         </p>
       </div>
     </div>
@@ -195,12 +195,12 @@ third_nav_title: Challenges
       </div>
       <div class="programmes__item__body">
         <p>
-       Embark on a fun quest around the airport to discover fun facts you’d never know! After the quest, play airport-themed games at Changi Experience Studio for a fun-filled time!
+     Embark on a quest around Changi Airport to discover hidden sustainability secrets. After the quest, play airport-themed games at Changi Experience Studio for a fun-filled time!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/mangrove-goodies/" class="button-primary">
+      <a href="/amazing-sustainable-airport-quest/" class="button-primary">
         Find out more
       </a>
     </div>
