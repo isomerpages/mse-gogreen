@@ -3,7 +3,7 @@ title: Forest Stream Walk and Survey
 permalink: /forest-stream-walk-and-survey/
 description: ""
 ---
-![](/images/Tours/tupforest.jpg)
+![forest stream walk untamed paths](/images/Tours/forest%20stream%20walk%20(new).jpg)
 
 **Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.**
 
