@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg)
 
-**Join our eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.**
+**Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.**
 
 **Date:** 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
 **Admission:** Free (registration required)<br>
