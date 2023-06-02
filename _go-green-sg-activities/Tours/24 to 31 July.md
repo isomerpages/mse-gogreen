@@ -155,7 +155,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -187,7 +187,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
-        <h2>Turning waste to energy: TuasOne Waste To Energy Plant Tour
+        <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour
 </h2>
       </div>
       <div class="programmes__item__detail">
