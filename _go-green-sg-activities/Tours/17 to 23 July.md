@@ -415,13 +415,13 @@ third_nav_title: Tours
               Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+        Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.
         </p>
       </div>
     </div>
@@ -443,7 +443,7 @@ third_nav_title: Tours
           <li><strong>Date: 22 July</strong></li>
           <li><strong>Admission: Adult: $100 | Senior: $80 | Child: $60</strong></li>
           <li>
-            <strong>Venue: Clementi MRT Exit A (head down to bus stop). 31 Toh Guan Road East</strong>
+            <strong>Venue: Clementi MRT</strong>
           </li>
           <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
