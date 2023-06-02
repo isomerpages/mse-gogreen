@@ -354,7 +354,7 @@ third_nav_title: Tours
               Date: 14 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Changi Airport Terminal 2, outside Starbucks</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -383,13 +383,13 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+         Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.
         </p>
       </div>
     </div>
@@ -432,7 +432,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/old%20gadgets%202.jpg">
-        <h2>Old gadgets, new life: TES ewaste recycling journey
+        <h2>Old Gadgets, New Life: TES E-Waste Recycling Journey
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -442,7 +442,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd. 9 Benoi Sector</strong></li>
+          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd, 9 Benoi Sector</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -483,7 +483,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Explore the diversity of orchids with our volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.
+          Explore the diversity of orchids with volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.
         </p>
       </div>
     </div>
