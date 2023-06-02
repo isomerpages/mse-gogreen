@@ -215,7 +215,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
+        <img src="/images/Tours/forest stream walk (new).jpg">
         <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
