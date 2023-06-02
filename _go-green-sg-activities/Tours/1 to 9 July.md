@@ -501,18 +501,15 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Clementi MRT Exit A (head down to bus stop). 31 Toh Guan
-              Road East
+              Venue: Clementi MRT 
             </strong>
           </li>
-          <li><strong>Organiser: Tribe Ptd Ltd</strong></li>
+          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          An immersive, privately-guided, multi-venue experiential tour into
-          Singapore’s the heartlands. Deep dive into the wet market on a hunt
-          for green ‘waste’ and transform them…
+          An immersive, privately-guided, multi-venue experiential tour into Singapore’s heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into something useful.
         </p>
       </div>
     </div>
@@ -536,8 +533,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Visitor Centre (Nearest Entrance: Nassim Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -545,8 +541,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover the enchantment of our tropical rainforest with our volunteer
-          guides.
+          Discover the enchantment of our tropical rainforest with volunteer guides.
         </p>
       </div>
     </div>
@@ -570,8 +565,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Learning Forest (Nearest Entrance: Tyersall Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -579,9 +573,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          The Learning Forest features a network of boardwalks and elevated
-          walkways that allow visitors to explore habitats ranging from a
-          freshwater forest wetland to a lowland rainforest
+          The Learning Forest features a network of boardwalks and elevated  walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest.
         </p>
       </div>
     </div>
