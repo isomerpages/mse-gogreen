@@ -103,14 +103,14 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1, Level 1. 1 Hampshire Road</strong>
+              Venue: Singapore Mobility Gallery</strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+         Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
