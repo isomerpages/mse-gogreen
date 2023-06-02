@@ -246,7 +246,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/semakau%20landfill.jpg">
-        <h2>Where Singapore’s waste goes: A tour of Semakau Landfill
+        <h2>Where Singapore’s Waste Goes: A tour of Semakau Landfill
 </h2>
       </div>
       <div class="programmes__item__detail">
