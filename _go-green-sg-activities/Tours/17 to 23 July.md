@@ -450,7 +450,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          An experiential tour into the heartlands and wet market. Forage for green 'waste' and ugly food and transform them into useful compost.
+        An immersive, privately-guided, multi-venue experiential tour into Singapore’s heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost.
         </p>
       </div>
     </div>
@@ -533,8 +533,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Learning Forest (Nearest Entrance: Tyersall Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -569,8 +568,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter, Level
-              1 Botany Centre (Nearest Entrance: Tanglin Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
