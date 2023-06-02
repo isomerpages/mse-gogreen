@@ -594,11 +594,11 @@ third_nav_title: Tours
         <ul>
           <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Admission: Child: $10 | Accompanying parent(s): Free</strong>
+            <strong>Admission: Child: $10</strong>
           </li>
           <li>
             <strong>
-              Venue: Bukit Timah Nature Reserve (meet at Visitor Centre)
+              Venue: Bukit Timah Nature Reserve
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -690,14 +690,14 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road</strong>
+              Venue: Singapore Mobility Gallery</strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our guided tour to the Singapore Mobility Gallery and Go Ahead Singapore bus depot at Loyang for a behind-the-scenes look at how we are greening our public transport network and learn about the processes involved in ensuring our bus network runs safely, reliably, and efficiently daily!
+          Join this guided tour for a behind-the-scenes look at Singapore is greening its public transport network and learn about the processes involved in ensuring the bus network runs safely, reliably, and efficiently daily!
         </p>
       </div>
     </div>
@@ -722,7 +722,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Changi Seagrass Intertidal Zone (Near Changi Carpark 7)
+              Venue: Changi Seagrass Intertidal Zone 
             </strong>
           </li>
           <li><strong>Organiser: Young Nautilus</strong></li>
@@ -730,9 +730,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Explore the treasures and sea life hidden in the seagras s habitat,
-          while learning how we can protect Singapore’s delicate marine
-          ecosystem.
+          Explore the treasures and sea life hidden in the seagrass habitat, while learning how we can protect Singapore’s delicate marine ecosystem.
         </p>
       </div>
     </div>
@@ -758,7 +756,7 @@ third_nav_title: Tours
             </strong>
           </li>
           <li>
-            <strong>Venue: Methodist Girls’ School, Biodiverse Garden</strong>
+            <strong>Venue: Methodist Girls’ School</strong>
           </li>
           <li><strong>Organiser: Living Soil Asia</strong></li>
         </ul>
@@ -792,7 +790,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: ComCrop, Rooftop. 15 Woodlands Loop
+              Venue: ComCrop
             </strong>
           </li>
           <li><strong>Organiser: ComCrop</strong></li>
@@ -800,9 +798,8 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Enjoy a tour around Singapore’s pioneering rooftop farm. Learn
-          ComCrop’s contribution to Singapore’s food security and the innovation
-          and considerations behind their operations.
+          Enjoy a tour around Singapore’s pioneer rooftop farm. Learn
+          ComCrop’s contribution to Singapore’s food security and the innovation and considerations behind their operations.
         </p>
       </div>
     </div>
