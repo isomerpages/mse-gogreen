@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 8 July, 9:00 – 11:00 am<br>
 **Admission:** $20<br>
-**Venue:** The Social Space. 333 Kreta Ayer Rd, #01-14<br>
+**Venue:** The Social Space, 333 Kreta Ayer Rd, #01-14<br>
 **Organiser:** NUS Centre for Nature-based Climate Solutions and The Social Space
 
 Many people rely on a strong brew to get through the day, but what does coffee have to do with wildlife conservation and climate change? 

@@ -10,7 +10,7 @@ description: ""
 **Date:** Until 16 July<br>
 **Organiser:** Grabcar Pte Ltd
 
-Grab will be organising a Go Green Challenge from 12 June to 16 July to raise awareness of its green features for its transport and delivery services and encourage the adoption of eco-friendly practices among consumers.
+Grab will be organising a Go Green Challenge from 12 June to 16 July to raise awareness of the green features for its transport and delivery services and encourage the adoption of eco-friendly practices among consumers.
 
 The Go Green Challenge requires consumers to toggle on the Eco-friendly rides<sup>1</sup> and Green Programme<sup>2</sup> when they are taking rides or ordering delivery services. Upon completion of the challenge, consumers will stand a chance to win attractive prizes such as eco-friendly staycations and F&amp;B vouchers.
 

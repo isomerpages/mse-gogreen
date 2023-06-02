@@ -5,7 +5,7 @@ description: ""
 ---
 ![Edible Gardening and Management @ Jurong Lake Gardens](/images/Initiatives/edible%20gardening%20and%20management.jpg)
 
-**Volunteer with us at Jurong Lake Gardens for an evening of gardening and basic horticultural maintenance for our edible plant collections.**
+**Join fellow volunteers at Jurong Lake Gardens for an evening of gardening and basic horticultural maintenance for the edible plant collections.**
 
 **Date:** 5, 12, 19, 26 July, 4:00 – 6:00 pm <br>
 **Admission:** Free (registration required)<br>

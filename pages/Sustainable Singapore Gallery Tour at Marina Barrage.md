@@ -9,10 +9,13 @@ description: ""
 
 **Date:** 22 July, 10:00 – 11:00 am | 29 July, 10:00 – 11:00 am <br>
 **Admission:** Free (registration required)<br>
-**Venue:** Marina Barrage 8 Marina Gardens Dr<br>
+**Venue:** Marina Barrage<br>
 **Organiser:** PUB, Singapore’s National Water Agency
 
-Sustainability has always been integral to Singapore’s development since independence, and we are committed to ensure that everyone continues to enjoy a clean and green environment. Navigate through the Sustainable Singapore Gallery at the Marina Barrage to learn how we are creating a liveable and sustainable Singapore for current and future generations.<br>
+Sustainability has always been integral to Singapore’s development since independence, and we are committed to ensure that everyone continues to enjoy a clean and green environment. 
+
+Navigate through the Sustainable Singapore Gallery at the Marina Barrage to learn how we are creating a liveable and sustainable Singapore for current and future generations.
+
 This tour is suitable for visitors of all ages. 
 
 <a target="_blank" class="btn-link" href="https://pub.gov.sg/marinabarrage/ssg/tour">

@@ -7,15 +7,19 @@ description: ""
 
 **Single-use plastics have resulted in the significant growth in waste. Bring your own plastic bottles and learn how to convert them into useful planters!**
 
-Date: 8 July 2023, 9:00 am – 10:30 am<br>
+Date: 8 July 2023, 9:00 – 10:30 am<br>
 Admission: $10<br>
 Venue: 32 Simei Street 1, Metta Building, Level 2<br>
 Organiser:  Metta Welfare Association
 
-Adopt eco-friendly practices to reduce the amount of plastic wastes going to our landfill. Reuse plastic bottles for gardening and do your part to save our environment. <br> This workshop will be a wonderful bonding activity for the whole family. <br> Each participant will also be entitled to an ECO draw, and one lucky winner will walk away with our Eco-prize. 
+Adopt eco-friendly practices to reduce the amount of plastic waste that goes to our landfill. Reuse plastic bottles for gardening and do your part to save our environment. 
 
-<a target="_blank" class="btn-link" href="">
-	<img src="/images/gogreensg_website-32.png">
+This workshop will be a wonderful bonding activity for the whole family. 
+
+Each participant will also be entitled to an ECO draw, and one lucky winner will walk away with an Eco-prize. 
+
+<a class="btn-link" target="_blank" href="mailto:ChanChen.oh@metta.org.sg">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>

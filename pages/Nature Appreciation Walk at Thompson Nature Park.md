@@ -5,14 +5,18 @@ description: ""
 ---
 ![Nature Appreciation Walk at Thompson Nature Park](/images/Tours/nature%20appreciation%20walk%20at%20thompson%20nature%20park.jpg)
 
-**Immerse in the blending of culture and nature with a nature appreciation walk at this former Hainan village turned park.**
+**Immerse in the blending of culture and nature with a nature appreciation walk at the site of the former Hainan Village.**
 
 **Date:** 22 July, 9:30 – 11:00 am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Thompson Nature Park<br>
 **Organiser:** National Parks Board
 
-Located to the east of the Central Catchment Nature Reserve, between Old Upper Thomson Road and Upper Thomson Road, Thomson Nature Park acts as a green buffer to the Central Catchment Nature Reserve. This 50-hectare buffer park is unique for its rich cultural heritage as the site of a former Hainan Village. It is also home to a rich array of biodiversity and is notably a key conservation site for the critically endangered Raffles’ Banded Langur (*Presbytis femoralis femoralis*). 
+Located to the east of the Central Catchment Nature Reserve, between Old Upper Thomson Road and Upper Thomson Road, Thomson Nature Park acts as a green buffer to the Central Catchment Nature Reserve. 
+
+This 50-hectare buffer park is unique for its rich cultural heritage as the site of a former Hainan Village. 
+
+It is also home to a rich array of biodiversity and is notably a key conservation site for the critically endangered Raffles’ Banded Langur (*Presbytis femoralis femoralis*). 
  
 Through this guided walk, visitors will gain a greater appreciation of Singapore’s rich natural heritage and understand the need to protect it. 
 

@@ -1,8 +1,10 @@
 ---
-title: "Old gadgets, new life: TES ewaste recycling journey"
+title: "Old Gadgets, New Life: TES E Waste Recycling Journey"
 permalink: /old-gadgets-new-life-tes-ewaste-recycling-journey/
 description: ""
 ---
+**More tours are available under Clean &amp; Green Experiences! Please visit** [http://cgs.gov.sg/experiences](https://www.cgs.gov.sg/cgs-experiences)
+
 ![](/images/Tours/old%20gadgets%202.jpg)
 
 **Find out how precious metals in electronic waste (e-waste) are recovered and how they can be recycled into reusable materials.**
@@ -16,7 +18,7 @@ Get a behind-the-scenes look at how precious metals like gold, silver, copper an
 
 Participants must be 3 years old and above. This facility is not accessible by wheelchair. Participants must wear covered shoes. Long pants are recommended. 
 
-<a class="btn-link" target="_blank" href="https://www.cgs.gov.sg/what-we-do/cgs2022/experiences">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/tes-factory-tour-on-e-waste-recycling-tickets-643550716517">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 

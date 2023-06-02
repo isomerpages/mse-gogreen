@@ -9,9 +9,9 @@ description: ""
 mangrove plants and animals are related to our everyday life – from food to
 products, and even how they protect us.**
 
-**Date:** 22 July, 09:00 - 10:30 am<br>
+**Date:** 22 July, 9:00 - 10:30 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Sungei Buloh Wetland Reserve Visitor Centre<br>60 Kranji Way<br>
+**Venue:** Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way<br>
 **Organiser:** National Parks Board
 
 The mangrove habitat is not just important to the animals that it supports, but it is

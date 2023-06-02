@@ -10,11 +10,11 @@ description: ""
 **Date:** 1 - 31 July<br>
 **Organiser:** foodpanda
 
-Customers ordering food from Green Label merchants on foodpanda can enjoy $3 off a minimum $30 spent with the code GOGREEN. 
+Customers ordering from Green Label merchants on foodpanda can enjoy $3 off a minimum $30 spent with the code GOGREEN. 
 
 The Green Label programme is a certification scheme which identifies sustainable restaurants on the platform, making it easy for consumers to make the conscious choice to support more environmentally friendly establishments.
 
-T&amp;Cs apply, while stocks last.
+Terms and conditions apply, while stocks last.
 
 <a class="btn-link" target="_blank" href="https://www.foodpanda.sg/campaigns?url_key=green-label-restos">
 	<img src="/images/more-info-btn.png">

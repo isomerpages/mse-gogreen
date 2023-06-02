@@ -102,7 +102,7 @@ third_nav_title: Tours
               Date: Early July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Marine South Pier</strong></li>
+          <li><strong>Venue: Pulau Semakau</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -133,8 +133,7 @@ third_nav_title: Tours
               Date: 1 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre
-60 Kranji Way</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
@@ -184,7 +183,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
+        <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -346,10 +345,10 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 4, 5 July</strong>
+              Date: 4 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Earth Observatory of Singapore, 50 Nanyang Avenue</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore. 50 Nanyang Avenue</strong></li>
           <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
         </ul>
       </div>
@@ -472,8 +471,8 @@ third_nav_title: Tours
               Date: 7, 8 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
-          <li><strong>Venue: CitySprouts, 102 Henderson Road</strong></li>
-          <li><strong>Organiser: CitySprouts</strong></li>
+          <li><strong>Venue: City Sprouts. 102 Henderson Road</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -702,8 +701,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery. 1 Hampshire Road, Block 1 Level 1
-            </strong>
+              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road</strong>
           </li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
         </ul>
@@ -805,7 +803,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: ComCrop, Rooftop 15 Woodlands Loop
+              Venue: ComCrop, Rooftop. 15 Woodlands Loop
             </strong>
           </li>
           <li><strong>Organiser: ComCrop</strong></li>
@@ -840,8 +838,7 @@ third_nav_title: Tours
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre
-60 Kranji Way</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>

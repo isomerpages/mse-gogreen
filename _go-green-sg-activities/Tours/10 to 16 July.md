@@ -103,10 +103,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery
-              <br>
-              1 Hampshire Road, Block 1 Level 1
-            </strong>
+              Venue: Singapore Mobility Gallery, Block 1, Level 1. 1 Hampshire Road</strong>
           </li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
         </ul>
@@ -137,7 +134,7 @@ third_nav_title: Tours
               Date: 10, 12, 14, 16 July
             </strong>
           </li>
-          <li><strong>Admission: Adult: $71, Child: $37</strong></li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
           <li><strong>Venue: Bukit Batok Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -169,7 +166,7 @@ third_nav_title: Tours
             </strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -195,7 +192,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 13, 19, 25 July</strong>
+              Date: 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
@@ -219,7 +216,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupforest.jpg">
-        <h2>Forest stream walk and survey</h2>
+        <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -293,7 +290,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Environment Building, 40 Scotts Road 
+              Venue: Shuttle bus from Environment Building. 40 Scotts Road 
             </strong>
           </li>
           <li>
@@ -388,7 +385,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre, 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
@@ -447,7 +444,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd, 9 Benoi Sector</strong></li>
+          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd. 9 Benoi Sector</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -475,7 +472,7 @@ third_nav_title: Tours
           <li><strong>Date: 15 July</strong></li>
           <li>
             <strong>
-              Admission: Admission fees into the National Orchid Garden applies.
+              Admission: Admission fees into the National Orchid Garden apply
             </strong>
           </li>
           <li>
@@ -553,7 +550,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover how a 24km long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!
+          Discover how a 24 kilometre long continuous green passage allows wildlife movement between major green spaces and still serves as a recreational corridor for members of the public!
         </p>
       </div>
     </div>
@@ -602,8 +599,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/use%20this%20photo%20question%20111%20-%20nus_sde1_finbarr_fallon_14.jpg">
         <h2>
-          Sustainability at School: A Look at NUS’ Net Zero &amp; Net Positive
-          Energy Buildings
+          Sustainability at School: A Look at NUS’ Net Zero &amp; Net Positive Energy Buildings
         </h2>
       </div>
       <div class="programmes__item__detail">
@@ -618,11 +614,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: National University of Singapore
-              <br>
-              NUS SDE4 Level 4
-              <br>
-              8 Architecture Drive, 117356
+              Venue: National University of Singapore (NUS), School of Design and Environment 4, Level 4. 8 Architecture Drive
             </strong>
           </li>
           <li><strong>Organiser: National University of Singapore</strong></li>
@@ -657,8 +649,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre
-60 Kranji Way</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
@@ -689,8 +680,8 @@ third_nav_title: Tours
               Date: 15, 16 July</strong>
           </li>
           <li><strong>Admission: $68 | $120 per pair</strong></li>
-          <li><strong>Venue: CitySprouts</strong></li>
-          <li><strong>Organiser: CitySprouts</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">

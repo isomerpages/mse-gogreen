@@ -1,5 +1,5 @@
 ---
-title: Tree planting sessions under the OneMillionTrees movement
+title: Tree Planting Sessions under the OneMillionTrees Movement
 permalink: /tree-planting-sessionsunder-the-onemilliontrees-movement/
 description: ""
 ---
