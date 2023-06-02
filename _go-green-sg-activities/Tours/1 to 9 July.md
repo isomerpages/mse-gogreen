@@ -221,13 +221,13 @@ third_nav_title: Tours
               Date: 1, 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+         Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.
         </p>
       </div>
     </div>
@@ -242,7 +242,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/mandai.jpg">
-        <h2>Building Wildlife-friendly Spaces at Mandai</h2>
+        <h2>Building Wildlife-Friendly Spaces at Mandai</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -258,9 +258,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Mandai Wildlife Reserve is home to a myriad of native plants and
-          animals. Join us on an insightful tour to discover how we balanced
-          development in Mandai with wildlife protection.
+          Mandai Wildlife Reserve is home to a myriad of native plants and animals. Join this insightful tour to discover how development in Mandai was balanced with wildlife protection.
         </p>
       </div>
     </div>
@@ -285,15 +283,15 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road
+              Venue: Singapore Mobility Gallery
             </strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+          Join our eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
