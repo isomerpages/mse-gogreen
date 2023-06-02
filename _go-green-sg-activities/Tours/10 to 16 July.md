@@ -225,7 +225,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -246,7 +246,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
-        <h2>Turning waste to energy: TuasOne Waste To Energy Plant Tour
+        <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour
 </h2>
       </div>
       <div class="programmes__item__detail">
