@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Workshop%20&amp;%20Talks/ginlee.jpg)
 
-**Experience GINLEE's latest circular initiative - /\/\/\ake O, where you will be guided on how to customize your very own pleated bag or repurpose your unwanted t-shirts to create a Tee Bag that comes with specially printed 3D-handles**
+**Experience GINLEE's latest circular initiative - /\/\/\ake O, where you will be guided on how to customize your very own pleated bag or repurpose your unwanted t-shirts to create a Tee Bag that comes with specially printed 3D-handles.**
 
 **Date:** 1 - 31 July, 11:30 am - 1:00 pm | 2:30 - 4:00 pm | 4:00 - 5:30 pm
 <br>
