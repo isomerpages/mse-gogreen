@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 20, 27 July, 7:00 – 9:00 pm<br>
 **Admission:** $60<br>
-**Venue:** Kampong Bahru<br>
+**Venue:** TBC<br>
 **Organiser:** Living Soil Asia
 
 This is an introductory hands-on workshop that highlights the interconnectivity of soil, the climate and human communities. Participants will learn about the soil food web, carbon, soil structure and regenerative practices. By the end of the workshop, participants will understand how soil is related to humans  and contributes to environmental sustainability.
