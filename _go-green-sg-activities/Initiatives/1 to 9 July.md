@@ -198,7 +198,7 @@ third_nav_title: Initiatives
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Various locations
+              Venue: Blk 35A Jalan Rumah Tinggi
             </strong>
           </li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
