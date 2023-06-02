@@ -460,9 +460,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Come join us for a guided tour at NEWater Visitor Centre (NVC) and
-          make your own mini-rain garden to learn more about water
-          sustainability and NEWater.
+          Learn more about Singapore’s water sustainability and NEWater at this guided tour at NEWater Visitor Centre (NVC). Make your own mini-rain garden too!
         </p>
       </div>
     </div>
