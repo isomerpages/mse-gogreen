@@ -136,11 +136,11 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Singapore University of Social Sciences</strong>
+            <strong>Venue: Singapore University of Social Sciences (SUSS)</strong>
           </li>
           <li>
             <strong>
-              Organiser: Singapore University of Social Sciences (SUSS)
+              Organiser: SUSS
             </strong>
           </li>
         </ul>
