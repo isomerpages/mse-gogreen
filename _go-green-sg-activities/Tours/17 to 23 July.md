@@ -775,7 +775,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        Join this interesting guided walk featuring the lesser known creatures of the mudflats in Sungei Buloh.
         </p>
       </div>
     </div>
