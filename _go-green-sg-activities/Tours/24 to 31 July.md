@@ -198,7 +198,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
-          <li><strong>Organiser: Otolith Enrichment</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
