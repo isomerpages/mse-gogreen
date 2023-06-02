@@ -633,7 +633,7 @@ third_nav_title: Tours
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Singapore University of Social Sciences, Seminar Room at Block C Level 5 Number 7. 463 Clementi Road</strong>
+              Venue: Singapore University of Social Sciences</strong>
           </li>
           <li>
             <strong>Organiser: Singapore University of Social Sciences</strong>
@@ -656,7 +656,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/semakau%20landfill.jpg">
-        <h2>Where Singapore’s waste goes: A tour of Semakau Landfill
+        <h2>Where Singapore’s Waste Goes: A tour of Semakau Landfill
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -708,9 +708,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Come join us for a guided tour at NEWater Visitor Centre (NVC) and
-          make your own mini-rain garden to learn more about water
-          sustainability and NEWater.
+         Learn more about Singapore’s water sustainability and NEWater at this guided tour at NEWater Visitor Centre (NVC). Make your own mini-rain garden too!
         </p>
       </div>
     </div>
