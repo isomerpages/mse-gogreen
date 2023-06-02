@@ -93,7 +93,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -102,7 +102,7 @@ third_nav_title: Tours
               Date: 25, 27, 29 July</strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -133,14 +133,14 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road</strong>
+              Venue: Singapore Mobility Gallery</strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+         Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
