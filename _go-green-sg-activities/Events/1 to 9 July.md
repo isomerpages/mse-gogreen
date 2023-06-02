@@ -102,16 +102,15 @@ third_nav_title: Events
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Castlery Liat Towers</strong>
+            <strong>Venue: Castlery at Liat Towers</strong>
           </li>
           <li><strong>Organiser: Pass It On</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          GREEN-HOUSE is Singapore’s first and largest immersive retail
-          experience that brings a sustainable urban home to live. Discover over
-          70 local home and lifestyle brands…
+          Check out Singapore’s first and largest immersive retail
+          experience that brings a sustainable urban home to live. 
         </p>
       </div>
     </div>
@@ -135,15 +134,14 @@ third_nav_title: Events
           </li>
           <li><strong>Admission: Free </strong></li>
           <li>
-            <strong>Venue: Design Orchard. 250 Orchard Road</strong>
+            <strong>Venue: Design Orchard</strong>
           </li>
           <li><strong>Organiser: Singapore Fashion Council</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Fashion The Change 2023 showcases a collection of youths’ ideas and
-          visions on what is their sustainability manifesto in fashion.
+          Fashion The Change 2023 showcases a collection of ideas from youths and their visions on sustainable fashion.
         </p>
       </div>
     </div>
