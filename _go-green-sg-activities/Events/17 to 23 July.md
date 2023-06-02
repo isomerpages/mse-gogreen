@@ -100,19 +100,19 @@ third_nav_title: Events
         <ul>
           <li><strong>Date: 21 July</strong></li>
           <li>
-            <strong>Admission: $30 per person </strong>
+            <strong>Admission: $30</strong>
           </li>
           <li>
             <strong>
-              Venue: CitySprouts, 102 Henderson Road
+              Venue: City Sprouts
             </strong>
           </li>
-          <li><strong>Organiser: Citysprouts</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-      Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability during Climate Action Week. Indulge in a picnic on the rooftop with snack box and drinks.
+Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability and indulge in a picnic on the rooftop with a snack box and drinks.
         </p>
       </div>
     </div>
@@ -136,7 +136,7 @@ third_nav_title: Events
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Outside SUSS Starbucks. 461 Clementi Road</strong>
+            <strong>Venue: Singapore University of Social Sciences</strong>
           </li>
           <li>
             <strong>
@@ -147,7 +147,7 @@ third_nav_title: Events
       </div>
       <div class="programmes__item__body">
         <p>
-         Are you curious about what kind of business ideas the SUSS agri-preneurs are developing? Join the bazaar, listen to their pitch, and buy some food made with the harvest from the SUSS Experiential Urban Farm!
+       Curious about what kind of business ideas the agri-preneurs from SUSS are developing? Join the bazaar, listen to their pitch, and buy some food made with the harvest from the SUSS Experiential Urban Farm!
         </p>
       </div>
     </div>
