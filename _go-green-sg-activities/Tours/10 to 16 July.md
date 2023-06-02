@@ -679,7 +679,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-        Have a farm tour exploring sustainability and demystifying vegan-diet. Harvest herbs from the farm, learn easy recipe and gain valuable culinary insights to ease transitioning to a vegan diet.
+       Harvest herbs, learn easy recipes and gain valuable culinary insights to ease the transition to a vegan diet.
         </p>
       </div>
     </div>
