@@ -168,7 +168,7 @@ third_nav_title: Workshops & Talks
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
-            <strong>Venue: Kampong Bahru</strong>
+            <strong>Venue: TBC</strong>
           </li>
           <li>
             <strong>Organiser: Living Soil Asia</strong>
@@ -239,7 +239,7 @@ third_nav_title: Workshops & Talks
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Singapore University of Social Sciences (SUSS), Seminar Room at Block C Level 5 Number 7. 463 Clementi Rd
+              Venue: Singapore University of Social Sciences (SUSS)
             </strong>
           </li>
           <li>
