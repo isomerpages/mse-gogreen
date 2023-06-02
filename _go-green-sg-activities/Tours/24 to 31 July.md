@@ -646,7 +646,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how we are turning food waste from our hawker centre into something useful!
+         Find out how food waste from a hawker centre can be turned into something useful!
         </p>
       </div>
     </div>
