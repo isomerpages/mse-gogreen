@@ -510,7 +510,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/fighting%20mosquitoes%20with%20mosquitoes%20–%20an%20inside%20look%20at%20project%20wolbachia%20%20%20%20.jpg">
-        <h2>Fighting mosquitoes with mosquitoes – An inside look at Project Wolbachia
+        <h2>Fighting Mosquitoes With Mosquitoes – An Inside Look at Project Wolbachia
 </h2>
       </div>
       <div class="programmes__item__detail">
