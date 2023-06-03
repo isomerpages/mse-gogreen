@@ -152,7 +152,7 @@ third_nav_title: Retail, Dining, and Deals
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/unabiz%20picture.png">
+        <img src="/images/Challenges%20&amp;%20Deals/unabiz image (resized).png">
         <h2>Discounts for UnaBiz's Green Building Solutions
 </h2>
       </div>
