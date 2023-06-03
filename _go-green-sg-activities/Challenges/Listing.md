@@ -92,7 +92,7 @@ third_nav_title: Challenges
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/grab resized thumnail.png">
+        <img src="/images/Challenges%20&amp;%20Deals/grab resized thumbnail 1.png">
         <h2>Grab's Go Green Challenge
 </h2>
       </div>
