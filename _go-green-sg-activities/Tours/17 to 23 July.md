@@ -416,7 +416,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Discovery Centre</strong></li>
-          <li><strong>National Environment Agency</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
