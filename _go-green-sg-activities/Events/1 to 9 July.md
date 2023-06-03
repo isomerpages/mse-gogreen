@@ -155,7 +155,7 @@ third_nav_title: Events
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Events/y4c%20logo.png">
+        <img src="/images/Our%20Story/gogreensg_website-45-new.png">
         <h2>Youth4Climate Festival 2023</h2>
       </div>
       <div class="programmes__item__detail">
