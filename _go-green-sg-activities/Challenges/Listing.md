@@ -121,7 +121,7 @@ third_nav_title: Challenges
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/susgain%20let_s%20go%20green%20challenge%20-%20july%202023.png">
+        <img src="/images/Challenges%20&amp;%20Deals/susgain let's go green challenge - july 2023 (resized).png">
         <h2>Let's Go Green App Challenge</h2>
       </div>
       <div class="programmes__item__detail">
