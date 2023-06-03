@@ -148,7 +148,7 @@ third_nav_title: Challenges
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/planetsustain-mse-highresolution.png">
+        <img src="/images/Challenges%20&amp;%20Deals/planetsustain-mse-highresolution (resized).png">
         <h2>
           Track your carbon footprint with BlockRadiance Sustainability
           Programme
