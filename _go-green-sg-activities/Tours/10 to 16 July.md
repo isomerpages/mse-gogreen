@@ -103,14 +103,14 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1, Level 1. 1 Hampshire Road</strong>
+              Venue: Singapore Mobility Gallery</strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+         Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
@@ -125,7 +125,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -155,8 +155,8 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <img src="/images/Tours/night exploration mangrove walk with naturalist guide.jpg">
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -195,7 +195,7 @@ third_nav_title: Tours
               Date: 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
@@ -215,7 +215,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
+        <img src="/images/Tours/forest stream walk (new).jpg">
         <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
@@ -225,7 +225,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: 91 Lorong Chencharu (ground up initiative)</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -246,7 +246,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
-        <h2>Turning waste to energy: TuasOne Waste To Energy Plant Tour
+        <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -256,7 +256,7 @@ third_nav_title: Tours
               Date: 11 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
           <li><strong>Organiser: National Environmental Agency</strong></li>
         </ul>
       </div>
@@ -278,7 +278,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh
+          Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh
           Reservoir
         </h2>
       </div>
@@ -290,7 +290,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Shuttle bus from Environment Building. 40 Scotts Road 
+              Venue: Shuttle bus from Environment Building
             </strong>
           </li>
           <li>
@@ -300,9 +300,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how
-          Singapore’s National Water Agency PUB produces clean water from clean
-          energy.
+          Visit Sembcorp Tengeh Floating Solar Farm on a boat tour to learn how Singapore’s National Water Agency PUB produces clean water from clean energy.
         </p>
       </div>
     </div>
@@ -316,7 +314,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
-        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
+        <h2>From Waste to Treasure: Exploring the World of E-Waste Recycling
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -332,7 +330,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
+       What happens to your old mobile phones, laptops and other electronic items after you put them into the e-waste recycling bins? Find out at ALBA’s e-waste recycling plant.
         </p>
       </div>
     </div>
@@ -356,7 +354,7 @@ third_nav_title: Tours
               Date: 14 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Changi Airport Terminal 2, outside Starbucks</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -385,13 +383,13 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
-          <li><strong>National Environment Agency</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+         Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.
         </p>
       </div>
     </div>
@@ -434,7 +432,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/old%20gadgets%202.jpg">
-        <h2>Old gadgets, new life: TES ewaste recycling journey
+        <h2>Old Gadgets, New Life: TES E-Waste Recycling Journey
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -444,7 +442,7 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd. 9 Benoi Sector</strong></li>
+          <li><strong>Venue: Tes-Amm (Singapore) Pte Ltd, 9 Benoi Sector</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -485,7 +483,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Explore the diversity of orchids with our volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.
+          Explore the diversity of orchids with volunteer guides. Take in the beauty of over 1,000 species and 2,000 hybrids of orchids, the product of the Gardens' orchid breeding programme.
         </p>
       </div>
     </div>
@@ -510,8 +508,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Gallop Extension (Nearest Entrance: Gallop Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -519,9 +516,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join us for a guided walk through the Gallop Extension of the
-          Singapore Botanical Gardens, viewing unique collections and galleries
-          along the trail.
+        In this guided walk through the Gallop Extension of the Singapore Botanical Gardens, you will get to view unique collections and galleries along the trail.
         </p>
       </div>
     </div>
@@ -535,8 +530,8 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpg">
-        <h2>Nature and heritage guided walk at Rail Corridor (Central)</h2>
+        <img src="/images/Tours/nature%20and%20heritage%20guided%20walk%20at%20rail%20corridor.jpeg">
+        <h2>Nature and Heritage Guided Walk at Rail Corridor (Central)</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -560,7 +555,7 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Nature Appreciation walk at Rifle Range Nature Park -->
+  <!-- Nature Appreciation Walk at Rifle Range Nature Park -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -614,7 +609,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: National University of Singapore (NUS), School of Design and Environment 4, Level 4. 8 Architecture Drive
+              Venue: National University of Singapore (NUS), School of Design and Environment
             </strong>
           </li>
           <li><strong>Organiser: National University of Singapore</strong></li>
@@ -622,9 +617,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Find out how NUS is leading the way for a sustainably-designed future
-          in this special tour of its Net Zero and Net-Positive energy
-          buildings.
+          Find out how NUS is leading the way for a sustainably-designed future in this special tour of its Net Zero and Net-Positive energy buildings.
         </p>
       </div>
     </div>
@@ -649,13 +642,13 @@ third_nav_title: Tours
               Date: 15 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
+          <li><strong>Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Join us for an interesting morning walk to learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
+         Learn about the creatures and plants that live in and around the water edges of Sungei Buloh in this morning walk.
         </p>
       </div>
     </div>
@@ -686,7 +679,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-        Have a farm tour exploring sustainability and demystifying vegan-diet. Harvest herbs from the farm, learn easy recipe and gain valuable culinary insights to ease transitioning to a vegan diet.
+       Harvest herbs, learn easy recipes and gain valuable culinary insights to ease the transition to a vegan diet.
         </p>
       </div>
     </div>

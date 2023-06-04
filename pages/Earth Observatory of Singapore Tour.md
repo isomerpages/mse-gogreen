@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/eos%20premises.jpg)
 
-**Learn more about Earth Observatory of Singapore's research and projects, and how they are tackling sustainability issues of the day**
+**Learn more about Earth Observatory of Singapore's research and projects, and how they are tackling sustainability issues of the day.**
 
 
 **Date:** 4 July, 3:00 - 5:00 pm <br>

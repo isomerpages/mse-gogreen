@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/smg%20bus%20depot%20tour%20with%20go%20ahead%20singapore.jpg)
 
-**Join a guided tour to the Singapore Mobility Gallery and Go Ahead Singapore bus depot at Loyang for a behind-the-scenes look at how Singapore is greening its public transport network and learn about the processes involved in ensuring the bus network runs safely, reliably, and efficiently daily!**
+**Take a behind-the-scenes look at how Singapore is greening its public transport network and learn about the processes involved in ensuring the bus network runs safely, reliably, and efficiently daily!**
 
 **Date:** 8 July, 12:45 – 4:30 pm<br>
 **Admission:** Free (registration required)<br>

@@ -3,7 +3,7 @@ title: "Night Explorations: Mangrove Night Walk with Naturalist Guide"
 permalink: /night-explorations-mangrove-night-walk-with-naturalist-guide/
 description: ""
 ---
-![](/images/Tours/tup-nightmangrove.jpg)
+![Night exploration mangrove walk](/images/Tours/night%20exploration%20mangrove%20walk%20with%20naturalist%20guide.jpg)
 
 **At dusk, step onto a boardwalk through a pitch-dark mangrove forest and begin an immersive exploration to spot mangrove inhabitants such as horseshoe crabs, vinegar crabs, mudskippers, and various water snakes.**
 

@@ -103,14 +103,14 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road</strong>
+              Venue: Singapore Mobility Gallery</strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+          Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
@@ -133,7 +133,7 @@ third_nav_title: Tours
               Date: 19 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Yishun Neighbourhood Park Entrance</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
           <li><strong>National Environment Agency</strong></li>
         </ul>
       </div>
@@ -154,7 +154,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -184,8 +184,8 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <img src="/images/Tours/night exploration mangrove walk with naturalist guide.jpg">
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -194,7 +194,7 @@ third_nav_title: Tours
               Date: 18, 20, 22 July</strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -227,7 +227,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          We immerse you in the rich marine biodiversity of our chosen intertidal site, before taking direct action in a beach cleanup, and wrapping up with a hands-on intertidal artifacts session!
+         Immerse in the rich marine biodiversity, take part in a beach cleanup, and wrap up with a hands-on intertidal artifacts session!
         </p>
       </div>
     </div>
@@ -244,7 +244,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh
+          Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh
           Reservoir
         </h2>
       </div>
@@ -256,7 +256,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Shuttle bus from Environment Building. 40 Scotts Road
+              Venue: Shuttle bus from Environment Building
             </strong>
           </li>
           <li>
@@ -282,7 +282,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
-        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
+        <h2>From Waste to Treasure: Exploring the World of E-Waste Recycling
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -298,7 +298,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
+      What happens to your old mobile phones, laptops and other electronic items after you put them into the e-waste recycling bins? Find out at ALBA’s e-waste recycling plant.
         </p>
       </div>
     </div>
@@ -312,7 +312,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
+        <img src="/images/Tours/forest stream walk (new).jpg">
         <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
@@ -322,7 +322,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -354,13 +354,13 @@ third_nav_title: Tours
               Date: 21, 22 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
-          <li><strong>Venue: City Sprouts. 102 Henderson Road</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
           <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-        Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!
+       Experience sustainable farming at this urban farm nestled in the Redhill estate. Learn about the benefits of aquaponics, hydroponics, composting, and biogas and take home a microgreen kit!
         </p>
       </div>
     </div>
@@ -382,7 +382,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 21, 23 July</strong>
+              Date: 21, 22, 23 July</strong>
           </li>
           <li><strong>Admission: $25</strong></li>
           <li><strong>Venue: Tiger Brewery</strong></li>
@@ -415,13 +415,13 @@ third_nav_title: Tours
               Date: 22 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
-          <li><strong>National Environment Agency</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+        Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.
         </p>
       </div>
     </div>
@@ -443,14 +443,14 @@ third_nav_title: Tours
           <li><strong>Date: 22 July</strong></li>
           <li><strong>Admission: Adult: $100 | Senior: $80 | Child: $60</strong></li>
           <li>
-            <strong>Venue: Clementi MRT Exit A (head down to bus stop). 31 Toh Guan Road East</strong>
+            <strong>Venue: Clementi MRT</strong>
           </li>
           <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          An experiential tour into the heartlands and wet market. Forage for green 'waste' and ugly food and transform them into useful compost.
+        An immersive, privately-guided, multi-venue experiential tour into Singapore’s heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost.
         </p>
       </div>
     </div>
@@ -533,8 +533,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Learning Forest (Nearest Entrance: Tyersall Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -569,8 +568,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter, Level
-              1 Botany Centre (Nearest Entrance: Tanglin Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -635,7 +633,7 @@ third_nav_title: Tours
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Singapore University of Social Sciences, Seminar Room at Block C Level 5 Number 7. 463 Clementi Road</strong>
+              Venue: Singapore University of Social Sciences</strong>
           </li>
           <li>
             <strong>Organiser: Singapore University of Social Sciences</strong>
@@ -658,7 +656,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/semakau%20landfill.jpg">
-        <h2>Where Singapore’s waste goes: A tour of Semakau Landfill
+        <h2>Where Singapore’s Waste Goes: A tour of Semakau Landfill
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -710,9 +708,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Come join us for a guided tour at NEWater Visitor Centre (NVC) and
-          make your own mini-rain garden to learn more about water
-          sustainability and NEWater.
+         Learn more about Singapore’s water sustainability and NEWater at this guided tour at NEWater Visitor Centre (NVC). Make your own mini-rain garden too!
         </p>
       </div>
     </div>
@@ -779,7 +775,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        Join this interesting guided walk featuring the lesser known creatures of the mudflats in Sungei Buloh.
         </p>
       </div>
     </div>

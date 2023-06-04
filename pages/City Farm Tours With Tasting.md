@@ -3,16 +3,16 @@ title: City Farm Tours With Tasting
 permalink: /city-farm-tours-with-tasting/
 description: ""
 ---
-![](/images/Tours/cs_ffl.jpg)
+![City Farm Tours](/images/Tours/cs_ffl.jpg)
 
-**Experience sustainable farming at CitySprouts's urban farm nestled in the Redhill estate. Learn about the benefits of aquaponics, hydroponics, composting, and biogas and take home a microgreen kit! **
+**Experience sustainable farming at this urban farm nestled in the Redhill estate. Learn about the benefits of aquaponics, hydroponics, composting, and biogas and take home a microgreen kit!**
 
 **Date:** 7, 8, 21, 22 July, 9:30 - 10:45 am<br>
 **Admission:** $30<br>
 **Venue:** City Sprouts, 102 Henderson Road<br>
 **Organiser:** City Sprouts
 
-Hidden in the Henderson estate is a city urban farm that used to be a school. Come join CitySprouts on a journey around their farm and learn about various farming techniques such as aquaponics and hydroponics. Participants will also get to see the difference between the traditional farming (e.g on rice paddies), and the newer techniques that use less land and resources. 
+Hidden in the Henderson estate is a city urban farm that used to be a school. Come join City Sprouts on a journey around their farm and learn about various farming techniques such as aquaponics and hydroponics. Participants will also get to see the difference between the traditional farming (e.g on rice paddies), and the newer techniques that use less land and resources. 
 
 As Singapore's landfill slowly reaches full capacity, we need to think about how to reduce waste. The tour will introduce easy composting methods such as biogas composting.
 

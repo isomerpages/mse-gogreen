@@ -92,7 +92,7 @@ third_nav_title: Challenges
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/grabcar.png">
+        <img src="/images/Challenges%20&amp;%20Deals/grab capture resize.PNG">
         <h2>Grab's Go Green Challenge
 </h2>
       </div>
@@ -107,7 +107,7 @@ third_nav_title: Challenges
       </div>
       <div class="programmes__item__body">
         <p>
-       Go Green with Grab by taking part in the Go Green Challenge!
+       Go Green with Grab by taking part in the Go Green Challenge.
         </p>
       </div>
     </div>
@@ -121,7 +121,7 @@ third_nav_title: Challenges
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/susgain%20let_s%20go%20green%20challenge%20-%20july%202023.png">
+        <img src="/images/Challenges%20&amp;%20Deals/susgain let's go green challenge - july 2023 (resized).png">
         <h2>Let's Go Green App Challenge</h2>
       </div>
       <div class="programmes__item__detail">
@@ -134,7 +134,7 @@ third_nav_title: Challenges
       </div>
       <div class="programmes__item__body">
         <p>
-          Earn points and stand a chance to win prizes by joining susGain’s ‘Let’s Go Green’ App Challenge! Make an impact - redeemed points go towards climate and humanitarian efforts.
+          Earn points and stand a chance to win prizes by joining the ‘Let’s Go Green’ App Challenge! Redeemed points go towards climate and humanitarian efforts.
         </p>
       </div>
     </div>
@@ -148,7 +148,7 @@ third_nav_title: Challenges
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/planetsustain-mse-highresolution.png">
+        <img src="/images/Challenges%20&amp;%20Deals/planetsustain-mse-highresolution (resized).png">
         <h2>
           Track your carbon footprint with BlockRadiance Sustainability
           Programme
@@ -195,12 +195,12 @@ third_nav_title: Challenges
       </div>
       <div class="programmes__item__body">
         <p>
-       Embark on a fun quest around the airport to discover fun facts you’d never know! After the quest, play airport-themed games at Changi Experience Studio for a fun-filled time!
+     Embark on a quest around Changi Airport to discover hidden sustainability secrets. After the quest, play airport-themed games at Changi Experience Studio for a fun-filled time!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/mangrove-goodies/" class="button-primary">
+      <a href="/amazing-sustainable-airport-quest/" class="button-primary">
         Find out more
       </a>
     </div>

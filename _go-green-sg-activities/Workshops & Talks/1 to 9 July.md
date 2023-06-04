@@ -106,14 +106,14 @@ third_nav_title: Workshops & Talks
             </strong>
           </li>
           <li>
-            <strong>Venue: National Design Centre, GINLEE Studio, #03-05</strong>
+            <strong>Venue: National Design Centre</strong>
           </li>
           <li><strong>Organiser: GINLEE Studio</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Experience GINLEE's latest circular initiative - _/\/\/\ake O, where our in-house professionals will guide you to customize your very own pleated bag on-demand or repurpose your unwanted t-shirts to create a Tee Bag that is furnished with specially printed 3D-handles.
+          Experience GINLEE's latest circular initiative - /\/\/\ake O, where you will be guided on how to customize your very own pleated bag or repurpose your unwanted t-shirts to create a Tee Bag that comes with specially printed 3D-handles.
         </p>
       </div>
     </div>
@@ -138,13 +138,13 @@ third_nav_title: Workshops & Talks
               Date: 5, 8 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
-          <li><strong>Venue: CitySprouts</strong></li>
-          <li><strong>Organiser: CitySprouts</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-       Learn to DIY natural detergents and scrubs with common household “waste” and watch it beautify you and the earth! Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!
+       Learn to make your own DIY natural detergents and scrubs using common household waste and watch it beautify you and the earth! Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!
         </p>
       </div>
     </div>
@@ -201,13 +201,12 @@ third_nav_title: Workshops & Talks
           <li><strong>Admission: $20</strong></li>
           <li>
             <strong>
-              Venue: The Social Space. 333 Kreta Ayer Rd, #01-14
+              Venue: The Social Space
             </strong>
           </li>
           <li>
             <strong>
-              Organiser: NUS Centre for Nature-based Climate Solutions and The
-              Social Space
+              Organiser: NUS Centre for Nature-based Climate Solutions and The Social Space
             </strong>
           </li>
         </ul>

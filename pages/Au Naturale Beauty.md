@@ -9,8 +9,8 @@ description: ""
 
 **Date:** 5, 19 July, 5:00 - 6:15 pm | 8, 22 July, 2:00 - 3:15pm<br>
 **Admission:** $30<br>
-**Venue:** CitySprouts, 102 Henderson Road<br>
-**Organiser**: CitySprouts
+**Venue:** City Sprouts, 102 Henderson Road<br>
+**Organiser**: City Sprouts
 
 With Semakau Landfill reaching its limits, how can we reduce the amount of waste we produce, and avoid sending unnecessary waste to the landfill? Participants will be taken through a series of workshops held in a farm focused on zero waste beauty. The workshops focus on:
 

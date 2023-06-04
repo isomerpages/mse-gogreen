@@ -106,7 +106,7 @@ third_nav_title: Retail, Dining, and Deals
       <div class="programmes__item__body">
         <p>
           Enjoy a discount when ordering from Green Label merchants on
-         foodpanda!
+         foodpanda.
         </p>
       </div>
     </div>
@@ -152,7 +152,7 @@ third_nav_title: Retail, Dining, and Deals
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/unabiz%20picture.png">
+        <img src="/images/Challenges%20&amp;%20Deals/unabiz image (resized).png">
         <h2>Discounts for UnaBiz's Green Building Solutions
 </h2>
       </div>
@@ -167,7 +167,7 @@ third_nav_title: Retail, Dining, and Deals
       </div>
       <div class="programmes__item__body">
         <p>
-       Enjoy discounts for Green Building solutions, including Indoor Air Quality and Energy Monitoring sensors!
+       Enjoy discounts for Green Building solutions, including Indoor Air Quality and Energy Monitoring sensors.
         </p>
       </div>
     </div>

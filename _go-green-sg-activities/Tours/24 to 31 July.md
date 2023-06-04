@@ -92,8 +92,8 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <img src="/images/Tours/night exploration mangrove walk with naturalist guide.jpg">
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -102,7 +102,7 @@ third_nav_title: Tours
               Date: 25, 27, 29 July</strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -133,14 +133,14 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road</strong>
+              Venue: Singapore Mobility Gallery</strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+         Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
@@ -155,7 +155,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -187,7 +187,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
-        <h2>Turning waste to energy: TuasOne Waste To Energy Plant Tour
+        <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -197,8 +197,8 @@ third_nav_title: Tours
               Date: 25 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: 94 Tuas South Ave 3</strong></li>
-          <li><strong>Organiser: Otolith Enrichment</strong></li>
+          <li><strong>Venue: Shuttle bus from Jurong East MRT</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -246,7 +246,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/semakau%20landfill.jpg">
-        <h2>Where Singapore’s waste goes: A tour of Semakau Landfill
+        <h2>Where Singapore’s Waste Goes: A Tour of Semakau Landfill
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -277,7 +277,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/sembcorp tengeh floating solar farm_aerial_1920x1080 (sembcorp).jpg">
         <h2>
-          Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir
+          Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh Reservoir
         </h2>
       </div>
       <div class="programmes__item__detail">
@@ -288,7 +288,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Shuttle bus from Environment Building. 40 Scotts Road
+              Venue: Shuttle bus from Environment Building
             </strong>
           </li>
           <li>
@@ -314,7 +314,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
+        <img src="/images/Tours/forest stream walk (new).jpg">
         <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
@@ -324,7 +324,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -357,7 +357,7 @@ third_nav_title: Tours
           <li><strong>Admission: Free (registration required)</strong></li>
           <li>
             <strong>
-              Venue: Marine Aquaculture Centre, St John’s Island.</strong>
+              Venue: Marine Aquaculture Centre, St John’s Island</strong>
           </li>
           <li><strong>Organiser: Singapore Food Agency</strong></li>
         </ul>
@@ -378,7 +378,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
-        <h2>From Waste to Treasure: Exploring the World of E Waste Recycling
+        <h2>From Waste to Treasure: Exploring the World of E-Waste Recycling
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -394,7 +394,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-       Do you know what happens to your old mobile phones, laptops and other electronic items after you put them into e-waste bins? Find out how electronic waste is recycled at ALBA’s e-waste recycling plant.
+       What happens to your old mobile phones, laptops and other electronic items after you put them into the e-waste recycling bins? Find out at ALBA’s e-waste recycling plant.
         </p>
       </div>
     </div>
@@ -418,7 +418,7 @@ third_nav_title: Tours
               Date: 28 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Changi Airport Terminal 2, outside Starbucks</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -460,9 +460,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Come join us for a guided tour at NEWater Visitor Centre (NVC) and
-          make your own mini-rain garden to learn more about water
-          sustainability and NEWater.
+          Learn more about Singapore’s water sustainability and NEWater at this guided tour at NEWater Visitor Centre (NVC). Make your own mini-rain garden too!
         </p>
       </div>
     </div>
@@ -512,7 +510,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/fighting%20mosquitoes%20with%20mosquitoes%20–%20an%20inside%20look%20at%20project%20wolbachia%20%20%20%20.jpg">
-        <h2>Fighting mosquitoes with mosquitoes – An inside look at Project Wolbachia
+        <h2>Fighting Mosquitoes With Mosquitoes – An Inside Look at Project Wolbachia
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -522,7 +520,7 @@ third_nav_title: Tours
               Date: 29 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Techplace 2, #06-13. 5008 Ang Mo Kio Avenue 5</strong></li>
+          <li><strong>Venue: Techplace 2, 5008 Ang Mo Kio Avenue 5</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
@@ -609,7 +607,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 29, 30 July</strong>
+              Date: 28, 29, 30 July</strong>
           </li>
           <li><strong>Admission: $25</strong></li>
           <li><strong>Venue: Tiger Brewery</strong></li>
@@ -648,7 +646,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how we are turning food waste from our hawker centre into something useful!
+         Find out how food waste from a hawker centre can be turned into something useful!
         </p>
       </div>
     </div>

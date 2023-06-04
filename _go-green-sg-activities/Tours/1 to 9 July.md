@@ -133,13 +133,12 @@ third_nav_title: Tours
               Date: 1 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>
-         Join us for an interesting morning walk to learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
+        <p>Learn about the creatures and plants that lives in and around the water edges of Sungei Buloh in this morning walk.
         </p>
       </div>
     </div>
@@ -152,8 +151,8 @@ third_nav_title: Tours
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tup-nightmangrove.jpg">
-        <h2>Night explorations: Mangrove Night Walk with Naturalist Guide</h2>
+        <img src="/images/Tours/night exploration mangrove walk with naturalist guide.jpg">
+        <h2>Night Explorations: Mangrove Night Walk with Naturalist Guide</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -163,7 +162,7 @@ third_nav_title: Tours
             </strong>
           </li>
           <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Pasir Ris Park, Carpark B</strong></li>
+          <li><strong>Venue: Pasir Ris Park</strong></li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
@@ -182,7 +181,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tupforest.jpg">
+        <img src="/images/Tours/forest stream walk (new).jpg">
         <h2>Forest Stream Walk and Survey</h2>
       </div>
       <div class="programmes__item__detail">
@@ -192,7 +191,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
           <li>
-            <strong>Venue: Ground-Up Initiative. 91 Lorong Chencharu</strong>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
           </li>
           <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
@@ -222,13 +221,13 @@ third_nav_title: Tours
               Date: 1, 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Discovery Centre. 510 Upper Jurong Road</strong></li>
+          <li><strong>Venue: Singapore Discovery Centre</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-         Find out how solar energy is produced and utilised with a guided tour of Singapore Discovery Centre’s installation of solar panels. You will also get the opportunity to make your own solar-powered car and see solar power in action.
+         Learn more about solar energy and make your own solar-powered car at Singapore Discovery Centre.
         </p>
       </div>
     </div>
@@ -243,7 +242,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/mandai.jpg">
-        <h2>Building Wildlife-friendly Spaces at Mandai</h2>
+        <h2>Building Wildlife-Friendly Spaces at Mandai</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -259,9 +258,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Mandai Wildlife Reserve is home to a myriad of native plants and
-          animals. Join us on an insightful tour to discover how we balanced
-          development in Mandai with wildlife protection.
+          Mandai Wildlife Reserve is home to a myriad of native plants and animals. Join this insightful tour to discover how development in Mandai was balanced with wildlife protection.
         </p>
       </div>
     </div>
@@ -286,15 +283,15 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road
+              Venue: Singapore Mobility Gallery
             </strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our Eco-warriors to fight climate change by completing a series of quests at the children’s exhibition on greener commutes, “Make the Switch: The Quest for Greener Land Transport” at the Singapore Mobility Gallery.
+         Join eco-warriors to fight climate change by completing a series of quests at this children’s exhibition on greener commutes.
         </p>
       </div>
     </div>
@@ -308,7 +305,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -348,7 +345,7 @@ third_nav_title: Tours
               Date: 4 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Earth Observatory of Singapore. 50 Nanyang Avenue</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore</strong></li>
           <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
         </ul>
       </div>
@@ -381,7 +378,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          We immerse you in the rich marine biodiversity of our chosen intertidal site, before taking direct action in a beach cleanup, and wrapping up with a hands-on intertidal artifacts session!
+          Immerse in the rich marine biodiversity, take part in a beach cleanup, and wrap up with a hands-on intertidal artifacts session!
         </p>
       </div>
     </div>
@@ -411,7 +408,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover a hidden world beneath the ocean, all this and more when the tide retreats. Our walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
+          Discover a hidden world beneath the ocean when the tide retreats. This walk is a rare opportunity to get up close with marine life that is often overlooked.
         </p>
       </div>
     </div>
@@ -426,7 +423,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
-        <h2>Behind the scenes Bus Tour of Changi Water Reclamation Plant</h2>
+        <h2>Behind the Scenes Bus Tour of Changi Water Reclamation Plant</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -446,7 +443,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Take an exclusive bus tour within the Changi Water Reclamation Plant (CWRP) to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
+          Take an exclusive bus tour within the Changi Water Reclamation Plant to understand how PUB treats used water and gives it a new life, turning it into high-grade reclaimed water.
         </p>
       </div>
     </div>
@@ -471,13 +468,13 @@ third_nav_title: Tours
               Date: 7, 8 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
-          <li><strong>Venue: City Sprouts. 102 Henderson Road</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
           <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-        Discover our urban farm in Redhill estate. Learn aquaponics, hydroponics, composting, and biogas benefits. Take home a microgreen kit. Experience sustainable farming in just one visit!
+       Experience sustainable farming at this urban farm nestled in the Redhill estate. Learn about the benefits of aquaponics, hydroponics, composting, and biogas and take home a microgreen kit!
         </p>
       </div>
     </div>
@@ -504,18 +501,15 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Clementi MRT Exit A (head down to bus stop). 31 Toh Guan
-              Road East
+              Venue: Clementi MRT 
             </strong>
           </li>
-          <li><strong>Organiser: Tribe Ptd Ltd</strong></li>
+          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          An immersive, privately-guided, multi-venue experiential tour into
-          Singapore’s the heartlands. Deep dive into the wet market on a hunt
-          for green ‘waste’ and transform them…
+          An immersive, privately-guided, multi-venue experiential tour into Singapore’s heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into something useful.
         </p>
       </div>
     </div>
@@ -539,8 +533,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Visitor Centre (Nearest Entrance: Nassim Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -548,8 +541,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover the enchantment of our tropical rainforest with our volunteer
-          guides.
+          Discover the enchantment of our tropical rainforest with volunteer guides.
         </p>
       </div>
     </div>
@@ -573,8 +565,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Botanic Gardens, Visitor Services Counter at
-              Learning Forest (Nearest Entrance: Tyersall Gate)
+              Venue: Singapore Botanic Gardens
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -582,9 +573,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          The Learning Forest features a network of boardwalks and elevated
-          walkways that allow visitors to explore habitats ranging from a
-          freshwater forest wetland to a lowland rainforest
+          The Learning Forest features a network of boardwalks and elevated  walkways that allow visitors to explore habitats ranging from a freshwater forest wetland to a lowland rainforest.
         </p>
       </div>
     </div>
@@ -605,11 +594,11 @@ third_nav_title: Tours
         <ul>
           <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Admission: Child: $10 | Accompanying parent(s): Free</strong>
+            <strong>Admission: Child: $10</strong>
           </li>
           <li>
             <strong>
-              Venue: Bukit Timah Nature Reserve (meet at Visitor Centre)
+              Venue: Bukit Timah Nature Reserve
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
@@ -701,14 +690,14 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Singapore Mobility Gallery, Block 1 Level 1. 1 Hampshire Road</strong>
+              Venue: Singapore Mobility Gallery</strong>
           </li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join our guided tour to the Singapore Mobility Gallery and Go Ahead Singapore bus depot at Loyang for a behind-the-scenes look at how we are greening our public transport network and learn about the processes involved in ensuring our bus network runs safely, reliably, and efficiently daily!
+          Take a behind-the-scenes look at how Singapore is greening its public transport network and learn about the processes involved in ensuring the bus network runs safely, reliably, and efficiently daily!
         </p>
       </div>
     </div>
@@ -733,7 +722,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Changi Seagrass Intertidal Zone (Near Changi Carpark 7)
+              Venue: Changi Seagrass Intertidal Zone 
             </strong>
           </li>
           <li><strong>Organiser: Young Nautilus</strong></li>
@@ -741,9 +730,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Explore the treasures and sea life hidden in the seagras s habitat,
-          while learning how we can protect Singapore’s delicate marine
-          ecosystem.
+          Explore the treasures and sea life hidden in the seagrass habitat, while learning how we can protect Singapore’s delicate marine ecosystem.
         </p>
       </div>
     </div>
@@ -769,7 +756,7 @@ third_nav_title: Tours
             </strong>
           </li>
           <li>
-            <strong>Venue: Methodist Girls’ School, Biodiverse Garden</strong>
+            <strong>Venue: Methodist Girls’ School</strong>
           </li>
           <li><strong>Organiser: Living Soil Asia</strong></li>
         </ul>
@@ -803,7 +790,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: ComCrop, Rooftop. 15 Woodlands Loop
+              Venue: ComCrop
             </strong>
           </li>
           <li><strong>Organiser: ComCrop</strong></li>
@@ -811,9 +798,8 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Enjoy a tour around Singapore’s pioneering rooftop farm. Learn
-          ComCrop’s contribution to Singapore’s food security and the innovation
-          and considerations behind their operations.
+          Enjoy a tour around Singapore’s pioneer rooftop farm. Learn
+          ComCrop’s contribution to Singapore’s food security and the innovation and considerations behind their operations.
         </p>
       </div>
     </div>
@@ -838,13 +824,13 @@ third_nav_title: Tours
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-        Join this interesting guided walk featuring our lesser known creatures of the mudflats in Sungei Buloh.
+        Join this interesting guided walk featuring the lesser known creatures of the mudflats in Sungei Buloh.
         </p>
       </div>
     </div>
@@ -869,7 +855,7 @@ third_nav_title: Tours
           </li>
           <li>
             <strong>
-              Venue: Sungei Buloh Wetland Reserve, Visitor Centre. 60 Kranji Way
+              Venue: Sungei Buloh Wetland Reserve
             </strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
