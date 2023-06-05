@@ -25,7 +25,7 @@ Tingle your senses as you touch, smell and taste the local-grown vegetables and 
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<a class="btn-link" target="_blank" href="https://www.openfarmcommunity.com/reservationsl">
+<a class="btn-link" target="_blank" href="https://www.openfarmcommunity.com/reservations">
 	<img src="/images/more-info-btn.png">
 </a>
 
