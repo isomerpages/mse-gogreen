@@ -8,7 +8,7 @@ description: ""
 **Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.**
 
 **Date:** 1 - 31 July, Tuesdays and Fridays, from 2:00 pm<br>
-**Admission:** $38 tour + farm to bar mocktail | $78 tour + farm to table afternoon tea + farm to bar mocktail<br>
+**Admission:** $38 tour ++ for tour &amp; farm-to-bar mocktail | $78 tour++ for tour, farm-to-table afternoon tea &amp; farm-to-bar mocktail<br>
 **Venue:** PARKROYAL COLLECTION Marina Bay, Singapore<br>
 **Organiser:** PARKROYAL COLLECTION Marina Bay, Singapore 
 
