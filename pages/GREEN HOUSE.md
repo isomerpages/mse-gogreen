@@ -18,7 +18,7 @@ Visitors will get to shop these brands in an immersive manner where each brand w
 
 Visitors will also get to participate in workshops and talks about the benefits of electric vehicles, textiles upcycling, vegetable-tanned leathers and tooling, making your own natural deodorant and cooking with superfoods like insect-based protein solutions.
  
-Come join us if you're new to sustainable living or are looking to deepen your knowledge and make a difference.
+Join Pass It On® if you're new to sustainable living or are looking to deepen your knowledge and make a difference.
 
 <a class="btn-link" target="_blank" href="https://pass-it-on.co/pages/green-house">
 	<img src="/images/more-info-btn.png">
