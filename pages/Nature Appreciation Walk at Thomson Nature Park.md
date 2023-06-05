@@ -1,15 +1,15 @@
 ---
-title: Nature Appreciation Walk at Thompson Nature Park
-permalink: /nature-appreciation-walk-at-thompson-nature-park/
+title: Nature Appreciation Walk at Thomson Nature Park
+permalink: /nature-appreciation-walk-at-thomson-nature-park/
 description: ""
 ---
-![Nature Appreciation Walk at Thompson Nature Park](/images/Tours/nature%20appreciation%20walk%20at%20thompson%20nature%20park.jpg)
+![Nature Appreciation Walk at Thomson Nature Park](/images/Tours/nature%20appreciation%20walk%20at%20thompson%20nature%20park.jpg)
 
 **Immerse in the blending of culture and nature with a nature appreciation walk at the site of the former Hainan Village.**
 
 **Date:** 22 July, 9:30 – 11:00 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Thompson Nature Park<br>
+**Venue:** Thomson Nature Park<br>
 **Organiser:** National Parks Board
 
 Located to the east of the Central Catchment Nature Reserve, between Old Upper Thomson Road and Upper Thomson Road, Thomson Nature Park acts as a green buffer to the Central Catchment Nature Reserve. 
