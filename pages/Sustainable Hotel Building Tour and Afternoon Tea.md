@@ -5,25 +5,26 @@ description: ""
 ---
 ![](/images/Tours/parkroyal_tour.jpg)
 
-**Harvest herbs, learn easy recipes and gain valuable culinary insights to ease the transition to a vegan diet.**
+**Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.**
 
-**Date:** 15, 16 July, 11:00 am - 1:30 pm<br>
-**Admission:** $68 | $120 per pair<br>
-**Venue:** City Sprouts, 102 Henderson Road<br>
-**Organiser:** City Sprouts
+**Date:** 1 - 31 July, Tuesdays and Fridays, from 2:00 pm<br>
+**Admission:** $38 tour + farm to bar mocktail | $78 tour + farm to table afternoon tea + farm to bar mocktail<br>
+**Venue:** PARKROYAL COLLECTION Marina Bay, Singapore<br>
+**Organiser:** PARKROYAL COLLECTION Marina Bay, Singapore 
 
-Join City Sprouts as they delve into the importance of sustainability and demystify the concept of a vegan-diet. 
+Sitting in the heart of the central business district and Marina Bay, with panoramic views of the Singapore city skyline, the 583-room PARKROYAL COLLECTION Marina Bay, Singapore is the country's first 'Garden-in-a-Hotel'. 
+  
+A champion of sustainability, environmental responsibility and advocate for green innovations in the hospitality industry, the hotel is home to one of Southeast Asia's largest indoor sky-lit atrium, designed by the late Architect John Portman, containing over 2,400 plants, trees, shrubs and groundcovers from more than 60 varieties of flora spread across 15,000 square feet of space throughout. A rooftop Urban Farm spanning 150 square metres houses over 60 varieties of fruits, vegetables, herbs and edible flowers, forming the backbone of the hotel's farm-to-table, farm-to-bar and farm-to-spa concepts. 
+  
+Embark on a guided tour of PARKROYAL COLLECTION Marina Bay, Singapore, and discover the hotel’s sustainability initiatives from behind-the-scenes.  
+ 
+After the tour, treat yourself to a delightful farm-to-table Afternoon Tea at Portman’s Bar, featuring the freshest ingredients, harvested from our very own Urban Farm, complemented by our farm-to-bar mocktail.  
+ 
+Don't miss out on this opportunity to discover how sustainability is practiced across all operations in the world of PARKROYAL COLLECTION Marina Bay, Singapore.  
 
-As we witness the rise of alternative protein options in markets and restaurants, it's crucial to understand the implications of animal derivatives and their toll on our limited land resources. 
-
-By adopting more vegan and vegetarian dishes into our daily meals, we can make a positive impact on the environment and biodiversity, while also embracing a healthier lifestyle.
-
-During the tour, participants will have the opportunity to engage in an express farm tour and hands-on harvesting experience. A chef will also guide you through simple steps to create vegan dishes. This workshop is specifically designed to assist those who are curious about the transitioning to a vegan diet but may feel uncertain about where to begin.
-
-By attending our workshop, you will gain valuable insights on the culinary world of the vegan diet, understand how easy preparation can be, and unlock the secrets to crafting delectable vegan meals.
 
 
-<a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/farm-fresh-lunch-gogreen">
+<a class="btn-link" target="_blank" href="https://eshop-prsmb.panpacific.com/products/sustainably-yours-building-tour-parkroyal-collection-marina-bay-singapore">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
