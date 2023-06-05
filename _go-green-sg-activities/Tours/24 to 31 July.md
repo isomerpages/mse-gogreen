@@ -636,7 +636,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 28, 29, 30 July</strong>
+              Date: 29, 30 July</strong>
           </li>
           <li><strong>Admission: $25</strong></li>
           <li><strong>Venue: Tiger Brewery</strong></li>
