@@ -433,6 +433,35 @@ third_nav_title: Tours
         Find out more
       </a>
     </div>
+  </div>			  <!-- Black Soldier Fly Eco Farm Tour -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/otolith%20black%20soldier%20fly.jpg">
+        <h2>Black Soldier Fly Eco Farm Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 July</strong>
+          </li>
+          <li><strong>Admission: $28</strong></li>
+          <li><strong>Venue: Sustainability @ Tampines Park</strong></li>
+          <li><strong>Organiser: Otolith Enrichment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Say hi to the mighty Black Solider Fly! Come and learn how an insect so small is making big contributions to waste reduction by turning trash into treasure!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/black-soldier-fly/" class="button-primary">
+        Find out more
+      </a>
+    </div>
   </div>
   <!-- Learn Interesting Facts about High grade Reclaimed Water at NEWater Visitor Centre -->
   <div class="programmes__item col is-one-third">
