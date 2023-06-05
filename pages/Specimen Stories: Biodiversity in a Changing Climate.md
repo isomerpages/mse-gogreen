@@ -19,10 +19,6 @@ The Fullerton Hotel Singapore, in collaboration with Lee Kong Chian Natural Hist
 The exhibition will run from 1 July to 31 August 2023 at The Fullerton Hotel Singapore’s East Garden Gallery located at the lobby level. The exhibition is open to all and admission is free. 
 
 
-<a class="btn-link" target="_blank" href="">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
 <style>
 	.btn-link {
 		display: inline-block;
