@@ -7,7 +7,7 @@ description: ""
 
 **Tiger’s dedication to brewing excellence and commitment to sustainability goes into every pint of beer. Step into the world of Tiger and experience how they are brewing a better world.**
 
-**Date:** 21, 28 July, 1:00 - 2:00 pm, 3:00 - 4:00 pm, 5:00 - 6:00 pm | 22, 23, 29, 30 July, 1:00 - 2:00 pm, 2:00 - 3:00 pm, 3:00 - 4:00 pm, 4:00 - 5:00 pm, 5:00 - 6:00 pm <br>
+**Date:** 21 July, 1:00 - 2:00 pm, 3:00 - 4:00 pm, 5:00 - 6:00 pm | 22, 23, 29, 30 July, 1:00 - 2:00 pm, 2:00 - 3:00 pm, 3:00 - 4:00 pm, 4:00 - 5:00 pm, 5:00 - 6:00 pm <br>
 **Admission:** $25 <br>
 **Venue:** Tiger Brewery<br>
 **Organiser:** Asia Pacific Breweries Singapore
