@@ -100,7 +100,7 @@ third_nav_title: Events
           <li>
             <strong>Date: 8 - 9 July</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Admission: Free</strong></li>
           <li>
             <strong>Venue: Castlery at Liat Towers</strong>
           </li>

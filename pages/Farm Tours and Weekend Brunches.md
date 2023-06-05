@@ -18,11 +18,15 @@ At Open Farm Community, they believe that brunch is more than just a meal - it's
    
 Led by in-house agriculture specialists and urban farmers Sidney and Faseha, learn more about Open Farm Community’s sustainably homegrown produce, its origins and more.  
   
-Tingle your senses as you touch, smell and taste the local-grown vegetables and herbs harvested in front of you.
+Tingle your senses as you touch, smell and taste the local-grown vegetables and herbs harvested in front of you. Participants can sign up for an optional brunch in addition to the tour by clicking "More Info".
 
 
 <a class="btn-link" target="_blank" href="https://peatix.com/event/3466402/view">
 	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<a class="btn-link" target="_blank" href="https://www.openfarmcommunity.com/reservations">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>

@@ -205,6 +205,34 @@ third_nav_title: Challenges
       </a>
     </div>
   </div>
+			  <!-- GreenScout App Challenge-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/greenscout.png">
+        <h2>GreenScout App Challenge
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: GreenScout</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Take part in fun sustainable challenges and engage in green habits alongside friends, family, or colleagues, on the GreenScout app!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/greenscout-app-challenge/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- The Melting Menace-->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
