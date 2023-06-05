@@ -8,18 +8,18 @@ description: ""
 **Explore the wonders of biodiversity at The Fullerton Hotel through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.**
 
 **Date:** 1-31 July, full day<br>
-**Admission:** Free (Registration not required)<br>
-**Venue:** City Sprouts, 102 Henderson Road<br>
-**Organiser:** City Sprouts
+**Admission:** Free (registration not required)<br>
+**Venue:** The Fullerton Hotel’s East Garden Gallery<br>
+**Organiser:** The Fullerton Hotel Singapore
 
-Hidden in the Henderson estate is a city urban farm that used to be a school. Come join City Sprouts on a journey around their farm and learn about various farming techniques such as aquaponics and hydroponics. Participants will also get to see the difference between the traditional farming (e.g on rice paddies), and the newer techniques that use less land and resources. 
+The Fullerton Hotel Singapore, in collaboration with Lee Kong Chian Natural History Museum, National University of Singapore, presents “Specimen Stories: Biodiversity in a Changing Climate”, a showcase of the richness of Southeast Asian biodiversity as documented through local and regional research expeditions. At the centre of the exhibition will be a life-sized replica of the skull of a sperm whale which was found in Singapore waters on 10 July 2015.  
 
-As Singapore's landfill slowly reaches full capacity, we need to think about how to reduce waste. The tour will introduce easy composting methods such as biogas composting.
+  
 
-Lastly, participants will bring home their own microgreen DIY Kit and learn about the benefits of microgreens! (PS: No cooking required, just grow and toss them into salads!) 
+The exhibition will run from 1 July to 31 August 2023 at The Fullerton Hotel Singapore’s East Garden Gallery located at the lobby level. The exhibition is open to all and admission is free. 
 
 
-<a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/city-farm-tour-gogreen">
+<a class="btn-link" target="_blank" href="">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
