@@ -8,7 +8,7 @@ description: ""
 **GREEN-HOUSE is Singapore's first and largest immersive retail experience that brings a sustainable urban home to life. Discover over 70 local home and lifestyle brands, and participate in workshops that encourage low-carbon-footprint lifestyle.**
 
 **Date:** 8 - 9 July, 10:00 am - 9:00 pm<br>
-**Admission:** Free (registration required)<br>
+**Admission:** Free<br>
 **Venue:** Castlery at Liat Towers<br>
 **Organiser:** Pass It On
 
@@ -20,7 +20,7 @@ Visitors will also get to participate in workshops and talks about the benefits 
  
 Come join us if you're new to sustainable living or are looking to deepen your knowledge and make a difference.
 
-<a class="btn-link" target="_blank" href="https://www.pass-it-on.co/green-house">
+<a class="btn-link" target="_blank" href="https://pass-it-on.co/pages/green-house">
 	<img src="/images/more-info-btn.png">
 </a>
 
