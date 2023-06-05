@@ -8,10 +8,9 @@ description: ""
 **Take part in fun sustainable challenges and engage in green habits alongside friends, family, or colleagues, on the GreenScout app!**
 
 **Date:** 1 July, 10:00 am – 31 July<br>
-**Admission:** Free (registration required) <br>
 **Organiser:** GreenScout
 
-GreenScout is a sustainable challenge app that makes it easy and fun to start on green habits. In July, GreenScout will launch special challenges to promote green practices including conserving water and electricity, reducing waste and increasing recycling, and supporting local businesses.
+GreenScout is a sustainable challenge app that makes it easy and fun to start on green habits. In July, GreenScout will launch special challenges to promote green practices including conserving water and electricity, reducing waste and increasing recycling, and supporting local businesses. <br>What are you waiting for! Register for an account and start your sustainability journey today!
 
 <a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSddeKOQdyZEEVxqw0vtWnzMRPowMFokyxTNjy9zzuaQntsOwQ/viewform">
 	<img src="/images/gogreensg_website-32.png">
