@@ -5,10 +5,10 @@ description: ""
 ---
 ![](/images/Tours/ofc_ft.jpg)
 
-**Need new date ideas or a family-friendly activity? Open Farm Community's farm-to-table weekend brunch is truly unforgettable and their ever-popular guided farm tours happen every second and fourth Saturday… come hungry!**
+**Need new date ideas or a family-friendly activity? Open Farm Community's farm-to-table weekend brunch is truly unforgettable and the ever-popular guided farm tours happen every second and fourth Saturday… come hungry!**
 
 **Date:** 8, 22 July, 10:30 am, 11:00 am, 11:30 am<br>
-**Admission:** $10<br>
+**Admission:** $10 (Farm tour only. Menu prices apply for ala carte weekend brunch)<br>
 **Venue:** Open Farm Community, 130E Minden Road<br>
 **Organiser:** Open Farm Community
 
