@@ -1,5 +1,5 @@
 ---
-title: All Aboard! SMG & Bus Depot Tour with Go Ahead Singapore
+title: All Aboard! Visit to Singapore Mobility Gallery and Loyang Bus Depot!
 permalink: /all-aboard-smg-bus-depot-tour-with-go-ahead-singapore/
 description: ""
 ---

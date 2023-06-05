@@ -7,7 +7,7 @@ description: ""
 
 **Say hi to the mighty Black Solider Fly! Come and learn how an insect so small is making big contributions to waste reduction by turning trash into treasure!**
 
-**Date:** 1, 8, 22 July 2023, 10:00 am – 11:30 am<br>
+**Date:** 1, 8, 15, 22, 29 July 2023, 10:00 am – 11:30 am<br>
 **Admission:** $28 <br>
 **Venue:** Sustainability @ Tampines Park <br>
 **Organiser:** Otolith Enrichment
