@@ -3,18 +3,19 @@ title: Co Nut Ink Ecosystem Program
 permalink: /co-nut-ink-ecosystem-program/
 description: ""
 ---
+![](/images/Workshop%20&amp;%20Talks/co%20nut%20ink.jpg)
+**Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach in Co+Nut+ink's Ecosystem Programme.**
+
+**Date:** 1-31 July, Weekdays, 09:30am – 06:30pm<br>
+**Admission:** $20 <br>
+**Venue:** Co-Nut-Ink Sentosa, 40 Siloso Beach Walk<br>
+**Organiser:** Co Nut Ink Pte Ltd
+
+This programme aims to raise awareness about the importance of sustainability through fun and interactive activities.
+Participants can unleash their creativity to paint and design coconut husks as part of the recycling activity. They will also be educated on the importance of fair trade, recycling and sustainability. At the end of the learning journey, participants will be treated to Co+Nut+ink's healthy and vegan coconut ice cream and water along the beach.
 
 
-**Say hi to the mighty Black Solider Fly! Come and learn how an insect so small is making big contributions to waste reduction by turning trash into treasure!**
-
-**Date:** 1, 8, 15, 22, 29 July 2023, 10:00 am – 11:30 am<br>
-**Admission:** $28 <br>
-**Venue:** Sustainability @ Tampines Park <br>
-**Organiser:** Otolith Enrichment
-
-Ever wondered how the Black Soldier Fly can help to reduce food waste? Join this interesting tour to learn about the various stages of the fly and its role in building a more sustainable future by turning trash into treasure. Participants will also get to try their hands in fertilising plants with Black Soldier Fly frass and feeding fish and quails with the larvae of the fly.
-
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/black-soldier-fly-bsf-eco-farm-tour-tickets-408427877777">
+<a class="btn-link" target="_blank" href="https://conutink.com/about-us/ecosystem/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
