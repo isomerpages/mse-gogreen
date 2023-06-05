@@ -14,11 +14,9 @@ description: ""
 
 Hop on board this exclusive tour to the Loyang Bus Depot for a look into the world of sustainable public transport with the Singapore Mobility Gallery and Go Ahead Singapore (GAS)!
 
-Witness firsthand how Singapore is greening its bus network with initiatives, such as the deployment of electric buses, recycling of old bus parts, and water conservation practices, as well as the use of solar energy to power our buses through the installation of solar panels on the roofs of our buses. 
+Witness firsthand how Singapore is greening its bus network with initiatives, such as the deployment of electric buses, recycling of old bus parts, and water conservation practices. Get a first-hand look at the use of solar energy to power our buses through the installation of solar panels on the roofs of our buses. GAS' friendly officers will also be on hand to show you around the training and workshop facilities for some insights into how they maintain and operate their bus fleets to serve commuters daily.
 
-Officers from GAS will also be on hand to show you around the Training Academy and workshop facilities to discover how they maintain and operate their bus fleets to serve commuters daily.
-
-This programme also includes a tour of the Singapore Mobility Gallery, so don’t miss this opportunity to discover what goes behind-the-scenes in making our land transport network run safely, reliably and efficiently for everyone!  
+This programme also includes a tour of the Singapore Mobility Gallery, so don’t miss this opportunity to discover what goes on behind-the-scenes in making our land transport network run safely, reliably and efficiently for everyone!  
 
 The tour is suitable for individuals, families, and groups who are interested in sustainable transport and want to learn more about how the land transport sector in Singapore is working towards a greener future.
 
