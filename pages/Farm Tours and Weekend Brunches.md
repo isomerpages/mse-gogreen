@@ -12,7 +12,7 @@ description: ""
 **Venue:** Open Farm Community, 130E Minden Road<br>
 **Organiser:** Open Farm Community
 
-Looking for different date ideas or a family-friendly activity? Join Open Farm Community on weekends for a farm-to-table brunch experience that's truly unforgettable. Participants can sign up for the brunch by clicking 'More info' at the bottom of this page. 
+Looking for different date ideas or a family-friendly activity? Join Open Farm Community on weekends for a farm-to-table brunch experience that's truly unforgettable. 
 
 At Open Farm Community, they believe that brunch is more than just a meal - it's a celebration of good food, good company, and good vibes. In addition, they have their popular guided farm tours, happening on every second and fourth Saturday, so come hungry! 
    
