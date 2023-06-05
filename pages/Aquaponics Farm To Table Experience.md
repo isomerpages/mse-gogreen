@@ -16,6 +16,9 @@ Launched in 2019, the industry’s first urban aquaponics farm at Fairmont Singa
 
 Through this curated experience, participants will learn about aquaponics farming and pick their own produce for a 3-course lunch at The Stamford Brasserie. There, they will also prepare their own vitality beverage using produce from the farm. &nbsp;At the end of the experience, participants will bring home a house-made souvenir made with our very own aquaponics produce at the end of the experience. Participants will also have the option to purchase fresh produce from the farm.
 
+<a class="btn-link" target="_blank" href="https://www.fairmont-singapore.com/offers/aquaponics-farm-to-table-experience">
+	<img src="/images/gogreensg_website-32.png">
+</a>
 
 
 <style>
