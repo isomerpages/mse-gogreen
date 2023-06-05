@@ -618,12 +618,12 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- Nature Appreciation Walk at Thompson Nature Park -->
+  <!-- Nature Appreciation Walk at Thomson Nature Park -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/nature%20appreciation%20walk%20at%20thompson%20nature%20park.jpg">
-        <h2>Nature Appreciation Walk at Thompson Nature Park</h2>
+        <h2>Nature Appreciation Walk at Thomson Nature Park</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -632,7 +632,7 @@ third_nav_title: Tours
             <strong>Admission: Free (registration required)</strong>
           </li>
           <li>
-            <strong>Venue: Thompson Nature Park</strong>
+            <strong>Venue: Thomson Nature Park</strong>
           </li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
@@ -645,7 +645,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-appreciation-walk-at-thompson-nature-park" class="button-primary">
+      <a href="/nature-appreciation-walk-at-thomson-nature-park" class="button-primary">
         Find out more
       </a>
     </div>
