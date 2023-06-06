@@ -12,9 +12,9 @@ description: ""
 **Venue:** South Beach Avenue<br>
 **Organiser:** City Sprouts
 
-Join us at the Sustainable · Pets · Arts "S.P.A." event at South Beach, where we celebrate the pets, arts, and sustainability all in one.&nbsp;&nbsp;In many of our daily routines, we often unknowingly contribute to environmental damage and landfills. The event focuses on Zero Waste Movement, which aims to minimize waste through the implementation of the 5 R's.
+Join City Sprouts at the Sustainable · Pets · Arts "S.P.A." event at South Beach, where they celebrate the pets, arts, and sustainability all in one. In many of our daily routines, we often unknowingly contribute to environmental damage and landfills. The event focuses on the Zero Waste Movement, which aims to minimise waste through the implementation of the 5 R's.
 
-At our event, we will showcase various lifestyle alternatives and pets product alternatives.&nbsp;&nbsp;Don't miss our Green Glam Up interactive workshop, where we promote eco-literacy regarding beauty waste and its impact on landfills. During the workshop, we will guide participants through the process of making their own body scrub and hair mask, using natural ingredients that are kind to both the skin and the environment.
+At this event, City Sprouts will showcase various lifestyle alternatives and pets product alternatives. Don't miss their Green Glam Up interactive workshop, where they promote eco-literacy regarding beauty waste and its impact on landfills. During the workshop, City Sprouts will guide participants through the process of making their own body scrub and hair mask, using natural ingredients that are kind to both the skin and the environment.
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/green-glam-up-gogreen">
 	<img src="/images/gogreensg_website-32.png">
