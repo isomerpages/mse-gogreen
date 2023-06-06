@@ -331,11 +331,42 @@ third_nav_title: Tours
       </a>
     </div>
   </div> 
+			  <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/parkroyal_tour.jpg">
+        <h2>Sustainable Hotel Building Tour and Afternoon Tea
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July, Tuesdays &amp; Fridays</strong>
+          </li>
+          <li><strong>Admission: $38++ to $78++</strong></li>
+          <li><strong>Venue: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+          <li><strong>Organiser: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainable-hotel-building-tour-and-afternoon-tea/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tupspot.png">
-        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+			        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
