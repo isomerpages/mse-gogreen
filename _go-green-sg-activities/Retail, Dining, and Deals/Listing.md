@@ -208,4 +208,35 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+			  <!-- Farm Tours and Weekend Brunches-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/ofc_ft.jpg">
+        <h2>Farm Tours and Weekend Brunches
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8, 22 July</strong>
+          </li>
+          <li><strong>Admission: $10</strong></li>
+          <li><strong>Venue: Open Farm Community, 130E Minden Road</strong></li>
+          <li><strong>Organiser: Open Farm Community</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Need new date ideas or a family-friendly activity? Open Farm Community's farm-to-table weekend brunch is truly unforgettable and the ever-popular guided farm tours happen every second and fourth Saturday… come hungry!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/farm-tours-and-weekend-brunches/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
