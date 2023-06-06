@@ -128,7 +128,7 @@ third_nav_title: Workshops & Talks
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/co%20nut%20ink.jpg">
-        <h2>Co Nut Ink Ecosystem Program
+        <h2>Co⁺Nut⁺ink Ecosystem Program
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -138,12 +138,12 @@ third_nav_title: Workshops & Talks
               Date: 1 - 31 July</strong>
           </li>
  <li><strong>Admission: $20</strong></li>
-          <li><strong>Venue: Co-Nut-Ink Sentosa, 40 Siloso Beach Walk</strong></li>
-          <li><strong>Organiser: Co Nut Ink Pte Ltd</strong></li>
+          <li><strong>Venue: Co⁺Nut⁺ink Sentosa, 40 Siloso Beach Walk</strong></li>
+          <li><strong>Organiser: Co⁺Nut⁺ink Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach in Co+Nut+ink's Ecosystem Programme.
+        <p>Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach in Co⁺Nut⁺ink's Ecosystem Programme.
         </p>
       </div>
     </div>
