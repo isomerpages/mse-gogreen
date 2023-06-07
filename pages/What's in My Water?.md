@@ -3,7 +3,7 @@ title: What's in My Water?
 permalink: /whats-in-my-water/
 description: ""
 ---
-![](/images/Tours/whats%20in%20my%20water.png)
+![](/images/Tours/(new)%20whats%20in%20my%20water.jpg)
 
 **Learn about the creatures and plants that live in and around the water edges of Sungei Buloh in this morning walk.**
 
