@@ -3,7 +3,7 @@ title: What's in My Mud?
 permalink: /whats-in-my-mud/
 description: ""
 ---
-![](/images/Tours/whats%20in%20my%20mud.png)
+![](/images/Tours/(new)%20whats%20in%20my%20mud.jpg)
 
 **Join this interesting guided walk featuring the lesser known creatures of the mudflats in Sungei Buloh.**
 
