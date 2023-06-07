@@ -16,6 +16,10 @@ description: ""
 
 ^^ what is $38 tour?
 
+^^ dates is not consistent with the rest of the events, should be 4, 7, 11, 14 etc July (to also fit into events listing)
+
+^^ don't need from 2pm, just 2pm will do
+
 
 Original version: 
 
