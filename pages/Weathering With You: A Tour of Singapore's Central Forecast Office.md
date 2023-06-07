@@ -9,7 +9,7 @@ description: ""
 
 **Ever wondered where your daily weather forecasts come from? Or curious about the work of a weather forecaster? Visit the Meteorological Service Singapore’s Central Forecast Office to find out more!**
 
-**Date:** 14, 28 July, 3:00 - 5:00 pm<br>
+**Date:** 14 July, 3:00 - 5:00 pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Changi Airport Terminal 2<br>
 **Organiser:** National Environment Agency
