@@ -7,6 +7,8 @@ description: ""
 
 **Join City Sprouts' workshop to upcycle plastic bottles into portable planters, saving money and reducing plastic waste. Get your hands dirty, take home a sustainable solution for growing plants, and nurture nature together!**
 
+**Amended: Learn how to upcycle plastic bottles into portable planters. Get your hands dirty, take home a sustainable solution for growing plants, and nurture nature together!**
+
 **Date:** 1, 2 July, 12:00 - 4:00 pm <br>
 **Admission:** Free<br>
 **Venue:** South Beach Avenue<br>
@@ -15,6 +17,15 @@ description: ""
 Gardening doesn't have to come at the expense of your wallet or contribute to additional plastic waste. Join City Sprouts' workshop and discover how easy it is to upcycle plastic bottles into portable planters. By repurposing materials, you can enjoy the benefits of gardening without harming the environment or spending extra money. Bring your recycled bottle, get your hands dirty, and take home a sustainable solution for growing seedlings and small plants. Let's nurture nature together!
 
 The workshop is free for the first 50 sign-ups.
+
+<hr>
+
+Amended version:
+
+Discover how easy it is to upcycle plastic bottles into portable planters. By repurposing materials, you enjoy the benefits of gardening without harming the environment or spending extra money. 
+
+Bring your recycled bottle, get your hands dirty, and take home a sustainable solution for growing seedlings and small plants. Let's nurture nature together.
+
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/self-watering-planter-gogreen">
 	<img src="/images/gogreensg_website-32.png">
