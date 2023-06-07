@@ -3,7 +3,7 @@ title: Mangrove Goodies
 permalink: /mangrove-goodies/
 description: ""
 ---
-![Mangrove Goodies](/images/Tours/mangrove%20goodies.png)
+![](/images/Tours/(new)%20mangrove%20goodies.jpg)
 
 **Learn about our relationship with mangroves with this guided walk. Discover how
 mangrove plants and animals are related to our everyday life – from food to
