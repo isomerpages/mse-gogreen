@@ -11,8 +11,10 @@ description: ""
 **Venue:** Co⁺Nut⁺Ink Sentosa, 40 Siloso Beach Walk<br>
 **Organiser:** Co⁺Nut⁺Ink Pte Ltd
 
-This programme aims to raise awareness about the importance of sustainability through fun and interactive activities.
-Participants can unleash their creativity to paint and design coconut husks as part of the recycling activity. They will also be educated on the importance of fair trade, recycling and sustainability. At the end of the learning journey, participants will be treated to Co⁺Nut⁺ink's healthy and vegan coconut ice cream and water along the beach.
+Co+Nut+ink advocates for an ecosystem where the next generation plays a pivotal role in saving our planet.<br>
+This is brought to life in our educational recycling programme, where participants will learn about the importance of sustainability through fun and interactive games, quiz to win, and various art and planting activities involving coconut husks. Participants will also learn about the health benefits of coconuts and the importance of fair trade and recycling.<br>
+At the end of the session, participants will also be treated to Co+Nut+ink’s healthy and vegan coconut ice cream and water along the beach, and bring home their curated husk with soil and plant.
+
 
 
 <a class="btn-link" target="_blank" href="https://conutink.com/about-us/ecosystem/">
