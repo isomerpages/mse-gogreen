@@ -3,9 +3,11 @@ title: Sustainable Hotel Building Tour and Afternoon Tea
 permalink: /sustainable-hotel-building-tour-and-afternoon-tea/
 description: ""
 ---
+<!--
+
 ![](/images/Tours/parkroyal_tour.jpg)
 
-**Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.**
+**Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the urban farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.**
 
 **Date:** 1 - 31 July, Tuesdays and Fridays, from 2:00 pm<br>
 **Admission:** $38 tour ++ for tour &amp; farm-to-bar mocktail | $78 tour++ for tour, farm-to-table afternoon tea &amp; farm-to-bar mocktail<br>
@@ -24,7 +26,7 @@ Don't miss out on this opportunity to discover how sustainability is practiced a
 
 
 
-<a class="btn-link" target="_blank" href="https://eshop-prsmb.panpacific.com/products/sustainably-yours-building-tour-parkroyal-collection-marina-bay-singapore">
+<a href="https://eshop-prsmb.panpacific.com/products/sustainably-yours-building-tour-parkroyal-collection-marina-bay-singapore" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -39,3 +41,5 @@ Don't miss out on this opportunity to discover how sustainability is practiced a
 		width: 100%;
 	}
 </style>
+
+-->
