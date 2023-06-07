@@ -7,7 +7,7 @@ description: ""
 
 **Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the urban farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.**
 
-**Don't miss out this opportunity to discover how sustainability is practiced in hospitality in this behind-the-scenes tour of the hotel's rooftop urban farm.**
+**Amended: Don't miss out this opportunity to discover how sustainability is practiced in hospitality in this behind-the-scenes tour of the hotel's rooftop urban farm.**
 
 **Date:** 1 - 31 July, Tuesdays and Fridays, from 2:00 pm<br>
 **Admission:** $38 tour ++ for tour &amp; farm-to-bar mocktail | $78 tour++ for tour, farm-to-table afternoon tea &amp; farm-to-bar mocktail<br>
@@ -57,4 +57,3 @@ After the tour, treat yourself to a farm-to-table Afternoon Tea at Portman’s B
 		width: 100%;
 	}
 </style>
-
