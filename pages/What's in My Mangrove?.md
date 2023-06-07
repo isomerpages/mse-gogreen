@@ -3,7 +3,7 @@ title: What's in My Mangrove?
 permalink: /whats-in-my-mangrove/
 description: ""
 ---
-![Whats in my mangrove](/images/Tours/whats%20in%20my%20mangrove.png)
+![](/images/Tours/(new)%20whats%20in%20my%20mangrove.jpg)
 
 **Participate in a guided walk of this unique mangrove wetlands, one of the last few in Singapore.**
 
