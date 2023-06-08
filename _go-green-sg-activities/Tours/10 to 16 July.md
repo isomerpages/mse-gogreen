@@ -132,7 +132,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1 - 31 July, Tuesdays &amp; Fridays</strong>
+              Date: 11, 14 July</strong>
           </li>
           <li><strong>Admission: $38++ to $78++</strong></li>
           <li><strong>Venue: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
