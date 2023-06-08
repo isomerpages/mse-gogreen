@@ -13,7 +13,7 @@ description: ""
 
 Co+Nut+ink advocates for an ecosystem where the next generation plays a pivotal role in saving our planet.
 
-This is brought to life in our educational recycling programme, where participants will learn about the importance of sustainability through fun and interactive games, quiz to win, and various art and planting activities involving coconut husks. Participants will also learn about the health benefits of coconuts and the importance of fair trade and recycling.
+This is brought to life in their educational recycling programme, where participants will learn about the importance of sustainability through fun and interactive games, quiz to win, and various art and planting activities involving coconut husks. Participants will also learn about the health benefits of coconuts and the importance of fair trade and recycling.
 
 At the end of the session, participants will also be treated to Co+Nut+ink’s healthy and vegan coconut ice cream and water along the beach, and bring home their curated husk with soil and plant.
 
