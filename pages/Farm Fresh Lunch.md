@@ -3,7 +3,7 @@ title: Farm Fresh Lunch
 permalink: /farm-fresh-lunch/
 description: ""
 ---
-![](/images/Tours/cs_ffl.jpg)
+![farm fresh lunch](/images/Tours/cs_ffl2.jpeg)
 
 **Harvest herbs, learn easy recipes and gain valuable culinary insights to ease the transition to a vegan diet.**
 
