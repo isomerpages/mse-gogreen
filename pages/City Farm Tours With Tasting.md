@@ -3,7 +3,7 @@ title: City Farm Tours With Tasting
 permalink: /city-farm-tours-with-tasting/
 description: ""
 ---
-![City Farm Tours](/images/Tours/cs_ffl.jpg)
+![city farm tour](/images/Tours/cs_cft_2.png)
 
 **Experience sustainable farming at this urban farm nestled in the Redhill estate. Learn about the benefits of aquaponics, hydroponics, composting, and biogas and take home a microgreen kit!**
 
