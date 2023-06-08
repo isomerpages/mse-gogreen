@@ -13,7 +13,7 @@ description: ""
 
 Metta Cafe offers opportunities to youths with special needs to learn vocational, work and life skills through its comprehensive training and development programmes.  
 
-In support of Go Green SG, the vegetarian cafe will offer a 10% discount for everyone with BYO (bring-your-own) bottle or container for takeaway purchases in July.
+In support of Go Green SG, the halal-certified vegetarian cafe will offer a 10% discount for everyone with BYO (bring-your-own) bottle or container for takeaway purchases in July.
 
 
 <a class="btn-link" target="_blank" href="mailto:mettacafe@metta.org.sg">
