@@ -157,7 +157,7 @@ third_nav_title: Workshops & Talks
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_kgg_2.png">
+        <img src="/images/Workshop%20&amp;%20Talks/cs_kkg_ln.png">
         <h2>Kids Go Green
 </h2>
       </div>
