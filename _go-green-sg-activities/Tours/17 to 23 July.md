@@ -446,7 +446,7 @@ third_nav_title: Tours
             <strong>
               Date: 22 July</strong>
           </li>
-          <li><strong>Admission: $10</strong></li>
+          <li><strong>Admission: $10 (Farm tour only. Menu prices apply for ala carte weekend brunch.)</strong></li>
           <li><strong>Venue: Open Farm Community</strong></li>
           <li><strong>Organiser: Open Farm Community</strong></li>
         </ul>
