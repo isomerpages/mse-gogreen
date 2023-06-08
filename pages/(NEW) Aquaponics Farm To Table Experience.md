@@ -12,9 +12,9 @@ description: ""
 **Venue:** Fairmont Singapore &amp; Swissôtel The Stamford<br>
 **Organiser:** RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissotel The Stamford
 
-Launched in 2019, the industry’s first urban aquaponics farm at Fairmont Singapore &amp; Swissôtel The Stamford was initiated to meet the rising demand among guest for fresh quality produce and to support Singapore’s goal of producing 30% of its nutritional needs locally by 2030. &nbsp;
+Launched in 2019, the hotel industry’s first urban aquaponics farm at Fairmont Singapore &amp; Swissôtel The Stamford aims to meet the rising demand among guest for fresh quality produce and to support Singapore’s goal of producing 30% of its nutritional needs locally by 2030.
 
-Through this curated experience, participants will learn about aquaponics farming and pick their own produce for a 3-course lunch at The Stamford Brasserie. There, they will also prepare their own vitality beverage using produce from the farm. &nbsp;At the end of the experience, participants will bring home a house-made souvenir made with our very own aquaponics produce at the end of the experience. Participants will also have the option to purchase fresh produce from the farm.
+Through this curated experience, participants will learn about aquaponics farming and pick their own produce for a 3-course lunch at The Stamford Brasserie. Participants will also prepare their own vitality beverage using produce from the farm. At the end of the experience, participants will bring home a house-made souvenir made with the hotel's aquaponics produce. Participants will also have the option to purchase fresh produce from the farm.
 
 <a class="btn-link" target="_blank" href="https://www.fairmont-singapore.com/offers/aquaponics-farm-to-table-experience">
 	<img src="/images/gogreensg_website-32.png">
