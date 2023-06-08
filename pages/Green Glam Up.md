@@ -3,13 +3,13 @@ title: Green Glam Up
 permalink: /green-glam-up/
 description: ""
 ---
-![](/images/Workshop%20&amp;%20Talks/cs_ggu.png)
+![Green Glam Up](/images/Workshop%20&amp;%20Talks/cs_ggu_2.png)
 
 **Join Green Glam Up workshop promoting eco-literacy on beauty waste. Create your own body scrub and hair mask using natural ingredients for a greener future and sustainable beauty practices.**
 
 **AMENDED:  Pick up tips on sustainable beauty practices as you create your own body scrub and hair mask using natural ingredients.**
 
-**Date:** 1, 2 July, 12:00 – 4:00 pm<br>
+**Date:** 1, 2 July, 12:30 - 1:00 pm, 1:30 - 2:00 pm, 2:30 - 3:00 pm, 3:30 - 4:00 pm<br>
 **Admission:** $12 <br>
 **Venue:** South Beach Avenue<br>
 **Organiser:** City Sprouts
