@@ -11,7 +11,7 @@ products, and even how they protect us.**
 
 **Date:** 22 July, 9:00 - 10:30 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way<br>
+**Venue:** Sungei Buloh Wetland Reserve Visitor Centre<br>
 **Organiser:** National Parks Board
 
 The mangrove habitat is not just important to the animals that it supports, but it is
