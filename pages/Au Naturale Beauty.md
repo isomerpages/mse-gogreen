@@ -3,7 +3,7 @@ title: Au Naturale Beauty
 permalink: /au-naturale-beauty/
 description: ""
 ---
-![](/images/Workshop%20&amp;%20Talks/cs_anb.png)
+![All Naturale Beauty](/images/Workshop%20&amp;%20Talks/cs_anb_2.png)
 
 **Learn to make your own DIY natural detergents and scrubs using common household waste and watch it beautify you and the earth! Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!**
 
