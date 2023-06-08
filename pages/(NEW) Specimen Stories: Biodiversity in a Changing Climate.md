@@ -7,8 +7,8 @@ description: ""
 
 **Explore the wonders of biodiversity through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.**
 
-**Date:** 1-31 July<br>
-**Admission:** Free (registration not required)<br>
+**Date:** 1 - 31 July<br>
+**Admission:** Free <br>
 **Venue:** The Fullerton Hotel’s East Garden Gallery<br>
 **Organiser:** The Fullerton Hotel Singapore
 
@@ -16,7 +16,7 @@ The Fullerton Hotel Singapore, in collaboration with Lee Kong Chian Natural Hist
 
 At the centre of the exhibition will be a life-sized replica of the skull of a sperm whale which was found in Singapore waters on 10 July 2015.  
 
-The exhibition will run from 1 July to 31 August 2023 at The Fullerton Hotel Singapore’s East Garden Gallery located at the lobby level. The exhibition is open to all and admission is free. 
+The exhibition will run from 1 July to 31 August at The Fullerton Hotel Singapore’s East Garden Gallery located at the lobby level. The exhibition is open to all. 
 
 
 <style>
