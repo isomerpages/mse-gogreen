@@ -6,7 +6,7 @@ description: ""
 ![](/images/Workshop%20&amp;%20Talks/co%20nut%20ink.jpg)
 **Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach**
 
-**Date:** 1-31 July, Weekdays, 9:30am – 6:30pm<br>
+**Date:** 1 - 31 July, weekdays, 9:30am – 6:30pm<br>
 **Admission:** $20 <br>
 **Venue:** Co⁺Nut⁺Ink Sentosa, 40 Siloso Beach Walk<br>
 **Organiser:** Co⁺Nut⁺Ink Pte Ltd
