@@ -16,7 +16,7 @@ This workshop will raise awareness of the importance of food waste reduction by 
 
 Each participant will be entitled to an ECO draw and one lucky winner will walk away with an Eco-Prize.
 
-<a class="btn-link" target="_blank" href="mailto:enzyme@metta.org.sg">
+<a class="btn-link" target="_blank" href="https://shop.metta.org.sg/collections/classes/products/orange-enzyme-cleaner-making-workshop-8th-july-11am-to-12-30pm">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
