@@ -18,7 +18,9 @@ This workshop will be a wonderful bonding activity for the whole family.
 
 Each participant will also be entitled to an ECO draw, and one lucky winner will walk away with an Eco-prize. 
 
-<a class="btn-link" target="_blank" href="mailto:ChanChen.oh@metta.org.sg">
+For enquiry, please contact chanchen.oh@metta.org.sg
+
+<a class="btn-link" target="_blank" href="https://shop.metta.org.sg/collections/classes/products/go-green-sg-public-workshops-registration-9am-to-10-30am">
 	<img src="/images/more-info-btn.png">
 </a>
 
