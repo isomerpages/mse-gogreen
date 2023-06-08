@@ -723,7 +723,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/cs_ffl.jpg">
+        <img src="/images/Tours/cs_ffl2.jpeg">
         <h2>Farm Fresh Lunch
 </h2>
       </div>
