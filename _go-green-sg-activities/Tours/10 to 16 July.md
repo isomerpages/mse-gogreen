@@ -692,7 +692,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/whats%20in%20my%20water.png">
+        <img src="/images/Tours/(listing)%20whats%20in%20my%20water.jpg">
         <h2>What's in My Water?
 </h2>
       </div>
