@@ -19,7 +19,7 @@ The SFIC Sustainability Summit aims to be a well-regarded event where sustainabl
 
 
 
-<a class="btn-link" target="_blank" href="https://forms.zohopublic.com/singaporefurnitureindustries/form/SFICSustainabilitySummit2023Registration/formperma/7LPWtfNKzg7qqNix53blTupnz85YT-8O2lMAThNmFz8">
+<a class="btn-link" target="_blank" href="https://sficevents.zohobackstage.com/SFICSustainabilitySummit">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
