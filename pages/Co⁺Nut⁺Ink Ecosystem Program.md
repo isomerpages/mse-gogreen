@@ -17,7 +17,6 @@ This is brought to life in our educational recycling programme, where participan
 
 At the end of the session, participants will also be treated to Co+Nut+ink’s healthy and vegan coconut ice cream and water along the beach, and bring home their curated husk with soil and plant.
 
-Note: doesnt look like a public event - more for school visits?
 
 <a class="btn-link" target="_blank" href="https://conutink.com/about-us/ecosystem/">
 	<img src="/images/gogreensg_website-32.png">
