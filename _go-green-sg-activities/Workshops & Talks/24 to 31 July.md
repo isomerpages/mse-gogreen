@@ -165,7 +165,7 @@ third_nav_title: Workshops & Talks
           <li>
             <strong>Date: 27 July</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Admission: $60 </strong></li>
           <li>
             <strong>Venue: TBC</strong>
           </li>
