@@ -212,7 +212,7 @@ third_nav_title: Retail, Dining, and Deals
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/ofc_ft.jpg">
+        <img src="/images/Tours/ofc_ft_2.jpg">
         <h2>Farm Tours and Weekend Brunches
 </h2>
       </div>
