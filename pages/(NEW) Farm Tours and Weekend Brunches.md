@@ -16,7 +16,7 @@ Looking for different date ideas or a family-friendly activity? Join Open Farm C
 
 During the guided farm tours, you will be led by in-house agriculture specialists and urban farmers Sidney and Faseha. Learn more about Open Farm Community’s sustainably homegrown produce, its origins and more.  
   
-Tingle your senses as you touch, smell and taste the local-grown vegetables and herbs harvested in front of you. Participants can sign up for an optional brunch in addition to the tour by clicking “More Info”.
+Tingle your senses as you touch, smell and taste the local-grown vegetables and herbs harvested in front of you. 
 
 
 <a class="btn-link" target="_blank" href="https://peatix.com/event/3466402/view">
