@@ -881,7 +881,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/mangrove%20goodies.png">
+        <img src="/images/Tours/(listing)%20mangrove%20goodies.jpg">
         <h2>Mangrove Goodies
 </h2>
       </div>
