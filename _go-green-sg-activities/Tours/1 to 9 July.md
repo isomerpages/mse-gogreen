@@ -518,7 +518,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/cs_cft_2.png">
+        <img src="/images/Tours/cs_cft_ln.png">
         <h2>City Farm Tours With Tasting
 </h2>
       </div>
