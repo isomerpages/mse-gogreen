@@ -3,7 +3,7 @@ title: (NEW) Farm Tours and Weekend Brunches
 permalink: /farm-tours-and-weekend-brunches/
 description: ""
 ---
-![](/images/Tours/ofc_ft.jpg)
+![Farm tours and weekend brunches](/images/Tours/ofc_ft_2.jpg)
 
 **Enjoy a unique farm-to-table experience and learn more about the food you eat and its origins. Come hungry!**
 
