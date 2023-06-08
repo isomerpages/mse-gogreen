@@ -447,13 +447,13 @@ third_nav_title: Tours
               Date: 22 July</strong>
           </li>
           <li><strong>Admission: $10</strong></li>
-          <li><strong>Venue: Open Farm Community, 130E Minden Road</strong></li>
+          <li><strong>Venue: Open Farm Community</strong></li>
           <li><strong>Organiser: Open Farm Community</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-      Need new date ideas or a family-friendly activity? Open Farm Community's farm-to-table weekend brunch is truly unforgettable and the ever-popular guided farm tours happen every second and fourth Saturday… come hungry!
+      Enjoy a unique farm-to-table experience and learn more about the food you eat and its origins. Come hungry!
         </p>
       </div>
     </div>
