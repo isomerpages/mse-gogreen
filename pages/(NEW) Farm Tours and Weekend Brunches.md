@@ -8,7 +8,7 @@ description: ""
 **Enjoy a unique farm-to-table experience and learn more about the food you eat and its origins. Come hungry!**
 
 **Date:** 8, 22 July, 10:30 am, 11:00 am, 11:30 am<br>
-**Admission:** $10 (Farm tour only. Menu prices apply for ala carte weekend brunch.)<br>
+**Admission:** $10 (Farm tour only. Menu prices apply for ala carte weekend brunch)<br>
 **Venue:** Open Farm Community<br>
 **Organiser:** Open Farm Community
 
@@ -18,10 +18,13 @@ During the guided farm tours, you will be led by in-house agriculture specialist
   
 Tingle your senses as you touch, smell and taste the local-grown vegetables and herbs harvested in front of you. 
 
+Book farm tour:
 
 <a class="btn-link" target="_blank" href="https://peatix.com/event/3466402/view">
 	<img src="/images/gogreensg_website-32.png">
 </a>
+
+More info on ala carte weekend brunch:
 
 <a class="btn-link" target="_blank" href="https://www.openfarmcommunity.com/reservations">
 	<img src="/images/more-info-btn.png">
