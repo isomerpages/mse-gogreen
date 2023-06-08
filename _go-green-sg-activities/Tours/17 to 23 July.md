@@ -850,7 +850,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/whats%20in%20my%20mud.png">
+        <img src="/images/Tours/(listing)%20whats%20in%20my%20mud.jpg">
         <h2>What's in My Mud?
 </h2>
       </div>
