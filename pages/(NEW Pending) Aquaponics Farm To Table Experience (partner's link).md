@@ -3,7 +3,7 @@ title: (NEW Pending) Aquaponics Farm To Table Experience (partner's link)
 permalink: /aquaponics-farm-to-table-experience/
 description: ""
 ---
-<!--
+
 ![](/images/Challenges%20&amp;%20Deals/fairmont_aquaponics.jpg)
 
 **Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.**
@@ -17,7 +17,7 @@ Launched in 2019, the hotel industry’s first urban aquaponics farm at Fairmont
 
 Through this curated experience, participants will learn about aquaponics farming and pick their own produce for a 3-course lunch at The Stamford Brasserie. Participants will also prepare their own vitality beverage using produce from the farm. At the end of the experience, participants will bring home a house-made souvenir made with the hotel's aquaponics produce. Participants will also have the option to purchase fresh produce from the farm.
 
-<a href="https://www.fairmont-singapore.com/offer/aquaponics-farm-to-table-experience/" target="_blank" class="btn-link">
+<a class="btn-link" target="_blank" href="https://www.fairmont-singapore.com/offer/aquaponics-farm-to-table-experience/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -33,5 +33,3 @@ Through this curated experience, participants will learn about aquaponics farmin
 		width: 100%;
 	}
 </style>
-
--->
