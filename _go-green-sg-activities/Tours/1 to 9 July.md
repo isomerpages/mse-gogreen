@@ -246,7 +246,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2><sup>FULLY BOOKED</sup>
+        <h2>Race on Sunshine – Discovering Solar Energy</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
