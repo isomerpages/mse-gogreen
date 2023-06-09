@@ -281,7 +281,7 @@ third_nav_title: Workshops & Talks
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="“/i-be-leaf-in-you/" class="button-primary">
+      <a href="/i-be-leaf-in-you/" class="button-primary">
         Find out more
       </a>
     </div>
