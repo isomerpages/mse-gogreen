@@ -255,4 +255,35 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+	<!--  I BeLeaf In You -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/i%20beleaf%20in%20you.jpg">
+        <h2>I BeLeaf In You
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: $10</strong></li>
+          <li><strong>Venue: 32 Simei Street 1, Metta Building, Level 2</strong></li>
+          <li><strong>Organiser:Metta Welfare Association</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Single-use plastics have resulted in the significant growth in waste. Bring your own plastic bottles and learn how to convert them into useful planters!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="“/i-be-leaf-in-you/&quot;" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
