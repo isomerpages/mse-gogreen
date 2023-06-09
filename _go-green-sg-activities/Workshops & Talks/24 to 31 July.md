@@ -212,7 +212,7 @@ third_nav_title: Workshops & Talks
       </div>
       <div class="programmes__item__body">
         <p>
-      Let your kids come and scour our urban farm and discover sustainable practices. Enjoy interactive upcycling activities and take part in a fun scavenger hunt.
+      Let your kids come and scour an urban farm and discover sustainable practices. Enjoy interactive upcycling activities and take part in a fun scavenger hunt.
         </p>
       </div>
     </div>
