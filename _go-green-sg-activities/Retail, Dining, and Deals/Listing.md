@@ -223,7 +223,7 @@ third_nav_title: Retail, Dining, and Deals
               Date: 8, 22 July</strong>
           </li>
           <li><strong>Admission: $10</strong></li>
-          <li><strong>Venue: Open Farm Community, 130E Minden Road</strong></li>
+          <li><strong>Venue: Open Farm Community</strong></li>
           <li><strong>Organiser: Open Farm Community</strong></li>
         </ul>
       </div>
