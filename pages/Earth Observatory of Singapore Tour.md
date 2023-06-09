@@ -8,7 +8,7 @@ description: ""
 **Learn more about Earth Observatory of Singapore's research and projects, and how they are tackling sustainability issues of the day.**
 
 
-**Date:** 4, 5 July, 3:00 - 5:00 pm <br>
+**Date:** 4 July, 3:00 - 5:00 pm (FULLY BOOKED) | 5 July, 3:00 - 5:00 pm <br>
 **Admission:** Free (registration required)<br>
 **Venue:** Earth Observatory of Singapore, 50 Nanyang Avenue<br>
 **Organiser:** Earth Observatory of Singapore
