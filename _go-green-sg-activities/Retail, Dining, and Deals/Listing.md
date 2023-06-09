@@ -120,7 +120,7 @@ third_nav_title: Retail, Dining, and Deals
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/question%20112%20-%20metta%20cafe.png">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20metta%20cafe.png">
         <h2>BYO and Enjoy Discounts For Takeaway Orders</h2>
       </div>
       <div class="programmes__item__detail">
