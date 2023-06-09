@@ -260,12 +260,12 @@ third_nav_title: Retail, Dining, and Deals
       </div>
       <div class="programmes__item__body">
         <p>
-      Need new date ideas or a family-friendly activity? Open Farm Community's farm-to-table weekend brunch is truly unforgettable and the ever-popular guided farm tours happen every second and fourth Saturday… come hungry!
+      Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/farm-tours-and-weekend-brunches/" class="button-primary">
+      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
         Find out more
       </a>
     </div>
