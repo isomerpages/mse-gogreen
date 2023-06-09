@@ -239,4 +239,35 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+			  <!-- Aquaponics Farm to Table Experience-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/fairmont_aquaponics.jpg">
+        <h2>Aquaponics Farm to Table Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 - 16 July, 11:00 am - 1:30 pm</strong>
+          </li>
+          <li><strong>Admission: $55++</strong></li>
+          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+          <li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Need new date ideas or a family-friendly activity? Open Farm Community's farm-to-table weekend brunch is truly unforgettable and the ever-popular guided farm tours happen every second and fourth Saturday… come hungry!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/farm-tours-and-weekend-brunches/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
