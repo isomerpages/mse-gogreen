@@ -34,6 +34,10 @@ third_nav_title: Tours
     color: #509b55;
   }
 
+	  .programmes__item__header > sup {
+    color: red;
+  }
+	
   .programmes__item__detail > ul {
     display: flex;
     flex-direction: column;
@@ -242,7 +246,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+        <h2>Race on Sunshine – Discovering Solar Energy</h2><sup>FULLY BOOKED</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
