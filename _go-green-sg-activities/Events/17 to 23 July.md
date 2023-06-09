@@ -145,7 +145,7 @@ third_nav_title: Events
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="“/sfic-sustainability-summit/&quot;" class="button-primary">
+      <a href="“/sfic-sustainability-summit/" class="button-primary">
         Find out more
       </a>
     </div>
