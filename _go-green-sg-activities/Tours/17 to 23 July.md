@@ -120,6 +120,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+			  <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/parkroyal_tour.jpg">
+        <h2>Sustainable Hotel Building Tour and Afternoon Tea
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 18, 21 July </strong>
+          </li>
+          <li><strong>Admission: $38++ to $78++</strong></li>
+          <li><strong>Venue: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+          <li><strong>Organiser: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainable-hotel-building-tour-and-afternoon-tea/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -343,7 +374,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/cs_ffl.jpg">
+        <img src="/images/Tours/cs_cft_ln.png">
         <h2>City Farm Tours With Tasting
 </h2>
       </div>
@@ -397,6 +428,37 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/tiger-brewery-tour-sustainability-edition/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <!-- Farm Tours and Weekend Brunches-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/ofc_ft_2.jpg">
+        <h2>Farm Tours and Weekend Brunches
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: $10 (Farm tour only. Menu prices apply for ala carte weekend brunch.)</strong></li>
+          <li><strong>Venue: Open Farm Community</strong></li>
+          <li><strong>Organiser: Open Farm Community</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Enjoy a unique farm-to-table experience and learn more about the food you eat and its origins. Come hungry!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/farm-tours-and-weekend-brunches/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -788,7 +850,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/whats%20in%20my%20mud.png">
+        <img src="/images/Tours/(listing)%20whats%20in%20my%20mud.jpg">
         <h2>What's in My Mud?
 </h2>
       </div>
@@ -819,7 +881,7 @@ third_nav_title: Tours
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/mangrove%20goodies.png">
+        <img src="/images/Tours/(listing)%20mangrove%20goodies.jpg">
         <h2>Mangrove Goodies
 </h2>
       </div>

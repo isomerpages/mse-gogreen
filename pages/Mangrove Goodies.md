@@ -3,7 +3,7 @@ title: Mangrove Goodies
 permalink: /mangrove-goodies/
 description: ""
 ---
-![Mangrove Goodies](/images/Tours/mangrove%20goodies.png)
+![](/images/Tours/(new)%20mangrove%20goodies.jpg)
 
 **Learn about our relationship with mangroves with this guided walk. Discover how
 mangrove plants and animals are related to our everyday life – from food to
@@ -11,7 +11,7 @@ products, and even how they protect us.**
 
 **Date:** 22 July, 9:00 - 10:30 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Sungei Buloh Wetland Reserve Visitor Centre. 60 Kranji Way<br>
+**Venue:** Sungei Buloh Wetland Reserve Visitor Centre<br>
 **Organiser:** National Parks Board
 
 The mangrove habitat is not just important to the animals that it supports, but it is

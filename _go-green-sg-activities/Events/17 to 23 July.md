@@ -88,6 +88,68 @@ third_nav_title: Events
 </style>
 
 <div class="row row_custom">
+			  <!-- Specimen Stories: Biodiversity in a Changing Climate-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/fullerton.png">
+        <h2>Specimen Stories: Biodiversity in a Changing Climate
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: The Fullerton Hotel’s East Garden Gallery</strong></li>
+          <li><strong>Organiser: The Fullerton Hotel Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Explore the wonders of biodiversity at The Fullerton Hotel through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/specimen-stories-biodiversity-in-a-changing-climate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!--  Singapore Furniture Industries Council Sustainability Summit -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sfic%2020%20jul%20event%204-3%20a.png">
+        <h2>Singapore Furniture Industries Council Sustainability Summit
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 20 July</strong>
+          </li>
+          <li><strong>Admission: $108</strong></li>
+          <li><strong>Venue: York Hotel</strong></li>
+          <li><strong>Organiser: Singapore Furniture Industries Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Explore the furniture and built environment industry’s unique challenges and opportunities in creating a sustainable future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sfic-sustainability-summit/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Sustainable Movie Night -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

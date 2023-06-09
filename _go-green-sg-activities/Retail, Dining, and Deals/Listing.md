@@ -120,7 +120,7 @@ third_nav_title: Retail, Dining, and Deals
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/question%20112%20-%20metta%20cafe.png">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20metta%20cafe.png">
         <h2>BYO and Enjoy Discounts For Takeaway Orders</h2>
       </div>
       <div class="programmes__item__detail">
@@ -173,6 +173,99 @@ third_nav_title: Retail, Dining, and Deals
     </div>
     <div class="programmes__item__actions">
       <a href="/unabiz-green-build-solutions/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	        <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
+      <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/parkroyal_tour.jpg">
+        <h2>Sustainable Hotel Building Tour and Afternoon Tea
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 4, 7, 11, 14, 18, 21, 25, 28 July</strong>
+          </li>
+          <li><strong>Admission: $38++ to $78++</strong></li>
+          <li><strong>Venue: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+          <li><strong>Organiser: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainable-hotel-building-tour-and-afternoon-tea/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <!-- Farm Tours and Weekend Brunches-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/ofc_ft_2.jpg">
+        <h2>Farm Tours and Weekend Brunches
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8, 22 July</strong>
+          </li>
+          <li><strong>Admission: $10</strong></li>
+          <li><strong>Venue: Open Farm Community</strong></li>
+          <li><strong>Organiser: Open Farm Community</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Enjoy a unique farm-to-table experience and learn more about the food you eat and its origins. Come hungry!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/farm-tours-and-weekend-brunches/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <!-- Aquaponics Farm to Table Experience-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/fairmont_aquaponics.jpg">
+        <h2>Aquaponics Farm to Table Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 - 16 July, 11:00 am - 1:30 pm</strong>
+          </li>
+          <li><strong>Admission: $55++</strong></li>
+          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+          <li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
         Find out more
       </a>
     </div>

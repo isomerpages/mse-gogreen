@@ -3,7 +3,7 @@ title: Track Your Carbon Footprint with BlockRadiance Sustainability Programme
 permalink: /track-your-carbon-footprint-with-blockradiance-sustainability-programme/
 description: ""
 ---
-![](/images/Challenges%20&amp;%20Deals/planetsustain-mse-highresolution.png)
+![](/images/Challenges%20&amp;%20Deals/planetsustain-mse-1920x1080-v1.jpg)
 
 **Kickstart sustainable habits with the PlanetSustain app. Track your carbon footprint and identify ways to reduce it by practising responsible consumption and reducing energy usage.**
 

@@ -3,9 +3,9 @@ title: Kids Go Green
 permalink: /kids-go-green/
 description: ""
 ---
-![Kids Go Green](/images/Workshop%20&amp;%20Talks/cs_kidsgogreen.jpg)
+![Kids Go Green](/images/Workshop%20&amp;%20Talks/cs_kgg_2.png)
 
-**Let your kids come and scour our urban farm and discover sustainable practices. Enjoy interactive upcycling activities and take part in a fun scavenger hunt.**
+**Let your kids come and scour an urban farm and discover sustainable practices. Enjoy interactive upcycling activities and take part in a fun scavenger hunt.**
 
 **Date:** 15, 29 July, 9:00 - 10:15 am<br>
 **Admission:** $22<br>

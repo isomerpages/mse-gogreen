@@ -128,7 +128,7 @@ third_nav_title: Workshops & Talks
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/co%20nut%20ink.jpg">
-        <h2>Co Nut Ink Ecosystem Program
+        <h2>Co⁺Nut⁺ink Ecosystem Program
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -138,12 +138,12 @@ third_nav_title: Workshops & Talks
               Date: 1 - 31 July</strong>
           </li>
  <li><strong>Admission: $20</strong></li>
-          <li><strong>Venue: Co-Nut-Ink Sentosa, 40 Siloso Beach Walk</strong></li>
-          <li><strong>Organiser: Co Nut Ink Pte Ltd</strong></li>
+          <li><strong>Venue: Co⁺Nut⁺ink Sentosa, 40 Siloso Beach Walk</strong></li>
+          <li><strong>Organiser: Co⁺Nut⁺ink Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach in Co+Nut+ink's Ecosystem Programme.
+        <p>Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach in Co⁺Nut⁺ink's Ecosystem Programme.
         </p>
       </div>
     </div>
@@ -157,7 +157,7 @@ third_nav_title: Workshops & Talks
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_anb.png">
+        <img src="/images/Workshop%20&amp;%20Talks/cs_anb_ln2.png">
         <h2>Au Naturale Beauty
 </h2>
       </div>
@@ -174,7 +174,7 @@ third_nav_title: Workshops & Talks
       </div>
       <div class="programmes__item__body">
         <p>
-       Learn to make your own DIY natural detergents and scrubs using common household waste and watch it beautify you and the earth! Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!
+       Learn to make your own DIY natural detergents and scrubs using common household waste and watch it beautify you and the earth. Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!
         </p>
       </div>
     </div>
@@ -251,6 +251,37 @@ third_nav_title: Workshops & Talks
     </div>
     <div class="programmes__item__actions">
       <a href="/roasting-coffee-not-the-earth" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!--  I BeLeaf In You -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/i%20beleaf%20in%20you.jpg">
+        <h2>I BeLeaf In You
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: $10</strong></li>
+          <li><strong>Venue: 32 Simei Street 1, Metta Building, Level 2</strong></li>
+          <li><strong>Organiser:Metta Welfare Association</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Single-use plastics have resulted in the significant growth in waste. Bring your own plastic bottles and learn how to convert them into useful planters!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/i-be-leaf-in-you/" class="button-primary">
         Find out more
       </a>
     </div>
