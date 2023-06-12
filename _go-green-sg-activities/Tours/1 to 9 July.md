@@ -276,7 +276,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/mandai.jpg">
-        <h2>Building Wildlife-Friendly Spaces at Mandai</h2>
+				<h2>Building Wildlife-Friendly Spaces at Mandai</h2><sup>Fully Booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -488,7 +488,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/changi%20wrp_1920x1080.jpg">
-        <h2>Behind the Scenes Bus Tour of Changi Water Reclamation Plant</h2>
+        <h2>Behind the Scenes Bus Tour of Changi Water Reclamation Plant</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -717,7 +717,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/abraclean.jpg">
-        <h2>Journey into Glass Recycling with Abraclean</h2>
+				<h2>Journey into Glass Recycling with Abraclean</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>

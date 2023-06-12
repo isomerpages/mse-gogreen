@@ -187,4 +187,39 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
-</div>
+	
+<!-- Soil, Me and the Planet -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/question%20114%20-%20img_5528.jpg">
+        <h2>Soil, Me and the Planet</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: $60</strong></li>
+          <li>
+            <strong>Venue: Kampong Bahru</strong>
+          </li>
+          <li>
+            <strong>Organiser: Living Soil Asia</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Take part in this 2-hour hands-on indoor workshop to learn all you
+          need to know about soil, and its importance to the climate and human
+          communities!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/soil-me-and-the-planet/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div></div>

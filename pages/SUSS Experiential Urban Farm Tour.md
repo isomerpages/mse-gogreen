@@ -3,6 +3,7 @@ title: SUSS Experiential Urban Farm Tour
 permalink: /suss-experiential-urban-farm-tour/
 description: ""
 ---
+<!--
 ![](/images/Tours/question%20115%20-%20photo_6143256135273132917_y.jpg)
 
 **Did you know that SUSS has a rooftop ecosystem consisting of soil-based, hydroponic, and experimental aquaponic farming systems and even a bee garden? Join us for some fun, hands-on activities!**
@@ -16,7 +17,7 @@ SUSS and Nutrious Farms have set up a rooftop farm (SUSS Experiential Urban Farm
 
 For just a day this July, this farm will be open for all to visit and learn. Don’t miss this exclusive opportunity!
 
-<a class="btn-link" target="_blank" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
+<a href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -31,3 +32,4 @@ For just a day this July, this farm will be open for all to visit and learn. Don
 		width: 100%;
 	}
 </style>
+-->

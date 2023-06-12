@@ -7,7 +7,7 @@ description: ""
 
 **Contribute or take a reusable bag from the new Bounce Bag Point at Dawson Road and help reduce the use of plastic bags.**
 
-**Date:** TBC <br>
+**Date:** 20 July <br>
 **Venue:** 85 Dawson Road<br>
 **Organiser:** Tanjong Pagar Town Council 
 

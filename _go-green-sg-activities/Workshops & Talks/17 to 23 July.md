@@ -33,7 +33,11 @@ third_nav_title: Workshops & Talks
     font-weight: bold;
     color: #509b55;
   }
-
+	
+	.programmes__item__header > sup {
+    color: red;
+  }
+	
   .programmes__item__detail > ul {
     display: flex;
     flex-direction: column;
@@ -198,7 +202,7 @@ third_nav_title: Workshops & Talks
           </li>
           <li><strong>Admission: $60</strong></li>
           <li>
-            <strong>Venue: TBC</strong>
+            <strong>Venue: Kampong Bahru</strong>
           </li>
           <li>
             <strong>Organiser: Living Soil Asia</strong>
@@ -224,7 +228,7 @@ third_nav_title: Workshops & Talks
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/question%20111%20-%20go%20green%20sg%20-%20workshop%20publicity.png">
-        <h2>Upcycle Food Waste to Grow Your Own Vegetables</h2>
+				<h2>Upcycle Food Waste to Grow Your Own Vegetables</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -258,7 +262,7 @@ third_nav_title: Workshops & Talks
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/question%20111%20-%20bazaar.png">
+ <!--     <img src="/images/Workshop%20&amp;%20Talks/question%20111%20-%20bazaar.png">
         <h2>Food Sustainability and Urban Farming Workshop</h2>
       </div>
       <div class="programmes__item__detail">
@@ -284,10 +288,10 @@ third_nav_title: Workshops & Talks
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/food-sustainability-and-urban-farming-workshop" class="button-primary">
+      <a class="button-primary" href="/food-sustainability-and-urban-farming-workshop">
         Find out more
       </a>
     </div>
   </div>
-
-</div>
+-->
+</div></div></div></div>

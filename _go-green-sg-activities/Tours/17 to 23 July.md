@@ -33,7 +33,11 @@ third_nav_title: Tours
     font-weight: bold;
     color: #509b55;
   }
-
+		 
+	.programmes__item__header > sup {
+    color: red;
+  }
+	
   .programmes__item__detail > ul {
     display: flex;
     flex-direction: column;
@@ -155,7 +159,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/aq_station_1.jpg">
-        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2>
+        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -314,7 +318,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
         <h2>From Waste to Treasure: Exploring the World of E-Waste Recycling
-</h2>
+				</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -376,7 +380,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/cs_cft_ln.png">
         <h2>City Farm Tours With Tasting
-</h2>
+				</h2><sup> Fully booked (22 July)</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -556,7 +560,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/abraclean.jpg">
-        <h2>Journey into Glass Recycling with Abraclean</h2>
+        <h2>Journey into Glass Recycling with Abraclean</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -685,7 +689,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/nature%20appreciation%20walk%20at%20thompson%20nature%20park.jpg">
-        <h2>Nature Appreciation Walk at Thomson Nature Park</h2>
+        <h2>Nature Appreciation Walk at Thomson Nature Park</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -716,7 +720,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/question%20115%20-%20photo_6143256135273132917_y.jpg">
+   <!--     <img src="/images/Tours/question%20115%20-%20photo_6143256135273132917_y.jpg">
         <h2>SUSS Experiential Urban Farm Tour</h2>
       </div>
       <div class="programmes__item__detail">
@@ -739,14 +743,14 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/suss-experiential-urban-farm-tour/" class="button-primary">
+      <a class="button-primary" href="/suss-experiential-urban-farm-tour/">
         Find out more
-      </a>
-    </div>
-  </div>
+      </a> 
+    </div> 
+  </div> 
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
+      <div class="programmes__item__header"> -->
         <img src="/images/Tours/semakau%20landfill.jpg">
         <h2>Where Singapore’s Waste Goes: A tour of Semakau Landfill
 </h2>
@@ -779,10 +783,10 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/newater%20visitor%20centre_1920x1080.jpg">
-        <h2>
+        <h2> 
           Tour of NEWater
           Visitor Centre
-        </h2>
+        </h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
