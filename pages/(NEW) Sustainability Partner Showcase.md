@@ -12,7 +12,8 @@ description: ""
 **Venue:** Castlery Flagship, Liat Towers, 541 Orchard Rd<br>
 **Organiser:** Castlery
 
-Castlery will bring together local brands and artists passionate about Sustainability to showcase their products and services at the partnership space in the Orchard Flagship.  <br>
+Castlery will bring together local brands and artists passionate about Sustainability to showcase their products and services at the partnership space in the Orchard Flagship. 
+
 Come in-person to experience how we can adopt a more sustainable lifestyle and support our local Sustainability champions. 
 
 
