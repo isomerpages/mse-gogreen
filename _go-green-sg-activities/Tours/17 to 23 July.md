@@ -689,7 +689,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/nature%20appreciation%20walk%20at%20thompson%20nature%20park.jpg">
-        <h2>Nature Appreciation Walk at Thomson Nature Park</h2>
+        <h2>Nature Appreciation Walk at Thomson Nature Park</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
