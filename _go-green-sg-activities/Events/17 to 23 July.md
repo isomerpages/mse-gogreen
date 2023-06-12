@@ -215,8 +215,8 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
     </div>
     <div class="programmes__item__actions">
       <a class="button-primary" href="/agripreneur-incubation-programme-bazaar">
-        Find out more -->
+        Find out more 
       
     </div>
-  </div>
-</div></div>
+  </div> -->
+</div></div></div></div>
