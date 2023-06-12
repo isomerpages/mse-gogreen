@@ -783,10 +783,10 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/newater%20visitor%20centre_1920x1080.jpg">
-        <h2>
+        <h2> 
           Tour of NEWater
           Visitor Centre
-        </h2>
+        </h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
