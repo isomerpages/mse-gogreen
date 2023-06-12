@@ -34,6 +34,10 @@ third_nav_title: Tours
     color: #509b55;
   }
 
+ .programmes__item__header > sup {
+    color: red;
+  }
+	
   .programmes__item__detail > ul {
     display: flex;
     flex-direction: column;
@@ -247,7 +251,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/aq_station_1.jpg">
-        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2>
+        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -346,7 +350,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/alba%20treasure%20raw%20material-30.jpg">
         <h2>From Waste to Treasure: Exploring the World of E-Waste Recycling
-</h2>
+				</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -376,7 +380,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/weathering%20with%20you.png">
         <h2>Weathering With You: A Tour of Singapore's Central Forecast Office
-</h2>
+				</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -464,7 +468,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/abraclean.jpg">
-        <h2>Journey into Glass Recycling with Abraclean</h2>
+				<h2>Journey into Glass Recycling with Abraclean</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
