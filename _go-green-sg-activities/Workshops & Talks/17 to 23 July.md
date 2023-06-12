@@ -33,7 +33,11 @@ third_nav_title: Workshops & Talks
     font-weight: bold;
     color: #509b55;
   }
-
+	
+	.programmes__item__header > sup {
+    color: red;
+  }
+	
   .programmes__item__detail > ul {
     display: flex;
     flex-direction: column;
@@ -224,7 +228,7 @@ third_nav_title: Workshops & Talks
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/question%20111%20-%20go%20green%20sg%20-%20workshop%20publicity.png">
-        <h2>Upcycle Food Waste to Grow Your Own Vegetables</h2>
+				<h2>Upcycle Food Waste to Grow Your Own Vegetables</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
