@@ -198,7 +198,7 @@ third_nav_title: Workshops & Talks
           </li>
           <li><strong>Admission: $60</strong></li>
           <li>
-            <strong>Venue: TBC</strong>
+            <strong>Venue: Kampong Bahru</strong>
           </li>
           <li>
             <strong>Organiser: Living Soil Asia</strong>
