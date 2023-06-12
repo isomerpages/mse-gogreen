@@ -315,7 +315,7 @@ third_nav_title: Tours
         <h2>
           Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh
           Reservoir
-        </h2>
+        </h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
