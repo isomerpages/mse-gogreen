@@ -717,7 +717,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/abraclean.jpg">
-        <h2>Journey into Glass Recycling with Abraclean</h2>
+				<h2>Journey into Glass Recycling with Abraclean</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
