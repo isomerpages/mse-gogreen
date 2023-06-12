@@ -476,7 +476,7 @@ third_nav_title: Tours
         <h2>
          Tour of NEWater
           Visitor Centre
-        </h2>
+        </h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
