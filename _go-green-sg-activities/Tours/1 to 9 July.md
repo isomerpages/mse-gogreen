@@ -276,7 +276,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/mandai.jpg">
-        <h2>Building Wildlife-Friendly Spaces at Mandai</h2>
+				<h2>Building Wildlife-Friendly Spaces at Mandai</h2><sup>Fully Booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
