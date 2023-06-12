@@ -12,7 +12,7 @@ description: ""
 **Venue:** Castlery Flagship, Liat Towers, 541 Orchard Road  <br>
 **Organiser:** Castlery
 
-The Trade-in Programme is a new service that Castlery will pilot in July that allows customers to trade-in their used Castlery furniture for a discount towards future purchases. 
+The Trade-in Programme is a new service that Castlery will pilot in July. Customers can trade-in their used Castlery furniture for a discount towards future purchases. 
 
 The used Castlery products will be donated, upcycled or recycled with selected partners, to give them a second life that positively impacts the community and environment. 
 
