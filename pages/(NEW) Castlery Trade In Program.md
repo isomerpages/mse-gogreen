@@ -8,7 +8,7 @@ description: ""
 
 **Date:** 1 - 31 July<br>
 **Admission:** Free<br>
-**Venue:** Liat Towers 541 Orchard Road  <br>
+**Venue:** Castlry Flagship, Liat Towers, 541 Orchard Road  <br>
 **Organiser:** Castlery
 
 The Trade-in Programme is a new service that Castlery will pilot in July that allows customers to trade-in their used Castlery furniture for a discount towards future purchases. <br>
