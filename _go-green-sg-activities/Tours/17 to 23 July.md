@@ -716,7 +716,7 @@ third_nav_title: Tours
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/question%20115%20-%20photo_6143256135273132917_y.jpg">
+   <!--     <img src="/images/Tours/question%20115%20-%20photo_6143256135273132917_y.jpg">
         <h2>SUSS Experiential Urban Farm Tour</h2>
       </div>
       <div class="programmes__item__detail">
@@ -739,14 +739,14 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/suss-experiential-urban-farm-tour/" class="button-primary">
+      <a class="button-primary" href="/suss-experiential-urban-farm-tour/">
         Find out more
-      </a>
-    </div>
-  </div>
+      </a> 
+    </div> 
+  </div> 
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
+      <div class="programmes__item__header"> -->
         <img src="/images/Tours/semakau%20landfill.jpg">
         <h2>Where Singapore’s Waste Goes: A tour of Semakau Landfill
 </h2>
