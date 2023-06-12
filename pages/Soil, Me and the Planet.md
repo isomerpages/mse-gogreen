@@ -7,7 +7,7 @@ description: ""
 
 **Take part in this 2-hour hands-on indoor workshop to learn all  about soil, and its importance to the climate and human communities!**
 
-**Date:** 20, 27 July, 7:00 – 9:00 pm<br>
+**Date:** 15 July, 10:00am - 12:00pm | 20 July, 7:00 – 9:00 pm<br>
 **Admission:** $60<br>
 **Venue:** TBC<br>
 **Organiser:** Living Soil Asia
