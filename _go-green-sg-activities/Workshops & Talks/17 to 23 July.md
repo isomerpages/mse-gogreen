@@ -258,7 +258,7 @@ third_nav_title: Workshops & Talks
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/question%20111%20-%20bazaar.png">
+ <!--     <img src="/images/Workshop%20&amp;%20Talks/question%20111%20-%20bazaar.png">
         <h2>Food Sustainability and Urban Farming Workshop</h2>
       </div>
       <div class="programmes__item__detail">
@@ -284,10 +284,10 @@ third_nav_title: Workshops & Talks
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/food-sustainability-and-urban-farming-workshop" class="button-primary">
+      <a class="button-primary" href="/food-sustainability-and-urban-farming-workshop">
         Find out more
       </a>
     </div>
   </div>
-
-</div>
+-->
+</div></div></div></div>
