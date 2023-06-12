@@ -8,7 +8,7 @@ description: ""
 
 **Visit Castlery’s Orchard Flagship and explore the partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.**
 
-**Date:** 1 - 31 July onwards<br>
+**Date:** 1 - 31 July<br>
 **Venue:** Castlery Flagship, Liat Towers, 541 Orchard Rd<br>
 **Organiser:** Castlery
 
