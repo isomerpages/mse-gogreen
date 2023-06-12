@@ -376,7 +376,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/cs_cft_ln.png">
         <h2>City Farm Tours With Tasting
-</h2>
+				</h2><sup> Fully booked (22 July)</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
