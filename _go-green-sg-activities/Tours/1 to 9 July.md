@@ -574,7 +574,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          An immersive, privately-guided, multi-venue experiential tour into Singapore’s heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into something useful.
+          An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost. 
         </p>
       </div>
     </div>
