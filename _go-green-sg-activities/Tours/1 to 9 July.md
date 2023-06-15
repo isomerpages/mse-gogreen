@@ -401,7 +401,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/eos%20premises.jpg">
         <h2>Earth Observatory of Singapore Tour
-</h2>
+				</h2><sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
