@@ -243,7 +243,7 @@ third_nav_title: Retail, Dining, and Deals
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/rc_aquaponics_2.jpg">
+        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
         <h2>Aquaponics Farm to Table Experience
 </h2>
       </div>

@@ -7,7 +7,7 @@ description: ""
 
 **Explore the wonders of biodiversity through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.**
 
-**Date:** 1 - 31 July<br>
+**Date:** 1 July - 31 August<br>
 **Admission:** Free <br>
 **Venue:** The Fullerton Hotel’s East Garden Gallery<br>
 **Organiser:** The Fullerton Hotel Singapore

@@ -401,7 +401,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/eos%20premises.jpg">
         <h2>Earth Observatory of Singapore Tour
-</h2>
+				</h2><sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -574,7 +574,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          An immersive, privately-guided, multi-venue experiential tour into Singapore’s heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into something useful.
+          An immersive, privately-guided, multi-venue experiential tour into Singapore’s the heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost. 
         </p>
       </div>
     </div>

@@ -100,7 +100,7 @@ third_nav_title: Events
         <ul>
           <li>
             <strong>
-              Date: 1 - 31 July</strong>
+              Date: 1 July - 31 August</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
           <li><strong>Venue: The Fullerton Hotel’s East Garden Gallery</strong></li>
