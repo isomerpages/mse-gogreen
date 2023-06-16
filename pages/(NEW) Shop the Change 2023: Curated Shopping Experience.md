@@ -3,6 +3,7 @@ title: "(NEW) Shop the Change 2023: Curated Shopping Experience"
 permalink: /shop-the-change-2023/
 description: ""
 ---
+<!--
 ![](/images/Challenges%20&amp;%20Deals/sfc_shopthechange.jpg)
 
 **Shop the Change with Design Orchard this Sustainability Season with a unique, curated collection of sustainable and eco-conscious products made by local brands.**
@@ -16,7 +17,7 @@ Shop the Change with Design Orchard this Sustainability Season with a curated co
 
 Shop the Change will be available from 3 July to 10 August.
 
-<a class="btn-link" target="_blank" href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html">
+<a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html" target="_blank" class="btn-link">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -31,4 +32,4 @@ Shop the Change will be available from 3 July to 10 August.
 	.btn-link > img {
 		width: 100%;
 	}
-</style>
+</style>-->
