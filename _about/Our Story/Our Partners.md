@@ -38,6 +38,14 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	.bp-accordion-header:has(> .bp-accordion-button.sgds-icon-minus)  {
 	background-color: red;
 	}
+	
+	.bp-accordion-header:has(> .bp-accordion-button.sgds-icon-minus) + .bp-accordion-body {
+	display: block;
+	}
+	
+	.bp-accordion-header:has(> .bp-accordion-button.sgds-icon-plus) + .bp-accordion-body {
+	display: none;
+	}
 </style>
  
 <div id="accordionExample" class="accordion-container">
