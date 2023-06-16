@@ -88,39 +88,39 @@ third_nav_title: Initiatives
 </style>
 
 <div class="row row_custom">
-  <!-- Community Composting Volunteer Programme @ JLG -->
+	<!-- Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Initiatives/community%20composting%20volunteer%20programme.jpg">
-        <h2>Community Composting Volunteer Programme @ Jurong Lake Gardens</h2>
+        <img src="/images/Initiatives/photo_2023-03-25_18-42-41.jpg">
+        <h2>
+          Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food
+        </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Admission: Free (registration required)</strong>
+            <strong>Date: 1 - 31 July</strong>
           </li>
-          <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
-          </li>
-          <li><strong>Organiser: National Parks Board</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Various locations</strong></li>
+          <li><strong>Organiser: Divert for 2nd Life (D2L.sg)</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Join us at the Community Compost Corner at Jurong Lake Gardens and
-          help to create compost from food scraps and plant trimmings.
+          Volunteer to reduce food wastage with D2L.sg! Rescue unwanted food and
+          redistribute them to contribute towards a Zero-Waste Singapore!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/community-composting-volunteer-programme-jurong-lake-gardens" class="button-primary">
+      <a href="/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
-  <!-- Edible Gardening and Management @ Jurong Lake Gardens -->
+	<!-- Edible Gardening and Management @ Jurong Lake Gardens -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -151,34 +151,34 @@ third_nav_title: Initiatives
       </a>
     </div>
   </div>
-  <!-- Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food -->
+  <!-- Community Composting Volunteer Programme @ JLG -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Initiatives/photo_2023-03-25_18-42-41.jpg">
-        <h2>
-          Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food
-        </h2>
+        <img src="/images/Initiatives/community%20composting%20volunteer%20programme.jpg">
+        <h2>Community Composting Volunteer Programme @ Jurong Lake Gardens</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
+          <li><strong>Date: 8 July</strong></li>
           <li>
-            <strong>Date: 1 - 31 July</strong>
+            <strong>Admission: Free (registration required)</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Various locations</strong></li>
-          <li><strong>Organiser: Divert for 2nd Life (D2L.sg)</strong></li>
+          <li>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Volunteer to reduce food wastage with D2L.sg! Rescue unwanted food and
-          redistribute them to contribute towards a Zero-Waste Singapore!
+          Join us at the Community Compost Corner at Jurong Lake Gardens and
+          help to create compost from food scraps and plant trimmings.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food" class="button-primary">
+      <a href="/community-composting-volunteer-programme-jurong-lake-gardens" class="button-primary">
         Find out more
       </a>
     </div>
