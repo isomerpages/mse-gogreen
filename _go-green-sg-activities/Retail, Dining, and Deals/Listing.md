@@ -271,3 +271,11 @@ third_nav_title: Retail, Dining, and Deals
     </div>
   </div>
 </div>
+
+<div class="row row_custom">
+  <!-- Shop the Change 2023: Curated Shopping Experience -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="![](/images/Challenges%20&amp;%20Deals/sfc_shopthechange.jpg)">
+        <h2>Shop the Change 2023: Curated Shopping Experience</h2></div></div></div></div>
