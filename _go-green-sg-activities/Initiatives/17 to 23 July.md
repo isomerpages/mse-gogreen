@@ -152,7 +152,35 @@ third_nav_title: Initiatives
       </a>
     </div>
   </div>
-  <!-- Community Composting Volunteer Programme @ JLG -->
+    <!-- Launch of Bounce Bag Point at 85 Dawson Road -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/question%20114%20-%204.jpg">
+        <h2>Launch of Bounce Bag Point at 85 Dawson Road</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 20 July</strong></li>
+          <li><strong>Admission: N/A</strong></li>
+          <li><strong>Venue: 85 Dawson Road</strong></li>
+          <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join us for the launch of the Bounce Bag Point at Dawson Road!
+          Contribute or take a reusable bag from this Bounce Bag Point before
+          shopping.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/launch-of-bounce-bag-point-at-85-dawson-road" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div><!-- Community Composting Volunteer Programme @ JLG -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -183,35 +211,4 @@ third_nav_title: Initiatives
         Find out more
       </a>
     </div>
-  </div>
-  
-  <!-- Launch of Bounce Bag Point at 85 Dawson Road -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Initiatives/question%20114%20-%204.jpg">
-        <h2>Launch of Bounce Bag Point at 85 Dawson Road</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: TBC</strong></li>
-          <li><strong>Admission: N/A</strong></li>
-          <li><strong>Venue: 85 Dawson Road</strong></li>
-          <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Join us for the launch of the Bounce Bag Point at Dawson Road!
-          Contribute or take a reusable bag from this Bounce Bag Point before
-          shopping.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/launch-of-bounce-bag-point-at-85-dawson-road" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-</div>
+  </div></div>
