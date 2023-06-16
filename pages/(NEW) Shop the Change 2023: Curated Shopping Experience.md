@@ -17,7 +17,7 @@ Shop the Change with Design Orchard this Sustainability Season with a curated co
 
 Shop the Change will be available from 3 July to 10 August.
 
-<a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html" target="_blank" class="btn-link">
+<a 
 	<img src="/images/more-info-btn.png">
 </a>
 
