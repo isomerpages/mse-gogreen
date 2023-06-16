@@ -218,7 +218,7 @@ third_nav_title: Tours
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/gbtb_urbanwetlands.jpg">
+        <img src="/images/Tours/gbtb_carbonclimatetour.png">
         <h2>Nature and Sustainability Tour: Carbon and Climate</h2>
       </div>
       <div class="programmes__item__detail">
@@ -240,7 +240,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tour-urban-wetlands/" class="button-primary">
+      <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
         Find out more
       </a>
     </div>
