@@ -152,6 +152,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	 <!-- Sentosights: Immersive Rainforest Trails -->
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosa_immersiverainforest.jpg">
+        <h2>Sentosights: Immersive Rainforest Trails</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 2, 8, 9 July
+            </strong>
+          </li>
+          <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Explore the lush rainforest ecosystem in Sentosa which hosts a rich array of unique native flora and fauna. Learn more about the often-overlooked flowers and plants of Sentosa’s forest.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-sustainability-tour-biodiversity-and-ecosystems/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!--Nature and Sustinability Tour: Biodiversity and Ecosystems -->
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
