@@ -12,9 +12,10 @@ description: ""
 **Venue:** Design Orchard <br>
 **Organiser:** Singapore Fashion Council
 
-Shop the Change with Design Orchard this Sustainability Season with a curated collection of sustainable and eco-conscious products made by local brands. A unique and curated shopping experience awaits tourists and locals alike with a showcase of local fashion industry's efforts towards sustainable fashion.&nbsp;
+Shop the Change with Design Orchard this Sustainability Season with a curated collection of sustainable and eco-conscious products made by local brands. 
 
-Shop the Change will be available from 3 July to 10 August.
+A unique and curated shopping experience awaits tourists and locals alike with a showcase of local fashion industry's efforts towards sustainable fashion.
+
 
 <style>
 	.btn-link {
@@ -27,4 +28,3 @@ Shop the Change will be available from 3 July to 10 August.
 		width: 100%;
 	}
 </style>
-
