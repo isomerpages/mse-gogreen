@@ -309,7 +309,7 @@ third_nav_title: Retail, Dining, and Deals
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/vintagewknd.png">
-        <h2>Vintagewknd Pop-up "WASTE-GATE"
+        <h2>Vintagewknd Pop-Up "WASTE-GATE"
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -318,16 +318,15 @@ third_nav_title: Retail, Dining, and Deals
             <strong>
               Date: 1, 2, 24 - 31 July, 12:00 - 9:00 pm</strong>
           </li>
-          <li><strong>Admission: $Free</strong></li>
+          <li><strong>Admission: Free</strong></li>
           <li><strong>Venue: Orchard Gateway</strong></li>
           <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-      Head down to Vintagewknd's pop-up "WASTE-GATE" at Orchard Gateway featuring vintage and upcycled waste materials!
-        </p>
-      </div>
+      Explore waste as fashion at this special pop-up featuring vintage and upcycled waste materials.
+      </p></div>
     </div>
     <div class="programmes__item__actions">
       <a href="/vintagewknd-pop-up-waste-gate/" class="button-primary">
