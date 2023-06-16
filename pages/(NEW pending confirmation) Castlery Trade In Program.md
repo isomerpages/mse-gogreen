@@ -16,9 +16,7 @@ The Trade-in Programme is a new service that Castlery will pilot in July. Custom
 
 The used Castlery products will be donated, upcycled or recycled with selected partners, to give them a second life that positively impacts the community and environment. 
 
-<a class="btn-link" target="_blank" href="https://www.castlery.com/sg/trade-in">
-	<img src="/images/more-info-btn.png">
-</a>
+
 
 <style>
 	.btn-link {
