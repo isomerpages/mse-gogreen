@@ -3,7 +3,6 @@ title: (NEW pending amendment to logo) Green Glam Up
 permalink: /green-glam-up/
 description: ""
 ---
-<!--
 ![Green Glam Up](/images/Workshop%20&amp;%20Talks/cs_ggu_2.png)
 
 **Pick up tips on sustainable beauty practices as you create your own body scrub and hair mask using natural ingredients.**
@@ -17,7 +16,7 @@ Beauty products generate vast amounts of plastic waste.
 
 In this interactive workshop, participants will be guided to make their own body scrub and hair mask, using natural ingredients that are kind to both the skin and the environment.
 
-<a href="https://citysprouts.com.sg/products/green-glam-up-gogreen" target="_blank" class="btn-link">
+<a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/green-glam-up-gogreen">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -32,5 +31,3 @@ In this interactive workshop, participants will be guided to make their own body
 		width: 100%;
 	}
 </style>
-
--->
