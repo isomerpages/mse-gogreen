@@ -681,7 +681,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.
+          Go on a journey of diverse habitats from around the world as you learn about the importance and interconnectedness of the natural environment and biodiversity.
         </p>
       </div>
     </div>
@@ -712,7 +712,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-         Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.
+        Discover the secrets of how Singapore’s beloved tourist attraction cuts down on its carbon emissions.
         </p>
       </div>
     </div>
@@ -743,7 +743,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.
+          Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.
         </p>
       </div>
     </div>
