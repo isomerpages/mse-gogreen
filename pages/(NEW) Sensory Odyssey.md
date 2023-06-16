@@ -18,7 +18,7 @@ From the salt lakes of the savannah to the Arctic Circle, from the rainforest ca
 
 This one-of-a-kind exhibition presents strikingly real, high-definition videos filmed at different locations around the planet. Specially designed scents and sound effects bring you closer to the living world.
 
-Participants will develop a deeper understanding of the living world and strive to be good stewards of the Earth. Organised by ArtScience Museum and BASE Entertainment Asia, this exhibition was created by Sensory Odyssey Studio in collaboration with the French National Museum of Natural History in Paris. The 2023 Asian premiere of this exhibition at ArtScience Museum marks the first stop on it's global tour.
+Organised by ArtScience Museum and BASE Entertainment Asia, this exhibition was created by Sensory Odyssey Studio in collaboration with the French National Museum of Natural History in Paris. The 2023 Asian premiere of this exhibition at ArtScience Museum marks the first stop of it's global tour.
 
 <a class="btn-link" target="_blank" href="https://marinabaysands.com/museum/exhibitions/sensory-odyssey.html">
 	<img src="/images/gogreensg_website-32.png">
