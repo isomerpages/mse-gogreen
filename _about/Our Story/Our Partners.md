@@ -46,7 +46,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
             </a>
         </h2>
         <div data-bs-parent="#accordionExample" aria-labelledby="headingOne" class="accordion-collapse collapse show" id="collapseOne">
-            <div data-bs-parent="#accordionExample" style="display: block" class="bp-accordion-body">
+            <div data-bp-parent="#accordionExample" data-bs-parent="#accordionExample" style="display: block" class="bp-accordion-body">
                 <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse
                 plugin adds the appropriate classes that we use to style each element. These classes control the overall
                 appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
@@ -60,7 +60,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 					<a class="bp-accordion-button">Accordion Item #2</a>
         </h2>
         <div data-bs-parent="#accordionExample" aria-labelledby="headingTwo" class="accordion-collapse collapse" id="collapseTwo">
-            <div data-bs-parent="#accordionExample" class="bp-accordion-body">
+            <div data-bp-parent="#accordionExample" data-bs-parent="#accordionExample" class="bp-accordion-body">
                 <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse
                 plugin adds the appropriate classes that we use to style each element. These classes control the overall
                 appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
