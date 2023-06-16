@@ -108,7 +108,7 @@ third_nav_title: Workshops & Talks
           <li>
             <strong>Venue: South Beach Avenue</strong>
           </li>
-          <li><strong>Organiser: GINLEE Studio</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
