@@ -17,6 +17,10 @@ Shop the Change with Design Orchard this Sustainability Season with a curated co
 
 Shop the Change will be available from 3 July to 10 August.
 
+<a href="https://www.castlery.com/sg/trade-in" target="_blank" class="btn-link">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
 <style>
 	.btn-link {
 		display: inline-block;
