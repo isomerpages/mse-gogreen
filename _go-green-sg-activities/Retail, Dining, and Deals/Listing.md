@@ -304,7 +304,6 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
-</div>
       <!-- Vintagewknd Pop-up "WASTE-GATE"-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -335,4 +334,4 @@ third_nav_title: Retail, Dining, and Deals
         Find out more
       </a>
     </div>
-  </div>
+  </div></div>
