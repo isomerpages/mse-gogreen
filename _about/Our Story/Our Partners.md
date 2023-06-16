@@ -9,6 +9,11 @@ third_nav_title: Our Story
 Go Green SG would like to thank all our partners who have been instrumental in supporting us. We look forward to seeing you next year!
 
 ## A big thank you to:
+<style>
+		.bp-accordion-header {
+			background-color: transparent;
+	}
+</style>
  
 <div id="accordionExample" class="accordion-container">
     <div class="accordion">
@@ -29,9 +34,10 @@ Go Green SG would like to thank all our partners who have been instrumental in s
     </div>
     <div class="accordion">
         <h2 id="headingTwo" class="bp-accordion-header">
-            <button aria-controls="collapseTwo" aria-expanded="false" data-bs-target="#collapseTwo" data-bs-toggle="collapse" type="button" class="bp-accordion-button collapsed">
+            <!-- <button class="bp-accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                 Accordion Item #2
-            </button>
+            </button> -->
+					<a class="bp-accordion-button">Accordion Item #2</a>
         </h2>
         <div data-bs-parent="#accordionExample" aria-labelledby="headingTwo" class="accordion-collapse collapse" id="collapseTwo">
             <div class="bp-accordion-body">
