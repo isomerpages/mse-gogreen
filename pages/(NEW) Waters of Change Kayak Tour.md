@@ -12,9 +12,9 @@ description: ""
 **Venue:** PAssion Wave @ Marina Bay<br>
 **Organiser:** Indie Singapore Tours LLP
 
-PAssion WaVe and Indie Singapore present "History Wanderers", a special edition of their kayaking tour. &nbsp;This tour will not only be a feast for the eyes but also an educational journey through Singapore's water sustainability story. 
+PAssion WaVe and Indie Singapore present "History Wanderers", a special edition of their kayaking tour. This tour will not only be a feast for the eyes but also an educational journey through Singapore's water sustainability story. 
 
-On this kayaking tour, you will get to witness the beauty of Marina Bay firsthand. Learn how Singapore &nbsp;progressed from needing to ration water to becoming increasingly self-sufficient through the four national taps. See Singapore from a new angle and appreciate the comprehensive policies and the engineering marvels that ensure our water security.
+On this kayaking tour, you will get to witness the beauty of Marina Bay firsthand. Learn how Singapore progressed from needing to ration water to becoming increasingly self-sufficient through the four national taps. See Singapore from a new angle and appreciate the comprehensive policies and the engineering marvels that ensure our water security.
 
 <a class="btn-link" target="_blank" href="https://linktr.ee/mybayexperience">
 	<img src="/images/gogreensg_website-32.png">
