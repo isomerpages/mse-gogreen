@@ -10,7 +10,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 
 ## A big thank you to:
  
-<div id="accordionExample" class="sgds accordion-container">
+<div id="accordionExample" class="accordion-container">
     <div class="accordion">
         <h2 id="headingOne" class="bp-accordion-header">
             <button aria-controls="collapseOne" aria-expanded="true" data-bs-target="#collapseOne" data-bs-toggle="collapse" type="button" class="bp-accordion-button">
