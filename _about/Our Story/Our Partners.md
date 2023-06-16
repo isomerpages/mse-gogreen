@@ -27,15 +27,15 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	}
 	
 	.bp-accordion-button::before {
-		content: """";
+		content: """";
 	}
 	
 	.bp-accordion-button.sgds-icon-plus {
-		content: """";
+		content: """";
 	}
 	
 	.bp-accordion-button.sgds-icon-minus {
-		content: """";
+		content: """";
 	}
 </style>
  
