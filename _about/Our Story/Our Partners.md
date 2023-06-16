@@ -13,6 +13,10 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 		.bp-accordion-header {
 			background-color: transparent;
 	}
+	.bp-accordion-button {
+		display: flex;
+		width: 100%;
+	}
 </style>
  
 <div id="accordionExample" class="accordion-container">
