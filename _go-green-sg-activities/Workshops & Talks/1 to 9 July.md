@@ -123,11 +123,11 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
-	  <!-- Green Glam Up -->
+	  <!-- Self-Watering Planter Workshop -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_swp.png">
+        <img src="/images/Workshop%20&amp;%20Talks/cs_swp_l.png">
         <h2>Self-Watering Planter Workshop</h2>
       </div>
       <div class="programmes__item__detail">
