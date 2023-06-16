@@ -994,7 +994,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/smg%20bus%20depot%20tour%20with%20go%20ahead%20singapore.jpg">
-        <h2>All Aboard! Visit to Singapore Mobility Gallery and Loyang Bus Depot!</h2>
+        <h2>All Aboard! Visit to Singapore Mobility Gallery and Loyang Bus Depot!</h2> <sup> Fully booked </sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
