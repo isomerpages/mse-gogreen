@@ -846,4 +846,36 @@ third_nav_title: Tours
         Find out more
       </a>
     </div>
-  </div></div>
+  </div>
+		<!-- Waters of Change Kayak Tour-->
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/indie_kayak.jpg">
+        <h2>Waters of Change Kayak Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16 July
+            </strong>
+          </li>
+          <li><strong>$60 - $75</strong></li>
+          <li><strong>Venue: PAssion Wave @ Marina Bay</strong></li>
+          <li><strong>Organiser: Indie Singapore Tours LLP</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Discover Singapore's water sustainability story as you kayak. Immerse yourself in Marina Bay's breathtaking skyline, witnessing Singapore’s journey from water rationing to self-sufficiency.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+</div>
