@@ -17,7 +17,7 @@ In collaboration with internationally renowned recycling artist Thomas Dambo, Se
 With the help of an interactive online map, follow the trail of Eternity Flowers along the beachscape to find all the Explorers. Discover how to make Sustainable Sentosa a reality through this quest.
 
 <a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/explorers-of-sentosa/">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
