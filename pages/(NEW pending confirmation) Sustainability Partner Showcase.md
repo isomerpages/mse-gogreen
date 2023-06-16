@@ -31,4 +31,3 @@ Come in-person to experience how we can adopt a more sustainable lifestyle and s
 		width: 100%;
 	}
 </style>
-
