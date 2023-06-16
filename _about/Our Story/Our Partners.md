@@ -19,7 +19,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	}
 	
 	.bp-accordion-button {
-		display: flex;
+		display: block;
 		width: 100%;
 	}
 	
@@ -39,8 +39,10 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 <div id="accordionExample" class="accordion-container">
     <div class="accordion">
         <h2 id="headingOne" class="bp-accordion-header">
-            <a aria-controls="collapseOne" aria-expanded="true" data-bs-target="#collapseOne" data-bs-toggle="collapse" class="bp-accordion-button">
-                Accordion Item #1
+            <a class="bp-accordion-button">
+							<div class="bp-accordion-button-wrapper">
+									Accordion Item #1
+							</div>
             </a>
         </h2>
         <div data-bs-parent="#accordionExample" aria-labelledby="headingOne" class="accordion-collapse collapse show" id="collapseOne">
