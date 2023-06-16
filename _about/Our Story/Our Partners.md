@@ -12,6 +12,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 <style>
 		.bp-accordion-header {
 			background-color: transparent;
+			border-bottom: 2px solid black;
 	}
 	
 	.bp-accordion-header:hover {
