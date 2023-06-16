@@ -152,11 +152,12 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- SentoSights East Asian Flyway -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/sentosa_immersiverainforest.jpg">
-        <h2>SentoSights: Immersive Rainforest Trails</h2>
+        <img src="/images/Tours/sentosa_eastasianflyway_final.jpg">
+        <h2>SentoSights: East Asian Flyway (Introduction to Birdwatching)</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
