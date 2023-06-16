@@ -660,6 +660,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+			<!-- Nature and Sustainability Tour: Biodiversity and Ecosystems-->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_biodiversitynecosystems.png">
+        <h2>Nature and Sustainability Tour: Biodiversity and Ecosystems</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29, 30 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-sustainability-tour-biodiversity-and-ecosystems/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Food Waste Learning Journey @ Our Tampines Hub -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
