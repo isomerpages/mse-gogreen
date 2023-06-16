@@ -178,7 +178,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tour-biodiversity-and-ecosystems/" class="button-primary">
+      <a href="/sentosights-immersive-rainforest-trails/" class="button-primary">
         Find out more
       </a>
     </div>
