@@ -17,7 +17,7 @@ Come in-person to experience how we can adopt a more sustainable lifestyle and s
 
 
 <a class="btn-link" target="_blank" href="https://www.instagram.com/castlerysg/?hl=en">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
