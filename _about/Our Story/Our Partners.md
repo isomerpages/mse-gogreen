@@ -12,13 +12,13 @@ Go Green SG would like to thank all our partners who have been instrumental in s
  
 <div id="accordionExample" class="sgds accordion">
     <div class="accordion-item">
-        <h2 id="headingOne" class="accordion-header">
-            <button aria-controls="collapseOne" aria-expanded="true" data-bs-target="#collapseOne" data-bs-toggle="collapse" type="button" class="accordion-button">
+        <h2 id="headingOne" class="bp-accordion-header">
+            <button aria-controls="collapseOne" aria-expanded="true" data-bs-target="#collapseOne" data-bs-toggle="collapse" type="button" class="bp-accordion-button">
                 Accordion Item #1
             </button>
         </h2>
         <div data-bs-parent="#accordionExample" aria-labelledby="headingOne" class="accordion-collapse collapse show" id="collapseOne">
-            <div class="accordion-body">
+            <div class="bp-accordion-body">
                 <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse
                 plugin adds the appropriate classes that we use to style each element. These classes control the overall
                 appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
@@ -60,5 +60,3 @@ Go Green SG would like to thank all our partners who have been instrumental in s
         </div>
     </div>
 </div>
-
-                
