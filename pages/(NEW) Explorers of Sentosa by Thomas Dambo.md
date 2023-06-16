@@ -5,7 +5,7 @@ description: ""
 ---
 ![Explorers of Sentosa by Thomas Dambo](/images/Workshop%20&amp;%20Talks/sentosa_explorers_final.jpg)
 
-**Discover hidden parts of Palawan Beach, while reflecting on humanity’s interactions with nature and the waste we generate, through the artwork of internationally renowned recycling artist Thomas Dambo.**
+**Discover hidden parts of Palawan Beach while reflecting on humanity’s interactions with nature and the waste we generate, through the artwork of internationally renowned recycling artist Thomas Dambo.**
 
 **Date:** 1 - 31 July, 11:00 am<br>
 **Admission:** Free<br>
