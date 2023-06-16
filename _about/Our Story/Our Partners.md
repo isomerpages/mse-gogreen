@@ -38,7 +38,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
  
 <div id="accordionExample" class="accordion-container">
     <div class="accordion">
-        <h2 id="headingOne" class="bp-accordion-header">
+        <h2 id="accordionExample" class="bp-accordion-header">
             <a class="bp-accordion-button">
 							<div class="bp-accordion-button-wrapper">
 									Accordion Item #1
@@ -54,7 +54,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
         </div>
     </div>
     <div class="accordion">
-        <h2 id="headingTwo" class="bp-accordion-header">
+        <h2 id="accordionExample" class="bp-accordion-header">
 					<a class="bp-accordion-button">Accordion Item #2</a>
         </h2>
             <div data-bp-parent="#accordionExample" data-bs-parent="#accordionExample" class="bp-accordion-body">
