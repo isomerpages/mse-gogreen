@@ -133,7 +133,7 @@ third_nav_title: Events
             <strong>
               Date: 1 July - 29 October</strong>
           </li>
-          <li><strong>Admission: $15 - $24</strong></li>
+          <li><strong>Admission: From $17</strong></li>
           <li><strong>Venue: ArtScience Museum</strong></li>
           <li><strong>Organiser: Marina Bay Sands</strong></li>
         </ul>
