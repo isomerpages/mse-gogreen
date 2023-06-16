@@ -7,31 +7,21 @@ description: ""
 
 **Head down to Vintagewknd’s pop-up “WASTE-GATE” at Orchard Gateway featuring vintage and upcycled waste materials!**
 
-**Date:** 1, 2, 24, 25, 26, 27, 28, 29, 30, 31 July, 12:00 – 9:00 pm <br>
+**Date:** 1, 2, 24, 25, 26, 27, 28, 29, 30, 31 July <br> 12:00 – 9:00 pm <br>
 **Admission:** Free <br>
-**Venue:** Gardens by the Bay<br>
-**Organiser:** Gardens by the Bay
+**Venue:** Orchard Gateway <br>
+**Organiser:** That Wknd Company Pte Ltd (Vintagewknd)
 
+Vintagewknd’s most popular ‘BLOUSE BAR’ pop-up featuring original vintage blouses will be back with a new season at Orchardgateway.&nbsp;&nbsp;&nbsp;
 
-What is carbon and how are humans influencing carbon concentrations? 
+Appropriately named&nbsp; “WASTE-GATE”, this series of pop-ups feature a variety of vintage and upcycled products created from waste materials. The products are suited for modern day style.&nbsp;&nbsp;&nbsp;
 
-In this guided tour, learn about the different colours of carbon, carbon sources and sinks, and the movement of carbon through the environment. Learn what changing carbon levels mean for a changing climate while discovering the secrets to cutting carbon emissions at the Gardens by the Bay.
+The pop-ups also feature special promotions, sustainability displays and a focus on a specific type of textile revival. Ranging from vintage blouses and dresses, to reworked denim items, there is something for everyone!&nbsp;
 
-This tour is made possible through the support of Keppel Corporation.
-
-
-Original text:
-
-One of four thematic tours&nbsp; to discover interesting facts about Nature and Sustainability at the Gardens!&nbsp;&nbsp;
-
-What is carbon and how are humans influencing carbon concentrations? Learn about the different colours of carbon, carbon sources and sinks, and the movement of carbon through the environment.&nbsp; Learn what changing carbon levels mean for a changing climate while discovering the secrets to cutting carbon emissions at the Gardens by the Bay.
+Explore waste as fashion!
 
 <a class="btn-link" target="_blank" href="https://www.instagram.com/vintagewknd/?hl=en">
 	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<a class="btn-link" target="_blank" href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html">
-	<img src="/images/more-info-btn.png">
 </a>
 
 
