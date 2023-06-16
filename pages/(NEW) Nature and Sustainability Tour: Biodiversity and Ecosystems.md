@@ -16,7 +16,7 @@ One of four thematic tours to discover interesting facts about Nature and Sustai
 
 This tour highlights the intricate relationships between biodiversity and ecosystems. Participants will embark on a journey of diverse habitats from around the world and learn about how different organisms have formed special relationships to survive in challenging conditions!
 
-<a class="btn-link" target="_blank" href="https://www.fairmont-singapore.com/offer/aquaponics-farm-to-table-experience/">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-biodiversity-and-ecosystems-jul-tickets-635257621647?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
