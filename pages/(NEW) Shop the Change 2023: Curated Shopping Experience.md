@@ -17,11 +17,6 @@ Shop the Change with Design Orchard this Sustainability Season with a curated co
 
 Shop the Change will be available from 3 July to 10 August.
 
-<a 
-	<img src="/images/more-info-btn.png">
-</a>
-
-
 <style>
 	.btn-link {
 		display: inline-block;
@@ -32,6 +27,6 @@ Shop the Change will be available from 3 July to 10 August.
 	.btn-link > img {
 		width: 100%;
 	}
-</style>-->
+</style>
 
---&gt; 
+-->
