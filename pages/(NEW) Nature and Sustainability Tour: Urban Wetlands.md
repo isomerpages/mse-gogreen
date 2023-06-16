@@ -7,7 +7,7 @@ description: ""
 
 **Original: Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.**
 
-**Amended: Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within. **
+**Amended: Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.**
 
 **Date:** 1, 2, 8, 9, 15, 16, 22, 23, 29, 30 July,  8:30 – 9:30 am<br>
 **Admission:** Free (registration required)<br>
@@ -47,4 +47,3 @@ Explore the sights and sounds of Kingfisher Wetlands and discover the native flo
 		width: 100%;
 	}
 </style>
-
