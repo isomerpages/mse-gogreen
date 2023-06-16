@@ -539,7 +539,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 8 July
+              Date: 22 July
             </strong>
           </li>
           <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
