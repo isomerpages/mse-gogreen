@@ -3,6 +3,7 @@ title: "(NEW) Nature and Sustainability Tour: Carbon and Climate"
 permalink: /nature-and-sustainability-tour-carbon-and-climate/
 description: ""
 ---
+<!--
 ![carbon and climate](/images/Tours/gbtb_carbonclimatetour.png)
 
 **Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.**
@@ -16,11 +17,11 @@ One of four thematic tours&nbsp; to discover interesting facts about Nature and 
 
 What is carbon and how are humans influencing carbon concentrations? Learn about the different colours of carbon, carbon sources and sinks, and the movement of carbon through the environment.&nbsp; Learn what changing carbon levels mean for a changing climate while discovering the secrets to cutting carbon emissions at the Gardens by the Bay.
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-carbon-and-climate-jul-tickets-635263980667?aff=ebdsoporgprofile">
+<a href="https://www.eventbrite.com/e/nature-and-sustainability-tour-carbon-and-climate-jul-tickets-635263980667?aff=ebdsoporgprofile" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<a class="btn-link" target="_blank" href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html">
+<a href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html" target="_blank" class="btn-link">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -36,3 +37,5 @@ What is carbon and how are humans influencing carbon concentrations? Learn about
 		width: 100%;
 	}
 </style>
+
+-->
