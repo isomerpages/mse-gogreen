@@ -873,7 +873,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
+      <a href="/waters-of-change-kayak-tour/" class="button-primary">
         Find out more
       </a>
     </div>
