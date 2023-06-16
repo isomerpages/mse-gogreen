@@ -34,6 +34,10 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	.bp-accordion-button.sgds-icon-minus {
 		content: "";
 	}
+	
+	.bp-accordion-header:has(> .bp-accordion-button.sgds-icon-minus)  {
+	background-color: red;
+	}
 </style>
  
 <div id="accordionExample" class="accordion-container">
@@ -45,7 +49,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 							</div>
             </a>
         </h2>
-            <div data-bp-parent="#accordionExample" data-bs-parent="#accordionExample" style="display: block" class="bp-accordion-body">
+            <div style="display: block" class="bp-accordion-body">
                 <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse
                 plugin adds the appropriate classes that we use to style each element. These classes control the overall
                 appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
