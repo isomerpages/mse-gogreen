@@ -163,7 +163,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 2, 8, 9 July
+              Date: 1, 8 July
             </strong>
           </li>
           <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
@@ -173,12 +173,12 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Explore the lush rainforest ecosystem in Sentosa which hosts a rich array of unique native flora and fauna. Learn more about the often-overlooked flowers and plants of Sentosa’s forest.
+          Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/sentosights-immersive-rainforest-trails/" class="button-primary">
+      <a href="/sentosights-east-asian-flyway/" class="button-primary">
         Find out more
       </a>
     </div>
