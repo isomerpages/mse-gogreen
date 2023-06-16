@@ -3,22 +3,20 @@ title: (NEW pending confirmation) Sustainability Partner Showcase
 permalink: /sustainability-partner-showcase/
 description: ""
 ---
-<!--
-![](/images/Events/sustainability%20partnership%20showcase.jpg)
+![Sustainability Partner Showcase](/images/Events/sustainability%20partnership%20showcase.jpg)
 
-**Visit Castlery’s Orchard Flagship and explore the partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.**
+**Explore a new partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.**
 
 **Date:** 1 - 31 July<br>
 **Venue:** Castlery Flagship, Liat Towers, 541 Orchard Rd<br>
 **Organiser:** Castlery
 
-Castlery will bring together local brands and artists passionate about Sustainability to showcase their products and services at the partnership space in the Orchard Flagship. 
+Castlery will bring together local brands and artists passionate about sustainability to showcase their products and services at the partnership space at their Orchard Flagship. 
 
-Come in-person to experience how we can adopt a more sustainable lifestyle and support our local Sustainability champions. 
+Come in-person to experience how we can adopt a more sustainable lifestyle and support our local sustainability champions. 
 
 
-
-<a href="https://www.instagram.com/castlerysg/?hl=en" target="_blank" class="btn-link">
+<a class="btn-link" target="_blank" href="https://www.instagram.com/castlerysg/?hl=en">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -34,4 +32,4 @@ Come in-person to experience how we can adopt a more sustainable lifestyle and s
 	}
 </style>
 
--->
+--&gt;
