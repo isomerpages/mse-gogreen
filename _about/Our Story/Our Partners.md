@@ -40,11 +40,11 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	}
 	
 	.bp-accordion-header:has(> .bp-accordion-button.sgds-icon-minus) + .bp-accordion-body {
-	display: block;
+	display: none;
 	}
 	
 	.bp-accordion-header:has(> .bp-accordion-button.sgds-icon-plus) + .bp-accordion-body {
-	display: none;
+	display: block;
 	}
 </style>
  
