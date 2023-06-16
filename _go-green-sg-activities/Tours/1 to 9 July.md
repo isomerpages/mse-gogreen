@@ -152,6 +152,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!--Sentosights: Sentosa Naturalist Night Adventure -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosa_naturalistnightadventure.jpg">
+        <h2>Sentosights: Sentosa Naturalist Night Adventure</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 7, 8 July
+            </strong>
+          </li>
+          <li><strong>Admission: $86.76 | 2 adults and 2 children: $306.18</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Experience the true ‘wild side’ on this night adventure through a rainforest. With a small torch, peek into the secretive lives of the nocturnal creatures found on Sentosa.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosights-immersive-rainforest-trails/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 	<!--Nature and Sustinability Tour: Biodiversity and Ecosystems -->
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
