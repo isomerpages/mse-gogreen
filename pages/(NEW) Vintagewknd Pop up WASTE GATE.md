@@ -19,9 +19,8 @@ Appropriately named “WASTE-GATE”, this series of pop-ups feature a variety o
 The pop-ups also feature special promotions, sustainability displays and a focus on textile revival. Ranging from vintage blouses and dresses, to reworked denim items, there is something for everyone!
 
 <a class="btn-link" target="_blank" href="https://www.instagram.com/vintagewknd/?hl=en">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
-
 
 <style>
 	.btn-link {
