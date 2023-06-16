@@ -284,7 +284,7 @@ third_nav_title: Challenges
       </div>
       <div class="programmes__item__body">
         <p>
-     Discover hidden parts of Palawan Beach, while reflecting on humanity's interactions with nature and the waste we generate, through the artwork of internationally renowned recycling artist Thomas Dambo. 
+     Discover hidden parts of Palawan Beach while reflecting on humanity's interactions with nature and the waste we generate, through the artwork of internationally renowned recycling artist Thomas Dambo. 
         </p>
       </div>
     </div>
