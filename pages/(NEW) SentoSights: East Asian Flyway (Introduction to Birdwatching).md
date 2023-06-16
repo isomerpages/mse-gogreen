@@ -8,11 +8,11 @@ description: ""
 **Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.**
 
 **Date:** 1, 8, 15, 22, 29 July, 7:00 – 8:30 am<br>
-**Admission:** $77.11 per pax | $272.16 for 2 adults and 2 children<br>
+**Admission:** $77.11 | 2 adults and 2 children: $272.16<br>
 **Venue:** Siloso Point<br>
 **Organiser:** Sentosa Development Corporation 
 
-Ever wondered what type of birds you can find on a small island such as Sentosa? Join this exclusive programme where participants will get to learn how to spot and identify some of the birds found on Sentosa. Identify Singapore’s local avian fauna based on morphology and their unique calls.&nbsp;&nbsp;
+Ever wondered what type of birds you can find on a small island such as Sentosa? Join this exclusive programme where participants will get to learn how to spot and identify some of the birds found on Sentosa. Identify Singapore’s local avian fauna based on morphology and their unique calls.
 
 Bring along your adventurous spirit as you get acquainted with a pair of binoculars and a guide sheet. Embark on a trail that brings you through a niche series of tall rainforest trees while skirting along the coastline.
 
