@@ -124,6 +124,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupspot.png">
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 17, 19, 21, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
+          <li><strong>Venue: Bukit Batok Park</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -151,66 +182,6 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/sustainable-hotel-building-tour-and-afternoon-tea/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/aq_station_1.jpg">
-        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2> <sup>Fully booked</sup>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 19 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
-          <li><strong>National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         Good air quality safeguards public health! Find out how ambient air quality is being monitored in stations across Singapore.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/breath-of-fresh-air/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tupspot.png">
-        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 17, 19, 21, 23 July
-            </strong>
-          </li>
-          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Bukit Batok Park</strong></li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -245,6 +216,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>  
+	<!-- A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/aq_station_1.jpg">
+        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2> <sup>Fully booked</sup>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Good air quality safeguards public health! Find out how ambient air quality is being monitored in stations across Singapore.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/breath-of-fresh-air/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- The Full Inertidal: Explore, Learn, Engage -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -272,7 +273,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-	
 <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -933,12 +933,43 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.
+         Go on a journey of diverse habitats from around the world as you learn about the importance and interconnectedness of the natural environment and biodiversity.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
       <a href="/nature-and-sustainability-tour-biodiversity-and-ecosystems/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Nature and Sustainability Tours: Carbon and Climate-->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_carbonclimatetour.png">
+        <h2>Nature and Sustainability Tour: Carbon and Climate</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Discover the secrets of how Singapore’s beloved tourist attraction cuts down on its carbon emissions.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -964,43 +995,12 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.
+         Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
       <a href="/nature-and-sustainability-tour-urban-wetlands/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-		<!-- Nature and Sustainability Tours: Carbon and Climate-->
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/gbtb_carbonclimatetour.png">
-        <h2>Nature and Sustainability Tour: Carbon and Climate</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 22, 23 July
-            </strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Gardens by the Bay</strong></li>
-          <li><strong>Organiser: Gardens by the Bay</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
         Find out more
       </a>
     </div>
