@@ -277,5 +277,31 @@ third_nav_title: Retail, Dining, and Deals
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="![](/images/Challenges%20&amp;%20Deals/sfc_shopthechange.jpg)">
-        <h2>Shop the Change 2023: Curated Shopping Experience</h2></div></div></div></div>
+        <img src="/images/Challenges%20&amp;%20Deals/sfc_shopthechange.jpg">
+        <h2>Shop the Change 2023: Curated Shopping Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 July - 10 August, 10:30 am - 9:30 pm</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Design Orchard</strong></li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Shop the Change with Design Orchard this sustainability season with a unique, curated collection of sustainable and eco-conscious products made by local brands.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/shop-the-change-2023/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+</div>
