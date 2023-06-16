@@ -3,29 +3,22 @@ title: (NEW) Sensory Odyssey
 permalink: /sensory-odyssey/
 description: ""
 ---
+![](/images/Events/microsoftteams-image%20(1).png)
 
+**Wonder at our incredibly diverse and fascinating living world in Sensory Odyssey – a multi-sensory and immersive exhibition that brings visitors on a spectacular journey into the heart of our ecosystems**
 
-
-**Original: Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.**
-
-**Amended: Go on a journey of diverse habitats from around the world as you learn about the importance and interconnectedness of the natural environment and biodiversity.**
-
-**Date:** 1, 2, 8, 9, 15, 16, 22, 23, 29, 30 July,  8:30 – 9:30 am<br>
+**Date:** 1 July – 29 October, 10:00 am – 7:00 pm <br>
 **Admission:** Free (registration required)<br>
-**Venue:** Gardens by the Bay<br>
-**Organiser:** Gardens by the Bay
+**Venue:** ArtScience Museum<br>
+**Organiser:** Marina Bay Sands
 
-From sustainable design principles and energy-efficient solutions to flora and fauna in the outdoor gardens, many sustainability features remain to be discovered in Gardens by the Bay. 
+Wonder at our incredibly diverse and fascinating living world as experienced in Sensory Odyssey – a multi-sensory and immersive exhibition that brings visitors of all ages on a spectacular journey into the heart of our ecosystems.&nbsp;&nbsp;&nbsp;
 
-Join this guided walking tour to learn about the intricate relationships between biodiversity and ecosystems. Participants will embark on a journey of diverse habitats from around the world and learn about how different organisms have formed special relationships to survive in challenging conditions!
+From the salt lakes of the savannah to the Arctic Circle, from the rainforest canopy to the depths of the earth and oceans, we become explorers as you we embark on a larger-than-life journey through seven natural environments. Guided by your senses and curiosity, you we will encounter a variety of of plants, animals, bacteria, and mushroom species during this extraordinary expedition. See, hear, smell and feel nature like never before!&nbsp;&nbsp;&nbsp;
 
-This tour is made possible through the support of Keppel Corporation.
+This one-of-a-kind exhibition presents strikingly real,&nbsp; high definition high-definition videos filmed&nbsp; in 8K resolution at different locations around the planet. Specially designed scents and sound effects bring you closer to the take us up close and personal with the living world.
 
-Original text:
-
-One of four thematic tours to discover interesting facts about Nature and Sustainability at the Gardens!&nbsp;&nbsp; &nbsp;
-
-This tour highlights the intricate relationships between biodiversity and ecosystems. Participants will embark on a journey of diverse habitats from around the world and learn about how different organisms have formed special relationships to survive in challenging conditions!
+Participants will Let’s develop a deeper understanding of the our living world and strive to be good stewards of Earth. the precious planet we call home.&nbsp;Organised by ArtScience Museum and BASE Entertainment Asia, this exhibition was created by Sensory Odyssey Studio in collaboration with the French National Museum of Natural History in Paris. The 2023 Asian premiere of this exhibition at ArtScience Museum marks the first stop on a global tour.
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-biodiversity-and-ecosystems-jul-tickets-635257621647?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">
