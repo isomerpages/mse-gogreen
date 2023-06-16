@@ -3,7 +3,6 @@ title: (NEW pending logo amendment) Self Watering Planter
 permalink: /self-watering-planter/
 description: ""
 ---
-<!--
 ![self watering planter](/images/Workshop%20&amp;%20Talks/cs_swp_2.png)
 
 **Learn how to upcycle plastic bottles into portable planters. Get your hands dirty, take home a sustainable solution for growing plants, and nurture nature together!**
@@ -18,7 +17,7 @@ Discover how easy it is to upcycle plastic bottles into portable planters. By re
 Bring your recycled bottle, get your hands dirty, and take home a sustainable solution for growing seedlings and small plants. Let's nurture nature together.
 
 
-<a href="https://citysprouts.com.sg/products/self-watering-planter-gogreen" target="_blank" class="btn-link">
+<a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/self-watering-planter-gogreen">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -33,5 +32,3 @@ Bring your recycled bottle, get your hands dirty, and take home a sustainable so
 		width: 100%;
 	}
 </style>
-
--->
