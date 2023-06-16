@@ -8,7 +8,7 @@ description: ""
 **Explore the lush rainforest ecosystem in Sentosa which hosts a rich array of unique native flora and fauna. Learn more about the often-overlooked flowers and plants of Sentosa’s forest.**
 
 **Date:** 1, 8, 15, 22, 29 July, 5:00 – 6:30 pm | 2, 9, 16, 23, 30 July, 8:00 – 9:30 am<br>
-**Admission:** $77.11 | 2 adults and 2 children: $272.16<br>
+**Admission:** $77.11 per pax | $272.16 for 2 adults and 2 children<br>
 **Venue:** Siloso Point<br>
 **Organiser:** Sentosa Development Corporation 
 
