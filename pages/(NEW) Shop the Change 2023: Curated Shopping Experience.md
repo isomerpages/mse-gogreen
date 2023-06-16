@@ -3,7 +3,6 @@ title: "(NEW) Shop the Change 2023: Curated Shopping Experience"
 permalink: /shop-the-change-2023/
 description: ""
 ---
-![biodiversity and ecosystems]
 ![](/images/Challenges%20&amp;%20Deals/sfc_shopthechange.jpg)
 
 **Shop the Change with Design Orchard this Sustainability Season with a unique, curated collection of sustainable and eco-conscious products made by local brands.**
