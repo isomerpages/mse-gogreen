@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Partners.md
       - Our Story/Our Partners.md
       - Our Story/.keep
       - Our Story/Our Story.md
