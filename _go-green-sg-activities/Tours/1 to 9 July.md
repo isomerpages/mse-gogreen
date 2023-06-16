@@ -157,7 +157,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/sentosa_naturalistnightadventure.jpg">
-        <h2>Sentosights: Sentosa Naturalist Night Adventure</h2>
+        <h2>SentoSights: Sentosa Naturalist Night Adventure</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -281,7 +281,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/sentosa_immersiverainforest.jpg">
-        <h2>Sentosights: Immersive Rainforest Trails</h2>
+        <h2>SentoSights: Immersive Rainforest Trails</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
