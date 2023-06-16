@@ -20,6 +20,10 @@ This tour highlights the intricate relationships between biodiversity and ecosys
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
+<a class="btn-link" target="_blank" href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html">
+	<img src="/images/more-info-btn.png">
+</a>
+
 
 <style>
 	.btn-link {
