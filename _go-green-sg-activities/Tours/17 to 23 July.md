@@ -124,6 +124,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	 <!-- SentoSights: Sentosa Intertidal Exploration-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosights_intertidal.jpg">
+        <h2>Sentosights: Sentosa Intertidal Exploration
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 17 - 22 July</strong>
+          </li>
+          <li><strong>Admission: $96.39 | 2 adults and 2 children:&nbsp;$340.20</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Discover a hidden world beneath the ocean when the tide retreats at Sentosa's coast, with a rare opportunity to get up close with marine life that is so often overlooked.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosights-sentosa-intertidal-exploration/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	  
 	<!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
