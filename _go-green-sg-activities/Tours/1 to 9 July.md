@@ -162,7 +162,7 @@ third_nav_title: Tours
         <ul>
           <li>
             <strong>
-              Date: 1, 2, 8 July
+              Date: 1, 2, 8, 9 July
             </strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
