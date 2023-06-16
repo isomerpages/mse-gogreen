@@ -92,7 +92,7 @@ third_nav_title: Workshops & Talks
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_ggu_2.png">
+        <img src="/images/Workshop%20&amp;%20Talks/green glam up resized.png">
         <h2>Green Glam Up</h2>
       </div>
       <div class="programmes__item__detail">
