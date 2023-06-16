@@ -13,18 +13,29 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 		.bp-accordion-header {
 			background-color: transparent;
 	}
+	
+	.bp-accordion-header:hover {
+		background-color: transparent;
+	}
+	
 	.bp-accordion-button {
 		display: flex;
 		width: 100%;
 	}
+	
+	.bp-accordion-button::before {
+		content: "";
+	}
+	
+	.
 </style>
  
 <div id="accordionExample" class="accordion-container">
     <div class="accordion">
         <h2 id="headingOne" class="bp-accordion-header">
-            <button aria-controls="collapseOne" aria-expanded="true" data-bs-target="#collapseOne" data-bs-toggle="collapse" type="button" class="bp-accordion-button">
+            <a aria-controls="collapseOne" aria-expanded="true" data-bs-target="#collapseOne" data-bs-toggle="collapse" class="bp-accordion-button">
                 Accordion Item #1
-            </button>
+            </a>
         </h2>
         <div data-bs-parent="#accordionExample" aria-labelledby="headingOne" class="accordion-collapse collapse show" id="collapseOne">
             <div style="display: block" class="bp-accordion-body">
@@ -38,9 +49,6 @@ Go Green SG would like to thank all our partners who have been instrumental in s
     </div>
     <div class="accordion">
         <h2 id="headingTwo" class="bp-accordion-header">
-            <!-- <button class="bp-accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                Accordion Item #2
-            </button> -->
 					<a class="bp-accordion-button">Accordion Item #2</a>
         </h2>
         <div data-bs-parent="#accordionExample" aria-labelledby="headingTwo" class="accordion-collapse collapse" id="collapseTwo">
