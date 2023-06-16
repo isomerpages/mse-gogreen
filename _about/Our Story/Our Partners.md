@@ -22,6 +22,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	.bp-accordion-button {
 		display: block;
 		width: 100%;
+	text-decoration: none;
 	}
 	
 	.bp-accordion-button::before {
