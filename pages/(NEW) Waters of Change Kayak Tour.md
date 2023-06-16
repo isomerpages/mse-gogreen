@@ -3,20 +3,20 @@ title: (NEW) Waters of Change Kayak Tour
 permalink: /waters-of-change-kayak-tour/
 description: ""
 ---
-![aquaponics farm to table](/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg)
+![kayak tour](/images/Tours/indie_kayak.jpg)
 
-**Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.**
+**Discover Singapore's water sustainability story as you kayak. Immerse yourself in Marina Bay's breathtaking skyline, witnessing Singapore’s journey from water rationing to self-sufficiency.**
 
-**Date:** 3 - 16 July, 11:00 am - 1:30 pm<br>
-**Admission:** $55++<br>
-**Venue:** Fairmont Singapore &amp; Swissôtel The Stamford<br>
-**Organiser:** RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissotel The Stamford
+**Date:** 15, 16 July, 10:00 am - 12:30 pm<br>
+**Admission:** $60 - $75<br>
+**Venue:** PAssion Wave @ Marina Bay<br>
+**Organiser:** Indie Singapore Tours LLP
 
-Launched in 2019, the hotel industry’s first urban aquaponics farm at Fairmont Singapore &amp; Swissôtel The Stamford aims to meet the rising demand among guest for fresh quality produce and to support Singapore’s goal of producing 30% of its nutritional needs locally by 2030.
+PAssion WaVe and Indie Singapore present "History Wanderers", a special edition of their kayaking tour. &nbsp;This tour will not only be a feast for the eyes but also an educational journey through Singapore's water sustainability story. 
 
-Through this curated experience, participants will learn about aquaponics farming and pick their own produce for a 3-course lunch at The Stamford Brasserie. Participants will also prepare their own vitality beverage using produce from the farm. At the end of the experience, participants will bring home a house-made souvenir made with the hotel's aquaponics produce. Participants will also have the option to purchase fresh produce from the farm.
+On this kayaking tour, you will get to witness the beauty of Marina Bay firsthand. Learn how Singapore &nbsp;progressed from needing to ration water to becoming increasingly self-sufficient through the four national taps. See Singapore from a new angle and appreciate the comprehensive policies and the engineering marvels that ensure our water security.
 
-<a class="btn-link" target="_blank" href="https://www.fairmont-singapore.com/offer/aquaponics-farm-to-table-experience/">
+<a class="btn-link" target="_blank" href="https://linktr.ee/mybayexperience">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
