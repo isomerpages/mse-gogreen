@@ -469,7 +469,37 @@ third_nav_title: Tours
         Find out more
       </a>
 		</div>
-		</div>
+</div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosa_eastasianflyway_final.jpg">
+        <h2>SentoSights: East Asian Flyway (Introduction to Birdwatching)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 8 July
+            </strong>
+          </li>
+          <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosights-east-asian-flyway/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 	<!-- Black Soldier Fly Eco Farm Tour -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
