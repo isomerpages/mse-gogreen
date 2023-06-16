@@ -5,9 +5,7 @@ description: ""
 ---
 ![urban wetlands](/images/Tours/gbtb_urbanwetlands.jpg)
 
-**Original: Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.**
-
-**Amended: Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.**
+**Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.**
 
 **Date:** 1, 2, 8, 9, 15, 16, 22, 23, 29, 30 July,  8:30 – 9:30 am<br>
 **Admission:** Free (registration required)<br>
@@ -20,12 +18,6 @@ From sustainable design principles and energy-efficient solutions to flora and f
 Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within. Learn about the sustainable concept behind its design and the role of urban wetlands in face of climate change.
 
 This tour is made possible through the support of Keppel Corporation.
-
-Original Text: 
-
-One of four thematic tours to discover interesting facts about Nature and Sustainability at the Gardens!&nbsp;&nbsp; &nbsp;
-
-Explore the sights and sounds of Kingfisher Wetlands and discover the native flora and fauna within. Learn about the sustainable concept behind its design and the role of urban wetlands in face of climate change.
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-urban-wetlands-jul-tickets-635259296657?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">
