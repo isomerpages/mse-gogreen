@@ -133,7 +133,7 @@ third_nav_title: Events
             <strong>
               Date: 1 July - 29 October</strong>
           </li>
-          <li><strong>Admission: More information in registration link</strong></li>
+          <li><strong>Admission: $15 - $24</strong></li>
           <li><strong>Venue: ArtScience Museum</strong></li>
           <li><strong>Organiser: Marina Bay Sands</strong></li>
         </ul>
@@ -146,6 +146,37 @@ third_nav_title: Events
     </div>
     <div class="programmes__item__actions">
       <a href="/sensory-odyssey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Fashion The Change 2023: Youth Designer Exhibition -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/sfc_final.jpg">
+        <h2>Fashion The Change 2023: Youth Designer Exhibition</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 3 - 14 July</strong>
+          </li>
+          <li><strong>Admission: Free </strong></li>
+          <li>
+            <strong>Venue: Design Orchard</strong>
+          </li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Fashion The Change 2023 showcases a collection of ideas from youths and their visions on sustainable fashion.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/fashion-the-change-2023-youth-designer-exhibition" class="button-primary">
         Find out more
       </a>
     </div>
@@ -178,37 +209,6 @@ third_nav_title: Events
     </div>
     <div class="programmes__item__actions">
       <a href="/green-house" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-  <!-- Fashion The Change 2023: Youth Designer Exhibition -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Events/sfc_final.jpg">
-        <h2>Fashion The Change 2023: Youth Designer Exhibition</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 3 - 14 July</strong>
-          </li>
-          <li><strong>Admission: Free </strong></li>
-          <li>
-            <strong>Venue: Design Orchard</strong>
-          </li>
-          <li><strong>Organiser: Singapore Fashion Council</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Fashion The Change 2023 showcases a collection of ideas from youths and their visions on sustainable fashion.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/fashion-the-change-2023-youth-designer-exhibition" class="button-primary">
         Find out more
       </a>
     </div>
