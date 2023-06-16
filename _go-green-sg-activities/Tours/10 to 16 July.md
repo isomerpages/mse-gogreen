@@ -124,37 +124,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-			  <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/parkroyal_tour.jpg">
-        <h2>Sustainable Hotel Building Tour and Afternoon Tea
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 11, 14 July</strong>
-          </li>
-          <li><strong>Admission: $38++ to $78++</strong></li>
-          <li><strong>Venue: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
-          <li><strong>Organiser: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-      Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainable-hotel-building-tour-and-afternoon-tea/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -182,6 +151,37 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/parkroyal_tour.jpg">
+        <h2>Sustainable Hotel Building Tour and Afternoon Tea
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 11, 14 July</strong>
+          </li>
+          <li><strong>Admission: $38++ to $78++</strong></li>
+          <li><strong>Venue: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+          <li><strong>Organiser: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Discover PARKROYAL COLLECTION Marina Bay’s sustainability initiatives from behind-the-scenes. From the Urban Farm to the solar panels, it is a tour to showcase how sustainability is practiced in hospitality.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainable-hotel-building-tour-and-afternoon-tea/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -276,37 +276,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-	<!-- Forest Stream Walk and Survery -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/forest stream walk (new).jpg">
-        <h2>Forest Stream Walk and Survey</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 14 July</strong>
-          </li>
-          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
-          <li>
-            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
-          </li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/forest-stream-walk-and-survey/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
     <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -345,6 +314,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		<!-- Forest Stream Walk and Survery -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/forest stream walk (new).jpg">
+        <h2>Forest Stream Walk and Survey</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 14 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $49 | Child: $37</strong></li>
+          <li>
+            <strong>Venue: 91 Lorong Chencharu (Ground-Up Initiative)</strong>
+          </li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Night falls and sheltered by majestic fruit trees and overgrown grass, it’s easy to forget where one is. A humble, snaking stream turns into an adventurous endeavor.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-stream-walk-and-survey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!--From Waste to Treasure -->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
