@@ -16,7 +16,7 @@ One of four thematic tours&nbsp; to discover interesting facts about Nature and 
 
 What is carbon and how are humans influencing carbon concentrations? Learn about the different colours of carbon, carbon sources and sinks, and the movement of carbon through the environment.&nbsp; Learn what changing carbon levels mean for a changing climate while discovering the secrets to cutting carbon emissions at the Gardens by the Bay.
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-biodiversity-and-ecosystems-jul-tickets-635257621647?aff=ebdsoporgprofile">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-carbon-and-climate-jul-tickets-635263980667?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
