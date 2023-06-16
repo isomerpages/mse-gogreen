@@ -16,7 +16,7 @@ Ever wondered what type of birds you can find on a small island such as Sentosa?
 
 Bring along your adventurous spirit as you get acquainted with a pair of binoculars and a guide sheet. Embark on a trail that brings you through a niche series of tall rainforest trees while skirting along the coastline.
 
-<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/immersive-rainforest-trails/">
+<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/east-asian-flyway/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
