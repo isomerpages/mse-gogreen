@@ -5,16 +5,16 @@ description: ""
 ---
 ![biodiversity and ecosystems](/images/Tours/gbtb_biodiversitynecosystems.png)
 
-**Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.**
+**Join Gardens by the Bay’s free guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change, made possible by Keppel Corporation.**
 
-**Date:** 3 - 16 July, 11:00 am - 1:30 pm<br>
-**Admission:** $55++<br>
-**Venue:** Fairmont Singapore &amp; Swissôtel The Stamford<br>
-**Organiser:** RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissotel The Stamford
+**Date:** 1, 2, 8, 9, 15, 16, 22, 23, 29, 30 July,  8:30 – 9:30 am<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Gardens by the Bay<br>
+**Organiser:** Gardens by the Bay
 
-Launched in 2019, the hotel industry’s first urban aquaponics farm at Fairmont Singapore &amp; Swissôtel The Stamford aims to meet the rising demand among guest for fresh quality produce and to support Singapore’s goal of producing 30% of its nutritional needs locally by 2030.
+One of four thematic tours to discover interesting facts about Nature and Sustainability at the Gardens!&nbsp;&nbsp; &nbsp;
 
-Through this curated experience, participants will learn about aquaponics farming and pick their own produce for a 3-course lunch at The Stamford Brasserie. Participants will also prepare their own vitality beverage using produce from the farm. At the end of the experience, participants will bring home a house-made souvenir made with the hotel's aquaponics produce. Participants will also have the option to purchase fresh produce from the farm.
+This tour highlights the intricate relationships between biodiversity and ecosystems. Participants will embark on a journey of diverse habitats from around the world and learn about how different organisms have formed special relationships to survive in challenging conditions!
 
 <a class="btn-link" target="_blank" href="https://www.fairmont-singapore.com/offer/aquaponics-farm-to-table-experience/">
 	<img src="/images/gogreensg_website-32.png">
