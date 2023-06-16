@@ -5,16 +5,16 @@ description: ""
 ---
 ![](/images/Tours/sentosa_eastasianflyway_final.jpg)
 
-**Explore the lush rainforest ecosystem in Sentosa which hosts a rich array of unique native flora and fauna. Learn more about the often-overlooked flowers and plants of Sentosa’s forest.**
+**Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.**
 
-**Date:** 1, 8, 15, 22, 29 July, 5:00 – 6:30 pm | 2, 9, 16, 23, 30 July, 8:00 – 9:30 am<br>
+**Date:** 1, 8, 15, 22, 29 July, 7:00 – 8:30 am<br>
 **Admission:** $77.11 per pax | $272.16 for 2 adults and 2 children<br>
 **Venue:** Siloso Point<br>
 **Organiser:** Sentosa Development Corporation 
 
-Explore a lush rainforest ecosystem in the heart of Sentosa, which hosts a rich array of native flora and fauna.
+Ever wondered what type of birds you can find on a small island such as Sentosa? Join this exclusive programme where participants will get to learn how to spot and identify some of the birds found on Sentosa. Identify Singapore’s local avian fauna based on morphology and their unique calls.&nbsp;&nbsp;
 
-Participants will explore a secondary and coastal rainforest that supports unique and endangered species. Learn and discuss topics relevant to Singapore’s landscape and development as an island city. Participants will also experience a tropical biotope amongst the tall rainforest flora. This tour will focus on the often-overlooked flowers and plants of Sentosa’s forest.
+Bring along your adventurous spirit as you get acquainted with a pair of binoculars and a guide sheet. Embark on a trail that brings you through a niche series of tall rainforest trees while skirting along the coastline.
 
 <a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/immersive-rainforest-trails/">
 	<img src="/images/gogreensg_website-32.png">
