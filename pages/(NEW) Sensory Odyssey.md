@@ -8,7 +8,9 @@ description: ""
 **Wonder at our incredibly diverse and fascinating living world in Sensory Odyssey – a multi-sensory and immersive exhibition that brings visitors on a spectacular journey into the heart of our ecosystems**
 
 **Date:** 1 July – 29 October, 10:00 am – 7:00 pm <br>
-**Admission:** Free (registration required)<br>
+**Admission:** More information on admission fees in the registration link&nbsp;<br>
+$15 - $24<br>
+
 **Venue:** ArtScience Museum<br>
 **Organiser:** Marina Bay Sands
 
