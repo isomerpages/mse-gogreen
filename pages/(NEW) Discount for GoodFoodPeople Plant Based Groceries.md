@@ -3,7 +3,7 @@ title: (NEW) Discount for GoodFoodPeople Plant Based Groceries
 permalink: /good-food-people-discounts/
 description: ""
 ---
-
+<!--
 ![](/images/Challenges%20&amp;%20Deals/goodfoodpeople.png)
 
 **Receive 10% off when you shop for your groceries at plant-based online grocer GoodFoodPeople.**
@@ -18,7 +18,7 @@ For all those who want to try GoodFoodPeople products enjoy a 10% discount with 
 For every order that is placed, GoodFoodPeople will plant a tree to help offset the carbon emissions from the delivery. Now this is another reason to feel good about eating good. 
 
 
-<a class="btn-link" target="_blank" href="https://goodfoodpeople.sg/">
+<a href="https://goodfoodpeople.sg/" target="_blank" class="btn-link">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -36,4 +36,4 @@ For every order that is placed, GoodFoodPeople will plant a tree to help offset 
 	}
 </style>
 
---&gt;
+--&gt;-->
