@@ -88,6 +88,35 @@ third_nav_title: Events
 </style>
 
 <div class="row row_custom">
+	 <!-- Discounts for UnaBiz's Green Building Solutions-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/unabiz image (resized).png">
+        <h2>Discounts for UnaBiz's Green Building Solutions
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: Unabiz Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Enjoy discounts for Green Building solutions, including Indoor Air Quality and Energy Monitoring sensors.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/unabiz-green-build-solutions/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <!-- Specimen Stories: Biodiversity in a Changing Climate-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
