@@ -3,10 +3,9 @@ title: (NEW) What Happened to The Fish in the Lake? Book Reading and Games Sessi
 permalink: /what-happen-to-fish-in-lake/
 description: ""
 ---
-
 ![](/images/Events/champs%20for%20our%20environment.png)
 
-**Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. The book series explores eco-ethical values that inspire environmental stewardship in children.**
+**Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values.**
 
 **Dates:** <br>1 July, 11:00am – 12:00pm (Choa Chu Kang Public Library) <br> 1 July, 3:00pm – 4:00pm (Times Waterway Point) <br> 2 July, 11:30am – 12:30pm (Library@Harborfront) <br>
 **Admission:** Free (registration required)<br>
