@@ -10,9 +10,9 @@ description: ""
 **Date:** 1 - 31 July<br>
 **Organiser:** Carousell
 
-Enjoy $3 off a minimum spend of $30 when you pay via 'Buy' button on Carousell.
+Enjoy $3 off a minimum spend of $30 when you pay via 'Buy' button on Carousell with promo code "GOGREENSG"
 
-Join Carousell in making secondhand the first choice! Buying and selling secondhand reduces waste and prevents usable items from ending up in landfills, while also reducing the environmental impact of producing and disposing of new items. It's a small but important step to contribute to the fight against climate change. We are all in this journey together!
+Join Carousell in making secondhand the first choice! Buying and selling secondhand reduces waste and prevents usable items from ending up in our landfill, while also reducing the environmental impact of producing and disposing of new items. It's a small but important step to contribute to the fight against climate change. We are all in this journey together!
 
 
 
