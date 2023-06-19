@@ -7,7 +7,7 @@ description: ""
 
 **Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. The book series explores eco-ethical values that inspire environmental stewardship in children.**
 
-**Dates:** <br>1 July, 11:00am – 12:00pm (Choa Chu Kang Public Library) <br> 1 July, 3:00pm – 4:00pm (Times Waterway Point) <br>
+**Dates:** <br>1 July, 11:00am – 12:00pm (Choa Chu Kang Public Library) <br> 1 July, 3:00pm – 4:00pm (Times Waterway Point) <br> 2 July, 11:30am – 12:30pm (Library@Harborfront) <br>
 **Admission:** Free (registration required)<br>
 **Organiser:**  Champs for Our Environment 
 
@@ -23,6 +23,10 @@ In “What Happened to the Fish in the Lake?”, fishers live happily around a l
 **Times Waterway Point Registration**
 
 <a class="btn-link" target="_blank" href="https://www.timesbookstores.com.sg/events/event-details/book-launch-what-happened-to-the-fish-in-the-lake"><img src="/images/gogreensg_website-32.png"></a>
+
+**Library@Harborfront Registration**
+
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-what-happened-to-the-fish-in-the-lake-tickets-645231874907?aff=ebdssbdestsearch"><img src="/images/gogreensg_website-32.png"></a>
 
 <style>
 	.btn-link {
