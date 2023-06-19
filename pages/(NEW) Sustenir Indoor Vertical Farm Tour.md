@@ -3,7 +3,6 @@ title: (NEW) Sustenir Indoor Vertical Farm Tour
 permalink: /sustenir-indoor-farm-tour/
 description: ""
 ---
-
 ![](/images/Tours/sustenir.jpg)
 
 **Tour the farm of your favourite Kale growers! See how Sustenir brings to life its signature salads such as Kinky Kale and Toscano Kale inside its farms.**
@@ -15,7 +14,7 @@ description: ""
 
 Tour the farm of your favourite Kale growers! See how Sustenir brings to life its signature salads such as Kinky Kale and Toscano Kale inside its farms.
 
-You’ll get to try your hand at seeding and harvesting during the tour, hear from Sustenir's chief nursery lead what it takes to grow the perfect kale and how the company is giving back to the community as a B Corp company. Price includes a goodie bag of its products!
+You’ll get to try your hand at seeding and harvesting during the tour, hear from Sustenir's chief nursery lead what it takes to grow the perfect kale and how the company is giving back to the community as a B Corp company (i.e., verified by B Lab to meet&nbsp;high standards&nbsp;of social and environmental performance, transparency, and accountability). Price includes a goodie bag of its products!
 
 This tour is for anyone who loves Sustenir's products or loves to find out more about indoor vertical farming in Singapore. 
 
