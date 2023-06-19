@@ -200,7 +200,36 @@ third_nav_title: Retail, Dining, and Deals
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/unabiz-green-build-solutions/" class="button-primary">
+      <a href="/byo-saladstop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	 <!-- Carousell Promo Code For Your Secondhand Purchases!-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20carousell.jpg">
+        <h2>Carousell Promo Code For Your Secondhand Purchases!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: Carousell</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Make secondhand your first choice! Enjoy $3 off a minimum spend of $30 when you pay via 'Buy' button on Carousell with promo code "GOGREENSG"
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/carousell-promo-code/" class="button-primary">
         Find out more
       </a>
     </div>
