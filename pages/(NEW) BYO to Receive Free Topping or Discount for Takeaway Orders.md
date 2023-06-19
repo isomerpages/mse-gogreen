@@ -3,7 +3,7 @@ title: (NEW) BYO to Receive Free Topping or Discount for Takeaway Orders
 permalink: /byo-saladstop/
 description: ""
 ---
-![](/images/Challenges%20&amp;%20Deals/goodfoodpeople.png)
+![Saladstop](/images/Challenges%20&amp;%20Deals/saladstop.png)
 
 **Bring your own container for your takeaways to receive a free standard topping for salads or 80 cents discount on beverages.**
 
