@@ -3,6 +3,8 @@ title: (NEW pending confirmation) Sustainability Partner Showcase
 permalink: /sustainability-partner-showcase/
 description: ""
 ---
+<!-- 
+
 ![Sustainability Partner Showcase](/images/Events/sustainability%20partnership%20showcase.jpg)
 
 **Explore a new partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.**
@@ -16,7 +18,7 @@ Castlery will bring together local brands and artists passionate about sustainab
 Come in-person to experience how we can adopt a more sustainable lifestyle and support our local sustainability champions. 
 
 
-<a class="btn-link" target="_blank" href="https://www.instagram.com/castlerysg/?hl=en">
+<a href="https://www.instagram.com/castlerysg/?hl=en" target="_blank" class="btn-link">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -31,3 +33,5 @@ Come in-person to experience how we can adopt a more sustainable lifestyle and s
 		width: 100%;
 	}
 </style>
+
+-->
