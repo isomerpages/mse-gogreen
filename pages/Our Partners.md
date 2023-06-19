@@ -60,6 +60,11 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	
 	.arrow-icon {
 		transition: all .5s;
+		transform: rotate(180deg);
+	}
+	
+	.accordion:first-child .arrow-icon {
+		transform: rotate(0);
 	}
 	
 	.bp-accordion-header:has( > .bp-accordion-button.sgds-icon-plus) .arrow-icon {
