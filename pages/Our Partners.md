@@ -41,6 +41,12 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	.bp-accordion-button.sgds-icon-minus {
 		content: "";
 	}
+	
+	.bp-accordion-button-wrapper {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
 </style>
  
 <div class="accordion-container">
@@ -48,7 +54,8 @@ Go Green SG would like to thank all our partners who have been instrumental in s
         <h3 class="bp-accordion-header">
             <a class="bp-accordion-button">
 							<div class="bp-accordion-button-wrapper">
-									Corporate Partners:
+									<span>Corporate Partners:</span>
+									<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
 							</div>
             </a>
         </h3>
