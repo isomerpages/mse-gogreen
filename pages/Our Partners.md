@@ -103,14 +103,28 @@ Go Green SG would like to thank all our partners who have been instrumental in s
     </div>
     <div class="accordion">
         <h3 class="bp-accordion-header">
-					<a class="bp-accordion-button">Accordion Item #2</a>
+					<a class="bp-accordion-button">
+						<div class="bp-accordion-button-wrapper">
+							<span>NGOs and Interest Groups:</span>
+							<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
+						</div>
+					</a>
         </h3>
-            <div class="bp-accordion-body">
-                <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse
-                plugin adds the appropriate classes that we use to style each element. These classes control the overall
-                appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go
-                within the <code>.accordion-body</code>, though the transition does limit overflow.
+				<div class="bp-accordion-body">
+                Halo
+				</div>
+    </div>
+	<div class="accordion">
+        <h3 class="bp-accordion-header">
+					<a class="bp-accordion-button">
+						<div class="bp-accordion-button-wrapper">
+							<span>Schools:</span>
+							<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
+						</div>
+					</a>
+        </h3>
+				<div class="bp-accordion-body">
+								Halo
         </div>
     </div>
 </div>
