@@ -41,13 +41,13 @@ Go Green SG would like to thank all our partners who have been instrumental in s
  
 <div class="accordion-container">
     <div class="accordion">
-        <h2 class="bp-accordion-header">
+        <h3 class="bp-accordion-header">
             <a class="bp-accordion-button">
 							<div class="bp-accordion-button-wrapper">
 									Corporate Partners:
 							</div>
             </a>
-        </h2>
+        </h3>
             <div style="display: block" class="bp-accordion-body">
                 <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse
                 plugin adds the appropriate classes that we use to style each element. These classes control the overall
@@ -57,9 +57,9 @@ Go Green SG would like to thank all our partners who have been instrumental in s
         </div>
     </div>
     <div class="accordion">
-        <h2 class="bp-accordion-header">
+        <h3 class="bp-accordion-header">
 					<a class="bp-accordion-button">Accordion Item #2</a>
-        </h2>
+        </h3>
             <div class="bp-accordion-body">
                 <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse
                 plugin adds the appropriate classes that we use to style each element. These classes control the overall
