@@ -88,31 +88,31 @@ third_nav_title: Events
 </style>
 
 <div class="row row_custom">
-	 <!-- Discounts for UnaBiz's Green Building Solutions-->
+	 <!-- What Happened to The Fish in the Lake? Book Reading and Games Session-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/unabiz image (resized).png">
-        <h2>Discounts for UnaBiz's Green Building Solutions
+        <img src="/images/Events/(listing)%20champs%20for%20our%20environment.png">
+        <h2>What Happened to The Fish in the Lake? Book Reading and Games Session
 </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 1 - 31 July</strong>
+              Date: 1, 2 July</strong>
           </li>
-          <li><strong>Organiser: Unabiz Pte Ltd</strong></li>
+          <li><strong>Organiser: Champs for Our Environment</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-       Enjoy discounts for Green Building solutions, including Indoor Air Quality and Energy Monitoring sensors.
+       Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. The book series explores eco-ethical values that inspire environmental stewardship in children.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/unabiz-green-build-solutions/" class="button-primary">
+      <a href="/what-happen-to-fish-in-lake/" class="button-primary">
         Find out more
       </a>
     </div>
