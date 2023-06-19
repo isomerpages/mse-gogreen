@@ -177,6 +177,67 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+	      <!-- Vintagewknd Pop-up "WASTE-GATE"-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/vintagewknd.png">
+        <h2>Vintagewknd Pop-Up "WASTE-GATE"
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 2, 24 - 31 July, 12:00 - 9:00 pm</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Orchard Gateway</strong></li>
+          <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Explore waste as fashion at this special pop-up featuring vintage and upcycled waste materials.
+      </p></div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/vintagewknd-pop-up-waste-gate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+				  <!-- Aquaponics Farm to Table Experience-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
+        <h2>Aquaponics Farm to Table Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 - 16 July, 11:00 am - 1:30 pm</strong>
+          </li>
+          <li><strong>Admission: $55++</strong></li>
+          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+          <li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	        <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
       <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -239,40 +300,6 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
-			  <!-- Aquaponics Farm to Table Experience-->
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
-        <h2>Aquaponics Farm to Table Experience
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 3 - 16 July, 11:00 am - 1:30 pm</strong>
-          </li>
-          <li><strong>Admission: $55++</strong></li>
-          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
-          <li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-      Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-</div>
-
-<div class="row row_custom">
   <!-- Shop the Change 2023: Curated Shopping Experience -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -304,33 +331,4 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
-      <!-- Vintagewknd Pop-up "WASTE-GATE"-->
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/vintagewknd.png">
-        <h2>Vintagewknd Pop-Up "WASTE-GATE"
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 1, 2, 24 - 31 July, 12:00 - 9:00 pm</strong>
-          </li>
-          <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: Orchard Gateway</strong></li>
-          <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-      Explore waste as fashion at this special pop-up featuring vintage and upcycled waste materials.
-      </p></div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/vintagewknd-pop-up-waste-gate/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div></div>
+   </div>
