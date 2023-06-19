@@ -3,7 +3,6 @@ title: "(NEW) Innovation Day: Singapore 2023"
 permalink: /innovation-day-schneider-electric/
 description: ""
 ---
-
 ![](/images/Events/innovation%20day%20kv%20(169).png)
 
 **Explore the latest market insights and innovations within Schneider Electric. This event will highlight the importance of decarbonisation and its role in driving sustainability.**
