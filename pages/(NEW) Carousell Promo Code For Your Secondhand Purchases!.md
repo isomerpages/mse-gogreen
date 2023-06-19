@@ -3,7 +3,6 @@ title: (NEW) Carousell Promo Code For Your Secondhand Purchases!
 permalink: /carousell-promo-code/
 description: ""
 ---
-
 ![](/images/Challenges%20&amp;%20Deals/carousell.jpg)
 
 **Make secondhand your first choice! Enjoy $3 off a minimum spend of $30 when you pay via 'Buy' button on Carousell with promo code "GOGREENSG"**
