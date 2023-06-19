@@ -16,6 +16,8 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	.accordion .row {
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
+		gap: .5rem;
+		margin: 0;
 	}
 	
 	.accordion .row .col {
