@@ -3,20 +3,21 @@ title: (NEW) BYO to receive Free Topping or Discount for Takeaway Orders at Sala
 permalink: /byo-saladstop/
 description: ""
 ---
-<!--
+
 ![](/images/Challenges%20&amp;%20Deals/goodfoodpeople.png)
 
 **Bring your own container for your takeaways to receive a free standard topping for salads or 80 cents discount on beverages.**
 
 **Date:** Ongoing<br>
-**Venue:** All SaladStop! Outlets<br>
+**Venue:** All SaladStop! outlets<br>
 **Organiser:** SaladStop!
 
-There’s too much waste going to our landfill. Let’s reduce single-use disposables by bringing our own containers for takeaway meals and beverages. <br>
+There’s too much waste going to our landfill. Let’s reduce single-use disposables by bringing our own containers for takeaway meals and beverages.
+
 SaladStop! encourages and rewards its customers who BYO. Receive a free standard topping when you bring your own container for salads, and 80 cents discount for beverages.  
 
 
-<a href="https://www.saladstop.com.sg/rewards/" target="_blank" class="btn-link">
+<a class="btn-link" target="_blank" href="https://www.saladstop.com.sg/rewards/">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -33,4 +34,4 @@ SaladStop! encourages and rewards its customers who BYO. Receive a free standard
 		width: 100%;
 	}
 </style>
--->
+--&gt;
