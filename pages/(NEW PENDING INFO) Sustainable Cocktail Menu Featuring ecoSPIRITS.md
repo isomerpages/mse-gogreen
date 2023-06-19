@@ -3,6 +3,8 @@ title: (NEW PENDING INFO) Sustainable Cocktail Menu Featuring ecoSPIRITS
 permalink: /sofitel-sustainable-cocktail-menu-featuring-ecospirits/
 description: ""
 ---
+<!-- 
+
 ![Sentosa sofitel](/images/Challenges%20&amp;%20Deals/sentosa_sofitel.jpg)
 
 **Raise a toast to positive impact with cocktails using ecoSPIRITS infused with upcycled herbs and fruit waste.**
@@ -23,7 +25,7 @@ For the month of July, LeBar will featured two sustainable cocktails concocted b
 * Carbon Eclipse: Rosemary stem tequila, sauteed pineapple core, mango juice, egg white
 
 
-<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/dining/lebar/">
+<a href="https://www.sentosa.com.sg/en/things-to-do/dining/lebar/" target="_blank" class="btn-link">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -38,3 +40,5 @@ For the month of July, LeBar will featured two sustainable cocktails concocted b
 		width: 100%;
 	}
 </style>
+
+-->
