@@ -12,10 +12,9 @@ description: ""
 
 GoodFoodPeople is an online plant-based grocer. Customers, vegans or otherwise, will be able to choose from an extensive variety of ready-to-heat meals, dairy alternatives, ‘raw’ meat, and even a dedicated bakery with breads, jams and cakes.
 
-For all those who want to try GoodFoodPeople products enjoy a 10% discount with the code GOGREEN23 valid on its website.
+During Go Green SG, enjoy a 10% discount with the code GOGREEN23 when you place your orders online.
 
-For every order that is placed, GoodFoodPeople will plant a tree to help offset the carbon emissions from the delivery. Now this is another reason to feel good about eating good. 
-
+For every order that is placed, GoodFoodPeople will plant a tree to help offset the carbon emissions from the delivery. 
 
 <a class="btn-link" target="_blank" href="https://goodfoodpeople.sg/">
 	<img src="/images/more-info-btn.png">
