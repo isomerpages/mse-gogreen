@@ -19,10 +19,11 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 		background-color: transparent;
 	}
 	
-	.bp-accordion-button {
+	.accordion > .bp-accordion-header > .bp-accordion-button {
 		display: block;
 		width: 100%;
-	text-decoration: none;
+		text-decoration: none;
+	margin: 0;
 	}
 	
 	.bp-accordion-button::before {
