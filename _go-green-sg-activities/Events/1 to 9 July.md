@@ -181,6 +181,35 @@ third_nav_title: Events
       </a>
     </div>
   </div>
+	 <!-- Innovation Day: Singapore 2023-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/innovation%20day%20kv%20(43).png">
+        <h2>Innovation Day: Singapore 2023
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Organiser: Schneider Electric </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Explore the latest market insights and innovations within Schneider Electric. This event will highlight the importance of decarbonisation and its role in driving sustainability.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/innovation-day-schneider-electric/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- GREEN HOUSE -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
