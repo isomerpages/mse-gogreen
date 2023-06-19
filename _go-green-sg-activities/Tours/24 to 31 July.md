@@ -291,7 +291,7 @@ third_nav_title: Tours
             <strong>
               Date: 26 July</strong>
           </li>
-          <li><strong>Admission: $50 (registration required)</strong></li>
+          <li><strong>Admission: $50</strong></li>
           <li><strong>Venue: 8 Admiralty Street</strong></li>
           <li><strong>Organiser: Sustenir</strong></li>
         </ul>
