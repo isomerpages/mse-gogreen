@@ -234,6 +234,35 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+	 <!-- Discount for GoodFoodPeople Plant Based Groceries-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20goodfoodpeople.jpg">
+        <h2>Discount for GoodFoodPeople Plant Based Groceries
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: GoodFoodPeople</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Receive 10% off when you shop for your groceries at plant-based online grocer GoodFoodPeople.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/good-food-people-discounts/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	      <!-- Vintagewknd Pop-up "WASTE-GATE"-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
