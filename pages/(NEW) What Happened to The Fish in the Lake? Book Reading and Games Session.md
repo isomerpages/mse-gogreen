@@ -16,7 +16,13 @@ One of the central concepts of environmentalism and resource management is “Th
 In “What Happened to the Fish in the Lake?”, fishers live happily around a lake for years until they start to take more fish than they need. Over time, the fish dwindle and disappear. What will the fishers do now? This inspirational story highlights the need for all of us to come together to protect and sustain the environment and the Earth’s natural resources for current and future generations.
 
 
-<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events"><img src="/images/gogreensg_website-32.png"></a>
+**Choa Chu Kang Public Library Registration**
+
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/caring-for-the-environment-what-happened-to-the-fish-in-the-lake-tickets-645231333287?aff=ebdssbdestsearchhttps://go.gov.sg/smg-events"><img src="/images/gogreensg_website-32.png"></a>
+
+**Times Waterway Point Registration**
+
+<a class="btn-link" target="_blank" href="https://www.timesbookstores.com.sg/events/event-details/book-launch-what-happened-to-the-fish-in-the-lake"><img src="/images/gogreensg_website-32.png"></a>
 
 <style>
 	.btn-link {
