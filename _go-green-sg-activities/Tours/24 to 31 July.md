@@ -277,6 +277,38 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		<!--Sustenir Indoor Vertical Farm Tour-->
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/(listing)%20sustenir.jpg">
+        <h2>Sustenir Indoor Vertical Farm Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 26 July</strong>
+          </li>
+          <li><strong>Admission: $50 (registration required)</strong></li>
+          <li><strong>Venue: 8 Admiralty Street</strong></li>
+          <li><strong>Organiser: Sustenir</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Tour the farm of your favourite Kale growers! See how Sustenir brings to life its signature salads such as Kinky Kale and Toscano Kale inside its farms.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustenir-indoor-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!--Where Singapore's Waste Goes: A Tour of Semakau Landfill-->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
