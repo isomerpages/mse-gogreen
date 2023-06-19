@@ -12,8 +12,10 @@ description: ""
 **Admission:** Free (registration required)<br>
 **Organiser:**  Champs for Our Environment 
 
-Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session for children on environmental values. The book series explores eco-ethical values that inspire environmental stewardship in children. <br>
-One of the central concepts of environmentalism and resource management is “The Tragedy of the Commons”, which describes what happens when people take as much as they can from a shared resource without thinking of the consequences, leading to the depletion of that resource. <br>
+Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session for children on environmental values. The book series explores eco-ethical values that inspire environmental stewardship in children. 
+
+One of the central concepts of environmentalism and resource management is “The Tragedy of the Commons”, which describes what happens when people take as much as they can from a shared resource without thinking of the consequences, leading to the depletion of that resource.
+
 In “What Happened to the Fish in the Lake?”, fishers live happily around a lake for years until they start to take more fish than they need. Over time, the fish dwindle and disappear. What will the fishers do now? This inspirational story highlights the need for all of us to come together to protect and sustain the environment and the Earth’s natural resources for current and future generations.
 
 
