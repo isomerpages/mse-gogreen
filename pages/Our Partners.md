@@ -43,7 +43,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
         <h2 class="bp-accordion-header">
             <a class="bp-accordion-button">
 							<div class="bp-accordion-button-wrapper">
-									Accordion Item #1
+									Corporate Partners:
 							</div>
             </a>
         </h2>
