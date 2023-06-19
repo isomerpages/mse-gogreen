@@ -8,13 +8,13 @@ description: ""
 **Tour the farm of your favourite Kale growers! See how Sustenir brings to life its signature salads such as Kinky Kale and Toscano Kale inside its farms.**
 
 **Date:** 26 July, 9:00 – 10:30 am<br>
-**Admission:** $50 (registration required)<br>
+**Admission:** $50<br>
 **Venue:** 8 Admiralty Street<br>
 **Organiser:** Sustenir
 
 Tour the farm of your favourite Kale growers! See how Sustenir brings to life its signature salads such as Kinky Kale and Toscano Kale inside its farms.
 
-You’ll get to try your hand at seeding and harvesting during the tour, hear from Sustenir's chief nursery lead what it takes to grow the perfect kale and how the company is giving back to the community as a B Corp company (i.e., verified by B Lab to meet&nbsp;high standards&nbsp;of social and environmental performance, transparency, and accountability). Price includes a goodie bag of its products!
+You’ll get to try your hand at seeding and harvesting during the tour, hear from Sustenir's chief nursery lead on what it takes to grow the perfect kale and how the company is giving back to the community as a B Corp company (i.e., verified by B Lab to meet high standards of social and environmental performance, transparency, and accountability). Price includes a goodie bag of its products!
 
 This tour is for anyone who loves Sustenir's products or loves to find out more about indoor vertical farming in Singapore. 
 
@@ -35,4 +35,3 @@ Email info@sustenir.com with subject title “Go Green SG – Sustenir tour” t
 		width: 100%;
 	}
 </style>
---&gt;
