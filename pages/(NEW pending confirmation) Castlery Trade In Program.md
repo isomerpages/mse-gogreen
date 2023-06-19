@@ -3,9 +3,11 @@ title: (NEW pending confirmation) Castlery Trade In Program
 permalink: /castlery-trade-in-program/
 description: ""
 ---
-<!--
-![](/images/Initiatives/castlery%20picture.jpg)
-**Have Castlery furniture you want to replace? This July, trade-in your used Castlery furniture to give them a second life and get a discount on your next purchase!**
+<!-- 
+
+![Castlery](/images/Initiatives/castlery%20picture.jpg)
+
+**Do you have Castlery furniture at home you want to replace? This July, trade-in your used Castlery furniture to give them a second life and get a discount on your next purchase!**
 
 **Date:** 1 - 31 July<br>
 **Admission:** Free<br>
@@ -17,9 +19,6 @@ The Trade-in Programme is a new service that Castlery will pilot in July. Custom
 The used Castlery products will be donated, upcycled or recycled with selected partners, to give them a second life that positively impacts the community and environment. 
 
 
-<a href="https://www.castlery.com/sg/trade-in" target="_blank" class="btn-link">
-	<img src="/images/gogreensg_website-32.png">
-</a>
 
 <style>
 	.btn-link {

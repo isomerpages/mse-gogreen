@@ -88,7 +88,77 @@ third_nav_title: Workshops & Talks
 </style>
 
 <div class="row row_custom">
-  <!-- _/\/\/\ake O -->
+  <!-- Green Glam Up -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/green glam up resized.png">
+        <h2>Green Glam Up</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1, 2 July</strong>
+          </li>
+          <li>
+            <strong>
+              Admission: $12
+            </strong>
+          </li>
+          <li>
+            <strong>Venue: South Beach Avenue</strong>
+          </li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Pick up tips on sustainable beauty practices as you create your own body scrub and hair mask using natural ingredients.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/green-glam-up/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Self-Watering Planter Workshop -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/cs_swp_l.png">
+        <h2>Self-Watering Planter Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1, 2 July</strong>
+          </li>
+          <li>
+            <strong>
+              Admission: Free
+            </strong>
+          </li>
+          <li>
+            <strong>Venue: South Beach Avenue</strong>
+          </li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn how to upcycle plastic bottles into portable planters. Get your hands dirty, take home a sustainable solution for growing plants, and nurture nature together!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/self-watering-planter/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- _/\/\/\ake O -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">

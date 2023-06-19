@@ -124,6 +124,68 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	 <!-- SentoSights: Sentosa Intertidal Exploration-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosights_intertidal.jpg">
+        <h2>Sentosights: Sentosa Intertidal Exploration
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 17 - 22 July</strong>
+          </li>
+          <li><strong>Admission: $96.39 | 2 adults and 2 children:&nbsp;$340.20</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Discover a hidden world beneath the ocean when the tide retreats at Sentosa's coast, with a rare opportunity to get up close with marine life that is so often overlooked.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosights-sentosa-intertidal-exploration/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	  
+	<!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/tupspot.png">
+        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 17, 19, 21, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
+          <li><strong>Venue: Bukit Batok Park</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -151,66 +213,6 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/sustainable-hotel-building-tour-and-afternoon-tea/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/aq_station_1.jpg">
-        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2> <sup>Fully booked</sup>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 19 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
-          <li><strong>National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         Good air quality safeguards public health! Find out how ambient air quality is being monitored in stations across Singapore.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/breath-of-fresh-air/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tupspot.png">
-        <h2>Night Explorations: Spot Flying Lemurs in a Secondary Forest</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 17, 19, 21, 23 July
-            </strong>
-          </li>
-          <li><strong>Admission: Adult: $71 | Child: $37</strong></li>
-          <li><strong>Venue: Bukit Batok Park</strong></li>
-          <li><strong>Organiser: The Untamed Paths</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          This exploration will be conducted at night, when the forest comes to life! With our senses, we will pick out the creatures of the night, appreciate the tranquil sounds of the forest, and identify Singapore's hidden wildlife.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/night-explorations-spot-flying-lemurs-in-a-secondary-forest/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -245,6 +247,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>  
+	<!-- A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/aq_station_1.jpg">
+        <h2>A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality Monitoring Stations</h2> <sup>Fully booked</sup>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
+          <li><strong>National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Good air quality safeguards public health! Find out how ambient air quality is being monitored in stations across Singapore.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/breath-of-fresh-air/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- The Full Inertidal: Explore, Learn, Engage -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -272,7 +304,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-	
 <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -374,6 +405,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Sentosights naturalist night adventure -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosa_naturalistnightadventure.jpg">
+        <h2>SentoSights: Sentosa Naturalist Night Adventure</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 22 July
+            </strong>
+          </li>
+          <li><strong>Admission: $86.76 | 2 adults and 2 children: $306.18</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Experience the true ‘wild side’ on this night adventure through a rainforest. With a small torch, peek into the secretive lives of the nocturnal creatures found on Sentosa.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosights-sentosa-naturalist-night-adventure/" class="button-primary">
+        Find out more
+      </a>
+		</div>
+	</div>
 		  <!-- City Farm Tours with Tasting-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -497,6 +559,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Sentosights east asian flyway -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosa_eastasianflyway_final.jpg">
+        <h2>SentoSights: East Asian Flyway (Introduction to Birdwatching)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July
+            </strong>
+          </li>
+          <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosights-east-asian-flyway/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 			  <!-- Race on Sunshine-->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -908,6 +1001,130 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/mangrove-goodies/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- Nature and Sustainability Tour: Biodiversity and Ecosystems-->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_biodiversitynecosystems.png">
+        <h2>Nature and Sustainability Tour: Biodiversity and Ecosystems</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Go on a journey of diverse habitats from around the world as you learn about the importance and interconnectedness of the natural environment and biodiversity.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-sustainability-tour-biodiversity-and-ecosystems/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Nature and Sustainability Tours: Carbon and Climate-->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_carbonclimatetour.png">
+        <h2>Nature and Sustainability Tour: Carbon and Climate</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Discover the secrets of how Singapore’s beloved tourist attraction cuts down on its carbon emissions.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- Nature and Sustainability Tours: Urban Wetlands-->
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_urbanwetlands.jpg">
+        <h2>Nature and Sustainability Tour: Urban Wetlands</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Explore the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-and-sustainability-tour-urban-wetlands/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Sentosights: Immersive Rainforest Trails-->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sentosa_immersiverainforest.jpg">
+        <h2>Sentosights: Immersive Rainforest Trails</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
+          <li><strong>Venue: Siloso Point</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Explore the lush rainforest ecosystem in Sentosa which hosts a rich array of unique native flora and fauna. Learn more about the often-overlooked flowers and plants of Sentosa’s forest.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosights-immersive-rainforest-trails/" class="button-primary">
         Find out more
       </a>
     </div>

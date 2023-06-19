@@ -263,4 +263,35 @@ third_nav_title: Challenges
       </a>
     </div>
   </div>
+		  <!-- Explorers of Sentosa by Thomas Dambo-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sentosa_explorers_final.jpg">
+        <h2>Explorers of Sentosa by Thomas Dambo
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Palawan Beach, Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+     Discover hidden parts of Palawan Beach while reflecting on humanity's interactions with nature and the waste we generate, through the artwork of internationally renowned recycling artist Thomas Dambo. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/explorers-of-sentosa-by-thomas-dambo/" class="button-primary">
+        Find out more
+			</a>
+    </div>
+  </div>
 </div>

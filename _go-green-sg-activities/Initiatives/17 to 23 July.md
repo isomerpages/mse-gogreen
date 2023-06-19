@@ -88,71 +88,7 @@ third_nav_title: Initiatives
 </style>
 
 <div class="row row_custom">
-  <!-- Community Composting Volunteer Programme @ JLG -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Initiatives/community%20composting%20volunteer%20programme.jpg">
-        <h2>Community Composting Volunteer Programme @ Jurong Lake Gardens</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 22 July</strong></li>
-          <li>
-            <strong>Admission: Free (registration required)</strong>
-          </li>
-          <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
-          </li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Join us at the Community Compost Corner at Jurong Lake Gardens and
-          help to create compost from food scraps and plant trimmings.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/community-composting-volunteer-programme-jurong-lake-gardens" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-  <!-- Edible Gardening and Management @ Jurong Lake Gardens -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Initiatives/edible%20gardening%20and%20management.jpg">
-        <h2>Edible Gardening and Management @ Jurong Lake Gardens</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>Date: 19 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li>
-            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
-          </li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Volunteer with us at Jurong Lake Gardens for an evening of gardening
-          and basic horticultural maintenance for our edible plant collections.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/edible-gardening-and-management-at-jurong-lake-gardens/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-  <!-- Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food -->
+	<!-- Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -184,7 +120,39 @@ third_nav_title: Initiatives
       </a>
     </div>
   </div>
-  <!-- Launch of Bounce Bag Point at 85 Dawson Road -->
+	<!-- Edible Gardening and Management @ Jurong Lake Gardens -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/edible%20gardening%20and%20management.jpg">
+        <h2>Edible Gardening and Management @ Jurong Lake Gardens</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 19 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Volunteer with us at Jurong Lake Gardens for an evening of gardening
+          and basic horticultural maintenance for our edible plant collections.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/edible-gardening-and-management-at-jurong-lake-gardens/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+    <!-- Launch of Bounce Bag Point at 85 Dawson Road -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -193,7 +161,7 @@ third_nav_title: Initiatives
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: TBC</strong></li>
+          <li><strong>Date: 20 July</strong></li>
           <li><strong>Admission: N/A</strong></li>
           <li><strong>Venue: 85 Dawson Road</strong></li>
           <li><strong>Organiser: Tanjong Pagar Town Council</strong></li>
@@ -212,5 +180,35 @@ third_nav_title: Initiatives
         Find out more
       </a>
     </div>
-  </div>
-</div>
+  </div><!-- Community Composting Volunteer Programme @ JLG -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/community%20composting%20volunteer%20programme.jpg">
+        <h2>Community Composting Volunteer Programme @ Jurong Lake Gardens</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 22 July</strong></li>
+          <li>
+            <strong>Admission: Free (registration required)</strong>
+          </li>
+          <li>
+            <strong>Venue: Jurong Lake Gardens, Lakeside Garden</strong>
+          </li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join us at the Community Compost Corner at Jurong Lake Gardens and
+          help to create compost from food scraps and plant trimmings.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/community-composting-volunteer-programme-jurong-lake-gardens" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div></div>

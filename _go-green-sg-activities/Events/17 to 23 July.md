@@ -119,6 +119,37 @@ third_nav_title: Events
       </a>
     </div>
   </div>
+		<!-- Sensory Odyssey-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/microsoftteams-image (1).png">
+        <h2>Sensory Odyssey
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 July - 29 October</strong>
+          </li>
+          <li><strong>Admission: From $17</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Wonder at our incredibly diverse and fascinating living world in Sensory Odyssey - a multi-sensory and immersive exhibition that brings visitors on a spectacular journey into the heart of our ecosystems.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sensory-odyssey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!--  Singapore Furniture Industries Council Sustainability Summit -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
