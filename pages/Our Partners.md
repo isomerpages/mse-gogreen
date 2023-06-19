@@ -14,7 +14,12 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	}
 	
 	.accordion .row {
-		flex-wrap: wrap;
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+	}
+	
+	.accordion .row .col {
+		width: 100%;
 	}
 	
 	.accordion > .bp-accordion-header {
