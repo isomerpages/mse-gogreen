@@ -88,35 +88,6 @@ third_nav_title: Events
 </style>
 
 <div class="row row_custom">
-	 <!-- What Happened to The Fish in the Lake? Book Reading and Games Session-->
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Events/(listing)%20champs%20for%20our%20environment.png">
-        <h2>What Happened to The Fish in the Lake? Book Reading and Games Session
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 1, 2 July</strong>
-          </li>
-          <li><strong>Organiser: Champs for Our Environment</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-       Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/what-happen-to-fish-in-lake/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 			  <!-- Specimen Stories: Biodiversity in a Changing Climate-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -175,6 +146,35 @@ third_nav_title: Events
     </div>
     <div class="programmes__item__actions">
       <a href="/sensory-odyssey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- What Happened to The Fish in the Lake? Book Reading and Games Session-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)%20champs%20for%20our%20environment.png">
+        <h2>What Happened to The Fish in the Lake? Book Reading and Games Session
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 2 July</strong>
+          </li>
+          <li><strong>Organiser: Champs for Our Environment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/what-happen-to-fish-in-lake/" class="button-primary">
         Find out more
       </a>
     </div>
