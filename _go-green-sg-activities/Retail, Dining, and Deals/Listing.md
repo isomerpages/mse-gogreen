@@ -205,12 +205,12 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
-	 <!-- Carousell Promo Code For Your Secondhand Purchases!-->
+	 <!-- Carousell Promo Code For Your Secondhand Purchases-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Challenges%20&amp;%20Deals/(listing)%20carousell.jpg">
-        <h2>Carousell Promo Code For Your Secondhand Purchases!
+        <h2>Carousell Promo Code For Your Secondhand Purchases
 </h2>
       </div>
       <div class="programmes__item__detail">
