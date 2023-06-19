@@ -3,7 +3,7 @@ title: "(NEW) Innovation Day: Singapore 2023"
 permalink: /innovation-day-schneider-electric/
 description: ""
 ---
-<!--
+
 ![](/images/Events/innovation%20day%20kv%20(169).png)
 
 **Explore the latest market insights and innovations within Schneider Electric. This event will highlight the importance of decarbonisation and its role in driving sustainability.**
@@ -19,7 +19,7 @@ With a focus on its 50th Anniversary theme 'Advancing Singapore to Net Zero,' th
 
 Join Schneider Electric for an immersive experience that will shape the future of sustainability and innovation. 
 
-<a href="https://eu.eventscloud.com/website/10640/home?eventid=200259990&amp;reference=go-green-SE" target="_blank" class="btn-link"><img src="/images/gogreensg_website-32.png"></a>
+<a class="btn-link" target="_blank" href="https://eu.eventscloud.com/website/10640/home?eventid=200259990&amp;reference=go-green-SE"><img src="/images/gogreensg_website-32.png"></a>
 
 <style>
 	.btn-link {
@@ -34,5 +34,3 @@ Join Schneider Electric for an immersive experience that will shape the future o
 		width: 100%;
 	}
 </style>
-
---&gt;-->
