@@ -182,7 +182,7 @@ third_nav_title: Retail, Dining, and Deals
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Challenges%20&amp;%20Deals/(listing)%20saladstop.jpg">
-        <h2>BYO to receive Free Topping or Discount for Takeaway Orders at SaladStop!</h2>
+        <h2>BYO to Receive Free Topping or Discount for Takeaway Orders at SaladStop!</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
