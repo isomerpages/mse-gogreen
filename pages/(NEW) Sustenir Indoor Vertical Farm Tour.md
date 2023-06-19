@@ -3,6 +3,7 @@ title: (NEW) Sustenir Indoor Vertical Farm Tour
 permalink: /sustenir-indoor-farm-tour/
 description: ""
 ---
+<!--
 ![](/images/Tours/sustenir.jpg)
 
 **Tour the farm of your favourite Kale growers! See how we bring to life our signature salads such as Kinky Kale and Toscano Kale inside our farms.**
@@ -18,7 +19,7 @@ This tour is for anyone who loves our products or in general would love to find 
 
 Email info@sustenir.com with subject title “Go Green SG – Sustenir tour” to register. <br> Registration closes on 12th July. 
 
-<a class="btn-link" target="_blank" href="https://sustenir.com/"><img src="/images/more-info-btn.png"></a>
+<a href="https://sustenir.com/" target="_blank" class="btn-link"><img src="/images/more-info-btn.png"></a>
 
 <style>
 	.btn-link {
@@ -33,3 +34,4 @@ Email info@sustenir.com with subject title “Go Green SG – Sustenir tour” t
 		width: 100%;
 	}
 </style>
+-->
