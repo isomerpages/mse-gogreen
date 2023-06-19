@@ -107,7 +107,7 @@ third_nav_title: Events
       </div>
       <div class="programmes__item__body">
         <p>
-       Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. The book series explores eco-ethical values that inspire environmental stewardship in children.
+       Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. 
         </p>
       </div>
     </div>
@@ -224,6 +224,7 @@ third_nav_title: Events
             <strong>
               Date: 6 July</strong>
           </li>
+					<li><strong>Admission: Free</strong></li>
           <li><strong>Organiser: Schneider Electric </strong></li>
         </ul>
       </div>
