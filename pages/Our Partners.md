@@ -49,11 +49,20 @@ Go Green SG would like to thank all our partners who have been instrumental in s
             </a>
         </h3>
             <div style="display: block" class="bp-accordion-body">
-                <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse
-                plugin adds the appropriate classes that we use to style each element. These classes control the overall
-                appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go
-                within the <code>.accordion-body</code>, though the transition does limit overflow.
+							<div class="row">
+								<div class="col is-one-quarter">
+									<img src="">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="">
+								</div>
+							</div>
         </div>
     </div>
     <div class="accordion">
