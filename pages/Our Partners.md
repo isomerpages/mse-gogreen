@@ -125,7 +125,32 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 					</a>
         </h3>
 				<div class="bp-accordion-body">
-                Halo
+					<div class="row">
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/champs%20for%20our%20environment.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/divert%20for%202nd%20life.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/living%20soil%20asia.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/metta%20welfare%20association.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/singapore%20fashion%20council.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/singapore%20furniture%20industries%20council.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/tanjong%20pagar%20town%20council.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/unleash.png">
+						</div>
+					</div>
 				</div>
     </div>
 	<div class="accordion">
@@ -138,7 +163,32 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 					</a>
         </h3>
 				<div class="bp-accordion-body">
-								Halo
+					<div class="row">
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/earth%20observatory%20of%20singapore%201.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/jamiyah%20kindergarten.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/marsiling%20secondary%20school%201.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/rp%20logo-cmyk-high-res%20(for%20light-colored%20bg).png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/sp_marketing_logo_main_rgb_fullcolour_on_white_bg.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/agape%20little%20uni.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/ai%20tong%20school.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+						</div>
+					</div>
         </div>
     </div>
 </div>
