@@ -49,8 +49,12 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 		align-items: center;
 	}
 	
-	.bp-accordion-button:has(.sgds-icon-plus) > .bp-accordion-button-wrapper > .arrow-icon {
-		transform: rotate(180deg)
+	.bp-accordion-header:has( > .bp-accordion-button.sgds-icon-plus) .arrow-icon {
+	transform: rotate(180deg);
+	}
+	
+	.bp-accordion-header:has( > .bp-accordion-button.sgds-icon-minus) .arrow-icon {
+	transform: rotate(0);
 	}
 </style>
  
