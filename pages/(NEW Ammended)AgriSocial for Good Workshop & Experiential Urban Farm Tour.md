@@ -3,6 +3,7 @@ title: (NEW Ammended)AgriSocial for Good Workshop & Experiential Urban Farm Tour
 permalink: /agrisocial-workshop-farm-tour/
 description: ""
 ---
+<!--
 ![](/images/Workshop%20&amp;%20Talks/question%20111%20-%20bazaar.png)
 
 **Come and learn how Singapore is pushing the boundaries of agriculture, utilising technology and innovation to achieve greater food security and become an agricultural hub in the region.**
@@ -24,7 +25,7 @@ Slot 3: 12pm-1pm
 There is a fee of $10. SUSS will contact the registrants for the payment method after receiving registration. All the revenue will be contributed to the Student Care Fund under SUSS’ Better Together Challenge.
 
 
-<a target="_blank" class="btn-link" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
+<a href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo" class="btn-link" target="_blank">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -40,4 +41,4 @@ There is a fee of $10. SUSS will contact the registrants for the payment method 
 	}
 </style>
 
---&gt;
+-->
