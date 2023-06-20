@@ -104,7 +104,7 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 									<img src="/images/Our%20Partners/asia%20pacific%20breweries.png">
 								</div>
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/castlery.png">
+									<img src="/images/Our%20Partners/castlery%20logo.png">
 								</div>
 								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/changi%20airport%20cycling.png">
