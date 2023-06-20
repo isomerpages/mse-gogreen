@@ -13,7 +13,9 @@ description: ""
 **Venue:** Singapore University of Social Sciences (SUSS)<br>
 **Organiser:**  Singapore University of Social Sciences (SUSS)
 
-Join students of the SUSS Agri-preneur Incubation Programme at the Harvest 2 bazaar where they showcase their business ideas and social impact, pitch to customers, and sell their products or services. Come and check out what our young aspiring students are up to, and also sample some delicious food made with the fresh harvest from the SUSS Experiential Urban Farm! 
+Join students of the SUSS Agri-preneur Incubation Programme at the Harvest 2 bazaar where they showcase their business ideas and social impact, pitch to customers, and sell their products and services. 
+
+Come and check out what these young aspiring students are up to, and also sample some delicious food made with the fresh harvest from the SUSS Experiential Urban Farm! 
 
 <a href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
