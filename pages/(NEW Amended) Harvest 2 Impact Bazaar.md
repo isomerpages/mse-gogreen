@@ -6,7 +6,7 @@ description: ""
 <!--
 ![](/images/Events/question%20113%20-%20b2.jpg)
 
-**Curious about what kind of business ideas the agri-preneurs from Singapore University of Social Sciences (SUSS) are developing? Join the bazaar, listen to their pitch, and buy some food made with the harvest from the SUSS Experiential Urban Farm!**
+**Curious about the business ideas SUSS agri-preneurs are developing? Join the bazaar, listen to their pitch, and buy food made with the harvest from the SUSS Experiential Urban Farm and products from partner social enterprises!**
 
 **Date:** 29 July, 10:00 am – 1:00 pm<br>
 **Admission:** Free (registration required)<br>
