@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 7, 14, 21 July, 7:00 - 10:00 pm<br>
 **Admission:** $30<br>
-**Venue:** City Sprouts<br>
+**Venue:** Sky Sprouts<br>
 **Organiser:** City Sprouts
 
 Films on the Farm is a signature event at Sky Sprouts where you can enjoy outdoor screenings in an intimate and open air setting.

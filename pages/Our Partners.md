@@ -9,20 +9,38 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 
 ## A big thank you to:
 <style>
-		.bp-accordion-header {
-			background-color: transparent;
-	padding-bottom: .5rem;
-			border-bottom: 2px solid black;
+	.accordion {
+		margin-bottom: 1.5rem;
 	}
 	
-	.bp-accordion-header:hover {
+	.accordion .row {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: .5rem;
+		margin: 0;
+	}
+	
+	.accordion .row .col {
+		width: 100%;
+	}
+	
+	.accordion > .bp-accordion-header {
+		background-color: transparent;
+		padding-bottom: .5rem;
+		border-bottom: 2px solid black;
+		font-size: 24px;
+	}
+	
+	.accordion > .bp-accordion-header:hover {
 		background-color: transparent;
 	}
 	
-	.bp-accordion-button {
+	.accordion > .bp-accordion-header > .bp-accordion-button {
 		display: block;
 		width: 100%;
-	text-decoration: none;
+		text-decoration: none;
+		margin: 0;
+		color: black;
 	}
 	
 	.bp-accordion-button::before {
@@ -36,35 +54,144 @@ Go Green SG would like to thank all our partners who have been instrumental in s
 	.bp-accordion-button.sgds-icon-minus {
 		content: "";
 	}
+	
+	.bp-accordion-button-wrapper {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	
+	.arrow-icon {
+		transition: all .5s;
+		transform: rotate(180deg);
+	}
+	
+	.accordion:first-child .arrow-icon {
+		transform: rotate(0);
+	}
+	
+	.bp-accordion-header:has( > .bp-accordion-button.sgds-icon-plus) .arrow-icon {
+	transform: rotate(180deg);
+	}
+	
+	.bp-accordion-header:has( > .bp-accordion-button.sgds-icon-minus) .arrow-icon {
+	transform: rotate(0);
+	}
 </style>
  
-<div id="accordionExample" class="accordion-container">
+<div class="accordion-container">
     <div class="accordion">
-        <h2 id="accordionExample" class="bp-accordion-header">
+        <h3 class="bp-accordion-header">
             <a class="bp-accordion-button">
 							<div class="bp-accordion-button-wrapper">
-									Accordion Item #1
+									<span>Corporate Partners:</span>
+									<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
 							</div>
             </a>
-        </h2>
+        </h3>
             <div style="display: block" class="bp-accordion-body">
-                <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse
-                plugin adds the appropriate classes that we use to style each element. These classes control the overall
-                appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go
-                within the <code>.accordion-body</code>, though the transition does limit overflow.
+							<div class="row">
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/gardens%20by%20the%20bay%201.png">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/marina%20bay%20sands%202.png">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/aws%20logo.png">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/asia%20pacific%20breweries.png">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/castlery%20logo.png">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/changi%20airport%20cycling.png">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/city%20developments%20limited.png">
+								</div>
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/citysprouts.png">
+								</div>
+							</div>
         </div>
     </div>
     <div class="accordion">
-        <h2 id="accordionExample" class="bp-accordion-header">
-					<a class="bp-accordion-button">Accordion Item #2</a>
-        </h2>
-            <div data-bp-parent="#accordionExample" data-bs-parent="#accordionExample" class="bp-accordion-body">
-                <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse
-                plugin adds the appropriate classes that we use to style each element. These classes control the overall
-                appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
-                custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go
-                within the <code>.accordion-body</code>, though the transition does limit overflow.
+        <h3 class="bp-accordion-header">
+					<a class="bp-accordion-button">
+						<div class="bp-accordion-button-wrapper">
+							<span>NGOs and Interest Groups:</span>
+							<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
+						</div>
+					</a>
+        </h3>
+				<div class="bp-accordion-body">
+					<div class="row">
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/champs%20for%20our%20environment.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/divert%20for%202nd%20life.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/living%20soil%20asia.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/metta%20welfare%20association.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/singapore%20fashion%20council.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/singapore%20furniture%20industries%20council.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/tanjong%20pagar%20town%20council.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGO/unleash.png">
+						</div>
+					</div>
+				</div>
+    </div>
+	<div class="accordion">
+        <h3 class="bp-accordion-header">
+					<a class="bp-accordion-button">
+						<div class="bp-accordion-button-wrapper">
+							<span>Schools:</span>
+							<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
+						</div>
+					</a>
+        </h3>
+				<div class="bp-accordion-body">
+					<div class="row">
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/earth%20observatory%20of%20singapore%201.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/jamiyah%20kindergarten.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/marsiling%20secondary%20school%201.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/rp%20logo-cmyk-high-res%20(for%20light-colored%20bg).png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/sp_marketing_logo_main_rgb_fullcolour_on_white_bg.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/agape%20little%20uni.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/ai%20tong%20school.png">
+						</div>
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+						</div>
+					</div>
         </div>
     </div>
 </div>

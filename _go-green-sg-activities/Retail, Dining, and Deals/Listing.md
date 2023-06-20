@@ -177,6 +177,184 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+	 <!-- BYO to receive Free Topping or Discount for Takeaway Orders at SaladStop!-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20saladstop.jpg">
+        <h2>BYO to Receive Free Topping or Discount for Takeaway Orders at SaladStop!</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: Ongoing</strong>
+          </li>
+          <li><strong>Organiser: SaladStop!</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Bring your own container for your takeaways to receive a free standard topping for salads or 80 cents discount on beverages.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/byo-saladstop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	 <!-- Carousell Promo Code For Your Secondhand Purchases-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20carousell.jpg">
+        <h2>Carousell Promo Code For Your Secondhand Purchases
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: Carousell</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Make secondhand your first choice! Enjoy $3 off a minimum spend of $30 when you pay via 'Buy' button on Carousell with promo code "GOGREENSG"
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/carousell-promo-code/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	 <!-- Discount for GoodFoodPeople Plant Based Groceries-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20goodfoodpeople.jpg">
+        <h2>Discount for GoodFoodPeople Plant Based Groceries
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: GoodFoodPeople</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Receive 10% off when you shop for your groceries at plant-based online grocer GoodFoodPeople.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/good-food-people-discounts/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	      <!-- Vintagewknd Pop-up "WASTE-GATE"-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/vintagewknd.png">
+        <h2>Vintagewknd Pop-Up "WASTE-GATE"
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 2, 24 - 31 July, 12:00 - 9:00 pm</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Orchard Gateway</strong></li>
+          <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Explore waste as fashion at this special pop-up featuring vintage and upcycled waste materials.
+      </p></div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/vintagewknd-pop-up-waste-gate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+				  <!-- Aquaponics Farm to Table Experience-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
+        <h2>Aquaponics Farm to Table Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 - 16 July, 11:00 am - 1:30 pm</strong>
+          </li>
+          <li><strong>Admission: $55++</strong></li>
+          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+          <li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Shop the Change 2023: Curated Shopping Experience -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/sfc_shopthechange.jpg">
+        <h2>Shop the Change 2023: Curated Shopping Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 July - 10 August, 10:30 am - 9:30 pm</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Design Orchard</strong></li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Shop the Change with Design Orchard this sustainability season with a unique, curated collection of sustainable and eco-conscious products made by local brands.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/shop-the-change-2023/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	        <!-- Sustainable Hotel Building Tour and Afternoon Tea-->
       <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -239,98 +417,4 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
-			  <!-- Aquaponics Farm to Table Experience-->
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
-        <h2>Aquaponics Farm to Table Experience
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 3 - 16 July, 11:00 am - 1:30 pm</strong>
-          </li>
-          <li><strong>Admission: $55++</strong></li>
-          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
-          <li><strong>Organiser: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-      Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-</div>
-
-<div class="row row_custom">
-  <!-- Shop the Change 2023: Curated Shopping Experience -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/sfc_shopthechange.jpg">
-        <h2>Shop the Change 2023: Curated Shopping Experience
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 3 July - 10 August, 10:30 am - 9:30 pm</strong>
-          </li>
-          <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: Design Orchard</strong></li>
-          <li><strong>Organiser: Singapore Fashion Council</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-      Shop the Change with Design Orchard this sustainability season with a unique, curated collection of sustainable and eco-conscious products made by local brands.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/shop-the-change-2023/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-      <!-- Vintagewknd Pop-up "WASTE-GATE"-->
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/vintagewknd.png">
-        <h2>Vintagewknd Pop-Up "WASTE-GATE"
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 1, 2, 24 - 31 July, 12:00 - 9:00 pm</strong>
-          </li>
-          <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: Orchard Gateway</strong></li>
-          <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-      Explore waste as fashion at this special pop-up featuring vintage and upcycled waste materials.
-      </p></div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/vintagewknd-pop-up-waste-gate/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div></div>
+   </div>

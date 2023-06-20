@@ -150,6 +150,35 @@ third_nav_title: Events
       </a>
     </div>
   </div>
+	<!-- What Happened to The Fish in the Lake? Book Reading and Games Session-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)%20champs%20for%20our%20environment.png">
+        <h2>What Happened to The Fish in the Lake? Book Reading and Games Session
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 2 July</strong>
+          </li>
+          <li><strong>Organiser: Champs for Our Environment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Join the author of the children’s book series “Champs for Our Environment”, Maggie Lee, for the first-ever interactive book reading session with games for children on environmental values. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/what-happen-to-fish-in-lake/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Fashion The Change 2023: Youth Designer Exhibition -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -177,6 +206,70 @@ third_nav_title: Events
     </div>
     <div class="programmes__item__actions">
       <a href="/fashion-the-change-2023-youth-designer-exhibition" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	 <!-- Innovation Day: Singapore 2023-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/innovation%20day%20kv%20(43).png">
+        <h2>Innovation Day: Singapore 2023
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+					<li><strong>Admission: Free</strong></li>
+          <li><strong>Organiser: Schneider Electric </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Explore the latest market insights and innovations within Schneider Electric. This event will highlight the importance of decarbonisation and its role in driving sustainability.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/innovation-day-schneider-electric/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	  <!-- Sustainable Movie Night -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/cs_movie.jpg">
+        <h2>Sustainable Movie Night
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 7 July</strong></li>
+          <li>
+            <strong>Admission: $30</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Sky Sprouts
+            </strong>
+          </li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability and indulge in a picnic on the rooftop with a snack box and drinks.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainable-movie-night/" class="button-primary">
         Find out more
       </a>
     </div>

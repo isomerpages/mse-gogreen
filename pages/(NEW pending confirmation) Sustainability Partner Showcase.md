@@ -4,7 +4,6 @@ permalink: /sustainability-partner-showcase/
 description: ""
 ---
 <!-- 
-
 ![Sustainability Partner Showcase](/images/Events/sustainability%20partnership%20showcase.jpg)
 
 **Explore a new partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.**

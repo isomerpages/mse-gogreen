@@ -197,7 +197,7 @@ third_nav_title: Events
           </li>
           <li>
             <strong>
-              Venue: City Sprouts
+              Venue: Sky Sprouts
             </strong>
           </li>
           <li><strong>Organiser: City Sprouts</strong></li>
