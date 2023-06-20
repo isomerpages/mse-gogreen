@@ -7,7 +7,7 @@ description: ""
 
 **Tour the farm of your favourite Kale growers! See how Sustenir brings to life its signature salads such as Kinky Kale and Toscano Kale inside its farms.**
 
-**Date:** 26 July, 9:00 – 10:30 am<br>
+**Date:** 26 July, 9:00 – 10:30am | 11:00am – 12:30pm <br>
 **Admission:** $50<br>
 **Venue:** 8 Admiralty Street<br>
 **Organiser:** Sustenir
