@@ -12,11 +12,13 @@ description: ""
 **Venue:** SaladStop! One George Street<br>
 **Organiser:**  SaladStop! &amp; GoodFoodPeople
 
-A fun and interactive talk brought to you by online vegan grocer GoodFoodPeople. GoodFoodPeople's accredited nutritionist will explain what a plant-based diet is and its associated health and environmental benefits. 
-Learn where to find essential nutrients, and the pros and cons of plant-based protein products. Participants will have the opportunity to sample some plant-based meat alternatives, and enjoy their very own vegan bowl after the talk. 
+In a fun and interactive talk by online vegan grocer GoodFoodPeople, its accredited nutritionist will explain what a plant-based diet is, and its associated health and environmental benefits. 
 
-This is a great opportunity to understand the need to start thinking about the choice of food, and how diet not only impacts health but also the planet.
-Do join this talk if you care about eating health, for yourself and for the world we live in. 
+Learn where to find essential nutrients, and the pros and cons of plant-based protein products. Participants will have the opportunity to sample some plant-based meat alternatives and enjoy their very own vegan bowl after the talk. 
+
+This is a great opportunity to understand the need to start thinking about the choice of food, and how diet impacts health and the planet.
+
+Join this talk if you care about eating health, for yourself and for the world we live in. 
 
 <sub>*$30 fee is inclusive of a vegan bowl and a bottle of cold-pressed juice.</sub>
 
