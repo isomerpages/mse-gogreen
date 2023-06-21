@@ -16,7 +16,7 @@ At ForestPlay, children get to have fun at Singapore's first nature adventure pl
 
 With an expansive outdoor area spanning 13,000 square feet, children will have the opportunity to unleash their creativity and build using real tools such as nails, hammers, and saws. In the adult-free zone, they can participate in various stations such as woodworking, obstacle course, outdoor cooking! 
 
-Trained Play Rangers will guide and support children as they navigate obstacles and challenges, encouraging them to step outside their comfort zones. Kowabunga believes that “the best way to learn is through play.”
+Trained Play Rangers will guide and support children as they navigate obstacles and challenges, encouraging them to step outside their comfort zones. 
 
 
 <a class="btn-link" target="_blank" href="https://www.kowabunga.com.sg/gogreenforestplay/"><img src="/images/gogreensg_website-32.png"></a>
