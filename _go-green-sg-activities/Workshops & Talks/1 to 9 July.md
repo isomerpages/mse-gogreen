@@ -395,7 +395,7 @@ third_nav_title: Workshops & Talks
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/i%20beleaf%20in%20you.jpg">
+        <img src="/images/Workshop%20&amp;%20Talks/go%20green%20explorers.jpg">
         <h2>Go Green Explorers
 </h2>
       </div>
