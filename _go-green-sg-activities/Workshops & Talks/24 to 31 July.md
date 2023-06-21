@@ -153,6 +153,40 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+		  <!-- Food that is Good for your Body, and Good for the Planet Talk -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)%20saladstop%20talk.jpg">
+        <h2>Food that is Good for your Body, and Good for the Planet Talk
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 28 July</strong></li>
+          <li>
+            <strong>Admission: $30 </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: SaladStop! One George Street
+            </strong>
+          </li>
+          <li><strong>Organiser: SaladStop! &amp; GoodFoodPeople</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+     Looks like meat, tastes like meat but isn’t meat? Come learn about plant-based alternatives and why a vegan diet is healthier for you and the planet..
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/food-body-plant-talk/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Kids Go Green -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
