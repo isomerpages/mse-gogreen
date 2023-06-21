@@ -7,7 +7,7 @@ description: ""
 
 **Looks like meat, tastes like meat but isn’t meat? Come learn about plant-based alternatives and why a vegan diet is healthier for you and the planet.**
 
-**Date:** 28 July, 2:00 – 3:30pm<br>
+**Date:** 28 July, 2:00 – 3:30 pm<br>
 **Admission:** $30<br>
 **Venue:** SaladStop! One George Street<br>
 **Organiser:**  SaladStop! &amp; GoodFoodPeople
