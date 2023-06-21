@@ -7,7 +7,7 @@ description: ""
 
 **Have fun at Singapore's first nature adventure playground and become sustainability champions through the exciting Solar Oven construction activity to enjoy some s'mores**
 
-**Date:** 29 July, 9:30am – 12:00pm<br>
+**Date:** 29 July, 9:30 am – 12:00 pm<br>
 **Admission:** $65<br>
 **Venue:** ForestPlay @ Sentosa<br>
 **Organiser:**  Kowabunga! Global Pte Ltd
