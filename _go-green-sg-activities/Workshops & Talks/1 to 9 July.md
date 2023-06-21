@@ -356,4 +356,35 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+	<!--  Go Green Explorers -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/i%20beleaf%20in%20you.jpg">
+        <h2>Go Green Explorers
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: $50</strong></li>
+          <li><strong>Venue: Jurong Lake Gardens</strong></li>
+          <li><strong>Organiser: Kowabunga! Global Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       In this exciting nature adventure, children will learn about the unique flora and fauna of Jurong Lake Gardens and discover more about sustainability through construction of a solar oven.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/go-green-explorers-kowabunga/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
