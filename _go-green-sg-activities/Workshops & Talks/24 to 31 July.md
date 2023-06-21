@@ -158,7 +158,7 @@ third_nav_title: Workshops & Talks
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/(listing)%20saladstop%20talk.jpg">
-        <h2>Food that is Good for your Body, and Good for the Planet Talk
+        <h2>Food that is Good for your Body, and Good for the Planet
 </h2>
       </div>
       <div class="programmes__item__detail">
