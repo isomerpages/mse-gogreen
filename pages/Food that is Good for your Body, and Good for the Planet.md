@@ -8,7 +8,7 @@ description: ""
 **Looks like meat, tastes like meat but isn’t meat? Come learn about plant-based alternatives and why a vegan diet is healthier for you and the planet.**
 
 **Date:** 28 July, 2:00 – 3:30 pm<br>
-**Admission:** $30<br>
+**Admission:** $30  (inclusive of a vegan bowl and a bottle of cold-pressed juice)<br>
 **Venue:** SaladStop! One George Street<br>
 **Organiser:**  SaladStop! &amp; GoodFoodPeople
 
@@ -19,8 +19,6 @@ Learn where to find essential nutrients, and the pros and cons of plant-based pr
 This is a great opportunity to understand the need to start thinking about the choice of food, and how diet impacts health and the planet.
 
 Join this talk if you care about eating health, for yourself and for the world we live in. 
-
-<sub>*$30 fee is inclusive of a vegan bowl and a bottle of cold-pressed juice.</sub>
 
 <a class="btn-link" target="_blank" href="https://forms.gle/tegzupskZeLkQJ9R8"><img src="/images/gogreensg_website-32.png"></a>
 
