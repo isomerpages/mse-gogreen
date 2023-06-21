@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Workshop%20&amp;%20Talks/forestplay%20kowabunga.jpg)
 
-**Have fun at Singapore's first nature adventure playground and become sustainability champions through the exciting Solar Oven construction activity to enjoy some s'mores**
+**Have fun at Singapore's first nature adventure playground and become sustainability champions through the exciting Solar Oven construction activity to enjoy some s'mores.**
 
 **Date:** 29 July, 9:30 am – 12:00 pm<br>
 **Admission:** $65<br>
