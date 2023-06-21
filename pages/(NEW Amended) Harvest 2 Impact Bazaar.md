@@ -5,6 +5,7 @@ description: ""
 ---
 ![](/images/Events/question%20113%20-%20b2.jpg)
 
+
 **Curious about the business ideas SUSS agri-preneurs are developing? Join the bazaar, listen to their pitch, and buy food made with the harvest from the SUSS Experiential Urban Farm and products from partner social enterprises!**
 
 **Date:** 29 July, 10:00 am – 1:00 pm<br>
@@ -33,4 +34,3 @@ Come and check out what these young aspiring students are up to, and also sample
 		width: 100%;
 	}
 </style>
-
