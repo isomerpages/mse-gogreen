@@ -177,7 +177,7 @@ third_nav_title: Workshops & Talks
       </div>
       <div class="programmes__item__body">
         <p>
-     Looks like meat, tastes like meat but isn’t meat? Come learn about plant-based alternatives and why a vegan diet is healthier for you and the planet..
+     Looks like meat, tastes like meat but isn’t meat? Come learn about plant-based alternatives and why a vegan diet is healthier for you and the planet.
         </p>
       </div>
     </div>
