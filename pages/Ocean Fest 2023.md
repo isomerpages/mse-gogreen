@@ -14,7 +14,7 @@ description: ""
 
 The underwater world invites you to hear the ocean’s plea by discovering one of the grave threats facing all marine life: human activity. 
 
-From the true scale of plastic waste to the long-term impacts of overfishing; witness the impact   in specially curated exhibitions and art installations that are artistic yet alarming.  Attend a meaningful storytelling experience in the Ocean Dome and  learn how you can help save the sea’s and humanity’s future.
+From the true scale of plastic waste to the long-term impacts of overfishing, witness the impact in specially curated exhibitions and art installations that are artistic yet alarming.  Attend a meaningful storytelling experience in the Ocean Dome and  learn how you can help save the sea’s and humanity’s future.
 
 
 <a class="btn-link" target="_blank" href="https://www.rwsentosa.com/en/events/ocean-fest">
