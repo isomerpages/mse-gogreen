@@ -88,6 +88,37 @@ third_nav_title: Events
 </style>
 
 <div class="row row_custom">
+	<!-- Ocean Fest -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/sdc_of_l.jpg">
+        <h2>Ocean Fest 2023
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 July - 13 August</strong>
+          </li>
+          <li><strong>Admission: From $30</strong></li>
+          <li><strong>Venue: S.E.A. Aquarium</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       From specially curated exhibitions to stunning art installations and more, learn about the threat facing marine animals and discover how saving the seas will also save Earth’s future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/ocean-fest/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <!-- Specimen Stories: Biodiversity in a Changing Climate-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -115,37 +146,6 @@ third_nav_title: Events
     </div>
     <div class="programmes__item__actions">
       <a href="/specimen-stories-biodiversity-in-a-changing-climate/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<!-- Ocean Fest -->
-	 <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Events/sdc_of_l.jpg">
-        <h2>Ocean Fest 2023
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 1 July - 13 August</strong>
-          </li>
-          <li><strong>Admission: From $30</strong></li>
-          <li><strong>Venue: S.E.A. Aquarium</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-       From specially curated exhibitions to stunning art installations and more, learn about the threat facing marine animals and discover how saving the seas will also save Earth’s future.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/ocean-fest/" class="button-primary">
         Find out more
       </a>
     </div>
