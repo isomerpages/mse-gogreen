@@ -216,7 +216,7 @@ third_nav_title: Workshops & Talks
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/kids-go-green/" class="button-primary">
+      <a href="/go-green-forestplay/" class="button-primary">
         Find out more
       </a>
     </div>
