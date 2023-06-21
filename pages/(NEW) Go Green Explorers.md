@@ -7,7 +7,7 @@ description: ""
 
 **Join us in this exciting nature adventure where children will learn about the unique flora and fauna of Jurong Lake Gardens and discover more about sustainability through construction of a solar oven**
 
-**Date:** 9 July, 9:30 – 11:30am<br>
+**Date:** 9 July, 9:30 – 11:30 am<br>
 **Admission:** $50<br>
 **Venue:** Jurong Lake Gardens<br>
 **Organiser:**  Kowabunga! Global Pte Ltd
