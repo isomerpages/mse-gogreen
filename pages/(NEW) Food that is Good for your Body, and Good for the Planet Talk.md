@@ -18,7 +18,7 @@ Learn where to find essential nutrients, and about the pros and cons of plant-ba
 This is a great opportunity to understand the need to start thinking about our food choices, and how diet not only impacts health but also the planet.
 Do join this talk if you care about eating health, for yourself and for the world we live in. 
 
-$30 fee includesive of a vegan bowl and a bottle of cold-pressed juice.
+<sub>*$30 fee is inclusive of a vegan bowl and a bottle of cold-pressed juice.</sub>
 
 <a class="btn-link" target="_blank" href="https://forms.gle/tegzupskZeLkQJ9R8"><img src="/images/gogreensg_website-32.png"></a>
 
