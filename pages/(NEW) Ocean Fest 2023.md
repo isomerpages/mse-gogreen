@@ -8,7 +8,7 @@ description: ""
 **From specially curated exhibitions to stunning art installations and more, learn about the threat facing marine animals and discover how saving the seas will also save Earth’s future.**
 
 **Date:** 1 July - 13 August<br>
-**Admission:** $30 - $43<br>
+**Admission:** From $30<br>
 **Venue:** S.E.A. Aquarium<br>
 **Organiser:** Sentosa Development Corporation
 
