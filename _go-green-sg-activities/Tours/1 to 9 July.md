@@ -705,7 +705,7 @@ third_nav_title: Tours
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/CS_Sunsets.png/">
+        <img src="/images/Tours/cs_sunsets_l.jpg">
         <h2> Sunsets at Sky Sprouts</h2>
       </div>
       <div class="programmes__item__detail">
