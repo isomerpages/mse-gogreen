@@ -222,4 +222,40 @@ third_nav_title: Workshops & Talks
         Find out more
       </a>
     </div>
-  </div></div>
+  </div>
+	<!-- Junior Ocean Detective -->
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sdc_jod.jpg">
+        <h2>Junior Ocean Detective</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 15, 16 July</strong>
+          </li>
+          <li>
+            <strong>
+              Admission: $68
+            </strong>
+          </li>
+          <li>
+            <strong>Venue: S.E.A Aquarium</strong>
+          </li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Set your kids on an investigative journey to seek clues and solve marine-animal mysteries in this fun and educational programme.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/junior-ocean-detective/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+</div>
