@@ -12,12 +12,12 @@ description: ""
 **Venue:** S.E.A. Aquarium<br>
 **Organiser:** Sentosa Development Corporation
 
-The underwater world invites you to hear the ocean’s plea by discovering one of the grave threats facing all marine life: human activity. 
+Set your kids on an investigative journey to seek clues and solve marine-animal mysteries in S.E.A Aquarium’s underwater world! 
 
-From the true scale of plastic waste to the long-term impacts of overfishing; witness the impact   in specially curated exhibitions and art installations that are artistic yet alarming.  Attend a meaningful storytelling experience in the Ocean Dome and  learn how you can help save the sea’s and humanity’s future.
+How can a fish and moray eel be friends? Why is the beautiful lionfish unwelcome? Your kids will discover these and more as they use special detective toolkits and their wits! They will also meet an aquarist and learn about marine conservation in this fun and educational programme.
 
 
-<a class="btn-link" target="_blank" href="https://www.rwsentosa.com/en/events/ocean-fest">
+<a class="btn-link" target="_blank" href="https://www.rwsentosa.com/en/promotions/attractions/junior-ocean-detective">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
