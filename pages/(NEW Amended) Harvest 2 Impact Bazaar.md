@@ -3,7 +3,6 @@ title: (NEW Amended) Harvest 2 Impact Bazaar
 permalink: /harvest-2-impact/
 description: ""
 ---
-<!--
 ![](/images/Events/question%20113%20-%20b2.jpg)
 
 **Curious about the business ideas SUSS agri-preneurs are developing? Join the bazaar, listen to their pitch, and buy food made with the harvest from the SUSS Experiential Urban Farm and products from partner social enterprises!**
@@ -17,7 +16,7 @@ Join students of the SUSS Agri-preneur Incubation Programme at the Harvest 2 baz
 
 Come and check out what these young aspiring students are up to, and also sample some delicious food made with the fresh harvest from the SUSS Experiential Urban Farm! 
 
-<a href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo" target="_blank" class="btn-link">
+<a class="btn-link" target="_blank" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -35,4 +34,3 @@ Come and check out what these young aspiring students are up to, and also sample
 	}
 </style>
 
--->
