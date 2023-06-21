@@ -185,7 +185,7 @@ third_nav_title: Events
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Events/cs_movie.jpg">
+        <img src="/images/Events/cs_movie_l.png">
         <h2>Sustainable Movie Night
 </h2>
       </div>
