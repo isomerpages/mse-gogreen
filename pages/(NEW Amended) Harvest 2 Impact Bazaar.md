@@ -3,8 +3,8 @@ title: (NEW Amended) Harvest 2 Impact Bazaar
 permalink: /harvest-2-impact/
 description: ""
 ---
-![](/images/Events/question%20113%20-%20b2.jpg)
 
+![](/images/Events/suss%20bazaar.jpg)
 
 **Curious about the business ideas SUSS agri-preneurs are developing? Join the bazaar, listen to their pitch, and buy food made with the harvest from the SUSS Experiential Urban Farm and products from partner social enterprises!**
 
