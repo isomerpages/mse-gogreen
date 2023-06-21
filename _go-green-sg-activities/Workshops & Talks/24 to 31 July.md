@@ -187,6 +187,40 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+		  <!-- Go Green @ ForestPlay -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/cs_kkg_ln.png">
+        <h2>Go Green @ ForestPlay
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 29 July</strong></li>
+          <li>
+            <strong>Admission: $65 </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: ForestPlay @ Sentosa
+            </strong>
+          </li>
+          <li><strong>Organiser: Kowabunga! Global Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Have fun at Singapore's first nature adventure playground and become sustainability champions through the exciting Solar Oven construction activity to enjoy some s'mores.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/kids-go-green/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Kids Go Green -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
