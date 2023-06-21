@@ -304,6 +304,33 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Sunsets at sky sprouts -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/cs_sunsets_l.png">
+        <h2> Sunsets at Sky Sprouts</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 20, 22 July</strong></li>
+          <li><strong>Admission: $68 | $120 per pair</strong></li>
+          <li><strong>Venue: Sky Sprouts, 896 Dunearn Rd</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Sky Sprouts is a serene rooftop garden that showcases urban farming and community spirit. Join this sunset session and savor fresh harvest along with sustainably made alcohol!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sunsets-at-sky-sprouts/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <!-- Boat Tour to Singapore’s largest floating solar farm at Tengeh Reservoir -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
