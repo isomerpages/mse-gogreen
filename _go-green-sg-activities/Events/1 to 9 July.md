@@ -145,7 +145,7 @@ third_nav_title: Events
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/specimen-stories-biodiversity-in-a-changing-climate/" class="button-primary">
+      <a href="/ocean-fest/" class="button-primary">
         Find out more
       </a>
     </div>
