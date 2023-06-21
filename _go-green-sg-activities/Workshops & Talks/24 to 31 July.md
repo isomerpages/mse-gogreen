@@ -191,7 +191,7 @@ third_nav_title: Workshops & Talks
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_kkg_ln.png">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)%20go%20green%20at%20forestplay.jpg">
         <h2>Go Green @ ForestPlay
 </h2>
       </div>
