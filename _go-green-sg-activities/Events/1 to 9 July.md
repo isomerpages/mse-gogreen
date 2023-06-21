@@ -133,7 +133,7 @@ third_nav_title: Events
             <strong>
               Date: 1 July - 13 August</strong>
           </li>
-          <li><strong>Admission: $30-$43</strong></li>
+          <li><strong>Admission: From $30</strong></li>
           <li><strong>Venue: S.E.A. Aquarium</strong></li>
           <li><strong>Organiser: Sentosa Development Corporation</strong></li>
         </ul>
