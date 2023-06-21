@@ -12,7 +12,7 @@ description: ""
 **Venue:** Jurong Lake Gardens<br>
 **Organiser:**  Kowabunga! Global Pte Ltd
 
-Through hands-on activities and exploration, children will connect with the environment like never before. They will uncover hidden treasures, observe wildlife and learn fascinating facts about Jurong Lake Gardens.
+Through hands-on activities and exploration, children will connect with the environment. They will uncover hidden treasures, observe wildlife and learn fascinating facts about Jurong Lake Gardens.
 
 By constructing their very own solar oven, children will also discover the wonders of renewable energy and learn how to reduce reliance on fossil fuels. The Solar Oven activity allows participants to harness the Sun’s radiant energy and enjoy their very own delicious tasty treats - s’mores.
 
