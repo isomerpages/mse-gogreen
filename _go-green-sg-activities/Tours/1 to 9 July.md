@@ -712,7 +712,7 @@ third_nav_title: Tours
         <ul>
           <li><strong>Date: 6, 8 July</strong></li>
           <li><strong>Admission: $68 | $120 per pair</strong></li>
-          <li><strong>Venue: Sky Sprouts, 896 Dunearn Rd</strong></li>
+          <li><strong>Venue: Sky Sprouts</strong></li>
           <li><strong>Organiser: City Sprouts</strong></li>
         </ul>
       </div>
