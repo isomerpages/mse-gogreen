@@ -12,11 +12,11 @@ description: ""
 **Venue:** Our Tampines Hub, Entrance of Hawker Centre <br>
 **Organiser:** Muuse &amp; Stridy
 
-Litter and trash are a common sight when walking through some town parks and housing estates. Join Muuse and Stridy to clean up litter in the central Tampines area – it's free, and equipment will be provided. All are welcome, including children &amp; families! 
+Join Muuse and Stridy to clean up litter in the central Tampines area – it's free, and equipment will be provided. All are welcome, including children &amp; families! 
 
-Bring your friends, your family, and your love for the environment and a clean Singapore for all. Plus, lunch is on us – each participant will receive a $5 Hawker Centre voucher after the cleanup!
+Bring your friends, family, and love for the environment and a clean Singapore for all. Plus, each participant will receive a $5 Hawker Centre voucher after the cleanup!
 
-<em>In the event of bad weather, we will notify all participants beforehand and will shift the start timing to the afternoon. <em>
+<em>In the event of bad weather, participants will be notified beforehand and will shift the start timing to the afternoon. <em>
 
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/tampines-neighbourhood-cleanup-tickets-657501202797?aff=oddtdtcreator">
