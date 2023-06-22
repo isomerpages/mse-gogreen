@@ -370,4 +370,36 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
       </a>
     </div>
   </div>
+
+ <!-- Dazhong Community Day & Eco Carnival -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="![](/images/Events/dazhong%20primary%20school.jpeg)">
+        <h2>Dazhong Community Day &amp; Eco Carnival</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 1 July</strong></li>
+          <li><strong>Admission: Free</strong></li>
+          <li>
+            <strong>
+              Venue: Dazhong Primary School
+            </strong>
+          </li>
+          <li><strong>Organiser: Dazhong Primary School</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         Join Dazhong Primary School’s Community Day and Eco Carnival for activities such as Uncle Ringo’s carnival rides, eco-fair, and photo-taking with Star Wars troopers. Funds raised will support needy students.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/youth4climate-festival-2023" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
