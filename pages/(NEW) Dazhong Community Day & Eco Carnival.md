@@ -3,6 +3,7 @@ title: (NEW) Dazhong Community Day & Eco Carnival
 permalink: /dazhong-community-day-eco-carnival/
 description: ""
 ---
+<!-- 
 ![](/images/Events/dazhong%20primary%20school.jpeg)
 
 **Join Dazhong Primary School’s Community Day and Eco Carnival for activities such as Uncle Ringo’s carnival rides, eco-fair, and photo-taking with Star Wars troopers. Funds raised will support needy students.**
@@ -18,7 +19,7 @@ Join them as they go green with the 3As, with partners such as the National Envi
 
 Carnival tickets for activities are selling at $30 per booklet.
 
-<a class="btn-link" target="_blank" href="[https://go.gov.sg/dzcarnival](https://go.gov.sg/dzcarnival)">
+<a href="[https://go.gov.sg/dzcarnival](https://go.gov.sg/dzcarnival)" target="_blank" class="btn-link">
 </a>
 
 <style>
@@ -31,4 +32,4 @@ Carnival tickets for activities are selling at $30 per booklet.
 	.btn-link > img {
 		width: 100%;
 	}
-</style>
+</style>-->
