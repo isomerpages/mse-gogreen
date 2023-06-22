@@ -19,7 +19,6 @@ Join them as they go green with the 3As, with partners such as the National Envi
 Carnival tickets for activities are selling at $30 per booklet.
 
 <a class="btn-link" target="_blank" href="[https://go.gov.sg/dzcarnival](https://go.gov.sg/dzcarnival)">
-	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
