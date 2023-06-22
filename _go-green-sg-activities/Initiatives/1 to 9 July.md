@@ -92,30 +92,29 @@ third_nav_title: Initiatives
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Initiatives/photo_2023-03-25_18-42-41.jpg">
+        <img src="/images/Initiatives/(listing)%20muuse%20&amp;%20stridy%20cleanup.png">
         <h2>
-          Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food
+         Tampines Neighbourhood Cleanup
         </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1 - 31 July</strong>
+            <strong>Date: 1 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Various locations</strong></li>
-          <li><strong>Organiser: Divert for 2nd Life (D2L.sg)</strong></li>
+          <li><strong>Venue: Our Tampines Hub</strong></li>
+          <li><strong>Organiser: Muuse &amp; Stridy</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Volunteer to reduce food wastage with D2L.sg! Rescue unwanted food and
-          redistribute them to contribute towards a Zero-Waste Singapore!
+Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines neighbourhood cleanup! It's free &amp; equipment will be provided. All are welcome –including kids &amp; families!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food" class="button-primary">
+      <a href="/tampines-neighbourhood-cleanup/" class="button-primary">
         Find out more
       </a>
     </div>
