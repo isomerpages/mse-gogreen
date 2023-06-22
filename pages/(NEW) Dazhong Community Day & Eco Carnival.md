@@ -32,4 +32,6 @@ Carnival tickets for activities are selling at $30 per booklet.
 	.btn-link > img {
 		width: 100%;
 	}
-</style>-->
+</style>
+
+-->
