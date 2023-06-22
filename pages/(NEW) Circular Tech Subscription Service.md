@@ -17,7 +17,7 @@ To support Go Green SG there will be a choice of two exclusive coupons on offer 
  
 
 
-<a class="btn-link" target="_blank" href="https://www.saladstop.com.sg/rewards/">
+<a class="btn-link" target="_blank" href="https://go.nowcircular.sg/gogreen/?utm_source=partnership&amp;utm_medium=gogreen&amp;utm_campaign=july">
 	<img src="/images/more-info-btn.png">
 </a>
 
