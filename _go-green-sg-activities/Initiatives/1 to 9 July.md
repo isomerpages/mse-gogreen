@@ -88,6 +88,38 @@ third_nav_title: Initiatives
 </style>
 
 <div class="row row_custom">
+	<!-- Tampines Neighbourhood Cleanup -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/photo_2023-03-25_18-42-41.jpg">
+        <h2>
+          Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Various locations</strong></li>
+          <li><strong>Organiser: Divert for 2nd Life (D2L.sg)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Volunteer to reduce food wastage with D2L.sg! Rescue unwanted food and
+          redistribute them to contribute towards a Zero-Waste Singapore!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
