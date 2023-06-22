@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Challenges%20&amp;%20Deals/go%20green%20&amp;%20circular%20offer%202023%20169.png)
 
-**Get the latest tech from the best brands with an exclusive Go Green coupon for up to 50% discount on your first month's subscription from Circular, a tech subscription service.**
+**Get the latest tech from the best brands with exclusive Go Green coupons for up to 50% discount on your first month's subscription from Circular, a tech subscription service.**
 
 **Date:** 3 July, 9:00 am – 10 July, 9:00am<br>
 **Organiser:** Circular
