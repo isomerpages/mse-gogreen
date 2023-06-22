@@ -187,6 +187,37 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+		<!-- AgriSocial for Good Workshop & Experiential Urban Farm Tour-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)%20suss%20agrisocial.png">
+        <h2>AgriSocial for Good Workshop &amp; Experiential Urban Farm Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 July</strong>
+          </li>
+          <li><strong>Admission: $10</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences (SUSS)</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences (SUSS)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Come and learn how Singapore is pushing the boundaries of agriculture, utilising technology and innovation to achieve greater food security and become an agricultural hub in the region.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sensory-odyssey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Go Green @ ForestPlay -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
