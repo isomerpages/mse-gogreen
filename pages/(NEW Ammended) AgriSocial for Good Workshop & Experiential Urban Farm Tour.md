@@ -7,7 +7,7 @@ description: ""
 
 **Come and learn how Singapore is pushing the boundaries of agriculture, utilising technology and innovation to achieve greater food security and become an agricultural hub in the region.**
 
-**Date:** 29 July, 9:00 am – 12:00 pm<br>
+**Date:** 29 July, 10:00 am – 1:00 pm<br>
 **Admission:** $10 (registration required)<br>
 **Venue:** Singapore University of Social Sciences<br>
 **Organiser:** Singapore University of Social Sciences (SUSS)
