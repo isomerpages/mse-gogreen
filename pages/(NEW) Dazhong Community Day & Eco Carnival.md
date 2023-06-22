@@ -5,16 +5,20 @@ description: ""
 ---
 ![](/images/Events/dazhong%20primary%20school.jpeg)
 
-**Say hi to the mighty Black Solider Fly! Come and learn how an insect so small is making big contributions to waste reduction by turning trash into treasure!**
+**Join Dazhong Primary School’s Community Day and Eco Carnival for activities such as Uncle Ringo’s carnival rides, eco-fair, and photo-taking with Star Wars troopers. Funds raised will support needy students.**
 
-**Date:** 1, 8, 15, 22, 29 July 2023, 10:00 am – 11:30 am<br>
-**Admission:** $28 <br>
-**Venue:** Sustainability @ Tampines Park <br>
-**Organiser:** Otolith Enrichment
+**Date:** 1 July, 9.00 am – 4.00 pm<br>
+**Admission:** Free <br>
+**Venue:** Dazhong Primary School <br>
+**Organiser:** Dazhong Primary School
 
-Ever wondered how the Black Soldier Fly can help to reduce food waste? Join this interesting tour to learn about the various stages of the fly and its role in building a more sustainable future by turning trash into treasure. Participants will also get to try their hands in fertilising plants with Black Soldier Fly frass and feeding fish and quails with the larvae of the fly.
+As part of Dazhong’s 85th Anniversary, with the theme, “Dare to Shine!”, the school is organising a Community Day &amp; Eco Carnival to outreach to the community, to further environmental stewardship and sustainability beyond the school through Awareness, Action, Advocacy (3As). &nbsp;&nbsp;
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/black-soldier-fly-bsf-eco-farm-tour-tickets-408427877777">
+Join them as they go green with the 3As, with partners such as the National Environment Agency, PUB, Singapore’s Water Agency, Nature Society Singapore, and Hong Leong Asia.&nbsp;&nbsp;
+
+Carnival tickets for activities are selling at $30 per booklet.
+
+<a class="btn-link" target="_blank" href="[https://go.gov.sg/dzcarnival](https://go.gov.sg/dzcarnival)">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
