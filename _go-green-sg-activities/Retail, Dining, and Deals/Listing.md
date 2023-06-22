@@ -293,6 +293,35 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+		<!-- Circular Tech Subscription Service-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20go%20green%20&amp;%20circular%20offer%202023%2043.png">
+        <h2>Circular Tech Subscription Service
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 - 10 July</strong>
+          </li>
+          <li><strong>Organiser: Circular</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Get the latest tech from the best brands with exclusive Go Green coupons for up to 50% discount on your first month's subscription from Circular, a tech subscription service.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/circular-tech/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 				  <!-- Aquaponics Farm to Table Experience-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
