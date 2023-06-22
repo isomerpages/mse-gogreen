@@ -5,31 +5,32 @@ description: ""
 ---
 ![](/images/Initiatives/muuse%20&amp;%20stridy%20cleanup%20jpg.jpg)
 
-**Bring your own container for your takeaways to receive a free standard topping for salads or 80 cents discount on beverages.**
+**Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines neighbourhood cleanup! It's free &amp; equipment will be provided. All are welcome –including kids &amp; families!**
 
-**Date:** Ongoing<br>
-**Venue:** All SaladStop! outlets<br>
-**Organiser:** SaladStop!
+**Date:** 1 July 9:30 am – 11:30 am<br>
+**Admission:** Free (registration required) <br>
+**Venue:** Our Tampines Hub, Entrance of Hawker Centre <br>
+**Organiser:** Muuse &amp; Stridy
 
-There’s too much waste going to our landfill. Let’s reduce single-use disposables by bringing our own containers for takeaway meals and beverages.
+Litter and trash are a common sight when walking through some town parks and housing estates. Join Muuse and Stridy to clean up litter in the central Tampines area – it's free, and equipment will be provided. All are welcome, including children &amp; families! 
 
-SaladStop! encourages and rewards its customers who BYO. Receive a free standard topping when you bring your own container for salads, and 80 cents discount for beverages.  
+Bring your friends, your family, and your love for the environment and a clean Singapore for all. Plus, lunch is on us – each participant will receive a $5 Hawker Centre voucher after the cleanup!
+
+<em>In the event of bad weather, we will notify all participants beforehand and will shift the start timing to the afternoon. <em>
 
 
-<a class="btn-link" target="_blank" href="https://www.saladstop.com.sg/rewards/">
-	<img src="/images/more-info-btn.png">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/tampines-neighbourhood-cleanup-tickets-657501202797?aff=oddtdtcreator">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
 	.btn-link {
 		display: inline-block;
 	}
-	
 	a.btn-link[target="_blank"]:after {
-		display: none;
-	}
-	
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}
-</style>
+</style></em></em>
