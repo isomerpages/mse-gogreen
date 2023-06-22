@@ -92,7 +92,7 @@ third_nav_title: Events
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="![](/images/Events/dazhong%20primary%20school.jpeg)">
+        <img src="/images/Events/dazhong%20primary%20school.jpeg">
         <h2>Dazhong Community Day &amp; Eco Carnival</h2>
       </div>
       <div class="programmes__item__detail">
