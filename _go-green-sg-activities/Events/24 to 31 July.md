@@ -180,4 +180,35 @@ third_nav_title: Events
         Find out more
       </a>
     </div>
+  </div>
+	<!-- Harvest 2 Impact Bazaar-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)%20suss%20bazaar.jpg">
+        <h2>Harvest 2 Impact Bazaar
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences (SUSS)</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences (SUSS)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Curious about the business ideas SUSS agri-preneurs are developing? Join the bazaar, listen to their pitch, and buy food made with the harvest from the SUSS Experiential Urban Farm and products from partner social enterprises!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/harvest-2-impact/" class="button-primary">
+        Find out more
+      </a>
+    </div>
   </div></div>
