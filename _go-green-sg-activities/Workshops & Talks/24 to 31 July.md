@@ -153,6 +153,105 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+		  <!-- Food that is Good for your Body, and Good for the Planet Talk -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)%20saladstop%20talk.jpg">
+        <h2>Food that is Good for your Body, and Good for the Planet
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 28 July</strong></li>
+          <li>
+            <strong>Admission: $30 </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: SaladStop! One George Street
+            </strong>
+          </li>
+          <li><strong>Organiser: SaladStop! &amp; GoodFoodPeople</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+     Looks like meat, tastes like meat but isn’t meat? Come learn about plant-based alternatives and why a vegan diet is healthier for you and the planet.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/food-body-plant-talk/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- AgriSocial for Good Workshop & Experiential Urban Farm Tour-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)%20suss%20agrisocial.png">
+        <h2>AgriSocial for Good Workshop &amp; Experiential Urban Farm Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 July</strong>
+          </li>
+          <li><strong>Admission: $10</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences (SUSS)</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences (SUSS)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Come and learn how Singapore is pushing the boundaries of agriculture, utilising technology and innovation to achieve greater food security and become an agricultural hub in the region.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/agrisocial-workshop-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		  <!-- Go Green @ ForestPlay -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)%20go%20green%20at%20forestplay.jpg">
+        <h2>Go Green @ ForestPlay
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 29 July</strong></li>
+          <li>
+            <strong>Admission: $65 </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: ForestPlay @ Sentosa
+            </strong>
+          </li>
+          <li><strong>Organiser: Kowabunga! Global Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Have fun at Singapore's first nature adventure playground and become sustainability champions through the exciting Solar Oven construction activity to enjoy some s'mores.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/go-green-forestplay/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Kids Go Green -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -183,6 +282,41 @@ third_nav_title: Workshops & Talks
     </div>
     <div class="programmes__item__actions">
       <a href="/kids-go-green/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Junior Ocean Detective -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sdc_jod.jpg">
+        <h2>Junior Ocean Detective</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 29, 30 July</strong>
+          </li>
+          <li>
+            <strong>
+              Admission: $68
+            </strong>
+          </li>
+          <li>
+            <strong>Venue: S.E.A Aquarium</strong>
+          </li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Set your kids on an investigative journey to seek clues and solve marine-animal mysteries in this fun and educational programme.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/junior-ocean-detective/" class="button-primary">
         Find out more
       </a>
     </div>

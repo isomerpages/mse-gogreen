@@ -88,6 +88,37 @@ third_nav_title: Initiatives
 </style>
 
 <div class="row row_custom">
+	<!-- Tampines Neighbourhood Cleanup -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/(listing)%20muuse%20&amp;%20stridy%20cleanup.png">
+        <h2>
+         Tampines Neighbourhood Cleanup
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Our Tampines Hub</strong></li>
+          <li><strong>Organiser: Muuse &amp; Stridy</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines neighbourhood cleanup! It's free &amp; equipment will be provided. All are welcome –including kids &amp; families!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/tampines-neighbourhood-cleanup/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

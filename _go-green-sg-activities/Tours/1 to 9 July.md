@@ -701,6 +701,33 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Sunsets at Sky Sprouts -->
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/cs_sunsets_l.png">
+        <h2> Sunsets at Sky Sprouts</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 6, 8 July</strong></li>
+          <li><strong>Admission: $68 | $120 per pair</strong></li>
+          <li><strong>Venue: Sky Sprouts</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Sky Sprouts is a serene rooftop garden that showcases urban farming and community spirit. Join this sunset session and savor fresh harvest along with sustainably made alcohol!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sunsets-at-sky-sprouts/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
    <!-- Behind-the-scenes Bus Tour of Changi Water Reclamation Plant -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

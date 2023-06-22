@@ -3,13 +3,13 @@ title: Sustainable Movie Night
 permalink: /sustainable-movie-night/
 description: ""
 ---
-![](/images/Events/cs_movie.jpg)
+![](/images/Events/cs_movie_2.png)
 
 **Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability and indulge in a picnic on the rooftop with a snack box and drinks.**
 
 **Date:** 7, 14, 21 July, 7:00 - 10:00 pm<br>
 **Admission:** $30<br>
-**Venue:** Sky Sprouts<br>
+**Venue:** Sky Sprouts, 896 Dunearn Rd<br>
 **Organiser:** City Sprouts
 
 Films on the Farm is a signature event at Sky Sprouts where you can enjoy outdoor screenings in an intimate and open air setting.

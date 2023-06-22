@@ -158,6 +158,41 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+	<!-- Junior Ocean Detective -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sdc_jod.jpg">
+        <h2>Junior Ocean Detective</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1, 2, 8, 9 July</strong>
+          </li>
+          <li>
+            <strong>
+              Admission: $68
+            </strong>
+          </li>
+          <li>
+            <strong>Venue: S.E.A Aquarium</strong>
+          </li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Set your kids on an investigative journey to seek clues and solve marine-animal mysteries in this fun and educational programme.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/junior-ocean-detective/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- _/\/\/\ake O -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -352,6 +387,37 @@ third_nav_title: Workshops & Talks
     </div>
     <div class="programmes__item__actions">
       <a href="/i-be-leaf-in-you/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!--  Go Green Explorers -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/go%20green%20explorers.jpg">
+        <h2>Go Green Explorers
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: $50</strong></li>
+          <li><strong>Venue: Jurong Lake Gardens</strong></li>
+          <li><strong>Organiser: Kowabunga! Global Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       In this exciting nature adventure, children will learn about the unique flora and fauna of Jurong Lake Gardens and discover more about sustainability through construction of a solar oven.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/go-green-explorers-kowabunga/" class="button-primary">
         Find out more
       </a>
     </div>
