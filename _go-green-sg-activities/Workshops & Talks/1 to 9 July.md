@@ -304,7 +304,7 @@ third_nav_title: Workshops & Talks
               Date: 3, 4, 5, 6, 7 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: ArtScience Museum, Basement 2 Circulation Space</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
           <li><strong>Organiser: Marina Bay Sands</strong></li>
         </ul>
       </div>
