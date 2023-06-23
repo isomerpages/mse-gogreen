@@ -3,7 +3,7 @@ title: Circular Tech Subscription Service
 permalink: /circular-tech/
 description: ""
 ---
-![](/images/Challenges%20&amp;%20Deals/go%20green%20&amp;%20circular%20offer%202023%20169.png)
+![](/images/Challenges%20&amp;%20Deals/circular-offer.png)
 
 **Get the latest tech from the best brands with exclusive Go Green coupons for up to 50% discount on your first month's subscription from Circular, a tech subscription service.**
 
