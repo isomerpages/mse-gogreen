@@ -297,7 +297,7 @@ third_nav_title: Retail, Dining, and Deals
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20go%20green%20&amp;%20circular%20offer%202023%2043.png">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)circular-offer.png">
         <h2>Circular Tech Subscription Service
 </h2>
       </div>
