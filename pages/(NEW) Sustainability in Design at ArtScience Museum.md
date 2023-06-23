@@ -7,7 +7,7 @@ description: ""
 
 **Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.**
 
-**Date:** 6, 13, 20, 27 July, 4:00 – 4:45 pm<br>
+**Date:** 6, 13, 20, 27 July, 4:00 – 5:00 pm<br>
 **Admission:** $4<br>
 **Venue:** ArtScience Museum<br>
 **Organiser:** Marina Bay Sands
