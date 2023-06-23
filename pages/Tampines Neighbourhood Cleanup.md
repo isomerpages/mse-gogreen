@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Initiatives/muuse%20&amp;%20stridy%20cleanup%20jpg.jpg)
 
-**Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines neighbourhood cleanup! It's free &amp; equipment will be provided. All are welcome –including kids &amp; families!**
+**Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines neighbourhood cleanup! It's free and equipment will be provided.**
 
 **Date:** 1 July 9:30 am – 11:30 am<br>
 **Admission:** Free (registration required) <br>
