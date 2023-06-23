@@ -258,6 +258,37 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+	<!-- plastics to fab bags -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/mbs_plasticstobags.png">
+        <h2>From Plastics to Fab Bags Workshop
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 July</strong>
+          </li>
+          <li><strong>Admission: $37</strong></li>
+          <li><strong>Venue: ArtScience Museum, Rainbow Room</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Unlock the art of sustainable innovation by learning how to upcycle single-use plastics into fashionable fabrics and craft your very own eco-friendly bags.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Au Naturale Beauty-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
