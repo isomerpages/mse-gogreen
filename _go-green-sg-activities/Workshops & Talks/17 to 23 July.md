@@ -157,6 +157,36 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/mbs_myotransport.jpg">
+        <h2>Make your own sustainable transportation
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3, 4, 5, 6, 7 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Delve into the realm of climate change and brainstorm ideas for sustainable transport adaptations for the future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-your-own-sustainable-transportation/" class="button-primary">
+				Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Au Naturale Beauty-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
