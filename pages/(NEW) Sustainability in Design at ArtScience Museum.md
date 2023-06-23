@@ -3,18 +3,18 @@ title: (NEW) Sustainability in Design at ArtScience Museum
 permalink: /sustainability-in-design-at-artscience-museum/
 description: ""
 ---
-![](/images/Workshop%20&amp;%20Talks/mrbucket.jpg)
+![](/images/Tours/mbs_sid.jpg)
 
-**Make your own Chocolate Bar and journey through Asia with an exclusive Tasting Set that highlights the finest chocolates that Asia has to offer.**
+**Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.**
 
-**Date:** 7, 8, 14, 15, 21, 29 July,&nbsp;9:30 – 11:30 am<br>
-**Admission:** $75<br>
-**Venue:** Mr. Bucket Chocolaterie (Dempsey Factory), 13 Dempsey Road<br>
-**Organiser:** Mr. Bucket Chocolaterie
+**Date:** 6, 13, 20, 27 July, 4:00 – 4:45 pm<br>
+**Admission:** $4<br>
+**Venue:** ArtScience Museum<br>
+**Organiser:** Marina Bay Sands
 
-Made for chocolate lovers of all ages, this 2-hour workshop involves a tour at Mr. Bucket Chocolaterie (Dempsey Factory), a hands-on Make Your Own Chocolate Bar workshop, and a specially curated Chocolate Tasting Flight featuring the finest chocolate made from Asian cacao.&nbsp;&nbsp;
+Join this tour to uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum. From sustainable architecture to innovative design features, witness sustainability in action throughout the ArtScience Museum’s operations. Enjoy the scenic views of the panoramic vistas of Marina Bay and Singapore's world-class cityscape from one of the best vantage points in Singapore through this guided tour.&nbsp;&nbsp;
 
-Discover how chocolate is made from bean-to-bar and learn the sustainable practices of Asian cacao farmers at Mr. Bucket Chocolaterie.
+The tour ticket does not include exhibition entry. A same-day exhibition ticket must be purchased seperately and presented for this tour.
 
 <a class="btn-link" target="_blank" href="https://mrbucket.com.sg/products/july-2023-diy-chocolate-bar-making-workshop">
 	<img src="/images/gogreensg_website-32.png">
