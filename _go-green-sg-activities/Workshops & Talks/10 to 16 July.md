@@ -205,7 +205,7 @@ third_nav_title: Workshops & Talks
       </div>
       <div class="programmes__item__body">
         <p>
-       Make your own Chocolate Bar and journey through Asia with an exclusive Tasting Set that highlights the finest chocolates that Asia has to offer.
+       Discover how chocolate is made from bean-to-bar and learn the sustainable practices of Asian cacao farmers at Mr. Bucket Chocolaterie.
         </p>
       </div>
     </div>
