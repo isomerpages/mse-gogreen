@@ -124,6 +124,33 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- exploring ecosystems through digital art -->
+		 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_dda_2.jpg">
+        <h2> Exploring Ecosystems through Digital Art</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 17 July</strong></li>
+          <li><strong>Admission: $37</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Immerse yourself in a world of art, science, magic, and metaphor and explore an ecosystem abundant with flora and fauna on this tour of Digital Light Canvas and Future World: Where Art Meets Science at ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/exploring-ecosystems-through-digital-art/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	 <!-- SentoSights: Sentosa Intertidal Exploration-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
