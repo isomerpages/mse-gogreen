@@ -18,7 +18,7 @@ Join Dazhong as they go green with the 3As, with partners such as the National E
 
 Carnival tickets for activities are selling at $30 per booklet.
 
-<a class="btn-link" target="_blank" href="[https://go.gov.sg/dzcarnival](https://go.gov.sg/dzcarnival)">
+<a class="btn-link" target="_blank" href="https://go.gov.sg/dzcarnival">
 	<img src="/images/more-info-btn.png">
 </a>
 
