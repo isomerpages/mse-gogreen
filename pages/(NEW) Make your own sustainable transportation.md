@@ -3,23 +3,24 @@ title: (NEW) Make your own sustainable transportation
 permalink: /make-your-own-sustainable-transportation/
 description: ""
 ---
-![](/images/Tours/gbtb_seedsandsenses.PNG)
+![](/images/Workshop%20&amp;%20Talks/mbs_myotransport.jpg)
 
 
-**Embark on a tour that engages your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.**
+**Delve into the realm of climate change and brainstorm ideas for sustainable transport adaptations for the future.**
 
-**Date:** 1, 2, 8, 9, 15, 16, 22, 23, 29, 30 July,  10:30 – 11:30 am<br>
-**Admission:** Free (registration required)<br>
-**Venue:** Gardens by the Bay<br>
-**Organiser:** Gardens by the Bay
-
-
-Plants and humans are similar in more ways than we think as plants too have analogous senses! This tour challenges participants to rethink their perceptions of plants as they venture through the Gardens’ living collection of strange yet fascinating plants.
-
-This tour is made possible through the support of Keppel Corporation.
+**Date:** 3 – 7 July, 10 – 14 July, 17 – 21 July, 24 – 28 July, 11:00 am – 5:00 pm<br>
+**Admission:** Free<br>
+**Venue:** ArtScience Museum, Basement 2 Circulation Space<br>
+**Organiser:** Marina Bay Sands
 
 
-<a class="btn-link" target="_blank" href="https://www.gardensbythebay.com.sg/en/things-to-do/calendar-of-events/nature-sustainability-tours.html">
+Make Your Own Sustainable Transportation allows participants to delve into the realm of climate change and brainstorm ideas for adaptations in the future.
+
+Imagine and build your own sustainable transport in this activity! 
+
+
+
+<a class="btn-link" target="_blank" href="https://www.marinabaysands.com/museum/events/make-your-own-sustainable-transportation.html">
 	<img src="/images/more-info-btn.png">
 </a>
 
