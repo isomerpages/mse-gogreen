@@ -16,7 +16,7 @@ Join this tour to uncover the myriad of sustainability features intricately wove
 
 The tour ticket does not include exhibition entry. A same-day exhibition ticket must be purchased seperately and presented for this tour.
 
-<a class="btn-link" target="_blank" href="https://mrbucket.com.sg/products/july-2023-diy-chocolate-bar-making-workshop">
+<a class="btn-link" target="_blank" href="https://ticket.marinabaysands.com/mbs/booking/asmtours2021">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
