@@ -3,6 +3,8 @@ title: (NEW PENDING) Sustainability in Design at ArtScience Museum
 permalink: /sustainability-in-design-at-artscience-museum/
 description: ""
 ---
+<!-- 
+
 ![](/images/Tours/mbs_sid.jpg)
 
 **Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.**
@@ -16,7 +18,7 @@ Join this tour to uncover the myriad of sustainability features intricately wove
 
 The tour ticket does not include exhibition entry. A same-day exhibition ticket must be purchased seperately and presented for this tour.
 
-<a class="btn-link" target="_blank" href="https://ticket.marinabaysands.com/mbs/booking/asmtours2021">
+<a href="https://ticket.marinabaysands.com/mbs/booking/asmtours2021" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -32,3 +34,5 @@ The tour ticket does not include exhibition entry. A same-day exhibition ticket 
 		width: 100%;
 	}
 </style>
+
+-->
