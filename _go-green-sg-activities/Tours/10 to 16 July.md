@@ -247,6 +247,34 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- mbs sustainability in design -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_sid.jpg">
+        <h2> Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 13 July</strong></li>
+          <li><strong>Admission: $4</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- a breath of fresh air -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
