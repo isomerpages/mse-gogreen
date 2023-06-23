@@ -14,11 +14,11 @@ description: ""
 **Organiser:** Marina Bay Sands
 
 
-In the future, due to climate change and rising sea levels, we may have to adapt to very different modes of transport in cities. Imagine and build your own sustainable transport in this drop-in activity!&nbsp;
+Due to climate change and rising sea levels, we may have to adapt to very different modes of transport in cities in the future. Imagine and build your own sustainable transport in this drop-in activity!&nbsp;
 
-If roads and highways were flooded, how do we navigate our way through? What kind of transportation will we see? Can we create a more sustainable transport?
+If roads and highways are flooded, how do we navigate our way through? What kind of transportation will we see? How do we make transport more sustainable?
 
-This drop-in Session is offered as part of our Marina Bay Sands' education programme for Go Green SG.
+This drop-in session is offered as part of Marina Bay Sands' education programme in support of Go Green SG.
 
 
 <a class="btn-link" target="_blank" href="https://www.marinabaysands.com/museum/events/make-your-own-sustainable-transportation.html">
