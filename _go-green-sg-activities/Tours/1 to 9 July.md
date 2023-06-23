@@ -333,7 +333,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tour-urban-wetlands/" class="button-primary">
+      <a href="/seeds-and-senses/" class="button-primary">
         Find out more
       </a>
     </div>
