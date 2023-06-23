@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Workshop%20&amp;%20Talks/mrbucket.jpg)
 
-**Make your own chocolate bar and journey through Asia with an exclusive Tasting Set that highlights the finest chocolates that Asia has to offer.**
+**Discover how chocolate is made from bean-to-bar and learn the sustainable practices of Asian cacao farmers at Mr. Bucket Chocolaterie.**
 
 **Date:** 7, 8, 14, 15, 21, 29 July,&nbsp;9:30 – 11:30 am<br>
 **Admission:** $75<br>
