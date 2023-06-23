@@ -16,7 +16,7 @@ As part of Dazhong’s 85th Anniversary, with the theme, “Dare to Shine!”, t
 
 Join Dazhong as they go green with the 3As, with partners such as the National Environment Agency, PUB, Singapore’s Water Agency, Nature Society Singapore, and Hong Leong Asia.
 
-Carnival tickets for activities are selling at $30 per booklet and are available for purchase on site during the event.
+Carnival tickets for activities are selling at $30 per booklet.
 
 <a class="btn-link" target="_blank" href="[https://go.gov.sg/dzcarnival](https://go.gov.sg/dzcarnival)">
 	<img src="/images/more-info-btn.png">
