@@ -14,10 +14,11 @@ description: ""
 **Organiser:** Marina Bay Sands
 
 
-Make Your Own Sustainable Transportation allows participants to delve into the realm of climate change and brainstorm ideas for adaptations in the future.
+In the future, due to climate change and rising sea levels, we may have to adapt to very different modes of transport in cities. Imagine and build your own sustainable transport in this drop-in activity!&nbsp;
 
-Imagine and build your own sustainable transport in this activity! 
+If roads and highways were flooded, how do we navigate our way through? What kind of transportation will we see? Can we create a more sustainable transport?
 
+This drop-in Session is offered as part of our Marina Bay Sands' education programme for Go Green SG.
 
 
 <a class="btn-link" target="_blank" href="https://www.marinabaysands.com/museum/events/make-your-own-sustainable-transportation.html">
