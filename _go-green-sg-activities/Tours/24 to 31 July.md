@@ -879,6 +879,7 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Seeds and senses -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
