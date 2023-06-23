@@ -13,9 +13,10 @@ description: ""
 **Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
-One of four thematic tours to discover interesting facts about Nature and Sustainability at the Gardens!&nbsp;&nbsp; &nbsp;
 
 Plants and humans are similar in more ways than we think as plants too have analogous senses! This tour challenges participants to rethink their perceptions of plants as they venture through the Gardens’ living collection of strange yet fascinating plants.
+
+This tour is made possible through the support of Keppel Corporation.
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-seeds-and-senses-smell-jul-tickets-635264101027?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">
