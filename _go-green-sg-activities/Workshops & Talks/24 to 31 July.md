@@ -164,7 +164,7 @@ third_nav_title: Workshops & Talks
         <ul>
           <li>
             <strong>
-              Date: 3, 4, 5, 6, 7 July</strong>
+              Date: 24, 25, 26, 27, 28 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
           <li><strong>Venue: ArtScience Museum</strong></li>
