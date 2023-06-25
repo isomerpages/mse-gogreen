@@ -147,7 +147,7 @@ third_nav_title: Tours
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/whats-in-my-water/" class="button-primary">
+      <a href="/sentosa-island-bus-tour/" class="button-primary">
         Find out more
       </a>
     </div>
