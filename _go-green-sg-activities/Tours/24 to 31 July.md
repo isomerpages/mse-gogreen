@@ -154,6 +154,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- skyhelix-->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sdc_skyhelix.jpg">
+        <h2>SkyHelix Sentosa
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $16 | Child: $13.60</strong></li>
+          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p> At 79m above sea level, SkyHelix Sentosa is one of the highest vantage points on Sentosa. Enjoy 360° views of the lush greenery stretching across the island.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/skyhelix-sentosa/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
