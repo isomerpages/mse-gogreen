@@ -16,7 +16,7 @@ Go on a two-hour journey of Sentosa on a bus! This guided tour of Sentosa is a g
 
 In support of Go Green SG, there will be a discount of 20% off published rates.
 
-<a class="btn-link" target="_blank" href="https://mrbucket.com.sg/products/july-2023-diy-chocolate-bar-making-workshop">
+<a class="btn-link" target="_blank" href="https://booking.mountfaberleisure.com/ofg_b2c/package.html?selectedCategory=B2CSIBT">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
