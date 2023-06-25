@@ -14,7 +14,7 @@ description: ""
 
 Go on a two-hour journey of Sentosa on a bus! This guided tour of Sentosa is a great way to discover the beauty and charm of the State of Fun while learning more about the evolution and transformation of the island's environment. Sentosa’s friendly guides will be at the Sentosa Station Ticketing Counter at Imbiah Lookout Zone, they will take you on the tour to experience incredible sights on wheels.&nbsp;
 
-In support of Go Green SG, there will be a discount of 20% off published rates.
+In support of Go Green SG, there will be a discount of 20% off published rates in July.
 
 <a class="btn-link" target="_blank" href="https://booking.mountfaberleisure.com/ofg_b2c/package.html?selectedCategory=B2CSIBT">
 	<img src="/images/gogreensg_website-32.png">
