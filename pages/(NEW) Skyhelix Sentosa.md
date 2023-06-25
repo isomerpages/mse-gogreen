@@ -3,20 +3,20 @@ title: (NEW) Skyhelix Sentosa
 permalink: /skyhelix-sentosa/
 description: ""
 ---
-![](/images/Tours/sdc_bus.jpg)
+![](/images/Tours/sdc_skyhelix.jpg)
 
-**Embark on an eco-adventure and discover Sentosa’s unique environment. Learn more about the attractions on Sentosa, such as the highest open-air panoramic ride in Singapore – SkyHelix Sentosa, Fort Siloso, and ‘Explorers of Sentosa’ at Palawan Beach.**
+**At 79m above sea level, SkyHelix Sentosa is one of the highest vantage points on Sentosa. Enjoy 360° views of the lush greenery stretching across the island.**
 
-**Date:** 1 – 31 July, 10:00 am – 12:00 pm | 12:00 – 2:00 pm | 2:00 – 4:00 pm | 4:00 – 6:00 pm<br>
-**Admission:** Adult: $20 | Child: $16<br>
+**Date:** 1 – 31 July, 10.00 am - 9.30 pm<br>
+**Admission:** Adult: $16 | Child: $13.60<br>
 **Venue:** Imbiah Lookout, Sentosa <br>
 **Organiser:** Sentosa Development Corporation 
 
-Go on a two-hour journey of Sentosa on a bus! This guided tour of Sentosa is a great way to discover the beauty and charm of the State of Fun while learning more about the evolution and transformation of the island's environment. Sentosa’s friendly guides will be at the Sentosa Station Ticketing Counter at Imbiah Lookout Zone, they will take you on the tour to experience incredible sights on wheels.&nbsp;
+Take flight on the highest open-air panoramic ride in Singapore – SkyHelix Sentosa! Sit in an open-air gondola that gently rotates as it ascends to a height of 79 metres above sea level. Let your hair down, dangle your feet in the air and enjoy the uplifting experience with a cool drink in hand.&nbsp;&nbsp;Be mesmerised by the breathtaking 360° views stretching from Sentosa to the Keppel Bay area and the Southern Islands.&nbsp;&nbsp;Day or night, each “flight” is a ride to remember!&nbsp;
 
 In support of Go Green SG, there will be a discount of 20% off published rates in July.
 
-<a class="btn-link" target="_blank" href="https://booking.mountfaberleisure.com/ofg_b2c/package.html?selectedCategory=B2CSIBT">
+<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/attractions/skyhelix-sentosa/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
