@@ -122,6 +122,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Sentosa Bus -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sdc_bus.jpg">
+        <h2>Sentosa Island Bus Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $20 | Child: $16</strong></li>
+          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p> Embark on an eco-adventure and discover Sentosa’s unique environment. Learn more about the attractions on Sentosa, such as the highest open-air panoramic ride in Singapore – SkyHelix Sentosa, Fort Siloso, and ‘Explorers of Sentosa’ at Palawan Beach.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-water/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- What's in my Water? -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
