@@ -468,9 +468,9 @@ third_nav_title: Tours
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Date: 20 July</strong></li>
-          <li><strong>Admission: $4</strong></li>
+          <li><strong>Admission: $5</strong></li>
           <li><strong>Venue: ArtScience Museum</strong></li>
-          <li><strong>Organiser: Marina Bay Sands</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
