@@ -489,7 +489,7 @@ Participants can reimagine and build their own sustainable transportation!  Ma
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/go%20green%20explorers.jpg">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)jkt%20workshop.jpg">
         <h2>An Antarctic Adventure
 </h2>
       </div>
