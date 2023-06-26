@@ -12,9 +12,9 @@ description: ""
 **Venue:** ArtScience Museum, Rainbow Room<br>
 **Organiser:** Marina Bay Sands
 
-Discover how plastic waste can be transformed and upcycled creatively. In this session, participants will unlock the art of sustainable innovation by learning how to upcycle single-use plastics into fashionable fabrics and into eco-friendly bags.&nbsp;
+Discover how plastic waste can be transformed and upcycled creatively. In this session, participants will unlock the art of sustainable innovation by learning how to upcycle single-use plastics into fashionable fabrics and into eco-friendly bags.
 
-&nbsp;This transformative workshop is open to participants aged 8 and above. Children aged 8 to 12 have to be accompanied by an adult.
+This transformative workshop is open to participants aged 8 and above. Children aged 8 to 12 must be accompanied by an adult.
 
 <a class="btn-link" target="_blank" href="https://ticket.marinabaysands.com/mbs/booking/asmprogrammes">
 	<img src="/images/gogreensg_website-32.png">
