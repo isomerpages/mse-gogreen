@@ -276,6 +276,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+		<!-- Nature and Sustainability Tour: Seeds and Senses -->
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_seedsandsenses.PNG">
+        <h2>Nature and Sustainability Tour: Seeds and Senses (Smell)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 2, 8, 9 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Embark on a tour that engages both your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seeds-and-senses/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!--Nature and Sustinability Tour: Urban Wetlands-->
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -433,7 +464,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+				<h2>Race on Sunshine – Discovering Solar Energy</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -697,6 +728,33 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/uncover-the-intertidal-zone-with-a-naturalist-guide/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- MBS sustainability in design tour -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_sid.jpg">
+        <h2> Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 6 July</strong></li>
+          <li><strong>Admission: $5</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -991,7 +1049,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/wood%20upcycling%20journey.jpg">
-        <h2>CREUSE Wood Upcycling Journey</h2>
+				<h2>CREUSE Wood Upcycling Journey</h2> <sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>

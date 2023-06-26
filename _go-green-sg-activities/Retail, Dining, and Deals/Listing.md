@@ -263,6 +263,66 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+		<!-- Sentosa Bus -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sdc_bus.jpg">
+        <h2>Sentosa Island Bus Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $20 | Child: $16</strong></li>
+          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p> Embark on an eco-adventure and discover Sentosa’s unique environment. Learn more about Sentosa's attractions, such as SkyHelix Sentosa, Fort Siloso, and ‘Explorers of Sentosa’ at Palawan Beach.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosa-island-bus-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- skyhelix -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sdc_skyhelix.jpg">
+        <h2>SkyHelix Sentosa
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $16 | Child: $13.60</strong></li>
+          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>SkyHelix Sentosa is one of the highest vantage points on Sentosa. Enjoy 360° views of the lush greenery stretching across the island with exclusive discounts!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/skyhelix-sentosa/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	      <!-- Vintagewknd Pop-up "WASTE-GATE"-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -297,7 +357,7 @@ third_nav_title: Retail, Dining, and Deals
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/(listing)%20go%20green%20&amp;%20circular%20offer%202023%2043.png">
+        <img src="/images/Challenges%20&amp;%20Deals/(listing)circular-offer.png">
         <h2>Circular Tech Subscription Service
 </h2>
       </div>

@@ -223,7 +223,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
         <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -314,7 +314,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/semakau%20landfill.jpg">
         <h2>Where Singapore’s Waste Goes: A Tour of Semakau Landfill
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -377,6 +377,33 @@ third_nav_title: Tours
       </a>
     </div>
   </div>	  
+	<!-- mbs sustainability in design -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_sid.jpg">
+        <h2> Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 27 July</strong></li>
+          <li><strong>Admission: $5</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Forest Stream Walk and Survey -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -413,7 +440,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/marine%20aquaculture%20centre.png">
-        <h2>Marine Aquaculture Centre on St John’s Island</h2>
+				<h2>Marine Aquaculture Centre on St John’s Island</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -640,7 +667,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/fighting%20mosquitoes%20with%20mosquitoes%20–%20an%20inside%20look%20at%20project%20wolbachia%20%20%20%20.jpg">
         <h2>Fighting Mosquitoes With Mosquitoes – An Inside Look at Project Wolbachia
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -848,6 +875,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Seeds and senses -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_seedsandsenses.PNG">
+        <h2>Nature and Sustainability Tour: Seeds and Senses (Smell)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29, 30 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Embark on a tour that engages both your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seeds-and-senses/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			<!-- Nature and Sustainability Tour: Urban Wetlands -->
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -915,7 +973,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/food%20oth.jpg">
-        <h2>Food Waste Learning Journey at Our Tampines Hub</h2>
+        <h2>Food Waste Learning Journey at Our Tampines Hub</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -936,6 +994,33 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/food-waste-oth/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- exploring ecosystems through digital art -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_dda_2.jpg">
+        <h2> Exploring Ecosystems through Digital Art</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 31 July</strong></li>
+          <li><strong>Admission: $38</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Immerse yourself in a world of art, science, magic, and metaphor and explore an ecosystem abundant with flora and fauna on this tour of Digital Light Canvas and Future World: Where Art Meets Science at ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/exploring-ecosystems-through-digital-art/" class="button-primary">
         Find out more
       </a>
     </div>

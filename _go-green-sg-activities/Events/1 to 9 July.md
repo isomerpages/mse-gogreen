@@ -150,6 +150,37 @@ third_nav_title: Events
       </a>
     </div>
   </div>
+	<!-- opening of vintagewknd store -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/vintage_opening.png">
+        <h2>Opening of the first Vintagewknd store
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: From 1 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: 41 Haji Lane</strong></li>
+          <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Go Green at Vintagewknd - a shopping showcase of vintage &amp; upcycled materials!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/opening-of-vintagewknd/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <!-- Specimen Stories: Biodiversity in a Changing Climate-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

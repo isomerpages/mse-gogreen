@@ -217,12 +217,13 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Turning Waste to Energy: TuasOne Waste to Energy Plant Tour -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
-        <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour
-</h2>
+        <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour 
+</h2> <sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -247,6 +248,34 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- mbs sustainability in design -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_sid.jpg">
+        <h2> Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 13 July</strong></li>
+          <li><strong>Admission: $5</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- a breath of fresh air -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -529,11 +558,12 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Race on Sunshine – Discovering Solar Energy -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+        <h2>Race on Sunshine – Discovering Solar Energy</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -587,12 +617,13 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Old Gadgets, New Life: TES E-Waste Recycling Journey -->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/old%20gadgets%202.jpg">
         <h2>Old Gadgets, New Life: TES E-Waste Recycling Journey
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -906,6 +937,37 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- seeds and senses -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_seedsandsenses.PNG">
+        <h2>Nature and Sustainability Tour: Seeds and Senses (Smell)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Embark on a tour that engages both your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seeds-and-senses/" class="button-primary">
         Find out more
       </a>
     </div>

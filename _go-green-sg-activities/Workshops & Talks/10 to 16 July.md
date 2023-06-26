@@ -153,6 +153,69 @@ third_nav_title: Workshops & Talks
       </a>
     </div>
   </div>
+	<!-- MYO sustainable transport -->
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/mbs_myotransport.jpg">
+        <h2>Make your own sustainable transportation
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 10, 11, 12, 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       With climate change and rising sea levels threatening to change humanity's way of life, Singapore must adapt to new modes of transport in the future.
+Participants can reimagine and build their own sustainable transportation!  Materials will be provided for this drop-in activity.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-your-own-sustainable-transportation/" class="button-primary">
+				Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Chocolate making -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/mrbucket.jpg">
+        <h2>Chocolate Bar Making and Asian Chocolate Tasting Workshop
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 15 July</strong>
+          </li>
+          <li><strong>Admission: $75</strong></li>
+          <li><strong>Venue: Mr. Bucket Chocolaterie (Dempsey Factory)</strong></li>
+          <li><strong>Organiser: Mr. Bucket Chocolaterie</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Discover how chocolate is made from bean-to-bar and learn the sustainable practices of Asian cacao farmers at Mr. Bucket Chocolaterie.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/chocolate-bar-making/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Kids Go Green -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

@@ -124,6 +124,33 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- exploring ecosystems through digital art -->
+		 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_dda_2.jpg">
+        <h2> Exploring Ecosystems through Digital Art</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 17 July</strong></li>
+          <li><strong>Admission: $38</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Immerse yourself in a world of art, science, magic, and metaphor and explore an ecosystem abundant with flora and fauna on this tour of Digital Light Canvas and Future World: Where Art Meets Science at ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/exploring-ecosystems-through-digital-art/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	 <!-- SentoSights: Sentosa Intertidal Exploration-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -339,7 +366,7 @@ third_nav_title: Tours
         <h2>
           Boat Tour to Singapore’s Largest Floating Solar Farm at Tengeh
           Reservoir
-        </h2>
+				</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -371,6 +398,34 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- mbs sustainability in design -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/mbs_sid.jpg">
+        <h2> Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 20 July</strong></li>
+          <li><strong>Admission: $5</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Uncover the myriad of sustainability features intricately woven into the design of ArtScience Museum.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- waste to treasure -->
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -622,7 +677,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+        <h2>Race on Sunshine – Discovering Solar Energy</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -709,7 +764,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/wood%20upcycling%20journey.jpg">
-        <h2>CREUSE Wood Upcycling Journey</h2>
+        <h2>CREUSE Wood Upcycling Journey</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -836,44 +891,12 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
-  <!-- SUSS Experiential Urban Farm Tour -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-   <!--     <img src="/images/Tours/question%20115%20-%20photo_6143256135273132917_y.jpg">
-        <h2>SUSS Experiential Urban Farm Tour</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 22 July</strong></li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li>
-            <strong>
-              Venue: Singapore University of Social Sciences</strong>
-          </li>
-          <li>
-            <strong>Organiser: Singapore University of Social Sciences</strong>
-          </li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Did you know that SUSS has a rooftop ecosystem consisting of soil-based, hydroponic, and experimental aquaponic farming systems and even a bee garden? Join us for some fun, hands-on activities!
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a class="button-primary" href="/suss-experiential-urban-farm-tour/">
-        Find out more
-      </a> 
-    </div> 
-  </div> 
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
-      <div class="programmes__item__header"> -->
+      <div class="programmes__item__header"> -
         <img src="/images/Tours/semakau%20landfill.jpg">
         <h2>Where Singapore’s Waste Goes: A tour of Semakau Landfill
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1090,6 +1113,37 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- seeds and senses -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_seedsandsenses.PNG">
+        <h2>Nature and Sustainability Tour: Seeds and Senses (Smell) </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 July
+            </strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Embark on a tour that engages both your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seeds-and-senses/" class="button-primary">
         Find out more
       </a>
     </div>
