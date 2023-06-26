@@ -367,6 +367,37 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
       </a>
     </div>
   </div>
+	  <!-- Panel Discussion: From Action to Activism -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)eb.png">
+        <h2>Panel Discussion: From Action to Activism</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li>
+            <strong>Venue: South Beach Office Tower</strong>
+          </li>
+          <li><strong>Organiser: EB Impact</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          From starting ‘small’ through local community initiatives, to creating large and rippling impacts through policy and innovation, is there a path for youths to yield the most meaningful impact?
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/green-house" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- GREEN HOUSE -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
