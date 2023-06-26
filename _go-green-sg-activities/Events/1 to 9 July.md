@@ -393,7 +393,7 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/green-house" class="button-primary">
+      <a href="/action-to-activism/" class="button-primary">
         Find out more
       </a>
     </div>
