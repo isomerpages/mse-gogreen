@@ -283,7 +283,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/tuasone%20waste-to-energy%20plant%20tour.png">
         <h2>Turning Waste to Energy: TuasOne Waste to Energy Plant Tour
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -374,7 +374,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/semakau%20landfill.jpg">
         <h2>Where Singapore’s Waste Goes: A Tour of Semakau Landfill
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -727,7 +727,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/fighting%20mosquitoes%20with%20mosquitoes%20–%20an%20inside%20look%20at%20project%20wolbachia%20%20%20%20.jpg">
         <h2>Fighting Mosquitoes With Mosquitoes – An Inside Look at Project Wolbachia
-</h2>
+</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1033,7 +1033,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/food%20oth.jpg">
-        <h2>Food Waste Learning Journey at Our Tampines Hub</h2>
+        <h2>Food Waste Learning Journey at Our Tampines Hub</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
