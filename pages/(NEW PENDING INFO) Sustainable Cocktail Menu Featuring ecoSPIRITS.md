@@ -18,7 +18,7 @@ LeBar will be incorporating spirits packaged using the ecoSPIRITS system in all 
 
 ecoSPIRITS is an innovative closed-loop distribution system that nearly eliminates packaging waste in the premium spirits supply chain. By dramatically reducing packaging and transport costs, ecoSPIRITS provides a low carbon and low waste spirits distribution system, thereby reducing carbon footprint.
 
-For the month of July, LeBar will featured two sustainable cocktails concocted by Head of Mixologist, Daniel Anthony. The featured cocktails will include components made from upcycled herbs and fruit waste.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For the month of July, LeBar will feature two sustainable cocktails concocted by Head Mixologist, Daniel Anthony. The featured cocktails will include components made from upcycled herbs and fruit waste.
 
 * The Urban Decay: Jackfruit seed infused gin, orange skin and black lemons
 
