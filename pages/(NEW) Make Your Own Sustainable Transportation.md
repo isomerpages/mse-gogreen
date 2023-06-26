@@ -7,7 +7,7 @@ description: ""
 
 
 **Singapore could very well have to adapt to new modes of transport in the future due to climate change. 
-Reimagine and build your own sustainable transportation in this workshop!  **
+Reimagine and build your own sustainable transportation in this workshop!**
 
 **Date:** 3 – 7 July, 10 – 14 July, 17 – 21 July, 24 – 28 July, 11:00 am – 5:00 pm<br>
 **Admission:** Free<br>
