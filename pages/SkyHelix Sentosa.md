@@ -1,5 +1,5 @@
 ---
-title: (NEW) SkyHelix Sentosa
+title: SkyHelix Sentosa
 permalink: /skyhelix-sentosa/
 description: ""
 ---

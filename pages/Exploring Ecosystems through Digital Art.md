@@ -1,5 +1,5 @@
 ---
-title: (NEW) Exploring Ecosystems through Digital Art
+title: Exploring Ecosystems through Digital Art
 permalink: /exploring-ecosystems-through-digital-art/
 description: ""
 ---

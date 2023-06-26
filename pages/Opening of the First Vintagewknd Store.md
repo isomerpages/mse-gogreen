@@ -1,5 +1,5 @@
 ---
-title: (NEW) Opening of the First Vintagewknd Store
+title: Opening of the First Vintagewknd Store
 permalink: /opening-of-vintagewknd/
 description: ""
 ---

@@ -1,5 +1,5 @@
 ---
-title: "(NEW) Nature and Sustainability Tour: Seeds and Senses (Smell)"
+title: "Nature and Sustainability Tour: Seeds and Senses (Smell)"
 permalink: /seeds-and-senses/
 description: ""
 ---

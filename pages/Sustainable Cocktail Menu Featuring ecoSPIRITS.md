@@ -1,5 +1,5 @@
 ---
-title: (NEW) Sustainable Cocktail Menu Featuring ecoSPIRITS
+title: Sustainable Cocktail Menu Featuring ecoSPIRITS
 permalink: /sofitel-sustainable-cocktail-menu-featuring-ecospirits/
 description: ""
 ---

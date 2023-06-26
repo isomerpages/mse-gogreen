@@ -1,5 +1,5 @@
 ---
-title: (NEW) Chocolate Bar Making and Asian Chocolate Tasting Workshop
+title: Chocolate Bar Making and Asian Chocolate Tasting Workshop
 permalink: /chocolate-bar-making/
 description: ""
 ---

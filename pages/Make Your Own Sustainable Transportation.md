@@ -1,5 +1,5 @@
 ---
-title: (NEW) Make Your Own Sustainable Transportation
+title: Make Your Own Sustainable Transportation
 permalink: /make-your-own-sustainable-transportation/
 description: ""
 ---

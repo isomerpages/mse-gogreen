@@ -1,5 +1,5 @@
 ---
-title: (NEW PENDING) Sustainability in Design at ArtScience Museum
+title: Sustainability in Design at ArtScience Museum
 permalink: /sustainability-in-design-at-artscience-museum/
 description: ""
 ---
