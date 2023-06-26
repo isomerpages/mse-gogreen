@@ -12,7 +12,7 @@ description: ""
 **Venue:** Mr. Bucket Chocolaterie, 13 Dempsey Road<br>
 **Organiser:** Mr. Bucket Chocolaterie
 
-Made for chocolate lovers of all ages, this 2-hour workshop involves a tour at Mr. Bucket Chocolaterie, a hands-on workshop to make your own chocolate bar, and a specially curated Chocolate Tasting Flight featuring the finest chocolate made from Asian cacao.&nbsp;&nbsp;
+Made for chocolate lovers of all ages, this 2-hour workshop involves a tour at Mr. Bucket Chocolaterie, a hands-on workshop to make your own chocolate bar, and a specially curated Chocolate Tasting Flight featuring the finest chocolate made from Asian cacao.
 
 Discover how chocolate is made from bean-to-bar and learn the sustainable practices of Asian cacao farmers at Mr. Bucket Chocolaterie.
 
