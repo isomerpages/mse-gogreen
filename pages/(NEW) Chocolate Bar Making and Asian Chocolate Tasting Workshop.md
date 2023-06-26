@@ -7,7 +7,7 @@ description: ""
 
 **Discover how chocolate is made from bean-to-bar and learn the sustainable practices of Asian cacao farmers at Mr. Bucket Chocolaterie.**
 
-**Date:** 7, 8, 14, 15, 21, 29 July,&nbsp;9:30 – 11:30 am<br>
+**Date:** 7, 14, 21 July,&nbsp;9:30 – 11:30 am<br>
 **Admission:** $75<br>
 **Venue:** Mr. Bucket Chocolaterie, 13 Dempsey Road<br>
 **Organiser:** Mr. Bucket Chocolaterie
