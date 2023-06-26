@@ -6,12 +6,13 @@ description: ""
 ![](/images/Workshop%20&amp;%20Talks/mbs_myotransport.jpg)
 
 
-**Delve into the realm of climate change and brainstorm ideas for sustainable transport adaptations for the future.**
+**With climate change and rising sea levels threatening to change humanity's way of life, Singapore must adapt to new modes of transport in the future.
+Participants can reimagine and build their own sustainable transportation!  Materials will be provided for this drop-in activity.**
 
 **Date:** 3 – 7 July, 10 – 14 July, 17 – 21 July, 24 – 28 July, 11:00 am – 5:00 pm<br>
 **Admission:** Free<br>
-**Venue:** ArtScience Museum, Basement 2 Circulation Space<br>
-**Organiser:** Marina Bay Sands
+**Venue:** Basement 2 Circulation Space, ArtScience Museum<br>
+**Organiser:** ArtScience Museum, Marina Bay Sands
 
 
 Due to climate change and rising sea levels, we may have to adapt to very different modes of transport in cities in the future. Imagine and build your own sustainable transport in this drop-in activity!
