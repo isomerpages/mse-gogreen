@@ -8,9 +8,9 @@ description: ""
 **Unlock the art of sustainable innovation by learning how to upcycle single-use plastics into fashionable fabrics and craft your very own eco-friendly bags.**
 
 **Date:** 3 July, 2:00 – 4:00 pm<br>
-**Admission:** $37<br>
-**Venue:** ArtScience Museum, Rainbow Room<br>
-**Organiser:** Marina Bay Sands
+**Admission:** $38 (inclusive of $1 booking fee)<br>
+**Venue:** Rainbow Room, Basement 2, ArtScience Museum<br>
+**Organiser:** ArtScience Museum, Marina Bay Sands
 
 Discover how plastic waste can be transformed and upcycled creatively. In this session, participants will unlock the art of sustainable innovation by learning how to upcycle single-use plastics into fashionable fabrics and into eco-friendly bags.
 
