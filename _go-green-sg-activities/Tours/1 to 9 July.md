@@ -524,7 +524,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/race on sunshine.jpg">
-        <h2>Race on Sunshine – Discovering Solar Energy</h2>
+				<h2>Race on Sunshine – Discovering Solar Energy</h2><sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1109,7 +1109,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/wood%20upcycling%20journey.jpg">
-        <h2>CREUSE Wood Upcycling Journey</h2>
+				<h2>CREUSE Wood Upcycling Journey</h2> <sup>Fully booked for July</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
