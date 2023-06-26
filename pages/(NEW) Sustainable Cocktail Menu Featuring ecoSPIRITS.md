@@ -3,14 +3,11 @@ title: (NEW) Sustainable Cocktail Menu Featuring ecoSPIRITS
 permalink: /sofitel-sustainable-cocktail-menu-featuring-ecospirits/
 description: ""
 ---
-
-
 ![Sentosa sofitel](/images/Challenges%20&amp;%20Deals/sentosa_sofitel.jpg)
 
-**Raise a toast to positive impact with The Urban Decay and Carbon Eclipse, concocted by Head of Mixologist Daniel Anthony using EcoSpirits and infused with upcycled herbs and fruit waste.**
+**Raise a toast to positive impact with The Urban Decay and Carbon Eclipse, concocted by Head Mixologist Daniel Anthony using EcoSpirits and infused with upcycled herbs and fruit waste.**
 
 **Date:** 1 - 31 July<br>
-**Admission:** 1 glass: $20++<br>
 **Venue:** LeBar, Sofitel Singapore Sentosa<br>
 **Organiser:** Sentosa Development Corporation
 
@@ -18,7 +15,7 @@ LeBar will be incorporating spirits packaged using the ecoSPIRITS system in thei
 
 ecoSPIRITS is an innovative closed-loop distribution system that nearly eliminates packaging waste in the premium spirits supply chain. By dramatically reducing packaging and transport costs, ecoSPIRITS provides a low carbon and low waste spirits distribution system, thereby reducing carbon footprint.
 
-In July, LeBar will feature two sustainable cocktails concocted by Head Mixologist, Daniel Anthony. The featured cocktails will include components made from upcycled herbs and fruit waste.
+In July, LeBar will feature two sustainable cocktails concocted by Head Mixologist, Daniel Anthony. The featured cocktails (priced at $20++ per glass) will include components made from upcycled herbs and fruit waste.
 
 * The Urban Decay: Jackfruit seed infused gin, orange skin and black lemons
 
