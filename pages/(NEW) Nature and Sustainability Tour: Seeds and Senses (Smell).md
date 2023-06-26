@@ -14,7 +14,7 @@ description: ""
 **Organiser:** Gardens by the Bay
 
 
-Plants and humans are similar in more ways than we think as plants too have analogous senses! This tour challenges participants to rethink their perceptions of plants as they venture through the Gardens’ living collection of strange yet fascinating plants.
+Plants and humans are similar in more ways than we think – did you know that plants have analogous senses too? This tour challenges participants to rethink their perceptions of plants as they venture through the Gardens’ living collection of strange yet fascinating plants.
 
 This tour is made possible through the support of Keppel Corporation.
 
