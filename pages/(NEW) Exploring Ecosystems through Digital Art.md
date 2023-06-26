@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/mbs_dda_2.jpg)
 
-**Immerse yourself in a world of art, science, magic and metaphor, and explore an ecosystem abundant with flora and fauna.**
+**Immerse yourself in a world of art, science, magic and metaphor, and explore an ecosystem abundant with flora and fauna at the ArtScience Museum.**
 
 **Date:** 17, 31 July 11:00 – 11:45 am<br>
 **Admission:** $38 (inclusive of $1 booking fee)<br>
