@@ -500,7 +500,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/marine%20aquaculture%20centre.png">
-        <h2>Marine Aquaculture Centre on St John’s Island</h2>
+				<h2>Marine Aquaculture Centre on St John’s Island</h2> <sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
