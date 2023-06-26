@@ -485,6 +485,37 @@ Participants can reimagine and build their own sustainable transportation!  Ma
       </a>
     </div>
   </div>
+		<!-- An Antarctic Adventure -->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/go%20green%20explorers.jpg">
+        <h2>An Antarctic Adventure
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: South Beach Consortium</strong></li>
+          <li><strong>Organiser: Just Keep Thinking (JKT)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Explore the wildlife of Antarctica and learn about the impacts of climate change in the South Pole! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/antarctic-adventure/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!--  Go Green Explorers -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
