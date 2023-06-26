@@ -305,12 +305,13 @@ third_nav_title: Workshops & Talks
           </li>
           <li><strong>Admission: Free</strong></li>
           <li><strong>Venue: ArtScience Museum</strong></li>
-          <li><strong>Organiser: Marina Bay Sands</strong></li>
+          <li><strong>Organiser: ArtScience Museum, Marina Bay Sands</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-       Delve into the realm of climate change and brainstorm ideas for sustainable transport adaptations for the future.
+       With climate change and rising sea levels threatening to change humanity's way of life, Singapore must adapt to new modes of transport in the future.
+Participants can reimagine and build their own sustainable transportation!  Materials will be provided for this drop-in activity.
         </p>
       </div>
     </div>
