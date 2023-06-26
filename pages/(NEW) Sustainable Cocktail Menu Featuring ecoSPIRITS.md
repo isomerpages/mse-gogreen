@@ -3,7 +3,7 @@ title: (NEW) Sustainable Cocktail Menu Featuring ecoSPIRITS
 permalink: /sofitel-sustainable-cocktail-menu-featuring-ecospirits/
 description: ""
 ---
-<!-- 
+
 
 ![Sentosa sofitel](/images/Challenges%20&amp;%20Deals/sentosa_sofitel.jpg)
 
@@ -26,7 +26,7 @@ In July, LeBar will feature two sustainable cocktails concocted by Head Mixologi
 
 Guests may also scan a QR code on the menu card and discover the “Sofitel Singapore Sentosa Forest”, in which they can find out more about the impact of Sofitel’s environmental efforts.
 
-<a href="https://www.sentosa.com.sg/en/things-to-do/dining/lebar/" target="_blank" class="btn-link">
+<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/dining/lebar/">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -41,5 +41,3 @@ Guests may also scan a QR code on the menu card and discover the “Sofitel Sing
 		width: 100%;
 	}
 </style>
-
---&gt;-->
