@@ -6,7 +6,7 @@ description: ""
 ![](/images/Tours/gbtb_seedsandsenses.PNG)
 
 
-**Embark on a tour that engages your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.**
+**Embark on a tour that engages your mind and your senses! Learn more about the strange yet fascinating plants at Gardens by the Bay.**
 
 **Date:** 1, 2, 8, 9, 15, 16, 22, 23, 29, 30 July,  10:30 – 11:30 am<br>
 **Admission:** Free (registration required)<br>
