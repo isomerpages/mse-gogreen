@@ -249,4 +249,35 @@ Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines
       </a>
     </div>
   </div>
+	  <!-- Urban Cleanup @ South Beach -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/(listing)y4c-stridy.jpg">
+        <h2>Urban clean up @ South Beach</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li>
+            <strong>Venue: Esplanade MRT Station Exit F</strong>
+          </li>
+          <li><strong>Organiser: Stridy</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Join Stridy in tackling litter around the South Beach area! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/urban-cleanup-south-beach/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
