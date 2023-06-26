@@ -12,9 +12,9 @@ description: ""
 **Venue:** 41 Haji Lane <br>
 **Organiser:** That Wknd Company Pte Ltd (Vintagewknd)
 
-Vintagewknd’s new store at Haji Lane features an engaging space with one-of-a-kind styles highlighting sustainability. The store represents the impact that Vintagewknd has made in reducing fashion waste.&nbsp;&nbsp;&nbsp;
+Vintagewknd’s new store at Haji Lane features an engaging space with one-of-a-kind styles highlighting sustainability. The store represents the impact that Vintagewknd has made in reducing fashion waste.
 
-The interior of the store pays homage to all things retro and vintage. It features interesting homemade and&nbsp;sustainable décor, which&nbsp;introduces a diverse and inclusive range of green alternatives. There will be unique pieces that cater to people of all ages, sizes and backgrounds,&nbsp;celebrating people's individuality and style.&nbsp;&nbsp;
+The interior of the store pays homage to all things retro and vintage. It features interesting homemade and sustainable décor, which introduces a diverse and inclusive range of green alternatives. There will be unique pieces that cater to people of all ages, sizes and backgrounds, celebrating people's individuality and style.
 
 Vintagewknd aims to extend the lifespan of 100 tonnes of fashion waste in 2023.
 
