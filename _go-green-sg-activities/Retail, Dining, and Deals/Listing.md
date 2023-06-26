@@ -283,7 +283,7 @@ third_nav_title: Retail, Dining, and Deals
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p> Embark on an eco-adventure and discover Sentosa’s unique environment. Learn more about the attractions on Sentosa, such as the highest open-air panoramic ride in Singapore – SkyHelix Sentosa, Fort Siloso, and ‘Explorers of Sentosa’ at Palawan Beach.
+        <p> Embark on an eco-adventure and discover Sentosa’s unique environment. Learn more about Sentosa's attractions, such as SkyHelix Sentosa, Fort Siloso, and ‘Explorers of Sentosa’ at Palawan Beach.
         </p>
       </div>
     </div>
@@ -313,7 +313,7 @@ third_nav_title: Retail, Dining, and Deals
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p> At 79m above sea level, SkyHelix Sentosa is one of the highest vantage points on Sentosa. Enjoy 360° views of the lush greenery stretching across the island.
+        <p>SkyHelix Sentosa is one of the highest vantage points on Sentosa. Enjoy 360° views of the lush greenery stretching across the island with exclusive discounts!
         </p>
       </div>
     </div>
