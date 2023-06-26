@@ -14,7 +14,7 @@ description: ""
 **Organiser:** Marina Bay Sands
 
 
-Due to climate change and rising sea levels, we may have to adapt to very different modes of transport in cities in the future. Imagine and build your own sustainable transport in this drop-in activity!&nbsp;
+Due to climate change and rising sea levels, we may have to adapt to very different modes of transport in cities in the future. Imagine and build your own sustainable transport in this drop-in activity!
 
 If roads and highways are flooded, how do we navigate our way through? What kind of transportation will we see? How do we make transport more sustainable?
 
