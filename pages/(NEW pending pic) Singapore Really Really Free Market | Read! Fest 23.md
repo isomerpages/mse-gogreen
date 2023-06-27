@@ -14,7 +14,7 @@ What if the free market was truly free? Singapore Really Really Free Market is a
 
 You can expect giveaways and exchanges of pre-loved items so do bring along items that you would like to give away! Discover new treasures in a fun and relaxed atmosphere, all while making a positive impact on the environment by reducing waste!
 
-<a class="btn-link" target="_blank" href="https://changiairportgroup-online.globaltix.com/attraction/amazing-sustainable-airport-quest-48051">
+<a class="btn-link" target="_blank" href="[www.eventbrite.sg/e/singapore-really-really-free-market-read-fest-23-tickets-645213961327?aff=odcleoeventsincollection](http://www.eventbrite.sg/e/singapore-really-really-free-market-read-fest-23-tickets-645213961327?aff=odcleoeventsincollection)">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
