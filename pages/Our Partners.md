@@ -24,6 +24,7 @@ Here are some other ways our partners are Going Green, their way!
 		align-items: center;
 		justify-content: space-between;
 		flex-wrap: wrap;
+		gap: 1rem;
 	}
 	.two-col__item__body {
 		flex: 1 1 70%;
