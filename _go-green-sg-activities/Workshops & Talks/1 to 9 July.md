@@ -294,7 +294,7 @@ third_nav_title: Workshops & Talks
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/mbs_myotransport.jpg">
-        <h2>Make your own sustainable transportation
+        <h2>Make Your Own Sustainable Transportation
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -310,8 +310,8 @@ third_nav_title: Workshops & Talks
       </div>
       <div class="programmes__item__body">
         <p>
-       With climate change and rising sea levels threatening to change humanity's way of life, Singapore must adapt to new modes of transport in the future.
-Participants can reimagine and build their own sustainable transportation!  Materials will be provided for this drop-in activity.
+      Singapore could very well have to adapt to new modes of transport in the future due to climate change. 
+Reimagine and build your own sustainable transportation in this workshop!
         </p>
       </div>
     </div>
