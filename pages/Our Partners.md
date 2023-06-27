@@ -27,7 +27,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Singapore Management University Verts is organising a beach clean-up for SMU students to learn about the importance of keeping our beaches and oceans clean.</p>
 		</div>
 		<div>
-			<img src="">
+			<img src="/images/Our%20Partners/Educational/educational-1.png">
 		</div>
 	</div>
 </div>
