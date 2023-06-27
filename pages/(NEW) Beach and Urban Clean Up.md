@@ -16,7 +16,7 @@ Get ready for an unforgettable day of fun and purpose at East Coast Park. Join J
 
 Do bring your aqua shoes along if you have them. More details and FAQs will be sent to participants by Just Keep Thinking one week before the event.
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/beach-urban-clean-up-tickets-655708450627?lang=en-gb&amp;locale=en_SG&amp;status=30&amp;internal_ref=social&amp;view=listing">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/beach-urban-clean-up-tickets-655708450627">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
