@@ -11,7 +11,7 @@ description: ""
 7, 14, 21, 28 July, 7:30 – 9:00 pm (additional special camera trap segment)<br>
 **Admission:** $86.76 per pax | $306.18 for 2 adults and 2 children<br>
 **Venue:** Siloso Point<br>
-**Organiser:** Sentosa Development Corporation 
+**Organiser:** The Untamed Paths 
 
 Experience the true ‘wild side’ on this night adventure through a rainforest, under the cover of darkness. Be immersed in the forest symphony and learn how to spot and identify common amphibians and nocturnal invertebrates. With a small torch, peek into the secretive lives of the nocturnal creatures found on Sentosa.&nbsp;
 
