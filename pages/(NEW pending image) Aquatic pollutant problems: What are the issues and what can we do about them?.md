@@ -13,9 +13,9 @@ description: ""
 **Venue:** Zoom (online) <br>
 **Organiser:**  National Library Board
 
-In today’s world, several water quality issues such as harmful algal blooms, eutrophication and pollution, are affecting marine and freshwater environments. Understanding the role of planktons in aquatic ecosystems is the key to advancing solutions for our water resource challenges.&nbsp;&nbsp;
+In today’s world, several water quality issues such as harmful algal blooms, eutrophication and pollution, are affecting marine and freshwater environments. Understanding the role of planktons in aquatic ecosystems is the key to advancing solutions for our water resource challenges.
 
-In this talk, Dr Mowe, who has phytoplankton and zooplankton ecology research experience&nbsp; will highlight some of the most pressing aquatic pollutant problems and what can be done to overcome them. You can also expect to gain insights from interesting global case studies.&nbsp;
+In this talk, Dr Mowe, who has phytoplankton and zooplankton ecology research experience&nbsp; will highlight some of the most pressing aquatic pollutant problems and what can be done to overcome them. You can also expect to gain insights from interesting global case studies.
 
 Come find out more about aquatic pollution, how we are affected by these issues and what we can do about them!
 
