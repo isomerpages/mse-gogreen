@@ -25,6 +25,7 @@ Here are some other ways our partners are Going Green, their way!
 	}
 </style>
 <div class="two-col">
+	<!-- Item 1 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
 			<p><strong>Beach Clean Up by SMU Verts</strong></p>
@@ -32,6 +33,48 @@ Here are some other ways our partners are Going Green, their way!
 		</div>
 		<div class="two-col__item__image">
 			<img src="/images/Our%20Partners/Educational/educational-1.png">
+		</div>
+	</div>
+	<!-- Item 2 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p><strong>Saving Bumi Charity Drive by Skool4kidz</strong></p>
+			<p>Skool4kidz Preschool @ Marsiling Drive is embarking on a Saving Bumi Charity Drive to sell art and crafts made by its pre-schoolers using sustainable materials. Proceeds will go to an elderly home, Methodist Christalite Home @ Marsiling.</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Educational/educational-2.png">
+		</div>
+	</div>
+	<!-- Item 3 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p><strong>Go Green SP by Singapore Polytechnic</strong></p>
+			<p>Singapore Polytechnic is organising a Go Green SP initiative on 5 July, which comprises a Sustainability Carnival, a panel discussion on Net Zero 2050, and a Green National Pledge campaign by the SP community.</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Educational/educational-3.png">
+		</div>
+	</div>
+	<!-- Item 4 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p><strong>Let’s Grow Healthy Spices by Jamiyah Kindergarten</strong></p>
+			<p>Jamiyah Kindergarten, one of Jamiyah Singapore’s Early Childhood Education Centres, is organising a workshop for its children to learn how to make compost from leftover vegetables and create a spice garden for the Jamiyah Home for the Aged.</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Educational/educational-4.png">
+		</div>
+	</div>
+	<!-- Item 5 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p><strong>E-waste Recycling Drive by Meridian Primary School</strong></p>
+			<p>Meridian Primary School is partnering with ALBA to conduct an e-waste recycling drive.
+
+</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Educational/educational-5.png">
 		</div>
 	</div>
 </div>
