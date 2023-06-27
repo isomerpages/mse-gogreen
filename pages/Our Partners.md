@@ -171,7 +171,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 	}
 	
 	.bp-accordion-body {
-		margin-bottom: 4rem;
+		margin-bottom: 5rem;
 	}
 	
 	.accordion > .bp-accordion-header:hover {
