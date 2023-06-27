@@ -5,9 +5,9 @@ permalink: /visual-journalling-with-upcycled-materials/
 description: ""
 ---
 <!-- 
-**Explore a new partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.**
+**The sky is the limit when it comes to journalling! Learn about the benefits of visual journalling and create meaningful pages in your journal using upcycled materials.**
 
-**Date:** 1 - 31 July<br>
+**Date:** 20 July, 2:00 – 4:30 pm<br>
 **Venue:** Castlery Flagship, Liat Towers, 541 Orchard Rd<br>
 **Organiser:** Castlery
 
