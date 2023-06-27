@@ -25,7 +25,7 @@ It will be a valuable platform for Singapore's youth to learn about sustainabili
 <br><br>
 Click [here](https://www.gogreen.gov.sg/youth4climate-festival-2023/) for more information.
 
-### 2. **Explorers of Sentosa by Thomas Dambo**<br>
+## 2. **Explorers of Sentosa by Thomas Dambo**<br>
 ![](/images/Blog/blog1-2.jpeg)<br>
 **Date**: 1 - 31 July, 11:00 am<br>
 **Admission**: Free<br>
