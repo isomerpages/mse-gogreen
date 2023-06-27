@@ -11,10 +11,11 @@ description: ""
 **Venue:** Serangoon Public Library, Programme Zone <br>
 **Organiser:** National Library Board
 
-Castlery will bring together local brands and artists passionate about sustainability to showcase their products and services at the partnership space at their Orchard Flagship. 
+You do not need a large collection of fancy art supplies to do visual journalling. In fact, you can create meaningful pages in your journal using upcycled materials.  
 
-Come in-person to experience how we can adopt a more sustainable lifestyle and support our local sustainability champions. 
+In this hands-on session, you will learn about the benefits of visual journalling and practice some basic techniques. Discover your own unique journalling style!  
 
+This programme is suitable for those aged 50 and above.
 
 <a href="https://www.instagram.com/castlerysg/?hl=en" target="_blank" class="btn-link">
 	<img src="/images/more-info-btn.png">
