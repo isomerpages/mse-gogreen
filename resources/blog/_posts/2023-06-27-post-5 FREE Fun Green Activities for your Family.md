@@ -66,7 +66,7 @@ Get ready for an unforgettable adventure as your family gets your feet wet, and 
 Find out more [here](https://www.gogreen.gov.sg/intertidal-walk-lkc/).
 
 5. **Make the Switch: The Quest for Greener Land Transport**<br>
-![](/images/Blog/blog1-5.jpeg)<br>
+![](/images/Blog/blog1-5.png)<br>
 Date: 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
 Admission: Free (registration required)<br>
 Venue: Singapore Mobility Gallery, Block 1 Level 1, 1 Hampshire Road<br>
