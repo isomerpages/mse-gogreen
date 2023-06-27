@@ -5,25 +5,31 @@ description: ""
 ---
 <b>This activity is a part of the Youth 4 Climate Festival. Find out more <a href="/youth4climate-festival-2023/">HERE</a></b>
 
+![](/images/Workshop%20&amp;%20Talks/humanlibrary.jpg)
+
+**Learn about the importance of climate policy and the role it plays in tackling climate change in this human library!**
 
 
-**Explore the wildlife of Antarctica and learn about the impacts of climate change in the South Pole!**
-
-
-**Date:** 9 July, 3:00 - 4:30 pm<br>
+**Date:** 8 July, 2:00 - 3:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** South Beach Consortium<br>
-**Organiser:** Just Keep Thinking (JKT) 
+**Venue:** South Beach Office Tower<br>
+**Organiser:** Seastainable and LepakinSG
 
-Join us for a captivating and educational event designed for families and children, where the adventurous BioGirl MJ will share her remarkable experiences in Antarctica and shed light on the impact of climate change in that pristine region. 
+Join us for a meaningful afternoon connecting with climate professionals who are working on solutions to tackle climate change. In this human library format, you’ll get a chance to learn more on the importance of climate policy and the role it plays in tackling climate change. 
 
-This event promises an engaging blend of stories, games, and crafts, ensuring an enriching and fun-filled experience for everyone! 
+Get the change to meet other like-minded sustainability professions through this engaging and deep-dive experience across topics such as urban environment, climate policy, regulation and the importance of nature-based solutions. 
 
-After which, stay back for an enchanting movie night under the stars with the screening of the film “Happy Feet”! 
+Book topics and speakers:<br>
+•	Chemicals and biofuels – Tan Jia Hui, Neste<br>
+•	Education and awareness – Kong Man Jing (BioGirl MJ), Just Keep Thinking<br>
+•	Nature &amp; Environment – Andrea Leong, Conservation International<br>
+•	Law &amp; Policy – Sean Tseng, Client Earth<br>
+•	Community and technology – Yasser Amin, Stridy
 
 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/an-antarctic-adventure-tickets-666295175807?aff=oddtdtcreator">
+
+<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfUHeGWioWhXAfkHKVpTxMugc5Fy7TTE7729FKb3EPlsYwDuA/viewform">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
