@@ -37,7 +37,7 @@ Here are some other ways our partners are Going Green, their way!
 	    flex: 1 1 20%;
 	}
 	.two-col__item__image img {
-		max-width: 92px;
+		max-width: 100px;
     margin-right: 0;
 	}
 	@media (max-width: 576px) {
