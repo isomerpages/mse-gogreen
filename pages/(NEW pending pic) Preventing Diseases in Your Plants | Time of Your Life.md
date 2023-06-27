@@ -19,7 +19,7 @@ This programme is suitable for those aged 50 and above and is organised in colla
 
 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/an-antarctic-adventure-tickets-666295175807?aff=oddtdtcreator">
+<a class="btn-link" target="_blank" href="www.eventbrite.sg/e/preventing-diseases-in-your-plants-time-of-your-life-tickets-641819107227">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
