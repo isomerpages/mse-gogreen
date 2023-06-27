@@ -170,8 +170,8 @@ Go Green SG would not be possible without the support from all our partners. Whe
 		font-size: 24px;
 	}
 	
-	.accordion > .bp-accordion-body {
-		margin-bottom: 3rem;
+	.bp-accordion-body {
+		margin-bottom: 4rem;
 	}
 	
 	.accordion > .bp-accordion-header:hover {
