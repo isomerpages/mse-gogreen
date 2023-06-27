@@ -454,7 +454,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						</div>
 					</a>
         </h3>
-				<div style="display: block" class="bp-accordion-body">
+				<div class="bp-accordion-body">
 					<div class="row">
 						<!-- Accordion Item 1 -->
 						<div class="col is-one-quarter">
