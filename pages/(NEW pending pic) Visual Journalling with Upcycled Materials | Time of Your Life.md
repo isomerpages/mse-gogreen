@@ -8,6 +8,7 @@ description: ""
 **The sky is the limit when it comes to journalling! Learn about the benefits of visual journalling and create meaningful pages in your journal using upcycled materials.**
 
 **Date:** 20 July, 2:00 – 4:30 pm <br>
+**Admission:** Free (registration required)
 **Venue:** Serangoon Public Library, Programme Zone <br>
 **Organiser:** National Library Board
 
