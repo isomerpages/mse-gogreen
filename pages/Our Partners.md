@@ -97,8 +97,7 @@ Here are some other ways our partners are Going Green, their way!
 		<div class="two-col__item__body">
 			<p><strong>E-waste Recycling Drive by Meridian Primary School</strong></p>
 			<p>Meridian Primary School is partnering with ALBA to conduct an e-waste recycling drive.
-
-</p>
+			</p>
 		</div>
 		<div class="two-col__item__image">
 			<img src="/images/Our%20Partners/Educational/educational-5.png">
@@ -107,6 +106,39 @@ Here are some other ways our partners are Going Green, their way!
 </div>
 
 ## Corporate Institutes:
+<div class="two-col">
+	<!-- Item 1 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p class="two-col__item__title"><strong>BYOB by JEN Singapore Orchardgateway!</strong></p>
+			<p>JEN Singapore Orchardgateway by Shangri-La is partnering sustainable fashion brand, FREITAG to allow hotel guests to loan bags for free while exploring the city,  reducing the use of disposable bags.</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Corporate/corporate-1-1.png">
+		</div>
+	</div>
+	<!-- Item 2 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p class="two-col__item__title"><strong>Learning journey to PSA Innovation Centre and Pasir Panjang Terminal</strong></p>
+			<p>PSA is organising a learning journey to the PSA Innovation Centre and Pasir Panjang Terminal for youths from Institutes of Higher Learning, to educate them on PSA’s innovation and sustainability journey, strategy and plans.</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Corporate/corporate-2.png">
+		</div>
+	</div>
+	<!-- Item 3 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p class="two-col__item__title"><strong>Recycling Handicraft Workshop by RW Cruises</strong></p>
+			<p>Resorts World Cruises has been collecting and processing cling wrap and carton boxes onboard their ships. Guests can participate in a workshop to transform the ship’s waste into beautiful handicrafts like tote bags, plastic folders and table organisers!</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Corporate/corporate-3.png">
+		</div>
+	</div>
+</div>
+
 
 Every effort counts!
 
