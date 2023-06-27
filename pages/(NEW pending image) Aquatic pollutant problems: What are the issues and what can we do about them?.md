@@ -4,7 +4,6 @@ title: "(NEW pending image) Aquatic pollutant problems: What are the issues and
 permalink: /aquatic-pollutant-problems/
 description: ""
 ---
-
 **Learn about the wonderful world of plankton through a microscope and never look at water bodies the same way again!**
 
 **Date:** 19 July, 7:30 - 8:30 pm<br>
@@ -18,7 +17,7 @@ In this talk, Dr Mowe, who has phytoplankton and zooplankton ecology research ex
 
 Come find out more about aquatic pollution, how we are affected by these issues and what we can do about them!
 
-<a class="btn-link" target="_blank" href="[https://www.eventbrite.sg/e/aquatic-pollutant-problems-what-are-the-issues-what-we-can-do-about-them-tickets-656540098107?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=ebdsshwebdesktop](https://www.eventbrite.sg/e/aquatic-pollutant-problems-what-are-the-issues-what-we-can-do-about-them-tickets-656540098107?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=ebdsshwebdesktop)"><img src="/images/gogreensg_website-32.png"></a>
+<a class="btn-link" target="_blank" href="[www.eventbrite.sg/e/aquatic-pollutant-problems-what-are-the-issues-what-we-can-do-about-them-tickets-656540098107?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=ebdsshwebdesktop)"><img src="/images/gogreensg_website-32.png"></a>
 
 <style>
 	.btn-link {
