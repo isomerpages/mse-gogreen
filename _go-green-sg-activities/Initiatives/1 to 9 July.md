@@ -254,7 +254,7 @@ Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Initiatives/(listing)y4c-stridy.jpg">
-        <h2>Urban clean up @ South Beach</h2>
+        <h2>Urban Clean Up @ South Beach</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
