@@ -157,7 +157,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/sentosa_eastasianflyway_final.jpg">
-        <h2>SentoSights: East Asian Flyway (Introduction to Birdwatching)</h2>
+        <h2>SentoSights: Introduction to Birdwatching</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -168,7 +168,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -199,7 +199,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $86.76 | 2 adults and 2 children: $306.18</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -354,7 +354,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -569,7 +569,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $96.39 | 2 adults and 2 children:&nbsp;$340.20</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
