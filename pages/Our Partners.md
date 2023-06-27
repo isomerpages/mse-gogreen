@@ -14,6 +14,11 @@ Here are some other ways our partners are Going Green, their way!
 
 ## Educational Institutes:
 <style>
+	.two-col {
+		display: flex;
+    flex-direction: column;
+		gap: 2rem;
+	}
 	.two-col__item {
 		display: flex;
 		align-items: center;
