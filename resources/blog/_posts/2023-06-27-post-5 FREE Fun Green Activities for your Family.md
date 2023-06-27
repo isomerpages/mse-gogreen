@@ -7,29 +7,30 @@ description: ""
 image: ""
 ---
 ![](/images/Blog/blog1banner.png)
+<br>
 Planning a family day out? Have fun and help the environment with Go Green SG 2023 activities this July! From sustainability workshops and talks, to nature walks and volunteering opportunities, there is something for everyone. Organise a family day with a difference, and give your children an exciting outing of learning and hands-on experience. Best of all, all of the events featured below are FREE! 
 
 We’ve picked out 5 free events for you to have a great day for your loved ones, and the planet.
 
 1. **Youth4Climate Festival 2023**<br>
 ![](/images/Blog/blog1-1.jpeg)<br>
-Date: 8 - 9 July, 10:00 am - 9:00 pm<br>
-Admission: Free<br>
-Venue: South Beach Consortium Open Space and Office Lobby<br>
-Organiser: City Developments Limited
+**Date**: 8 - 9 July, 10:00 am - 9:00 pm<br>
+**Admission**: Free<br>
+**Venue**: South Beach Consortium Open Space and Office Lobby<br>
+**Organiser**: City Developments Limited
 <br><br>
 A festival is a great place for a pleasant family day, and the Youth4Climate Festival hosted by City Developments Limited (CDL) delivers - with a special sustainable twist! The festival features workshops, talks, musical performances, movie screenings, and other exciting activities. 
 <br><br>
 It will be a valuable platform for Singapore's youth to learn about sustainability, take action, and connect with others who share their passion for the environment, and a great way for young people to make a difference!
 <br><br>
 Click [here](https://www.gogreen.gov.sg/youth4climate-festival-2023/) for more information.
-<br>
-2. **Explorers of Sentosa by Thomas Dambo**<br>
+
+### 2. **Explorers of Sentosa by Thomas Dambo**<br>
 ![](/images/Blog/blog1-2.jpeg)<br>
-Date: 1 - 31 July, 11:00 am<br>
-Admission: Free<br>
-Venue: Palawan Beach, Sentosa<br>
-Organiser: Sentosa Development Corporation
+**Date**: 1 - 31 July, 11:00 am<br>
+**Admission**: Free<br>
+**Venue**: Palawan Beach, Sentosa<br>
+**Organiser**: Sentosa Development Corporation
 <br><br>
 Calling all kids! Sentosa and Thomas Dambo need your help. Embark on a quest to discover the lesser-known parts of Palawan Beach and learn about the importance of sustainability.
 <br><br>
@@ -41,10 +42,10 @@ Explore a new part of Sentosa, learn about sustainability, and enjoy the sun. So
 <br>
 3. **Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food**<br>
 ![](/images/Blog/blog1-3.jpeg)<br>
-Date: 1 - 31 July<br>
-Admission: Free (registration required)<br>
-Venue: Various locations<br>
-Organiser: Divert for 2nd Life (D2L.sg)
+**Date**: 1 - 31 July<br>
+**Admission**: Free (registration required)<br>
+**Venue**: Various locations<br>
+**Organiser**: Divert for 2nd Life (D2L.sg)
 <br><br>
 If you’re looking to teach your kids the value of food and helping those in need, why not volunteer to help redistribute surplus food? For a unique family bonding experience, consider signing up as volunteers and give your children a valuable and formative experience for life. 
 <br><br>
@@ -54,10 +55,10 @@ Volunteer by signing up on their website to help with the collection and redistr
 <br>
 4. **Intertidal Walk by Lee Kong Chian Natural History Museum**<br>
 ![](/images/Blog/blog1-4.jpeg)<br>
-Date: Early July<br>
-Admission: Free (registration required)<br>
-Venue: Pulau Semakau<br>
-Organiser: National Environment Agency
+**Date**: Early July<br>
+**Admission**: Free (registration required)<br>
+**Venue**: Pulau Semakau<br>
+**Organiser**: National Environment Agency
 <br><br>
 Did you know, Singapore is home to over 250 species of hard corals, 200 species of sponges and over 100 species of reef fish? Immerse yourself in the diverse marine ecology of Singapore during this 2-hour intertidal walk. Join a knowledgeable guide as you explore the sandy beaches of Pulau Semakau and discover the marine creatures that call this small island home.
 <br><br>
@@ -67,10 +68,10 @@ Find out more [here](https://www.gogreen.gov.sg/intertidal-walk-lkc/).
 <br>
 5. **Make the Switch: The Quest for Greener Land Transport**<br>
 ![](/images/Blog/blog1-5.png)<br>
-Date: 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
-Admission: Free (registration required)<br>
-Venue: Singapore Mobility Gallery, Block 1 Level 1, 1 Hampshire Road<br>
-Organiser: Land Transport Authority (LTA)
+**Date**: 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
+**Admission**: Free (registration required)<br>
+**Venue**: Singapore Mobility Gallery, Block 1 Level 1, 1 Hampshire Road<br>
+**Organiser**: Land Transport Authority (LTA)
 <br><br>
 Looking for an afternoon of educational fun? Get ready for an adventure where you will learn about the interesting world of green transportation. The “Make the Switch: The Quest for Greener Land Transport” exhibition at the Singapore Mobility Gallery (SMG) shows how small changes in our transport habits can make a big difference in the fight against climate change. 
 Featuring a series of entertaining, interactive quests that teach visitors about how Singapore's land transport system is going green, visitors can also learn about how they can reduce their own carbon footprint by making sustainable transportation choices.
