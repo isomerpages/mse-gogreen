@@ -24,7 +24,7 @@ Here are some other ways our partners are Going Green, their way!
 		flex: 1 1 70%;
 	}
 	
-	.two-col__item__body p {
+	div.two-col__item__body p.two-col__item__title {
 		margin: 0;
 	}
 	
@@ -41,7 +41,7 @@ Here are some other ways our partners are Going Green, their way!
 	<!-- Item 1 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
-			<p><strong>Beach Clean Up by SMU Verts</strong></p>
+			<p class="two-col__item__title"><strong>Beach Clean Up by SMU Verts</strong></p>
 			<p>Singapore Management University Verts is organising a beach clean-up for SMU students to learn about the importance of keeping our beaches and oceans clean.</p>
 		</div>
 		<div class="two-col__item__image">
