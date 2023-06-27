@@ -22,11 +22,11 @@ Here are some other ways our partners are Going Green, their way!
 </style>
 <div class="two-col">
 	<div class="two-col__item">
-		<div>
+		<div class="two-col__item__body">
 			<p><strong>Beach Clean Up by SMU Verts</strong></p>
 			<p>Singapore Management University Verts is organising a beach clean-up for SMU students to learn about the importance of keeping our beaches and oceans clean.</p>
 		</div>
-		<div>
+		<div class="two-col__item__image">
 			<img src="/images/Our%20Partners/Educational/educational-1.png">
 		</div>
 	</div>
