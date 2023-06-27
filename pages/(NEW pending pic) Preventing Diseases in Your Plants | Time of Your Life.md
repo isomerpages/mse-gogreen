@@ -3,6 +3,8 @@ title: (NEW pending pic) Preventing Diseases in Your Plants | Time of Your Life
 permalink: /preventing-diseases-in-your-plants/
 description: ""
 ---
+<!--
+
 **Are your plants growing well or are they often disease-ridden? Keep them healthy by joining this talk to learn how you can spot abnormalities in your plants.**
 
 
@@ -19,7 +21,7 @@ This programme is suitable for those aged 50 and above and is organised in colla
 
 
 
-<a class="btn-link" target="_blank" href="www.eventbrite.sg/e/preventing-diseases-in-your-plants-time-of-your-life-tickets-641819107227">
+<a href="www.eventbrite.sg/e/preventing-diseases-in-your-plants-time-of-your-life-tickets-641819107227" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -35,4 +37,4 @@ This programme is suitable for those aged 50 and above and is organised in colla
 	.btn-link > img {
 		width: 100%;
 	}
-</style>
+</style>-->
