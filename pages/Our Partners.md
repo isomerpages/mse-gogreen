@@ -155,7 +155,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 	.accordion .row {
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
-		gap: .5rem;
+		/* gap: .5rem; */
 		margin: 0;
 	}
 	
@@ -219,6 +219,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 </style>
  
 <div class="accordion-container">
+	<!-- Accordtion Item 1 -->
     <div class="accordion">
         <h3 class="bp-accordion-header">
             <a class="bp-accordion-button">
@@ -228,31 +229,176 @@ Go Green SG would not be possible without the support from all our partners. Whe
 							</div>
             </a>
         </h3>
+						<!-- Accordion 1 - Body -->
             <div style="display: block" class="bp-accordion-body">
 							<div class="row">
+								<!-- Accordion Item 1 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/gardens%20by%20the%20bay%201.png">
+									<img src="/images/Our%20Partners/Corporate/gardens%20by%20the%20bay%201.png">
 								</div>
+								<!-- Accordion Item 2 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/marina%20bay%20sands%202.png">
+									<img src="/images/Our%20Partners/Corporate/marina%20bay%20sands%202.png">
 								</div>
+								<!-- Accordion Item 3 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/aws%20logo.png">
+									<img src="/images/Our%20Partners/Corporate/aws-logo.png">
 								</div>
+								<!-- Accordion Item 4 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/asia%20pacific%20breweries.png">
+									<img src="/images/Our%20Partners/Corporate/asia%20pacific%20breweries.png">
 								</div>
+								<!-- Accordion Item 5 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/castlery%20logo.png">
+									<img src="/images/Our%20Partners/Corporate/castlery.png">
 								</div>
+								<!-- Accordion Item 6 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/changi%20airport%20cycling.png">
+									<img src="/images/Our%20Partners/Corporate/changi%20airport%20cycling.png">
 								</div>
+								<!-- Accordion Item 7 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/city%20developments%20limited.png">
+									<img src="/images/Our%20Partners/Corporate/city%20developments%20limited.png">
 								</div>
+								<!-- Accordion Item 8 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/citysprouts.png">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/comcrop.png">
+								</div>
+								<!-- Accordion Item 10 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/fairmont%20swissotel%20joint.png">
+								</div>
+								<!-- Accordion Item 11 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/foodpanda.png">
+								</div>
+								<!-- Accordion Item 12 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/ginlee.png">
+								</div>
+								<!-- Accordion Item 13 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/grab-logo.png">
+								</div>
+								<!-- Accordion Item 14 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/greenscout.png">
+								</div>
+								<!-- Accordion Item 15 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/green%20sproutz%20singapore.png">
+								</div>
+								<!-- Accordion Item 16 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/holocene.png">
+								</div>
+								<!-- Accordion Item 17 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/hotel%20indigo.png">
+								</div>
+								<!-- Accordion Item 18 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/indie-singapore-tours.png">
+								</div>
+								<!-- Accordion Item 19 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/intercontinental%20hotel.png">
+								</div>
+								<!-- Accordion Item 20 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/invosystems.png">
+								</div>
+								<!-- Accordion Item 21 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/jen%20singapore.png">
+								</div>
+								<!-- Accordion Item 22 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/kowabunga!.png">
+								</div>
+								<!-- Accordion Item 23 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/mandai wildlife group.png">
+								</div>
+								<!-- Accordion Item 24 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
 								</div>
 							</div>
         </div>
