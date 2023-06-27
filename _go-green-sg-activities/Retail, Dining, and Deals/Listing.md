@@ -348,7 +348,7 @@ third_nav_title: Retail, Dining, and Deals
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/skyhelix-sentosa/" class="button-primary">
+      <a href="/sofitel-sustainable-cocktail-menu-featuring-ecospirits/" class="button-primary">
         Find out more
       </a>
     </div>
