@@ -19,6 +19,10 @@ Here are some other ways our partners are Going Green, their way!
 		align-items: center;
 		justify-content: space-between;
 	}
+	
+	.two-col__item__body p {
+		margin: 0;
+	}
 </style>
 <div class="two-col">
 	<div class="two-col__item">
