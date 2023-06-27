@@ -20,8 +20,21 @@ Here are some other ways our partners are Going Green, their way!
 		justify-content: space-between;
 	}
 	
+	.two-col__item__body {
+		flex: 1 1 70%;
+	}
+	
 	.two-col__item__body p {
 		margin: 0;
+	}
+	
+	.two-col__item__image {
+	    flex: 1 1 20%;
+	}
+	
+	.two-col__item__image img {
+		max-width: 92px;
+    margin-right: 0;
 	}
 </style>
 <div class="two-col">
