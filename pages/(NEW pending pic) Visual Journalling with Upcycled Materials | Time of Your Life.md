@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 20 July, 2:00 – 4:30 pm <br>
 **Venue:** Serangoon Public Library, Programme Zone <br>
-**Organiser:** Castlery
+**Organiser:** National Library Board
 
 Castlery will bring together local brands and artists passionate about sustainability to showcase their products and services at the partnership space at their Orchard Flagship. 
 
