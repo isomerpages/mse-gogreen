@@ -7,8 +7,8 @@ description: ""
 
 **Date:** 4 July, 7:00 – 8:00 pm <br>
 **Admission:** Free (registration required)<br>
-**Venue:** Singapore University of Social Sciences<br>
-**Organiser:** Singapore University of Social Sciences (SUSS)
+**Venue:** Zoom (online) <br>
+**Organiser:** National Library Board
 
 Worried about food security? Curious about how technology can help Singapore become an agricultural hub in the region despite our limited space and resources? Join our workshop and a tour to the SUSS Experiential Urban Farm to find out more! 
 
