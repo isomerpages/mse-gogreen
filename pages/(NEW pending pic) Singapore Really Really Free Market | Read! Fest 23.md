@@ -10,12 +10,9 @@ description: ""
 **Venue:** National Library Board Level 1, The Plaza <br>
 **Organiser:** National Library Board
 
-Embark on a fun Amazing Airport Quest and bond as a team while discovering about Changi Airport’s fun facts and sustainability efforts!
+What if the free market was truly free? Singapore Really Really Free Market is a pop-up market where goods and services are shared instead of bought and sold.&nbsp;&nbsp;
 
-In your own teams, go on a self-discovery trail across Jewel and Terminal 3 to uncover clues and conquer challenges. For instance, did you know that Changi has its own Changi Scent and Changi Bougainvillea? Did you also know how the trees in the old Terminal 1 carpark were upcycled? Through the quest, discover unique local shops and capture memorable moments with your teammates!  
- 
-After the quest, continue to have a fun-filled time at Changi Experience Studio, a digital attraction themed around Changi Airport. There, uncover the behind-the-scenes secrets on what makes Changi Airport tick like clockwork through interactive exhibits, exciting games and shows. 
-
+You can expect giveaways and exchanges of pre-loved items so do bring along items that you would like to give away! Discover new treasures in a fun and relaxed atmosphere, all while making a positive impact on the environment by reducing waste!
 
 <a class="btn-link" target="_blank" href="https://changiairportgroup-online.globaltix.com/attraction/amazing-sustainable-airport-quest-48051">
 	<img src="/images/gogreensg_website-32.png">
