@@ -5,7 +5,39 @@ description: ""
 ---
 ![](/images/banner-about-us.png)
 
-Go Green SG would like to thank all our partners who have been instrumental in supporting us. We look forward to seeing you next year!
+We thank all our valued partners for your strong support! 
+While most events under Go Green SG are open to the public, MSE, along with our partners are also celebrating Go Green SG with a wide array of internal events to encourage sustainability within our organisations!
+
+For example, MSE and its statutory boards, NEA, PUB and SFA will be co-hosting the inaugural MSE Family Go Green Week. It comprises sustainability-related activities to encourage our staff to reduce waste, water and energy use, and to purchase local produce. 
+
+Here are some other ways our partners are Going Green, their way!
+
+## Educational Institutes:
+<style>
+	.two-col__item {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+</style>
+<div class="two-col">
+	<div class="two-col__item">
+		<div>
+			<p><strong>Beach Clean Up by SMU Verts</strong></p>
+			<p>Singapore Management University Verts is organising a beach clean-up for SMU students to learn about the importance of keeping our beaches and oceans clean.</p>
+		</div>
+		<div>
+			<img src="">
+		</div>
+	</div>
+</div>
+
+## Corporate Institutes:
+
+Every effort counts!
+
+Go Green SG would not be possible without the support from all our partners. Whether you’re from the private sector, NGOs, or educational institutions, thank you for helping to make Singapore a greener place to live! 
+
 
 ## A big thank you to:
 <style>
