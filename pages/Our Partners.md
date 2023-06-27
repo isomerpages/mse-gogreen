@@ -27,6 +27,7 @@ Here are some other ways our partners are Going Green, their way!
 	.two-col__item__body {
 		flex: 1 1 70%;
 	}
+	div.two-col__item__body p,
 	div.two-col__item__body p.two-col__item__title {
 		margin: 0;
 	}
