@@ -383,6 +383,37 @@ Participants can reimagine and build their own sustainable transportation!  Ma
       </a>
     </div>
   </div>
+		<!-- Advancing Climate: A Human Library Experience -->
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)humanlibrary.jpg">
+        <h2>Advancing Climate: A Human Library Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: South Beach Office Tower </strong></li>
+          <li><strong>Organiser: Seastainable and LepakinSG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Learn about the importance of climate policy and the role it plays in tackling climate change in this human library! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/human-library/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- Make Your Own Orange Enzyme Cleaner! -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
