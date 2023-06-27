@@ -7,8 +7,8 @@ description: ""
 <!-- 
 **The sky is the limit when it comes to journalling! Learn about the benefits of visual journalling and create meaningful pages in your journal using upcycled materials.**
 
-**Date:** 20 July, 2:00 – 4:30 pm<br>
-**Venue:** Castlery Flagship, Liat Towers, 541 Orchard Rd<br>
+**Date:** 20 July, 2:00 – 4:30 pm <br>
+**Venue:** Serangoon Public Library, Programme Zone <br>
 **Organiser:** Castlery
 
 Castlery will bring together local brands and artists passionate about sustainability to showcase their products and services at the partnership space at their Orchard Flagship. 
