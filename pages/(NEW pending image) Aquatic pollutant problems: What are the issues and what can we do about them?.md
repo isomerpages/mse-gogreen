@@ -4,7 +4,6 @@ title: "(NEW pending image) Aquatic pollutant problems: What are the issues and
 permalink: /aquatic-pollutant-problems/
 description: ""
 ---
-![](/images/Tours/smg%20bus%20depot%20tour%20with%20go%20ahead%20singapore.jpg)
 
 **Learn about the wonderful world of plankton through a microscope and never look at water bodies the same way again!**
 
