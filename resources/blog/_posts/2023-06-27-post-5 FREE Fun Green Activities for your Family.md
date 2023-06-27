@@ -12,7 +12,7 @@ Planning a family day out? Have fun and help the environment with Go Green SG 20
 
 We’ve picked out 5 free events for you to have a great day for your loved ones, and the planet.
 
-1. **Youth4Climate Festival 2023**<br>
+## 1. **Youth4Climate Festival 2023**<br>
 ![](/images/Blog/blog1-1.jpeg)<br>
 **Date**: 8 - 9 July, 10:00 am - 9:00 pm<br>
 **Admission**: Free<br>
@@ -39,8 +39,8 @@ Four giant Explorers statues, made from upcycled wood and plastic, are hidden al
 Following the trail of Eternity Flowers, you will be encouraged to reflect on humanity's impact on nature with the waste we create. Visitors will also learn about Sentosa’s sustainability efforts.
 <br><br>
 Explore a new part of Sentosa, learn about sustainability, and enjoy the sun. So what are you waiting for? Start your quest today! Find out more [here](https://www.gogreen.gov.sg/explorers-of-sentosa-by-thomas-dambo/)!
-<br>
-3. **Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food**<br>
+
+## 3. **Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food**<br>
 ![](/images/Blog/blog1-3.jpeg)<br>
 **Date**: 1 - 31 July<br>
 **Admission**: Free (registration required)<br>
@@ -52,8 +52,8 @@ If you’re looking to teach your kids the value of food and helping those in ne
 D2L.sg is a non-profit organisation that aims to reduce food waste by recovering food items from F&amp;B businesses and redistributing excess food to organisations, low-income families, and other beneficiaries. This surplus food - which would otherwise be discarded, is then redistributed through the GoodHood.sg app, a mobile application that allows Singaporeans to connect with their neighbours to give, help, and share.
 <br><br>
 Volunteer by signing up on their website to help with the collection and redistribution of food, as well as with other activities such as marketing and fundraising. Companies can also indicate their interest to be a part of this meaningful movement by signing up on the website. Sign up as a volunteer [here](https://www.gogreen.gov.sg/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food/).
-<br>
-4. **Intertidal Walk by Lee Kong Chian Natural History Museum**<br>
+
+## 4. **Intertidal Walk by Lee Kong Chian Natural History Museum**<br>
 ![](/images/Blog/blog1-4.jpeg)<br>
 **Date**: Early July<br>
 **Admission**: Free (registration required)<br>
@@ -65,8 +65,8 @@ Did you know, Singapore is home to over 250 species of hard corals, 200 species 
 Get ready for an unforgettable adventure as your family gets your feet wet, and marvel at the amazing diversity of marine life that can be found in Singapore. Spot starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals. This is a great opportunity to learn about the marine ecology of Singapore and learn about how our activities affect the marine ecosystem.
 <br><br>
 Find out more [here](https://www.gogreen.gov.sg/intertidal-walk-lkc/).
-<br>
-5. **Make the Switch: The Quest for Greener Land Transport**<br>
+
+## 5. **Make the Switch: The Quest for Greener Land Transport**<br>
 ![](/images/Blog/blog1-5.png)<br>
 **Date**: 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
 **Admission**: Free (registration required)<br>
