@@ -323,6 +323,36 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+	<!-- ecoSpirits-->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/sentosa_sofitel.jpg">
+    <h2> Sofitel’s Sustainable Cocktail Menu featuring ecoSPIRITS
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: $20 ++ per glass</strong></li>
+          <li><strong>Venue: LeBar, Sofitel Singapore Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Raise a toast to positive impact with The Urban Decay and Carbon Eclipse, concocted by Head of Mixologist Daniel Anthony using EcoSpirits and infused with upcycled herbs and fruit waste.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/skyhelix-sentosa/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	      <!-- Vintagewknd Pop-up "WASTE-GATE"-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
