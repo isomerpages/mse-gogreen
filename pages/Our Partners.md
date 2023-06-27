@@ -536,133 +536,173 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/Schools/fuhua primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 21 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/greendale primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 22 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/greenland childcare centre.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 23 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/greenwood primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 24 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/hampton pre-school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 25 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/hmps school logo.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 26 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/jurong primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 27 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/learning vision @ changi business park.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 28 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/my world.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 29 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/mee toh school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 30 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/meridian primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 31 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/meridian secondary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 32 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/nan hua primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 33 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/nanyang girls high school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 34 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/naval base secondary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 35 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/nus college of design and engineering.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 36 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/nus ridge view residential college.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 37 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/nyp geo council.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 38 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/peicai secondary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 39 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/presbyterian high school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 40 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/qihua primary.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 41 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/radin mas primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 42 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/rainbow centre.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 43 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/sengkang primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 44 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/singapore university of social sciences.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 45 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/skool4kidz preschool.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 46 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/smu verts.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 47 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/st andrew_s junior college.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 48 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/st anthony_s canossian secondary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 49 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/st anthony_s primary school.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 50 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/star learners childcare.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 51 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/sunflower preschool.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 52 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Schools/swallows _ amazons kindergarten.png">
+						</div>
+						<!-- Accordion Item 53 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/tampines north primary school.png">
+						</div>
+						<!-- Accordion Item 54 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/tampines secondary school.png">
+						</div>
+						<!-- Accordion Item 55 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/telok kurau primary school.png">
+						</div>
+						<!-- Accordion Item 56 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/valour primary school.png">
+						</div>
+						<!-- Accordion Item 57 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/woodgrove secondary school.png">
+						</div>
+						<!-- Accordion Item 58 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/xingnan primary school.png">
+						</div>
+						<!-- Accordion Item 59 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/xishan primary school.png">
+						</div>
+						<!-- Accordion Item 60 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/yu neng primary school.png">
+						</div>
+						<!-- Accordion Item 61 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/yusof ishak secondary school.png">
+						</div>
+						<!-- Accordion Item 62 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Schools/zhonghua secondary school.png">
 						</div>
 					</div>
         </div>
