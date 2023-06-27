@@ -65,7 +65,7 @@ Here are some other ways our partners are Going Green, their way!
 	<!-- Item 2 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
-			<p><strong>Saving Bumi Charity Drive by Skool4kidz</strong></p>
+			<p class="two-col__item__title"><strong>Saving Bumi Charity Drive by Skool4kidz</strong></p>
 			<p>Skool4kidz Preschool @ Marsiling Drive is embarking on a Saving Bumi Charity Drive to sell art and crafts made by its pre-schoolers using sustainable materials. Proceeds will go to an elderly home, Methodist Christalite Home @ Marsiling.</p>
 		</div>
 		<div class="two-col__item__image">
@@ -75,7 +75,7 @@ Here are some other ways our partners are Going Green, their way!
 	<!-- Item 3 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
-			<p><strong>Go Green SP by Singapore Polytechnic</strong></p>
+			<p class="two-col__item__title"><strong>Go Green SP by Singapore Polytechnic</strong></p>
 			<p>Singapore Polytechnic is organising a Go Green SP initiative on 5 July, which comprises a Sustainability Carnival, a panel discussion on Net Zero 2050, and a Green National Pledge campaign by the SP community.</p>
 		</div>
 		<div class="two-col__item__image">
@@ -85,7 +85,7 @@ Here are some other ways our partners are Going Green, their way!
 	<!-- Item 4 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
-			<p><strong>Let’s Grow Healthy Spices by Jamiyah Kindergarten</strong></p>
+			<p class="two-col__item__title"><strong>Let’s Grow Healthy Spices by Jamiyah Kindergarten</strong></p>
 			<p>Jamiyah Kindergarten, one of Jamiyah Singapore’s Early Childhood Education Centres, is organising a workshop for its children to learn how to make compost from leftover vegetables and create a spice garden for the Jamiyah Home for the Aged.</p>
 		</div>
 		<div class="two-col__item__image">
@@ -95,7 +95,7 @@ Here are some other ways our partners are Going Green, their way!
 	<!-- Item 5 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
-			<p><strong>E-waste Recycling Drive by Meridian Primary School</strong></p>
+			<p class="two-col__item__title"><strong>E-waste Recycling Drive by Meridian Primary School</strong></p>
 			<p>Meridian Primary School is partnering with ALBA to conduct an e-waste recycling drive.
 			</p>
 		</div>
