@@ -3,7 +3,9 @@ title: (NEW pending pic) The Place of Comics in Singapore's Society | Read! Fest
 permalink: /the-place-of-comics-in-singapore-society/
 description: ""
 ---
-<!-- **Join the uncovering of the distinct charm of comics and learn the communicative role it plays in this panel discussion.**
+<!-- 
+
+**Join the uncovering of the distinct charm of comics and learn the communicative role it plays in this panel discussion.**
 
 **Date:** 4 July, 7:00 – 8:00 pm <br>
 **Admission:** Free (registration required)<br>
