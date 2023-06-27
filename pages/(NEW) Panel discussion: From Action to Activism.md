@@ -15,9 +15,9 @@ description: ""
 **Venue:** South Beach Office Tower<br>
 **Organiser:** EB Impact 
 
-The urgent need for action on climate change has brought together a diverse range of voices and perspectives in the global movement for climate justice – this includes the voices of youths. For years now, young people have played a critical role in focusing national and global attention on the urgent need to act on climate and sustainable development challenges. Around the world, global youth climate movements have been a wake-up call for leaders and policymakers, proving that youth play an active role in paving the way forward. The way we engage youth today will determine the prospects for sustainable development in the future.
+The urgent need for action on climate change has brought together a diverse range of voices and perspectives in the global movement for climate justice – including the voices of youths. Young people have played a critical role in focusing national and global attention on the urgent need to act on climate and sustainable development challenges. Around the world, global youth climate movements have been a wake-up call for leaders and policymakers, proving that youth play an active role in paving the way forward. The way which youths are engaged will determine the prospects for sustainable development in the future.
 
-Utilising young people’s potential as agents of change, starting ‘small’ from their local communities, to creating large and rippling impacts, requires involving and empowering them in the development of policy and support in their participation no matter how big or small their actions may be.  
+Join this panel discussion to explore how young people can be agents of change. Starting ‘small’ from their local communities, to creating large and rippling impacts, requires involving and empowering them in the development of policy and support in their participation no matter how big or small their actions may be.  
 
 
 <a class="btn-link" target="_blank" href="https://airtable.com/shrbQLef3lTeKDwV7">
