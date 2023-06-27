@@ -115,7 +115,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>JEN Singapore Orchardgateway by Shangri-La is partnering sustainable fashion brand, FREITAG to allow hotel guests to loan bags for free while exploring the city,  reducing the use of disposable bags.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Corporate/corporate-1-1.png">
+			<img src="/images/Our%20Partners/Corporate/jen%20singapore.png">
 		</div>
 	</div>
 	<!-- Item 2 -->
@@ -125,7 +125,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>PSA is organising a learning journey to the PSA Innovation Centre and Pasir Panjang Terminal for youths from Institutes of Higher Learning, to educate them on PSA’s innovation and sustainability journey, strategy and plans.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Corporate/corporate-2.png">
+			<img src="/images/Our%20Partners/Corporate/psa%20corporation.png">
 		</div>
 	</div>
 	<!-- Item 3 -->
@@ -135,7 +135,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Resorts World Cruises has been collecting and processing cling wrap and carton boxes onboard their ships. Guests can participate in a workshop to transform the ship’s waste into beautiful handicrafts like tote bags, plastic folders and table organisers!</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Corporate/corporate-3.png">
+			<img src="/images/Our%20Partners/Corporate/resort%20world%20cruises%20(rw%20cruises).png">
 		</div>
 	</div>
 </div>
