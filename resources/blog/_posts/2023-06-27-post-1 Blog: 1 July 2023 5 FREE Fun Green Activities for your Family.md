@@ -6,11 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/Blog/blog1banner.png)
 Planning a family day out? Have fun and help the environment with Go Green SG 2023 activities this July! From sustainability workshops and talks, to nature walks and volunteering opportunities, there is something for everyone. Organise a family day with a difference, and give your children an exciting outing of learning and hands-on experience. Best of all, all of the events featured below are FREE! 
 
 We’ve picked out 5 free events for you to have a great day for your loved ones, and the planet.
 
 1. **Youth4Climate Festival 2023**<br>
+![](/images/Blog/blog1-1.jpeg)<br>
 Date: 8 - 9 July, 10:00 am - 9:00 pm<br>
 Admission: Free<br>
 Venue: South Beach Consortium Open Space and Office Lobby<br>
@@ -23,6 +25,7 @@ It will be a valuable platform for Singapore's youth to learn about sustainabili
 Click [here](https://www.gogreen.gov.sg/youth4climate-festival-2023/) for more information.
 
 2. **Explorers of Sentosa by Thomas Dambo**<br>
+![](/images/Blog/blog1-2.jpeg)<br>
 Date: 1 - 31 July, 11:00 am<br>
 Admission: Free<br>
 Venue: Palawan Beach, Sentosa<br>
@@ -37,6 +40,7 @@ Following the trail of Eternity Flowers, you will be encouraged to reflect on hu
 Explore a new part of Sentosa, learn about sustainability, and enjoy the sun. So what are you waiting for? Start your quest today! Find out more [here](https://www.gogreen.gov.sg/explorers-of-sentosa-by-thomas-dambo/)!
 
 3. **Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food**<br>
+![](/images/Blog/blog1-3.jpeg)<br>
 Date: 1 - 31 July<br>
 Admission: Free (registration required)<br>
 Venue: Various locations<br>
@@ -49,6 +53,7 @@ D2L.sg is a non-profit organisation that aims to reduce food waste by recovering
 Volunteer by signing up on their website to help with the collection and redistribution of food, as well as with other activities such as marketing and fundraising. Companies can also indicate their interest to be a part of this meaningful movement by signing up on the website. Sign up as a volunteer [here](https://www.gogreen.gov.sg/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food/).
 
 4. **Intertidal Walk by Lee Kong Chian Natural History Museum**<br>
+![](/images/Blog/blog1-4.jpeg)<br>
 Date: Early July<br>
 Admission: Free (registration required)<br>
 Venue: Pulau Semakau<br>
@@ -61,6 +66,7 @@ Get ready for an unforgettable adventure as your family gets your feet wet, and 
 Find out more [here](https://www.gogreen.gov.sg/intertidal-walk-lkc/).
 
 5. **Make the Switch: The Quest for Greener Land Transport**<br>
+![](/images/Blog/blog1-5.jpeg)<br>
 Date: 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
 Admission: Free (registration required)<br>
 Venue: Singapore Mobility Gallery, Block 1 Level 1, 1 Hampshire Road<br>
