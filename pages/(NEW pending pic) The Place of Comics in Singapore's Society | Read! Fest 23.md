@@ -10,15 +10,9 @@ description: ""
 **Venue:** Zoom (online) <br>
 **Organiser:** National Library Board
 
-Worried about food security? Curious about how technology can help Singapore become an agricultural hub in the region despite our limited space and resources? Join our workshop and a tour to the SUSS Experiential Urban Farm to find out more! 
+Comics are not just about superheroes. Taking “The Most Important Comic Book on Earth” as a starting point, this discussion argues for the unique value of comics as a communicative medium, uncovers its distinct charms, and unpacks the evolving role it plays in Singapore’s literary scene.&nbsp;
 
-The Director of Nutrious Farms, the industrial partner of SUSS developing Agri-Preneur Incubation Programme and set up the Experiential Urban Farm, will be sharing on Singapore's 30 by 30 vision and strategies, different farming systems and automated technologies. Through the workshop and farm tour, participants will gain a better understanding of the local agriculture industry’s efforts to strengthen food security.
-
-The event consists of a 30-minutes workshop followed by a 30-minute tour to SUSS Experiential Urban Farm. There are 3 slots for participants to choose from (registration required)
-
-There is a fee of $10. SUSS will contact the registrants for the payment method after receiving registration. All the revenue will be contributed to the Student Care Fund under SUSS’ Better Together Challenge.
-
-
+Join Lim Cheng Tju, (Singapore’s comics critic), Viency Lee (Editor, Asiapac Books &amp; COMIX.SG), Felicia Low-Jimenez (Publisher, Difference Engine), and Woo Qiyun (Environmentalist, Creative Storyteller and National Geographic Young Explorer, @theweirdandwild), as they survey the present and forecast the future of comics as a medium for environmental advocacy.
 <a target="_blank" class="btn-link" href="https://suss.au1.qualtrics.com/jfe/form/SV_6tatyrO03qOaOlo">
 	<img src="/images/gogreensg_website-32.png">
 </a>
