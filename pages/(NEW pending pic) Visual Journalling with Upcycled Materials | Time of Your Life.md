@@ -17,7 +17,7 @@ In this hands-on session, you will learn about the benefits of visual journallin
 
 This programme is suitable for those aged 50 and above.
 
-<a href="https://www.instagram.com/castlerysg/?hl=en" target="_blank" class="btn-link">
+<a href="www.eventbrite.sg/e/visual-journalling-with-upcycled-materials-time-of-your-life-tickets-638617360717?aff=oddtdtcreator" target="_blank" class="btn-link">
 	<img src="/images/more-info-btn.png">
 </a>
 
