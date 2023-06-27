@@ -12,7 +12,7 @@ description: ""
 **Venue:** Bedok North Ave 3<br>
 **Organiser:** GreenSpace+
 
-Join Green Parade 2023 on July 1st for a remarkable event celebrating creativity, community, and conscious living. It's a unique opportunity to reconnect with nature, immerse yourself in a community-style experience, and make a lasting impact on the environment. 
+Join Green Parade 2023 for a remarkable event celebrating creativity, community, and conscious living. It's a unique opportunity to reconnect with nature, immerse yourself in a community-style experience, and make a lasting impact on the environment. 
 
 The event offers eco-friendly fun, open mic sessions, community-style picnics, and sustainable shopping. Green Parade 2023 goes beyond typical climate change events, aiming to empower attendees to become catalysts for positive environmental change. 
 
