@@ -5,7 +5,7 @@ description: ""
 ---
 <b>This activity is a part of the Youth 4 Climate Festival. Find out more <a href="/youth4climate-festival-2023/">HERE</a></b>
 
-![](/images/Workshop%20&amp;%20Talks/jkt%20workshop.jpg)
+![](/images/Workshop%20&amp;%20Talks/aaa%2016-9.jpg)
 
 **Explore the wildlife of Antarctica and learn about the impacts of climate change in the South Pole!**
 
