@@ -24,22 +24,29 @@ Here are some other ways our partners are Going Green, their way!
 		align-items: center;
 		justify-content: space-between;
 	}
-	
 	.two-col__item__body {
 		flex: 1 1 70%;
 	}
-	
 	div.two-col__item__body p.two-col__item__title {
 		margin: 0;
 	}
-	
 	.two-col__item__image {
 	    flex: 1 1 20%;
 	}
-	
 	.two-col__item__image img {
 		max-width: 92px;
     margin-right: 0;
+	}
+	@media (max-width: 576px) {
+		.two-col__item__body {
+			flex: 1 1 100%;
+		}
+		.two-col__item__image {
+			order: -1;
+		}
+		.two-col__item__image img {
+			margin: auto;
+		}
 	}
 </style>
 <div class="two-col">
