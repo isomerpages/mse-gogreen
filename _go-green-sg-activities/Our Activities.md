@@ -48,7 +48,7 @@ Choose how YOU want to go green, and do sign up early to avoid disappointment!
 		<a class="btn-link" href="/programmes/events/">Events</a>
 	</div>
 	<div class="col is-is-one-third">
-		<a class="btn-link" href="/programmes/retail-and-dining/">Retail,  Dining &amp; Deals</a>
+		<a class="btn-link" href="/programmes/retail-dining-and-deals/">Retail,  Dining &amp; Deals</a>
 	</div>
 	<div class="col is-one-third">
 		<a class="btn-link" href="/programmes/challenges/">Challenges</a>
