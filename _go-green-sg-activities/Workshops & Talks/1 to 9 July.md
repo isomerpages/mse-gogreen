@@ -387,7 +387,7 @@ Reimagine and build your own sustainable transportation in this workshop!
 	  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/(listing)humanlibrary.jpg">
+        <img src="/images/Workshop%20&amp;%20Talks/(library)humanlibrary.jpg">
         <h2>Advancing Climate: A Human Library Experience
 </h2>
       </div>
