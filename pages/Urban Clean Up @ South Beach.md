@@ -1,5 +1,5 @@
 ---
-title: (NEW) Urban Clean Up @ South Beach
+title: Urban Clean Up @ South Beach
 permalink: /urban-cleanup-south-beach/
 description: ""
 ---

@@ -157,7 +157,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/sentosa_eastasianflyway_final.jpg">
-        <h2>SentoSights: East Asian Flyway (Introduction to Birdwatching)</h2>
+        <h2>SentoSights: Introduction to Birdwatching</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -168,7 +168,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -199,7 +199,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $86.76 | 2 adults and 2 children: $306.18</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -354,7 +354,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $77.11 | 2 adults and 2 children: $272.16</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -569,7 +569,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: $96.39 | 2 adults and 2 children:&nbsp;$340.20</strong></li>
           <li><strong>Venue: Siloso Point</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -1235,6 +1235,37 @@ third_nav_title: Tours
     </div>
     <div class="programmes__item__actions">
       <a href="/whats-in-my-mud/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- beach and urban cleanup -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/stridy_beachcleanup_l.jpg">
+        <h2>Beach and Urban Clean Up
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Marine Cove, East Coast Park</strong></li>
+          <li><strong>Organiser: Stridy, Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Join Just Keep Thinking and Stridy in a Beach and Urban Clean Up at East Coast Park! Participants will learn how they can all create a cleaner, greener future!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/beach-and-urban-clean-up/" class="button-primary">
         Find out more
       </a>
     </div>

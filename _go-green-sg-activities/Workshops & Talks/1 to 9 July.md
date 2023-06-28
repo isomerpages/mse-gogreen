@@ -294,14 +294,14 @@ third_nav_title: Workshops & Talks
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/mbs_myotransport.jpg">
-        <h2>Make your own sustainable transportation
+        <h2>Make Your Own Sustainable Transportation
 </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 3, 4, 5, 6, 7 July</strong>
+              Date: 3 - 7 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
           <li><strong>Venue: ArtScience Museum</strong></li>
@@ -310,8 +310,8 @@ third_nav_title: Workshops & Talks
       </div>
       <div class="programmes__item__body">
         <p>
-       With climate change and rising sea levels threatening to change humanity's way of life, Singapore must adapt to new modes of transport in the future.
-Participants can reimagine and build their own sustainable transportation!  Materials will be provided for this drop-in activity.
+      Singapore could very well have to adapt to new modes of transport in the future due to climate change. 
+Reimagine and build your own sustainable transportation in this workshop!
         </p>
       </div>
     </div>
@@ -379,6 +379,37 @@ Participants can reimagine and build their own sustainable transportation!  Ma
     </div>
     <div class="programmes__item__actions">
       <a href="/chocolate-bar-making/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- Advancing Climate: A Human Library Experience -->
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(library)humanlibrary.jpg">
+        <h2>Advancing Climate: A Human Library Experience
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: South Beach Office Tower </strong></li>
+          <li><strong>Organiser: Seastainable and LepakinSG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Learn about the importance of climate policy and the role it plays in tackling climate change in this human library! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/human-library/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -489,7 +520,7 @@ Participants can reimagine and build their own sustainable transportation!  Ma
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/(listing)jkt%20workshop.jpg">
+        <img src="/images/Workshop%20&amp;%20Talks/aaa%204-5.jpg">
         <h2>An Antarctic Adventure
 </h2>
       </div>

@@ -119,6 +119,37 @@ third_nav_title: Events
       </a>
     </div>
   </div>
+	 <!-- Green Parade 2023 -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)greenparade.jpg">
+        <h2>Green Parade 2023</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 1 July</strong></li>
+          <li><strong>Admission: Free</strong></li>
+          <li>
+            <strong>
+              Venue: Bedok North Ave 3
+            </strong>
+          </li>
+          <li><strong>Organiser: GreenSpace+</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+         The Green Parade 2023 is a vibrant and eco-conscious event, bringing together people from all walks of life to celebrate sustainability, raise awareness, and promote positive environmental change in a festive atmosphere.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/green-parade/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Ocean Fest -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
