@@ -17,7 +17,7 @@ description: ""
 
 Join us for a meaningful afternoon connecting with climate professionals who are working on solutions to tackle climate change. In this human library format, you’ll get a chance to learn more on the importance of climate policy and the role it plays in tackling climate change. 
 
-Get the change to meet other like-minded sustainability professions through this engaging and deep-dive experience across topics such as urban environment, climate policy, regulation and the importance of nature-based solutions. 
+Get the chance to meet other like-minded sustainability professionals through this engaging and deep-dive experience across topics such as urban environment, climate policy, regulation and the importance of nature-based solutions. 
 
 Book topics and speakers:<br>
 •	Chemicals and biofuels – Tan Jia Hui, Neste<br>
