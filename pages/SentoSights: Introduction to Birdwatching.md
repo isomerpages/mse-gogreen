@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Tours/sentosa_eastasianflyway_final.jpg)
 
-**Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.**
+**Discover birding in Sentosa! Spot local avian fauna through a pair of binoculars while learning about their unique morphology and calls.**
 
 **Date:** 1, 8, 15, 22, 29 July, 7:00 – 8:30 am<br>
 **Admission:** $77.11 | 2 adults and 2 children: $272.16<br>
