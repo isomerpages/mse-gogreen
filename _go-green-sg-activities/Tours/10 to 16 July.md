@@ -549,7 +549,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.
+          Discover birding in Sentosa! Spot local avian fauna through a pair of binoculars while learning about their unique morphology and calls.
         </p>
       </div>
     </div>
