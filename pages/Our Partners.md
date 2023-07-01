@@ -246,7 +246,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 3 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/aws-logo.png">
+									<img src="/images/Our%20Partners/Corporate/amazon.png">
 								</div>
 								<!-- Accordion Item 4 -->
 								<div class="col is-one-quarter">
