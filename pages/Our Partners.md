@@ -423,28 +423,28 @@ Go Green SG would not be possible without the support from all our partners. Whe
 				<div class="bp-accordion-body">
 					<div class="row">
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/champs%20for%20our%20environment.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/champs%20for%20our%20environment.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/divert%20for%202nd%20life.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/divert%20for%202nd%20life.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/living%20soil%20asia.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/living%20soil%20asia.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/metta%20welfare%20association.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/metta%20welfare%20association.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/singapore%20fashion%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20fashion%20council.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/singapore%20furniture%20industries%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20furniture%20industries%20council.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/tanjong%20pagar%20town%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/tanjong%20pagar%20town%20council.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/unleash.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/unleash.png">
 						</div>
 					</div>
 				</div>
