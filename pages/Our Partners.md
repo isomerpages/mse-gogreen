@@ -60,7 +60,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Singapore Management University Verts is organising a beach clean-up for SMU students to learn about the importance of keeping our beaches and oceans clean.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners//Special%20Mentions//educational-1.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-1.png">
 		</div>
 	</div>
 	<!-- Item 2 -->
@@ -70,7 +70,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Skool4kidz Preschool @ Marsiling Drive is embarking on a Saving Bumi Charity Drive to sell art and crafts made by its pre-schoolers using sustainable materials. Proceeds will go to an elderly home, Methodist Christalite Home @ Marsiling.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners//Special%20Mentions//educational-2.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-2.png">
 		</div>
 	</div>
 	<!-- Item 3 -->
@@ -80,7 +80,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Singapore Polytechnic is organising a Go Green SP initiative on 5 July, which comprises a Sustainability Carnival, a panel discussion on Net Zero 2050, and a Green National Pledge campaign by the SP community.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners//Special%20Mentions//educational-4.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-4.png">
 		</div>
 	</div>
 	<!-- Item 4 -->
@@ -90,7 +90,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Jamiyah Kindergarten, one of Jamiyah Singapore’s Early Childhood Education Centres, is organising a workshop for its children to learn how to make compost from leftover vegetables and create a spice garden for the Jamiyah Home for the Aged.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners//Special%20Mentions//educational-3.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-3.png">
 		</div>
 	</div>
 	<!-- Item 5 -->
@@ -101,7 +101,7 @@ Here are some other ways our partners are Going Green, their way!
 			</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners//Special%20Mentions//educational-5.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-5.png">
 		</div>
 	</div>
 </div>
