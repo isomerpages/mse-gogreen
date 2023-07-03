@@ -1368,7 +1368,7 @@ third_nav_title: Tours
     </div>
   </div>
 	  <!-- JKT Intertidal Adventure -->
-<!--  <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/intertidal%20adventure%20with%20biogirl%20mj%20(4by3).png">
@@ -1390,14 +1390,14 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Ever wonder what marine creatures we can find on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have at our very own shores!
+          Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our very own shores!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a class="button-primary" href="/intertidal-adventure-jkt/">
+      <a href="/intertidal-adventure-jkt/" class="button-primary">
         Find out more
       </a>
     </div>
-  </div> -->
+  </div>
 </div>
