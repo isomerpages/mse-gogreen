@@ -234,6 +234,55 @@ Go Green SG would not be possible without the support from all our partners. Whe
 </style>
  
 <div class="accordion-container">
+		<!-- Accordion Item 1 -->
+    <div class="accordion">
+        <h3 class="bp-accordion-header">
+            <a class="bp-accordion-button">
+							<div class="bp-accordion-button-wrapper">
+									<span>Public Agencies:</span>
+									<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
+							</div>
+            </a>
+        </h3>
+						<!-- Accordion 2 - Body -->
+            <div style="display: block" class="bp-accordion-body">
+							<div class="row">
+								<!-- Accordion Item 1 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/govtech.png">
+								</div>
+								<!-- Accordion Item 2 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/landtransportauthority.jpg">
+								</div>
+								<!-- Accordion Item 3 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/ministryofsustainabilityandenvironment.jpg">
+								</div>
+								<!-- Accordion Item 4 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/nationalenvironmentalagency.jpg">
+								</div>
+								<!-- Accordion Item 5 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners//Public%20Agencies/nparks.jpg">
+								</div>
+								<!-- Accordion Item 6 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/publicutilitiesboard.jpg">
+								</div>
+								<!-- Accordion Item 7 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/singapore%20food%20agency%20(sfa).jpg">
+								</div>
+										<!-- Accordion Item 8 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/singaporetourismboard.jpg">
+								</div>
+								</div>
+							</div>
+        </div>
+    </div>
 	<!-- Accordtion Item 1 -->
     <div class="accordion">
         <h3 class="bp-accordion-header">
@@ -454,7 +503,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 							</div>
         </div>
-    </div>
+    
     <div class="accordion">
         <h3 class="bp-accordion-header">
 					<a class="bp-accordion-button">
