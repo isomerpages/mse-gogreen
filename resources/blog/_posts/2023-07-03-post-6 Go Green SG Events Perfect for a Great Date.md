@@ -8,23 +8,25 @@ image: ""
 ---
 ![](/images/Blog/blog2banner.png)
 <br>
-Planning a family day out? Have fun and help the environment with Go Green SG 2023 activities this July! From sustainability workshops and talks, to nature walks and volunteering opportunities, there is something for everyone. Organise a family day with a difference, and give your children an exciting outing of learning and hands-on experience. Best of all, all of the events featured below are FREE! 
+Love is about keeping the spark alive. Here are some of our favourite date ideas for an unforgettable bonding experience that also contributes to a sustainable cause!
 
-We’ve picked out 5 free events for you to have a great day for your loved ones, and the planet.
-
-## 1. **Youth4Climate Festival 2023**<br>
+## 1. **Sunsets @ Sky Sprouts**<br>
 ![](/images/Blog/blog2-1.png)
 <a target="_blank" href="https://cdlsustainability.com/climate-action/youth4climate/img_9130-2/">Image Source</a><br><br>
-**Date**: 8 - 9 July, 10:00 am - 9:00 pm<br>
-**Admission**: Free<br>
-**Venue**: South Beach Consortium Open Space and Office Lobby<br>
-**Organiser**: City Developments Limited
+**Date**: 6, 8, 20, 22 July, 6:00 - 8:00 pm<br>
+**Admission**: $68 | $120 per pair<br>
+**Venue**: Sky Sprouts, 896 Dunearn Rd<br>
+**Organiser**: City Sprouts
 <br><br>
-A festival is a great place for a pleasant family day, and the Youth4Climate Festival hosted by City Developments Limited (CDL) delivers - with a special sustainable twist! The festival features workshops, talks, musical performances, movie screenings, and other exciting activities. 
+Enjoy delectable farm-to-table delicacies with your significant other at Sky Sprouts.
 <br><br>
-It will be a valuable platform for Singapore's youth to learn about sustainability, take action, and connect with others who share their passion for the environment, and a great way for young people to make a difference!
+Tour the rooftop garden, learn about the sustainable practices that City Sprouts uses to grow their produce, and enjoy a farm-to-table salad made fresh from the garden.
 <br><br>
-Click [here](https://www.gogreen.gov.sg/youth4climate-festival-2023/) for more information.
+Then kick back and relax with a beer tasting workshop led by CRUST, where you'll get to savour their signature products like the Breaking Bread Ale and Mulberry Lime CROP soda, while also learning how their innovative beer is brewed from food waste.
+<br><br>
+Cap off the evening with a view of the breathtaking sunset over the city skyline. 
+<br><br>
+How’s that for a perfect evening date? Click [here](https://www.gogreen.gov.sg/sunsets-at-sky-sprouts/) for more information.
 
 ## 2. **Explorers of Sentosa by Thomas Dambo**<br>
 ![](/images/Blog/blog2-2.jpeg)
