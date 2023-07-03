@@ -12,7 +12,7 @@ description: ""
 
 **Date:** 8 July, 10:00 - 11:00 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** South Beach Office Tower<br>
+**Venue:** South Beach Tower Lobby<br>
 **Organiser:** EB Impact 
 
 The urgent need for action on climate change has brought together a diverse range of voices and perspectives in the global movement for climate justice – including the voices of youths. Young people have played a critical role in focusing national and global attention on the urgent need to act on climate and sustainable development challenges. Around the world, global youth climate movements have been a wake-up call for leaders and policymakers, proving that youth play an active role in paving the way forward. The way which youths are engaged will determine the prospects for sustainable development in the future.
