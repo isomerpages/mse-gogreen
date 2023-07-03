@@ -3,6 +3,7 @@ title: (NEW) Climate Fresk Workshop
 permalink: /climate-fresk/
 description: ""
 ---
+<!--
 <b>This activity is a part of the Youth 4 Climate Festival. Find out more <a href="/youth4climate-festival-2023/">HERE</a></b>
 
 ![](/images/Workshop%20&amp;%20Talks/climatefresk.jpg)
@@ -34,7 +35,7 @@ The workshop’s program:
 
 
 
-<a class="btn-link" target="_blank" href="https://association.climatefresk.org/training_sessions/c65594b9-159a-41ee-865d-aa549fda63aa/show_public?language=en&amp;tenant_token=36bd2274d3982262c0021755">
+<a href="https://association.climatefresk.org/training_sessions/c65594b9-159a-41ee-865d-aa549fda63aa/show_public?language=en&amp;tenant_token=36bd2274d3982262c0021755" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -51,3 +52,4 @@ The workshop’s program:
 		width: 100%;
 	}
 </style>
+-->
