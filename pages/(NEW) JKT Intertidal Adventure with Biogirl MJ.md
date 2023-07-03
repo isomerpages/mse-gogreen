@@ -3,6 +3,7 @@ title: (NEW) JKT Intertidal Adventure with Biogirl MJ
 permalink: /intertidal-adventure-jkt/
 description: ""
 ---
+<!--
 <b>This activity is a part of the Youth 4 Climate Festival. Find out more <a href="/youth4climate-festival-2023/">HERE</a></b>
 
 ![](/images/Tours/intertidal%20adventure%20with%20biogirl%20mj.png)
@@ -10,20 +11,15 @@ description: ""
 **Ever wonder what marine creatures we can find on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have at our very own shores!**
 
 
-**Date:** 9 July, 3:00 - 4:30 pm<br>
+**Date:** 9 July, 8:30 - 10:30 am | 21 July, 6:00 - 8:00am |22 July, 6:45 - 8:45am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** South Beach Fountain Plaza<br>
+**Venue:** Changi Beach<br>
 **Organiser:** Just Keep Thinking (JKT) 
 
-Join us for a captivating and educational event for families and children, where the adventurous BioGirl MJ will share her remarkable experiences in Antarctica and shed light on the impact of climate change in this pristine region. 
-
-This event promises an engaging blend of stories, games, and crafts, ensuring an enriching and fun-filled experience for everyone! 
-
-After which, stay back for an enchanting movie night under the stars with the screening of the film “Happy Feet”! 
+Ever wonder what marine creatures we can find on our shores? Join Biogirl MJ and be a marine intertidal explorer for a day! Get your cameras ready as we <b>spot, discover and take photos </b>of the amazing biodiversity we have right in our very own shores! At the same time, get to interact with Biogirl MJ as she shares <b>fascinating facts</b> and<b> intriguing stories</b> about the creatures that live amongst us! Get to learn how we can conserve and protect our marine wildlife as we collect the trash that we see along the way. 
 
 
-
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/an-antarctic-adventure-tickets-666295175807">
+<a href="https://www.eventbrite.sg/e/intertidal-adventure-with-biogirl-mj-tickets-160224338309" target="_blank" class="btn-link">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -40,3 +36,4 @@ After which, stay back for an enchanting movie night under the stars with the sc
 		width: 100%;
 	}
 </style>
+-->
