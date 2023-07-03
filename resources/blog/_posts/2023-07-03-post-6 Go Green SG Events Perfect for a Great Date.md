@@ -28,65 +28,85 @@ Cap off the evening with a view of the breathtaking sunset over the city skyline
 <br><br>
 How’s that for a perfect evening date? Click [here](https://www.gogreen.gov.sg/sunsets-at-sky-sprouts/) for more information.
 
-## 2. **Explorers of Sentosa by Thomas Dambo**<br>
+## 2. **Biodiversity Tour @ Jurong Lake Gardens**<br>
 ![](/images/Blog/blog2-2.jpeg)
-<a target="_blank" href="https://www.sentosa.com.sg/-/media/sentosa/hero-asset/campaigns/thomas-dambo/draft/thomasdambo_explorersofsentosa_gallery3.jpg">Image Source</a><br><br>
+<a target="_blank" href="https://www.nparks.gov.sg/-/media/nparks-real-content/jlg/big-2023/biodiversity-walk-guide.ashx?w=100%25&amp;hash=730D52AB24D06AD8A70A35884FCC91B0">Image Source</a><br><br>
 
-**Date**: 1 - 31 July, 11:00 am<br>
-**Admission**: Free<br>
-**Venue**: Palawan Beach, Sentosa<br>
-**Organiser**: Sentosa Development Corporation
+**Date**: 29 July, 8:00 am and 8:15 am<br>
+**Admission**: Free (registration required)<br>
+**Venue**: Jurong Lake Gardens, Lakeside Garden<br>
+**Organiser**: National Parks Board
 <br><br>
-Calling all kids! Sentosa and Thomas Dambo need your help. Embark on a quest to discover the lesser-known parts of Palawan Beach and learn about the importance of sustainability.
+Jurong Lake Gardens is a 90-hectare garden with countless exploration opportunities for nature lovers. Embark on a tour of the enchanting facets of biodiversity found within and witness the captivating sights of the various rare birds and animals that visit this little slice of Eden.
 <br><br>
-Four giant Explorers statues, made from upcycled wood and plastic, are hidden along the beach and explorers will have to find them with the help of an interactive online map.
+This tour is perfect for nature enthusiasts, or for couples who are looking to go on a unique journey.
 <br><br>
-Following the trail of Eternity Flowers, you will be encouraged to reflect on humanity's impact on nature with the waste we create. Visitors will also learn about Sentosa’s sustainability efforts.
-<br><br>
-Explore a new part of Sentosa, learn about sustainability, and enjoy the sun. So what are you waiting for? Start your quest today! Find out more [here](https://www.gogreen.gov.sg/explorers-of-sentosa-by-thomas-dambo/)!
+Find more information [here](https://www.gogreen.gov.sg/biodiversity-tour-at-jurong-lake-gardens/).
 
-## 3. **Wanted: Food Rescue Volunteers to Help Redistribute Surplus Food**<br>
+## 3. **Aquaponics Farm to Table Experience**<br>
 ![](/images/Blog/blog2-3.jpeg)
-<a target="_blank" href="https://scontent-xsp1-2.xx.fbcdn.net/v/t39.30808-6/317515221_231217152563354_6075134079766040787_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=zg2wwiuynzEAX-quknX&amp;_nc_ht=scontent-xsp1-2.xx&amp;oh=00_AfCXmUvF1ki_w_GaCyiUxa5XkARK3rM1IfjwJtoCU2wheg&amp;oe=649A93C3">Image Source</a><br><br>
+<a target="_blank" href="https://d2e5ushqwiltxm.cloudfront.net/wp-content/uploads/sites/203/2019/12/17024358/rtp-fairmont-singapore-aquaponics-farm-2.jpg">Image Source</a><br><br>
 
-**Date**: 1 - 31 July<br>
-**Admission**: Free (registration required)<br>
-**Venue**: Various locations<br>
-**Organiser**: Divert for 2nd Life (D2L.sg)
+**Date**: 3 - 16 July, 11:00 am - 1:30 pm<br>
+**Admission**: $55++<br>
+**Venue**: Fairmont Singapore &amp; Swissôtel The Stamford<br>
+**Organiser**: RC Hotels Pte Ltd - Fairmont Singapore &amp; Swissotel The Stamford
 <br><br>
-If you’re looking to teach your kids the value of food and helping those in need, why not volunteer to help redistribute surplus food? For a unique family bonding experience, consider signing up as volunteers and give your children a valuable and formative experience for life. 
+Looking for a unique gift for your significant other? How about preparing them a ‘vitality beverage’? Learn more about preparing your own and even bring home a house-made souvenir using the hotel’s aquaponics system! You can also purchase some fresh produce to whip up some home-made dishes for your family!
 <br><br>
-D2L.sg is a non-profit organisation that aims to reduce food waste by recovering food items from F&amp;B businesses and redistributing excess food to organisations, low-income families, and other beneficiaries. This surplus food - which would otherwise be discarded, is then redistributed through the GoodHood.sg app, a mobile application that allows Singaporeans to connect with their neighbours to give, help, and share.
+Round off this aquaponics culinary adventure with a specially curated (and delicious) 3-course lunch at The Stamford Brasserie, and you’ve got yourself a truly memorable date.
 <br><br>
-Volunteer by signing up on their website to help with the collection and redistribution of food, as well as with other activities such as marketing and fundraising. Companies can also indicate their interest to be a part of this meaningful movement by signing up on the website. Sign up as a volunteer [here](https://www.gogreen.gov.sg/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food/).
+This aquaponics farm tour is not only a great way to spend time with your partner, but also check out sustainability in action! The urban farm both supports Singapore's goal of producing 30% of its nutritional needs locally by 2030, and saves water too, as aquaponics uses 80-95% less water than traditional farming techniquesI
+<br><br>
+Find more information [here](https://www.gogreen.gov.sg/aquaponics-farm-to-table-experience/).
 
-## 4. **Intertidal Walk by Lee Kong Chian Natural History Museum**<br>
+## 4. **Waters of Change Kayak Tour**<br>
 ![](/images/Blog/blog2-4.jpeg)
-<a target="_blank" href="https://www.gogreen.gov.sg/images/Tours/intertidal lkc.jpg">Image Source</a><br><br>
+<a target="_blank" href="https://scontent.fsin15-1.fna.fbcdn.net/v/t39.30808-6/350260095\_1241282446525678\_4531155110980711780\_n.jpg?\_nc\_cat=111&amp;cb=99be929b-59f725be&amp;ccb=1-7&amp;\_nc\_sid=0debeb&amp;\_nc\_ohc=HYYnTtyqDrcAX-pwcWk&amp;\_nc\_ht=scontent.fsin15-1.fna&amp;oh=00\_AfBVtV6F0q6xUfrTGeO8WcpeRpZebywlLSp6oyjxTfAx0g&amp;oe=649E8925">Image Source</a><br><br>
 
-**Date**: Early July<br>
-**Admission**: Free (registration required)<br>
-**Venue**: Pulau Semakau<br>
-**Organiser**: National Environment Agency
+**Date**: 15, 16 July, 10:00 am - 12:30 pm<br>
+**Admission**: $60-75<br>
+**Venue**: PAssion Wave @ Marina Bay<br>
+**Organiser**: Indie Singapore Tours LLP
 <br><br>
-Did you know, Singapore is home to over 250 species of hard corals, 200 species of sponges and over 100 species of reef fish? Immerse yourself in the diverse marine ecology of Singapore during this 2-hour intertidal walk. Join a knowledgeable guide as you explore the sandy beaches of Pulau Semakau and discover the marine creatures that call this small island home.
+If you’re a couple that loves the great outdoors, rejoice, because the Waters of Change Kayak Tour is perfect for you! This special-edition tour takes you on a journey through Singapore's water sustainability story as you kayak through the beautiful Marina Bay.
 <br><br>
-Get ready for an unforgettable adventure as your family gets your feet wet, and marvel at the amazing diversity of marine life that can be found in Singapore. Spot starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals. This is a great opportunity to learn about the marine ecology of Singapore and learn about how our activities affect the marine ecosystem.
+Take in the stunning sights of the city skyline and the surrounding nature, and learn how Singapore has progressed from its early water-rationing days, to becoming increasingly self-sufficient today due to engineering breakthroughs such as the Marina Barrage and NEWater.
 <br><br>
-Find out more [here](https://www.gogreen.gov.sg/intertidal-walk-lkc/).
+Find more information [here](https://www.gogreen.gov.sg/waters-of-change-kayak-tour/).
 
-## 5. **Make the Switch: The Quest for Greener Land Transport**<br>
+## 5. **GREEN-HOUSE**<br>
 ![](/images/Blog/blog2-5.png)
-<a target="_blank" href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_organisation/sg_mobility_gallery/_jcr_content/par/tab_yellow_new_2034457095/tab-content-tab_yellow_new_2034457095/textimage/image.img.png/1680603097753.png">Image Source</a><br><br>
+<a target="_blank" href="https://pass-it-on.co/pages/green-house">Image Source</a><br><br>
 
-**Date**: 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
-**Admission**: Free (registration required)<br>
-**Venue**: Singapore Mobility Gallery, Block 1 Level 1, 1 Hampshire Road<br>
-**Organiser**: Land Transport Authority (LTA)
+**Date**: 8 - 9 July, 10:00 am - 9:00 pm<br>
+**Admission**: Free <br>
+**Venue**: Castlery at Liat Towers<br>
+**Organiser**: Pass It On
 <br><br>
-Looking for an afternoon of educational fun? Get ready for an adventure where you will learn about the interesting world of green transportation. The “Make the Switch: The Quest for Greener Land Transport” exhibition at the Singapore Mobility Gallery (SMG) shows how small changes in our transport habits can make a big difference in the fight against climate change. 
-Featuring a series of entertaining, interactive quests that teach visitors about how Singapore's land transport system is going green, visitors can also learn about how they can reduce their own carbon footprint by making sustainable transportation choices.
+Are you a pair of newlyweds looking for home furnishing ideas? This activity will be perfect for you. GREEN-HOUSE is an experiential shop-the-house retail event that invites visitors to discover a wide range of sustainable home and lifestyle products that are the perfect “green” additions to your new BTO. From sustainable foods and slow fashion to circular designed products and clean beauty, there is something for everyone at GREEN-HOUSE.
 <br><br>
-In addition to the exhibition, the SMG also offers a behind-the-scenes look at how LTA plans, designs, and builds our land transport system. Visitors can learn about the challenges and opportunities of creating a sustainable land transport system, and how LTA is using technology to make our transportation system more efficient, liveable, and inclusive.
+Participating brands are displayed in a home setting, so you can see how their products can be used in your daily life. This immersive experience not only makes sustainable living relatable, but also accessible to anyone looking to make a sustainable change to their home.
 <br><br>
-The exhibition is a great opportunity for both the young and old to learn about climate change and how we can make a difference. The exhibition is open to the public and is free to visit. Click [here](https://www.gogreen.gov.sg/make-the-switch-the-quest-for-greener-land-transport/) for more details.
+Visitors can also take part in workshops and talks about topics ranging from electric vehicles, textiles upcycling, vegetable-tanned leathers and tooling, to making your own natural deodorant, and more.
+<br><br>
+New to sustainable living? GREEN-HOUSE is a great place to start. Join Pass It On® and take that first step. Find more information [here](https://www.gogreen.gov.sg/green-house/) for more details.
+
+## 4. **Sustainable Hotel Building Tour and Afternoon Tea**<br>
+![](/images/Blog/blog2-6.png)
+<a target="_blank" href="https://eshop-prsmb.panpacific.com/products/sustainably-yours-building-tour-parkroyal-collection-marina-bay-singapore">Image Source</a><br><br>
+
+**Date**: 4, 7, 11, 14, 18, 21, 25, 28 July, 2:00 pm<br>
+**Admission**: $38 ++ for tour &amp; farm-to-bar mocktail | $78 ++ for tour, farm-to-table afternoon tea &amp; farm-to-bar mocktail<br>
+**Venue**: PARKROYAL COLLECTION Marina Bay, Singapore<br>
+**Organiser**: PARKROYAL COLLECTION Marina Bay, Singapore
+<br><br>
+Go behind the scenes and learn how PARKROYAL COLLECTION Marina Bay implements sustainable initiatives to reduce waste and carbon emissions.
+<br><br>
+Explore the urban farm that supplies the hotel's restaurants, bars, and spa with fresh, local ingredients and learn more about the hotel's other sustainability efforts, like its water conservation program and use of recycled materials.
+<br><br>
+Treat your tastebuds to a refreshing farm-to-table Afternoon Tea at Portman's Bar, made with the freshest ingredients harvested from the urban farm and a unique PARKROYAL farm-to-bar mocktail, made with fresh herbs and fruits from their very own garden.
+<br><br>
+This is a great date option for couples who are looking for something educational and fun.
+<br><br>
+Find more information [here](https://www.gogreen.gov.sg/sustainable-hotel-building-tour-and-afternoon-tea/).
