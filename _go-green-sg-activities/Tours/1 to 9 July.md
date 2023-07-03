@@ -122,6 +122,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- garden cruiser -->
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/gbtb_cruiser.jpg">
+        <h2>Sustainability Garden Cruiser Audio Tours </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July
+            </strong>
+          </li>
+          <li><strong>Admission: Adult: $10 | Child: $5</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Take a cruiser around Gardens by the Bay to learn about the sustainability features of the Gardens!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-garden-cruiser/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Sentosa Bus -->
 	 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -244,37 +275,6 @@ third_nav_title: Tours
       </a>
     </div>
   </div>	
-	<!-- garden cruiser -->
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/gbtb_cruiser.jpg">
-        <h2>Sustainability Garden Cruiser Audio Tours </h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 1 - 31 July
-            </strong>
-          </li>
-          <li><strong>Admission: Adult: $10 | Child: $5</strong></li>
-          <li><strong>Venue: Gardens by the Bay</strong></li>
-          <li><strong>Organiser: Gardens by the Bay</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Take a cruiser around Gardens by the Bay to learn about the sustainability features of the Gardens!
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainability-garden-cruiser/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	<!--Nature and Sustinability Tour: Biodiversity and Ecosystems -->
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
