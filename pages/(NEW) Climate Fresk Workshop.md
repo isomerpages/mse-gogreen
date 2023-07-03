@@ -29,7 +29,7 @@ The workshop’s program:
 - Creative phase
 - Debrief + time to share, express thoughts and feelings
 
-<sub>Please take your ticket only if you are sure that you can make it! There will be recurring occasions in the future to attend the workshop again. Photos may be taken during the workshops for our social media, please let us know if you wish not to be part of such photos.</sub>
+<sub>Please take your ticket only if you are sure that you can make it! There will be recurring occasions in the future to attend the workshop again. Photos may be taken during the workshops for social media purposes, please let us know if you wish not to be part of such photos.</sub>
 
 
 
