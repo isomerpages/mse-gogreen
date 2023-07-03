@@ -282,8 +282,6 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 							</div>
         </div>
-    </div>
-		<div class="accordion-container">
 	<!-- Accordion Item 2 -->
     <div class="accordion">
         <h3 class="bp-accordion-header">
@@ -504,7 +502,6 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 							</div>
         </div>
-	<div class="accordion-container">
         <div class="accordion">
         <h3 class="bp-accordion-header">
 					<a class="bp-accordion-button">
@@ -845,4 +842,4 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						</div>
 					</div>
         </div>
-    </div></div></div></div>
+    </div></div></div>
