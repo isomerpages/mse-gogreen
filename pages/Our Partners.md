@@ -265,7 +265,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 5 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners//Public%20Agencies/nparks.jpg">
+									<img src="/images/Our%20Partners/Public%20Agencies/nparks.jpg">
 								</div>
 								<!-- Accordion Item 6 -->
 								<div class="col is-one-quarter">
@@ -594,7 +594,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						</div>
 						<!-- Accordion Item 9 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Educational%20Institutes/Educational%20Institutes/chij%20st%20joseph_s%20convent.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/chij%20st%20joseph_s%20convent.png">
 						</div>
 						<!-- Accordion Item 10 -->
 						<div class="col is-one-quarter">
