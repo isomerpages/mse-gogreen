@@ -12,7 +12,7 @@ description: ""
 
 
 **Date:** 9 July, 8:30 - 10:30 am | 21 July, 6:00 - 8:00am |22 July, 6:45 - 8:45am<br>
-**Admission:** Free (registration required)<br>
+**Admission:** $64+<br>
 **Venue:** Changi Beach<br>
 **Organiser:** Just Keep Thinking (JKT) 
 
