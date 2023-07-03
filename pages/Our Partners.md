@@ -283,7 +283,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 							</div>
         </div>
     </div>
-	<!-- Accordtion Item 1 -->
+	<!-- Accordtion Item 2 -->
     <div class="accordion">
         <h3 class="bp-accordion-header">
             <a class="bp-accordion-button">
@@ -293,7 +293,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 							</div>
             </a>
         </h3>
-						<!-- Accordion 1 - Body -->
+						<!-- Accordion 2 - Body -->
             <div style="display: block" class="bp-accordion-body">
 							<div class="row">
 								<!-- Accordion Item 1 -->
@@ -503,39 +503,46 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 							</div>
         </div>
-    
-    <div class="accordion">
+        <div class="accordion">
         <h3 class="bp-accordion-header">
 					<a class="bp-accordion-button">
 						<div class="bp-accordion-button-wrapper">
-							<span>NGOs and Interest Groups:</span>
+							<span>NGOs, Interest Groups and Others:</span>
 							<svg viewBox="0 0 24 24" height="24" width="24" xmlns="http://www.w3.org/2000/svg" class="arrow-icon"><g stroke-width="1" stroke="none" fill-rule="evenodd" fill="none" id="feArrowDown0"><g fill="currentColor" id="feArrowDown1"><path d="m6 7l6 6l6-6l2 2l-8 8l-8-8z" id="feArrowDown2"></path></g></g></svg>
 						</div>
 					</a>
         </h3>
 				<div class="bp-accordion-body">
 					<div class="row">
+															<!-- Accordion Item 1 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/champs%20for%20our%20environment.png">
 						</div>
+															<!-- Accordion Item 2 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/divert%20for%202nd%20life.png">
 						</div>
+															<!-- Accordion Item 3 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/living%20soil%20asia.png">
 						</div>
+															<!-- Accordion Item 4 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/metta%20welfare%20association.png">
 						</div>
+															<!-- Accordion Item 5 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20fashion%20council.png">
 						</div>
+															<!-- Accordion Item 6 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20furniture%20industries%20council.png">
 						</div>
+															<!-- Accordion Item 7 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/tanjong%20pagar%20town%20council.png">
 						</div>
+															<!-- Accordion Item 8 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/unleash.png">
 						</div>
@@ -798,6 +805,38 @@ Go Green SG would not be possible without the support from all our partners. Whe
 							<img src="/images/Our%20Partners/Educational%20Institutes/yusof ishak secondary school.png">
 						</div>
 						<!-- Accordion Item 62 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 63 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 64 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 65 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 66 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 67 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 68 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 69 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
+						</div>
+										<!-- Accordion Item 70 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
 						</div>
