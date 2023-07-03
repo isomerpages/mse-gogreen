@@ -249,35 +249,35 @@ Go Green SG would not be possible without the support from all our partners. Whe
 							<div class="row">
 								<!-- Accordion Item 1 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/gardens%20by%20the%20bay%201.png">
+									<img src="/images/Our%20Partners/Corporate/amazon.png">
 								</div>
 								<!-- Accordion Item 2 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/marina%20bay%20sands%202.png">
+									<img src="/images/Our%20Partners/Corporate/asia%20pacific%20breweries.png">
 								</div>
 								<!-- Accordion Item 3 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/amazon.png">
+									<img src="/images/Our%20Partners/Corporate/carousell.png">
 								</div>
 								<!-- Accordion Item 4 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/asia%20pacific%20breweries.png">
+									<img src="/images/Our%20Partners/Corporate/castlery.png">
 								</div>
 								<!-- Accordion Item 5 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/castlery.png">
+									<img src="/images/Our%20Partners/Corporate/changi%20airport%20cycling.png">
 								</div>
 								<!-- Accordion Item 6 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/changi%20airport%20cycling.png">
+									<img src="/images/Our%20Partners/Corporate/city%20developments%20limited.png">
 								</div>
 								<!-- Accordion Item 7 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/city%20developments%20limited.png">
+									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
 								</div>
 								<!-- Accordion Item 8 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/citysprouts.png">
+									<img src="/images/Our%20Partners/Corporate/co%20nut%20ink.PNG">
 								</div>
 								<!-- Accordion Item 9 -->
 								<div class="col is-one-quarter">
@@ -293,131 +293,164 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 12 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/ginlee.png">
+									<img src="/images/Our%20Partners/Corporate/gardens%20by%20the%20bay%201.png">
 								</div>
 								<!-- Accordion Item 13 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/grab-logo.png">
+									<img src="/images/Our%20Partners/Corporate/ginlee.png">
 								</div>
 								<!-- Accordion Item 14 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/greenscout.png">
+									<img src="/images/Our%20Partners/Corporate/goodfoodpeople.png">
 								</div>
 								<!-- Accordion Item 15 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/green%20sproutz%20singapore.png">
+									<img src="/images/Our%20Partners/Corporate/grab-logo.png">
 								</div>
 								<!-- Accordion Item 16 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/holocene.png">
+									<img src="/images/Our%20Partners/Corporate/green%20sproutz%20singapore.png">
 								</div>
 								<!-- Accordion Item 17 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/hotel%20indigo.png">
+									<img src="/images/Our%20Partners/Corporate/greenscout.png">
 								</div>
 								<!-- Accordion Item 18 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/indie-singapore-tours.png">
+									<img src="/images/Our%20Partners/Corporate/holocene.png">
 								</div>
 								<!-- Accordion Item 19 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/intercontinental%20hotel.png">
+									<img src="/images/Our%20Partners/Corporate/hotel%20indigo.png">
 								</div>
 								<!-- Accordion Item 20 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/invosystems.png">
+									<img src="/images/Our%20Partners/Corporate/indie-singapore-tours.png">
 								</div>
 								<!-- Accordion Item 21 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/jen%20singapore.png">
+									<img src="/images/Our%20Partners/Corporate/intercontinental%20hotel.png">
 								</div>
 								<!-- Accordion Item 22 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/kowabunga!.png">
+									<img src="/images/Our%20Partners/Corporate/invosystems.png">
 								</div>
 								<!-- Accordion Item 23 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/mandai wildlife group.png">
+									<img src="/images/Our%20Partners/Corporate/jen%20singapore.png">
 								</div>
 								<!-- Accordion Item 24 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/mount faber leisure group.png">
+									<img src="/images/Our%20Partners/Corporate/kowabunga!.png">
 								</div>
 								<!-- Accordion Item 25 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/mr bucket chocolaterie.png">
+									<img src="/images/Our%20Partners/Corporate/mandai%20wildlife%20group.png">
 								</div>
 								<!-- Accordion Item 26 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/otolith entertainment.png">
+									<img src="/images/Our%20Partners/Corporate/marina%20bay%20sands%202.png">
 								</div>
 								<!-- Accordion Item 27 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/park royal on beach road.png">
+									<img src="/images/Our%20Partners/Corporate/micron%20semiconductor.png">
 								</div>
 								<!-- Accordion Item 28 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/pass it on.png">
+									<img src="/images/Our%20Partners/Corporate/mount%20faber%20leisure%20group.png">
 								</div>
 								<!-- Accordion Item 29 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/psa corporation.png">
+									<img src="/images/Our%20Partners/Corporate/mr%20bucket%20chocolaterie.png">
 								</div>
 								<!-- Accordion Item 30 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/resort world cruises (rw cruises).png">
+									<img src="/images/Our%20Partners/Corporate/open%20farm%20community.jpg">
 								</div>
 								<!-- Accordion Item 31 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/schneider electric.png">
+									<img src="/images/Our%20Partners/Corporate/otolith%20entertainment.png">
 								</div>
 								<!-- Accordion Item 32 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/sembcorp.png">
+									<img src="/images/Our%20Partners/Corporate/park%20royal%20on%20beach%20road.png">
 								</div>
 								<!-- Accordion Item 33 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/servier.png">
+									<img src="/images/Our%20Partners/Corporate/pass%20it%20on%20logo.PNG">
 								</div>
 								<!-- Accordion Item 34 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/shangri-la singapore.png">
+									<img src="/images/Our%20Partners/Corporate/pass%20it%20on.png">
 								</div>
 								<!-- Accordion Item 35 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/shimizu corporation.png">
+									<img src="/images/Our%20Partners/Corporate/psa%20corporation.png">
 								</div>
 								<!-- Accordion Item 36 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/susgain.png">
+									<img src="/images/Our%20Partners/Corporate/resort%20world%20cruises%20(rw%20cruises).png">
 								</div>
 								<!-- Accordion Item 37 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/that wknd company.png">
+									<img src="/images/Our%20Partners/Corporate/saladstop!.png">
 								</div>
 								<!-- Accordion Item 38 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/the fullerton hotel singapore.png">
+									<img src="/images/Our%20Partners/Corporate/schneider%20electric.png">
 								</div>
 								<!-- Accordion Item 39 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/tribe-logo.png">
+									<img src="/images/Our%20Partners/Corporate/sembcorp.png">
 								</div>
 								<!-- Accordion Item 40 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/unabiz.png">
+									<img src="/images/Our%20Partners/Corporate/sentosa%20dev%20corp.jpg">
 								</div>
 								<!-- Accordion Item 41 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/untamed path.png">
+									<img src="/images/Our%20Partners/Corporate/servier.png">
 								</div>
 								<!-- Accordion Item 42 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/verizon communications.png">
+									<img src="/images/Our%20Partners/Corporate/shangri-la%20singapore.png">
 								</div>
 								<!-- Accordion Item 43 -->
 								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/shimizu%20corporation.png">
+								</div>
+									<!-- Accordion Item 44 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/susgain.png">
+								</div>
+									<!-- Accordion Item 45 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/that%20wknd%20company.png">
+								</div>
+									<!-- Accordion Item 46 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/the%20fullerton%20hotel%20singapore.png">
+								</div>
+									<!-- Accordion Item 47 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/tribe-logo.png">
+								</div>
+									<!-- Accordion Item 48 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/unabiz.png">
+								</div>
+									<!-- Accordion Item 49 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/untamed%20path.png">
+								</div>
+									<!-- Accordion Item 50 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/verizon%20communications.png">
+								</div>
+									<!-- Accordion Item 51 -->
+								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Corporate/young nautilus.png">
+								</div>
 								</div>
 							</div>
         </div>
@@ -722,4 +755,3 @@ Go Green SG would not be possible without the support from all our partners. Whe
 					</div>
         </div>
     </div>
-</div>
