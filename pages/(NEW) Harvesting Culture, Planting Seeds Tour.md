@@ -5,18 +5,20 @@ description: ""
 ---
 
 
-**Discover Singapore's water sustainability story as you kayak. Immerse yourself in Marina Bay's breathtaking skyline, witnessing Singapore’s journey from water rationing to self-sufficiency.**
+![](/images/Tours/indie_harvest.jpg)
 
-**Date:** 15, 16 July, 10:00 am - 12:30 pm<br>
-**Admission:** $60 - $75<br>
-**Venue:** PAssion Wave @ Marina Bay<br>
+**Find out about Singapore's unique "City in Nature" approach to city planning! Embark on this exclusive tour through the Henderson/Queenstown district, and immerse in urban sustainability at City Sprouts**
+
+**Date:** 8 July, 9:00 am - 12:00 pm<br>
+**Admission:** Adult: $60 | Child: $50<br>
+**Venue:** Gilman Barracks Block 9<br>
 **Organiser:** Indie Singapore Tours LLP
 
-PAssion WaVe and Indie Singapore present "History Wanderers", a special edition of their kayaking tour. This tour will not only be a feast for the eyes but also an educational journey through Singapore's water sustainability story. 
+Go on a tour around the Henderson/Queenstown district, followed by a walkaround City Sprouts, an Urban Farm set within the former Henderson Secondary School. 
 
-On this kayaking tour, you will get to witness the beauty of Marina Bay firsthand. Learn how Singapore progressed from needing to ration water to becoming increasingly self-sufficient through the four national taps. See Singapore from a new angle and appreciate the comprehensive policies and the engineering marvels that ensure our water security.
+During the tour,&nbsp;Indie Singapore Tours&nbsp;will highlight the unique city planning challenges faced by Singapore. Participants will learn about Singapore’s commitment to greening the city and&nbsp;preserving existing neighborhoods and culture.
 
-<a class="btn-link" target="_blank" href="https://linktr.ee/mybayexperience">
+<a class="btn-link" target="_blank" href="https://indiesingapore.com/tour/singapore-sustainability-tour-city-sprouts-henderson-queenstown/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
