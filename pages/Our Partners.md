@@ -530,7 +530,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						</div>
 						<!-- Accordion Item 18 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Educational%20Institutes/compassvale secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/compassvale%20secondary%20school%20logo.PNG">
 						</div>
 						<!-- Accordion Item 19 -->
 						<div class="col is-one-quarter">
