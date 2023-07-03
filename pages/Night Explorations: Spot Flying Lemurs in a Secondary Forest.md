@@ -12,7 +12,7 @@ description: ""
 **Venue:** Bukit Batok Park<br>
 **Organiser:** The Untamed Paths
 
-Join this exciting night tour of Bukit Batok Park to encounter interesting wildlife such as frogs, water snakes, crabs and colugos (a kind of furry, flying tree-dweller). Participants will also pick up behavioural observation skills and nifty bits of rainforest ecology from field expert guides.
+Join this exciting night tour of Bukit Batok Park to encounter interesting wildlife such as frogs, snakes, crabs and colugos (a kind of furry, gliding tree-dweller). Participants will also pick up behavioural observation skills and nifty bits of rainforest ecology from field expert guides.
  
 More importantly, participants will learn about the intrinsic beauty and value of local biodiversity, and need to conserve the spaces that harbor these biodiversity.
 
