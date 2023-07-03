@@ -9,7 +9,7 @@ description: ""
 
 **Date:** 8 - 9 July, 10:00 am - 9:00 pm<br>
 **Admission:** Free<br>
-**Venue:** South Beach Consortium Open Space and Office Lobby<br>
+**Venue:** South Beach Fountain Plaza<br>
 **Organiser:** City Developments Limited 
 
 Recognising that youths play a pivotal role in a sustainable future, the Youth4Climate Festival is one of City Developments Limited’s flagship programmes in support of youth empowerment and social good.
