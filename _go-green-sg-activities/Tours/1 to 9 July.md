@@ -1415,7 +1415,7 @@ third_nav_title: Tours
               Venue: Changi Beach
             </strong>
           </li>
-          <li><strong>Just Keep Thinking</strong></li>
+          <li><strong>Organiser: Just Keep Thinking</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
