@@ -563,12 +563,12 @@ Reimagine and build your own sustainable transportation in this workshop!
           </li>
           <li><strong>Admission: Free</strong></li>
           <li><strong>Venue: South Beach Fountain Plaza</strong></li>
-          <li><strong>Climate Fresk Singapore</strong></li>
+          <li><strong>Organiser: Climate Fresk Singapore</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-      Check out Climate Fresk, a fun and collaborative workshop to raise awareness about Climate Change with 230+ facilitators in Singapore, working with schools/companies across the region.
+      Check out Climate Fresk, a fun and collaborative workshop to raise awareness about Climate Change with over 230 facilitators in Singapore working with schools/ companies across the region.
         </p>
       </div>
     </div>

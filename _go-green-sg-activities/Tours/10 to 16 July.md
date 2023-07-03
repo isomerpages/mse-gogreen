@@ -155,6 +155,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Sentosa Bus -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sdc_bus.jpg">
+        <h2>Sentosa Island Bus Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $20 | Child: $16</strong></li>
+          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p> Embark on an eco-adventure and discover Sentosa’s unique environment. Learn more about Sentosa's attractions, such as SkyHelix Sentosa, Fort Siloso, and ‘Explorers of Sentosa’ at Palawan Beach.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosa-island-bus-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Night explorations: Spot Flying Lemurs in a Secondary Forest -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

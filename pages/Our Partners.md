@@ -106,9 +106,19 @@ Here are some other ways our partners are Going Green, their way!
 	</div>
 </div>
 
-## Corporate Institutes:
+## Corporates:
 <div class="two-col">
-	<!-- Item 1 -->
+			<!-- Item 1 -->
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p class="two-col__item__title"><strong>Amazon Refuse Awareness Campaign by Amazon Web Services</strong></p>
+			<p>Amazon Singapore Sustainability Ambassadors, an affinity group led by employees, is running a Refuse Awareness Campaign to encourage Amazonians to donate and share reusable carrier bags at their workplace.</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our%20Partners/Special%20Mentions/amazon.png">
+		</div>
+	</div>
+	<!-- Item 2 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
 			<p class="two-col__item__title"><strong>BYOB by JEN Singapore Orchardgateway!</strong></p>
@@ -118,7 +128,7 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our%20Partners/Corporate/jen%20singapore.png">
 		</div>
 	</div>
-	<!-- Item 2 -->
+	<!-- Item 3 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
 			<p class="two-col__item__title"><strong>Learning journey to PSA Innovation Centre and Pasir Panjang Terminal</strong></p>
@@ -128,7 +138,7 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our%20Partners/Corporate/psa%20corporation.png">
 		</div>
 	</div>
-	<!-- Item 3 -->
+	<!-- Item 4 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
 			<p class="two-col__item__title"><strong>Recycling Handicraft Workshop by RW Cruises</strong></p>
@@ -138,6 +148,7 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our%20Partners/Corporate/resort%20world%20cruises%20(rw%20cruises).png">
 		</div>
 	</div>
+
 </div>
 
 

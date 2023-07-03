@@ -10,7 +10,7 @@ description: ""
 **Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our very own shores!**
 
 
-**Date:** 9 July, 8:30 - 10:30 am | 21 July, 6:00 - 8:00 am |22 July, 6:45 - 8:45 am<br>
+**Date:** 9 July, 8:30 - 10:30 am | 21 July, 6:00 - 8:00 am | 22 July, 6:45 - 8:45 am<br>
 **Admission:** $64+<br>
 **Venue:** Changi Beach<br>
 **Organiser:** Just Keep Thinking (JKT) 

@@ -16,7 +16,7 @@ Explore Sentosa by bus! This two-hour guided tour of Sentosa is a great way to d
 
 In support of Go Green SG, there will be a discount of 20% off published rates in July.
 
-<a class="btn-link" target="_blank" href="https://booking.mountfaberleisure.com/ofg_b2c/package.html?selectedCategory=B2CSIBT">
+<a class="btn-link" target="_blank" href="https://mfleisure.com/STBgogreen">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 

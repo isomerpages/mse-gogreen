@@ -8,7 +8,7 @@ description: ""
 **SkyHelix Sentosa is one of the highest vantage points on Sentosa. Enjoy 360° views of the lush greenery stretching across the island with exclusive discounts!**
 
 **Date:** 1 – 31 July, 10.00 am - 9.30 pm<br>
-**Admission:** Adult: $16 | Child: $13.60<br>
+**Admission:** Adult: $14.40 | Child: $12<br>
 **Venue:** Imbiah Lookout, Sentosa <br>
 **Organiser:** Sentosa Development Corporation 
 
@@ -16,7 +16,7 @@ Take flight on the highest open-air panoramic ride in Singapore – SkyHelix Sen
 
 In support of Go Green SG, there will be a discount of 20% off published rates in July.
 
-<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/attractions/skyhelix-sentosa/">
+<a class="btn-link" target="_blank" href="https://mfleisure.com/STBgogreen">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 

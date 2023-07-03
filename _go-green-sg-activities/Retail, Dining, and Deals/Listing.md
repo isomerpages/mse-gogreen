@@ -307,7 +307,7 @@ third_nav_title: Retail, Dining, and Deals
             <strong>
               Date: 1 - 31 July</strong>
           </li>
-          <li><strong>Admission: Adult: $16 | Child: $13.60</strong></li>
+          <li><strong>Admission: Adult: $14.40 | Child: $12</strong></li>
           <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
           <li><strong>Organiser: Sentosa Development Corporation</strong></li>
         </ul>

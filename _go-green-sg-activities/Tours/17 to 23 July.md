@@ -155,6 +155,36 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- Sentosa Bus -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/sdc_bus.jpg">
+        <h2>Sentosa Island Bus Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $20 | Child: $16</strong></li>
+          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p> Embark on an eco-adventure and discover Sentosa’s unique environment. Learn more about Sentosa's attractions, such as SkyHelix Sentosa, Fort Siloso, and ‘Explorers of Sentosa’ at Palawan Beach.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sentosa-island-bus-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- exploring ecosystems through digital art -->
 		 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -598,12 +628,12 @@ third_nav_title: Tours
               Venue: Changi Beach
             </strong>
           </li>
-          <li><strong>Just Keep Thinking</strong></li>
+          <li><strong>Organiser: Just Keep Thinking</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our very own shores!
+          Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our shores!
         </p>
       </div>
     </div>
