@@ -1378,7 +1378,7 @@ third_nav_title: Tours
         <ul>
           <li><strong>Date: 9 July</strong></li>
           <li>
-            <strong>Admission: $64+ (registration required)</strong>
+            <strong>Admission: $64+</strong>
           </li>
           <li>
             <strong>
