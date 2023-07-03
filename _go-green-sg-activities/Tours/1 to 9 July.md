@@ -1301,6 +1301,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	<!-- harvesting culture -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/indie_harvest.jpg">
+        <h2>Harvesting Culture, Planting Seeds Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $60 | Child: $50</strong></li>
+          <li><strong>Venue: Gilman Barracks Block 9</strong></li>
+          <li><strong>Organiser: Indie Singapore Tours LLP</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Find out about Singapore's unique "City in Nature" approach to city planning! Embark on this exclusive tour through the Henderson/Queenstown district, and immerse in urban sustainability at City Sprouts
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/harvesting-culture-planting-seeds/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	  <!-- Mangroves and Climate Change Tour -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
