@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/Workshop%20&amp;%20Talks/climatefresk.jpg)
 
-**Climate Fresk is a fun and collaborative workshop to raise awareness about Climate Change. Our community is 230+ facilitators strong in Singapore, working with schools/companies across the region.**
+**Climate Fresk is a fun and collaborative workshop to raise awareness about Climate Change with 230+ facilitators in Singapore, working with schools/companies across the region.**
 
 
 **Date:** 9 July, 2:00 - 4:30 pm<br>
@@ -15,11 +15,11 @@ description: ""
 **Venue:** South Beach Fountain Plaza<br>
 **Organiser:** Climate Fresk Singapore
 
-« The Climate Fresk » is a science-based workshop that aims to educate and raise awareness about climate change worldwide.
-Based on the IPCC report, it explains how and why the climate changes at the current pace and the consequences of its disruption. It gives participants the opportunity to learn a lot in a very short period of time for both novices and experts.<br>
+The Climate Fresk is a science-based workshop that aims to educate and raise awareness about climate change worldwide.
+Based on the IPCC report, the workshop will explain how and why the climate changes at the current pace and the consequences of its disruption.<br>
 
 How the game works: The workshop is based on a 42-card game. Each card represents a topic, a cause or a consequence of climate change.
-As a team, guided by your facilitator, you are to find the cause-effect relationship between the different components of climate change. Collective intelligence will get you from one deck of cards to the next! This step-by-step collage provides keys to understand the complexity and develop a strong understanding of the science.
+As a team, guided by a facilitator, participants are to find the cause-effect relationship between the different components of climate change. Collective intelligence will get participants from one deck of cards to the next! This step-by-step collage provides keys to understand the complexity and develop a strong understanding of the science.
 
 The workshop’s program:
 - A Brief History Of "The Climate Fresk" workshop
@@ -29,7 +29,7 @@ The workshop’s program:
 - Creative phase
 - Debrief + time to share, express thoughts and feelings
 
-Please take your ticket only if you are sure that you can make it! There will be recurring occasions in the future to attend the workshop again. We might take photos during workshops for our social media, please let us know if you wish not to be part of such photos.
+<sub>Please take your ticket only if you are sure that you can make it! There will be recurring occasions in the future to attend the workshop again.  photos may be taken during the workshops for our social media, please let us know if you wish not to be part of such photos.</sub>
 
 
 
