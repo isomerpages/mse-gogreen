@@ -1276,7 +1276,7 @@ third_nav_title: Tours
       <div class="programmes__item__header">
         <img src="/images/Tours/stridy_beachcleanup_l.jpg">
         <h2>Beach and Urban Clean Up
-</h2>
+</h2><sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
