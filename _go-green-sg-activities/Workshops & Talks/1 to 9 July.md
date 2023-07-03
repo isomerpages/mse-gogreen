@@ -548,10 +548,10 @@ Reimagine and build your own sustainable transportation in this workshop!
     </div>
   </div>
 	<!-- Climate Fresk Workshop -->
-		<!--  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&%20Talks/(listing)climatefresk.jpg">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)climatefresk.jpg">
         <h2>Climate Fresk Workshop
 </h2>
       </div>
@@ -568,16 +568,16 @@ Reimagine and build your own sustainable transportation in this workshop!
       </div>
       <div class="programmes__item__body">
         <p>
-      Climate Fresk is a fun and collaborative workshop to raise awareness about Climate Change with 230+ facilitators in Singapore, working with schools/companies across the region.
+      Check out Climate Fresk, a fun and collaborative workshop to raise awareness about Climate Change with 230+ facilitators in Singapore, working with schools/companies across the region.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a class="button-primary" href="/climate-fresk/">
+      <a href="/climate-fresk/" class="button-primary">
         Find out more
       </a>
     </div>
-  </div> -->
+  </div>
 	<!--  Go Green Explorers -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
