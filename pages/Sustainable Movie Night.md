@@ -3,7 +3,7 @@ title: Sustainable Movie Night
 permalink: /sustainable-movie-night/
 description: ""
 ---
-![](/images/Events/cs_movie_2.png)
+![](/images/Events/cs_movienight.png)
 
 **Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability and indulge in a picnic on the rooftop with a snack box and drinks.**
 
