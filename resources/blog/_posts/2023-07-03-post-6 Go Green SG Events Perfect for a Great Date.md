@@ -92,7 +92,7 @@ Visitors can also take part in workshops and talks about topics ranging from ele
 <br><br>
 New to sustainable living? GREEN-HOUSE is a great place to start. Join Pass It On® and take that first step. Find more information [here](https://www.gogreen.gov.sg/green-house/) for more details.
 
-## 4. **Sustainable Hotel Building Tour and Afternoon Tea**<br>
+## 6. **Sustainable Hotel Building Tour and Afternoon Tea**<br>
 ![](/images/Blog/blog2-6.png)
 <a target="_blank" href="https://eshop-prsmb.panpacific.com/products/sustainably-yours-building-tour-parkroyal-collection-marina-bay-singapore">Image Source</a><br><br>
 
