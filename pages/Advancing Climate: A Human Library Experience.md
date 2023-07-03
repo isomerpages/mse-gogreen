@@ -12,7 +12,7 @@ description: ""
 
 **Date:** 8 July, 2:00 - 3:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** South Beach Office Tower<br>
+**Venue:** South Beach Tower Lobby<br>
 **Organiser:** Seastainable and LepakinSG
 
 Join us for a meaningful afternoon connecting with climate professionals working on solutions to tackle climate change. In this human library format, you’ll get a chance to learn more on the importance of climate policy and the role it plays in tackling climate change. 
