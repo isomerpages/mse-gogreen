@@ -3,8 +3,6 @@ title: (NEW) Harvesting Culture, Planting Seeds Tour
 permalink: /harvesting-culture-planting-seeds/
 description: ""
 ---
-
-
 ![](/images/Tours/indie_harvest.jpg)
 
 **Find out about Singapore's unique "City in Nature" approach to city planning! Embark on this exclusive tour through the Henderson/Queenstown district, and immerse in urban sustainability at City Sprouts**
