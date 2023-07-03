@@ -1367,4 +1367,37 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	  <!-- JKT Intertidal Adventure -->
+<!--  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/intertidal%20adventure%20with%20biogirl%20mj%20(4by3).png">
+        <h2>JKT Intertidal Adventure with Biogirl MJ</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 9 July</strong></li>
+          <li>
+            <strong>Admission: $64+ (registration required)</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Changi Beach
+            </strong>
+          </li>
+          <li><strong>Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Ever wonder what marine creatures we can find on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have at our very own shores!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a class="button-primary" href="/intertidal-adventure-jkt/">
+        Find out more
+      </a>
+    </div>
+  </div> -->
 </div>
