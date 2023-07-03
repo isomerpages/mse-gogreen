@@ -10,10 +10,9 @@ sections:
       background: /images/artboard-4.png
       title: Go Green, Your Way
   - infobar:
-      title: Coming July 2023
-      description: Get ready for a month of fun-filled green activities and
-        experiences! More events will be uploaded progressively, so please check
-        back to this site regularly!
+      title: Go Green this July!
+      description: "Ready for a month of fun-filled green activities and experiences?
+        Check out our listing of events below! "
   - infopic:
       title: Go Green <br>Tours
       description: Explore new and familiar places in Singapore with a green lens.
