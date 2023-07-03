@@ -7,7 +7,7 @@ description: ""
 
 **Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability and indulge in a picnic on the rooftop with a snack box and drinks.**
 
-**Date:** 7, 14, 21 July, 7:00 - 10:00 pm<br>
+**Date:** 7, 21 July, 7:00 - 10:00 pm<br>
 **Admission:** $30<br>
 **Venue:** Sky Sprouts, 896 Dunearn Rd<br>
 **Organiser:** City Sprouts
