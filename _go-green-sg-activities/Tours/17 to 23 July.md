@@ -628,12 +628,12 @@ third_nav_title: Tours
               Venue: Changi Beach
             </strong>
           </li>
-          <li><strong>Just Keep Thinking</strong></li>
+          <li><strong>Organiser: Just Keep Thinking</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-          Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our very own shores!
+          Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our shores!
         </p>
       </div>
     </div>
