@@ -12,7 +12,7 @@ description: ""
 
 **Date:** 9 July, 3:00 - 4:30 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** South Beach Consortium<br>
+**Venue:** South Beach Fountain Plaza<br>
 **Organiser:** Just Keep Thinking (JKT) 
 
 Join us for a captivating and educational event for families and children, where the adventurous BioGirl MJ will share her remarkable experiences in Antarctica and shed light on the impact of climate change in this pristine region. 

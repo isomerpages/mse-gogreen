@@ -60,7 +60,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Singapore Management University Verts is organising a beach clean-up for SMU students to learn about the importance of keeping our beaches and oceans clean.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Educational/educational-1.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-1.png">
 		</div>
 	</div>
 	<!-- Item 2 -->
@@ -70,7 +70,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Skool4kidz Preschool @ Marsiling Drive is embarking on a Saving Bumi Charity Drive to sell art and crafts made by its pre-schoolers using sustainable materials. Proceeds will go to an elderly home, Methodist Christalite Home @ Marsiling.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Educational/educational-2.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-2.png">
 		</div>
 	</div>
 	<!-- Item 3 -->
@@ -80,7 +80,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Singapore Polytechnic is organising a Go Green SP initiative on 5 July, which comprises a Sustainability Carnival, a panel discussion on Net Zero 2050, and a Green National Pledge campaign by the SP community.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Educational/educational-3.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-4.png">
 		</div>
 	</div>
 	<!-- Item 4 -->
@@ -90,7 +90,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Jamiyah Kindergarten, one of Jamiyah Singapore’s Early Childhood Education Centres, is organising a workshop for its children to learn how to make compost from leftover vegetables and create a spice garden for the Jamiyah Home for the Aged.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Educational/educational-4.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-3.png">
 		</div>
 	</div>
 	<!-- Item 5 -->
@@ -101,7 +101,7 @@ Here are some other ways our partners are Going Green, their way!
 			</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Educational/educational-5.png">
+			<img src="/images/Our%20Partners/Special%20Mentions/educational-5.png">
 		</div>
 	</div>
 </div>
@@ -246,7 +246,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 3 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/aws-logo.png">
+									<img src="/images/Our%20Partners/Corporate/amazon.png">
 								</div>
 								<!-- Accordion Item 4 -->
 								<div class="col is-one-quarter">
@@ -423,28 +423,28 @@ Go Green SG would not be possible without the support from all our partners. Whe
 				<div class="bp-accordion-body">
 					<div class="row">
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/champs%20for%20our%20environment.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/champs%20for%20our%20environment.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/divert%20for%202nd%20life.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/divert%20for%202nd%20life.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/living%20soil%20asia.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/living%20soil%20asia.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/metta%20welfare%20association.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/metta%20welfare%20association.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/singapore%20fashion%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20fashion%20council.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/singapore%20furniture%20industries%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20furniture%20industries%20council.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/tanjong%20pagar%20town%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/tanjong%20pagar%20town%20council.png">
 						</div>
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGO/unleash.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/unleash.png">
 						</div>
 					</div>
 				</div>
@@ -462,251 +462,251 @@ Go Green SG would not be possible without the support from all our partners. Whe
 					<div class="row">
 						<!-- Accordion Item 1 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/earth%20observatory%20of%20singapore%201.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/earth%20observatory%20of%20singapore%201.png">
 						</div>
 						<!-- Accordion Item 2 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/jamiyah%20kindergarten.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/jamiyah%20kindergarten.png">
 						</div>
 						<!-- Accordion Item 3 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/marsiling%20secondary%20school%201.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/marsiling%20secondary%20school%201.png">
 						</div>
 						<!-- Accordion Item 4 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/rp%20logo-cmyk-high-res%20(for%20light-colored%20bg).png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/rp%20logo-cmyk-high-res%20(for%20light-colored%20bg).png">
 						</div>
 						<!-- Accordion Item 5 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/sp_marketing_logo_main_rgb_fullcolour_on_white_bg.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/sp_marketing_logo_main_rgb_fullcolour_on_white_bg.png">
 						</div>
 						<!-- Accordion Item 6 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/agape%20little%20uni.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/agape%20little%20uni.png">
 						</div>
 						<!-- Accordion Item 7 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/ai%20tong%20school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/ai%20tong%20school.png">
 						</div>
 						<!-- Accordion Item 8 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/apsn%20chaoyang%20school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/apsn%20chaoyang%20school.png">
 						</div>
 						<!-- Accordion Item 9 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/averbel child development centre.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/averbel child development centre.png">
 						</div>
 						<!-- Accordion Item 10 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/casuarina primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/casuarina primary school.png">
 						</div>
 						<!-- Accordion Item 11 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/cedar girls_ secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/cedar girls_ secondary school.png">
 						</div>
 						<!-- Accordion Item 12 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/centre for nature-based climate solutions nus.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/centre for nature-based climate solutions nus.png">
 						</div>
 						<!-- Accordion Item 13 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/changkat primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/changkat primary school.png">
 						</div>
 						<!-- Accordion Item 14 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/chij st joseph_s convent.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/chij st joseph_s convent.png">
 						</div>
 						<!-- Accordion Item 15 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/chij st nicholas girls_ school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/chij st nicholas girls_ school.png">
 						</div>
 						<!-- Accordion Item 16 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/chongzheng primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/chongzheng primary school.png">
 						</div>
 						<!-- Accordion Item 17 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/commonwealth secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/commonwealth secondary school.png">
 						</div>
 						<!-- Accordion Item 18 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/compassvale secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/compassvale%20secondary%20school%20logo.PNG">
 						</div>
 						<!-- Accordion Item 19 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/fengshan primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/fengshan primary school.png">
 						</div>
 						<!-- Accordion Item 20 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/fuhua primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/fuhua primary school.png">
 						</div>
 						<!-- Accordion Item 21 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/greendale primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/greendale primary school.png">
 						</div>
 						<!-- Accordion Item 22 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/greenland childcare centre.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/greenland childcare centre.png">
 						</div>
 						<!-- Accordion Item 23 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/greenwood primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/greenwood primary school.png">
 						</div>
 						<!-- Accordion Item 24 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/hampton pre-school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/hampton pre-school.png">
 						</div>
 						<!-- Accordion Item 25 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/hmps school logo.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/hmps school logo.png">
 						</div>
 						<!-- Accordion Item 26 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/jurong primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/jurong primary school.png">
 						</div>
 						<!-- Accordion Item 27 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/learning vision @ changi business park.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/learning vision @ changi business park.png">
 						</div>
 						<!-- Accordion Item 28 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/my world.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/my world.png">
 						</div>
 						<!-- Accordion Item 29 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/mee toh school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/mee toh school.png">
 						</div>
 						<!-- Accordion Item 30 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/meridian primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/meridian primary school.png">
 						</div>
 						<!-- Accordion Item 31 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/meridian secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/meridian secondary school.png">
 						</div>
 						<!-- Accordion Item 32 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/nan hua primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/nan hua primary school.png">
 						</div>
 						<!-- Accordion Item 33 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/nanyang girls high school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/nanyang girls high school.png">
 						</div>
 						<!-- Accordion Item 34 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/naval base secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/naval base secondary school.png">
 						</div>
 						<!-- Accordion Item 35 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/nus college of design and engineering.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/nus college of design and engineering.png">
 						</div>
 						<!-- Accordion Item 36 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/nus ridge view residential college.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/nus ridge view residential college.png">
 						</div>
 						<!-- Accordion Item 37 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/nyp geo council.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/nyp geo council.png">
 						</div>
 						<!-- Accordion Item 38 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/peicai secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/peicai secondary school.png">
 						</div>
 						<!-- Accordion Item 39 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/presbyterian high school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/presbyterian high school.png">
 						</div>
 						<!-- Accordion Item 40 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/qihua primary.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/qihua primary.png">
 						</div>
 						<!-- Accordion Item 41 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/radin mas primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/radin mas primary school.png">
 						</div>
 						<!-- Accordion Item 42 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/rainbow centre.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/rainbow centre.png">
 						</div>
 						<!-- Accordion Item 43 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/sengkang primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/sengkang primary school.png">
 						</div>
 						<!-- Accordion Item 44 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/singapore university of social sciences.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/singapore university of social sciences.png">
 						</div>
 						<!-- Accordion Item 45 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/skool4kidz preschool.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/skool4kidz preschool.png">
 						</div>
 						<!-- Accordion Item 46 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/smu verts.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/smu verts.png">
 						</div>
 						<!-- Accordion Item 47 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/st andrew_s junior college.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/st andrew_s junior college.png">
 						</div>
 						<!-- Accordion Item 48 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/st anthony_s canossian secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/st anthony_s canossian secondary school.png">
 						</div>
 						<!-- Accordion Item 49 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/st anthony_s primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/st anthony_s primary school.png">
 						</div>
 						<!-- Accordion Item 50 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/star learners childcare.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/star learners childcare.png">
 						</div>
 						<!-- Accordion Item 51 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/sunflower preschool.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/sunflower preschool.png">
 						</div>
 						<!-- Accordion Item 52 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/swallows _ amazons kindergarten.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/swallows _ amazons kindergarten.png">
 						</div>
 						<!-- Accordion Item 53 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/tampines north primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/tampines north primary school.png">
 						</div>
 						<!-- Accordion Item 54 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/tampines secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/tampines secondary school.png">
 						</div>
 						<!-- Accordion Item 55 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/telok kurau primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/telok kurau primary school.png">
 						</div>
 						<!-- Accordion Item 56 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/valour primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/valour primary school.png">
 						</div>
 						<!-- Accordion Item 57 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/woodgrove secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/woodgrove secondary school.png">
 						</div>
 						<!-- Accordion Item 58 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/xingnan primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/xingnan primary school.png">
 						</div>
 						<!-- Accordion Item 59 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/xishan primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/xishan primary school.png">
 						</div>
 						<!-- Accordion Item 60 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/yu neng primary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/yu neng primary school.png">
 						</div>
 						<!-- Accordion Item 61 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/yusof ishak secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/yusof ishak secondary school.png">
 						</div>
 						<!-- Accordion Item 62 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Schools/zhonghua secondary school.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/zhonghua secondary school.png">
 						</div>
 					</div>
         </div>

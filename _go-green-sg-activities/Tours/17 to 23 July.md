@@ -580,6 +580,39 @@ third_nav_title: Tours
       </a>
     </div>
   </div>
+	 <!-- JKT Intertidal Adventure -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/intertidal%20adventure%20with%20biogirl%20mj%20(4by3).png">
+        <h2>JKT Intertidal Adventure with Biogirl MJ</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 21, 22 July</strong></li>
+          <li>
+            <strong>Admission: $64+</strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Changi Beach
+            </strong>
+          </li>
+          <li><strong>Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our very own shores!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/intertidal-adventure-jkt/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Tiger Brewery Tour Sustainability Edition-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -693,7 +726,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.
+          Discover birding in Sentosa! Spot local avian fauna through a pair of binoculars while learning about their unique morphology and calls.
         </p>
       </div>
     </div>

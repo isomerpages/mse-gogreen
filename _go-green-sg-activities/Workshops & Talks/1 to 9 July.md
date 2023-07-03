@@ -547,6 +547,37 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+	<!-- Climate Fresk Workshop -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)climatefresk.jpg">
+        <h2>Climate Fresk Workshop
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: South Beach Fountain Plaza</strong></li>
+          <li><strong>Climate Fresk Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Check out Climate Fresk, a fun and collaborative workshop to raise awareness about Climate Change with 230+ facilitators in Singapore, working with schools/companies across the region.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/climate-fresk/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!--  Go Green Explorers -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

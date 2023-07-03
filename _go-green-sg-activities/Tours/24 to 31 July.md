@@ -581,7 +581,7 @@ third_nav_title: Tours
       </div>
       <div class="programmes__item__body">
         <p>
-          Discover birding in Sentosa! Spot local avian faunas along the East Asian Flyway through a pair of binoculars while learning about their unique morphology and calls.
+          Discover birding in Sentosa! Spot local avian fauna through a pair of binoculars while learning about their unique morphology and calls.
         </p>
       </div>
     </div>
@@ -728,7 +728,7 @@ third_nav_title: Tours
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/biodiversity%20tour%20jurong%20lake%20gardens.jpg">
-        <h2>Biodiversity Tour @ Jurong Lake Gardens</h2>
+				<h2>Biodiversity Tour @ Jurong Lake Gardens</h2><sup>Fully booked</sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
