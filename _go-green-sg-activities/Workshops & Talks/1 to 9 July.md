@@ -398,7 +398,7 @@ Reimagine and build your own sustainable transportation in this workshop!
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: South Beach Office Tower </strong></li>
+          <li><strong>Venue: South Beach Tower Lobby </strong></li>
           <li><strong>Organiser: Seastainable and LepakinSG</strong></li>
         </ul>
       </div>
@@ -531,7 +531,7 @@ Reimagine and build your own sustainable transportation in this workshop!
               Date: 9 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: South Beach Consortium</strong></li>
+          <li><strong>Venue: South Beach Fountain Plaza</strong></li>
           <li><strong>Organiser: Just Keep Thinking (JKT)</strong></li>
         </ul>
       </div>
