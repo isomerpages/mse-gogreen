@@ -3,7 +3,6 @@ title: (NEW pending confirmation) Sustainability Partner Showcase
 permalink: /sustainability-partner-showcase/
 description: ""
 ---
-
 ![Sustainability Partner Showcase](/images/Events/sustainability%20partnership%20showcase.jpg)
 
 **Explore a new partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.**
@@ -32,4 +31,3 @@ Come in-person to experience how we can adopt a more sustainable lifestyle and s
 		width: 100%;
 	}
 </style>
-
