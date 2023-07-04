@@ -3,8 +3,6 @@ title: JKT Intertidal Adventure with Biogirl MJ
 permalink: /intertidal-adventure-jkt/
 description: ""
 ---
-<b>This activity is a part of the Youth 4 Climate Festival. Find out more <a href="/youth4climate-festival-2023/">HERE</a></b>
-
 ![](/images/Tours/intertidal%20adventure%20with%20biogirl%20mj.png)
 
 **Ever wonder what marine creatures can be found on our shores? Be a marine explorer for a day and discover the amazing biodiversity we have on our very own shores!**
