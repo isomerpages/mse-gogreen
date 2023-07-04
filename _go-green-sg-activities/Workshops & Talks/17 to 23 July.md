@@ -255,6 +255,39 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+	<!-- lessons from urban wetlands -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/gbtb_lessonsuw.jpg">
+        <h2>Lessons from Urban Wetlands: Mangroves in Freshwater and Carbon Sequestration</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 20 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li>
+            <strong>Venue: Gardens by the Bay</strong>
+          </li>
+          <li>
+            <strong>Organiser: Gardens by the Bay</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn more about the findings from Gardens by the Bay’s pilot study on carbon storage of ponds and potential of “blue” carbon sequestration by urban mangroves!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/soil-me-and-the-planet/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- chocolate making -->
 	 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
