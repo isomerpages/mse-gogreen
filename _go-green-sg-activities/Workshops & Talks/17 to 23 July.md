@@ -283,7 +283,7 @@ Reimagine and build your own sustainable transportation in this workshop!
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/soil-me-and-the-planet/" class="button-primary">
+      <a href="/lessons-from-urban-wetlands/" class="button-primary">
         Find out more
       </a>
     </div>
