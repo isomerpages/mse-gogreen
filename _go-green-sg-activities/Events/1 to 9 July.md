@@ -412,7 +412,7 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
           </li>
           <li><strong>Admission: Free</strong></li>
           <li>
-            <strong>Venue: South Beach Office Tower</strong>
+            <strong>Venue: South Beach Tower Lobby</strong>
           </li>
           <li><strong>Organiser: EB Impact</strong></li>
         </ul>
@@ -474,7 +474,7 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
           <li><strong>Admission: Free</strong></li>
           <li>
             <strong>
-              Venue: South Beach Consortium Open Space and Office Lobby
+              Venue: South Beach Fountain Plaza
             </strong>
           </li>
           <li><strong>Organiser: City Developments Limited</strong></li>
