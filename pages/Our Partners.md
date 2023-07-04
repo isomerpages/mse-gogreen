@@ -263,19 +263,23 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Public%20Agencies/nationalenvironmentalagency.jpg">
 								</div>
-								<!-- Accordion Item 5 -->
+									<!-- Accordion Item 5 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/nparks.jpg">
+									<img src="/images/Our%20Partners/Public%20Agencies/national%20library%20board.PNG">
 								</div>
 								<!-- Accordion Item 6 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/publicutilitiesboard.jpg">
+									<img src="/images/Our%20Partners/Public%20Agencies/nparks.jpg">
 								</div>
 								<!-- Accordion Item 7 -->
 								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/publicutilitiesboard.jpg">
+								</div>
+								<!-- Accordion Item 8 -->
+								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Public%20Agencies/singapore%20food%20agency%20(sfa).jpg">
 								</div>
-										<!-- Accordion Item 8 -->
+										<!-- Accordion Item 9 -->
 								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Public%20Agencies/singaporetourismboard.jpg">
 								</div>
