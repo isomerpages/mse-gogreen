@@ -163,7 +163,7 @@ Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 1 - 31 July</strong>
+            <strong>Date: From 1 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
           <li><strong>Venue: Castlery Flagship, Liat Towers</strong></li>
