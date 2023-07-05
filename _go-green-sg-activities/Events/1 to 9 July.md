@@ -207,7 +207,7 @@ third_nav_title: Events
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/opening-of-vintagewknd/" class="button-primary">
+      <a href="/the-superwasted-project/" class="button-primary">
         Find out more
       </a>
     </div>
