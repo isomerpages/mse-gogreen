@@ -189,6 +189,37 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+	<!-- Aquatic pollutant problems: What are the issues and what can we do about them?-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)aquatic%20pollutant%20problems.jpg">
+        <h2>Aquatic pollutant problems: What are the issues and what can we do about them?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 July</strong>
+          </li>
+          <li><strong>Admission: Free </strong></li>
+          <li><strong>Venue: Zoom (online)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Learn about the wonderful world of plankton through a microscope and never look at water bodies the same way again!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquatic-pollutant-problems/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Au Naturale Beauty-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
