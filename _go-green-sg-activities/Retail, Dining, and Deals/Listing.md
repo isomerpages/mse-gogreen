@@ -116,6 +116,33 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+	 <!-- MBS tenant activations -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/mbs_tenant.jpg">
+        <h2>Marina Bay Sands' Tenant Activations</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 1 - 31 July</strong>
+          </li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Celebrate Go Green SG with Marina Bay Sands with a selection of offers at The Shoppes. Explore a myriad of conscious offers, from dining and shopping to entertainment and attractions at The Shoppes.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/marina-bay-sands-tenant-activations/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- BYO and Enjoy Discounts For Takeaway Orders -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
