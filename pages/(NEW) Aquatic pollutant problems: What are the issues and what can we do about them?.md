@@ -8,7 +8,7 @@ description: ""
 **Learn about the wonderful world of plankton through a microscope and never look at water bodies the same way again!**
 
 **Date:** 19 July, 7:30 - 8:30 pm<br>
-**Admission:** Free <br>
+**Admission:** Free (registration required) <br>
 **Venue:** Zoom (online) <br>
 **Organiser:**  National Library Board
 
