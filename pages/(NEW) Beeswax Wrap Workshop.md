@@ -13,9 +13,9 @@ description: ""
 **Venue:** Hotel Indigo Singapore Katong, Joo Chiat Meeting Room <br>
 **Organiser:** Hotel Indigo Singapore Katong
 
-Embrace the role of a sustainability advocate in your community and expand your knowledge through interactive, hands-on activities organized by The Sustainability Project. 
+Embrace the role of a sustainability advocate in your community and expand your knowledge through this interactive, hands-on workshop organised by The Sustainability Project. 
 
-Beeswax wraps are reusable food wraps used to wrap food like fruits, vegetables, cheese, bread or even as a bowl cover. It helps to eliminate the use of plastic cling wrap. Through this workshop, learn about the benefits of using Beeswax and how it works towards reducing plastic consumption. Make your own wrap with a beeswax mending bar and scrap fabrics!
+Beeswax wraps are reusable food wraps used to wrap food like fruits, vegetables, cheese or bread. It can also be used as a bowl cover, and helps to eliminate the use of plastic cling wrap. Through this workshop, learn about the benefits of using Beeswax and how it works towards reducing plastic consumption. Make your own wrap with a beeswax mending bar and scrap fabrics!
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/o/hotel-indigo-singapore-katong-67683197963">
 	<img src="/images/gogreensg_website-32.png">
