@@ -232,7 +232,7 @@ Reimagine and build your own sustainable transportation in this workshop!
         <ul>
           <li>
             <strong>
-              Date: 19, 22 July</strong>
+              Date: 22 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
           <li><strong>Venue: City Sprouts</strong></li>
