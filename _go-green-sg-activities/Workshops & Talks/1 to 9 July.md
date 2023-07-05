@@ -609,6 +609,37 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+	<!-- Singapore Really Really Free Market-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)sg%20really%20really%20free%20market.jpg">
+        <h2>Singapore Really Really Free Market
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: National Library Board</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Join National Library Board  for the Singapore Really Really Free Market to make a positive impact on the environment in a fun and relaxed atmosphere.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-really-really-free-market/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!--  Go Green Explorers -->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
