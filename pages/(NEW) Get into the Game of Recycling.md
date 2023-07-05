@@ -17,7 +17,7 @@ Are you ready for an exciting adventure to become a recycling superhero? The Get
 
 With interactive games, challenges, and hands-on activities, they will learn to reduce waste, reuse materials, and recycle like a pro!
 
-<a class="btn-link" target="_blank" href="www.eventbrite.sg/e/get-into-the-game-of-recycling-ang-mo-kio-public-library-tickets-648610901667">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/get-into-the-game-of-recycling-ang-mo-kio-public-library-tickets-648610901667">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
