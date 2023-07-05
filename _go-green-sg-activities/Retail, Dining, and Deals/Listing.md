@@ -128,6 +128,8 @@ third_nav_title: Retail, Dining, and Deals
           <li>
             <strong>Date: 1 - 31 July</strong>
           </li>
+					<strong>Venue: Marina Bay Sands</strong>
+          
           <li><strong>Organiser: Marina Bay Sands </strong></li>
         </ul>
       </div>
