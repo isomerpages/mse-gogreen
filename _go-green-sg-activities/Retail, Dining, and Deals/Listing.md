@@ -122,12 +122,16 @@ third_nav_title: Retail, Dining, and Deals
       <div class="programmes__item__header">
         <img src="/images/Challenges%20&amp;%20Deals/mbs_tenant.jpg">
         <h2>Marina Bay Sands' Tenant Activations</h2>
-      </div>
+       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>Date: 1 - 31 July</strong>
-      <strong>Organiser: Marina Bay Sands </strong></li>
+          </li>
+                    <li>
+            <strong>Venue: Marina Bay Sands</strong>
+          </li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
