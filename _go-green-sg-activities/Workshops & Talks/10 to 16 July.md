@@ -250,7 +250,39 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
-	
+	<!-- beeswax -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/indigo.jpeg">
+        <h2>Beeswax Wrap Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: $48.86</strong></li>
+          <li>
+            <strong>Venue: Hotel Indigo Singapore Katong</strong>
+          </li>
+          <li>
+            <strong>Organiser: Hotel Indigo Singapore Katong</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn about the benefits of beeswax wraps and try making your own with our formulation!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/beeswax-wrap-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <!-- Soil, Me and the Planet -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
