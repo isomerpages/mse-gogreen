@@ -119,6 +119,37 @@ third_nav_title: Events
       </a>
     </div>
   </div>
+	<!-- superwasted -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/vintage_superwasted.jpg">
+        <h2>The SUPERWASTED Project
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: From 1 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: 16 Haji Lane</strong></li>
+          <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       The SUPERWASTED project is a clothing store featuring an e-waste art installation created for the public, by the public.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-superwasted-project/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- opening of first vintagewknd store-->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
