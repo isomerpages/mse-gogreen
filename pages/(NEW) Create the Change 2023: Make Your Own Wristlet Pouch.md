@@ -6,7 +6,7 @@ description: ""
 ![](/images/Workshop%20&amp;%20Talks/sfc_pouch.PNG)
 
 
-**Get creative with colours and textures in this workshop as you create a patched pouch that is unique to you!**
+**Get creative with colours and textures in this workshop as you create a patched pouch unique to you!**
 
 **Date:** 15, 22 July,  11:00 am – 1:00 pm | 1:00 – 3:00 pm | 3:00 – 5:00 pm<br>
 **Admission:** $45<br>
@@ -15,9 +15,9 @@ description: ""
 
 Learn and experience the process of upcycling by patching scraps together and turning them into a beautiful and functional wristlet pouch. 
 
-All materials will be provided, sewing experience is not required but would be a bonus. This workshop is suitable for ages 12 years old and up. Wristlet pouch might require an hour maximum waiting time for customers to come back and pick up as it requires more sewing. 
+All materials will be provided. Sewing experience is not required but would be a bonus. This workshop is suitable for ages 12 years old and up. Wristlet pouch might require additional waiting time (maximum one hour) for customers to come back and pick up as it requires more sewing. 
 
-This is one of two workshops under Create the Change centered around sustainability. Learn directly from local designers about the techniques used to make sustainable items. 
+This is one of two workshops under Create the Change centred around sustainability. Learn directly from local designers about the techniques used to make sustainable items. 
 
 <a class="btn-link" target="_blank" href="https://re-store.zohobookings.com/#/customer/upcycled-wristlet-pouch-workshop">
 	<img src="/images/gogreensg_website-32.png">
