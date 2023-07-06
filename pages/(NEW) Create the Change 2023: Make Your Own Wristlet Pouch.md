@@ -17,9 +17,7 @@ Learn and experience the process of upcycling by patching scraps together and tu
 
 All materials will be provided, sewing experience is not required but would be a bonus. This workshop is suitable for ages 12 years old and up. Wristlet pouch might require an hour maximum waiting time for customers to come back and pick up as it requires more sewing. 
 
- 
-
-One of two workshops centered around sustainability, which will provide a hands-on experience and engagement for participants. Learn directly from local designers about the techniques used to make sustainable items.  
+This is one of two workshops under Create the Change centered around sustainability. Learn directly from local designers about the techniques used to make sustainable items. 
 
 <a class="btn-link" target="_blank" href="https://re-store.zohobookings.com/#/customer/upcycled-wristlet-pouch-workshop">
 	<img src="/images/gogreensg_website-32.png">
