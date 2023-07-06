@@ -608,6 +608,10 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/Educational%20Institutes/averbel%20child%20development%20centre.png">
 						</div>
+							<!-- Accordion Item 4 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/bedok%20view%20secondary%20school.png">
+						</div>
 						<!-- Accordion Item 5 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/Educational%20Institutes/casuarina%20primary%20school.png">
@@ -739,6 +743,10 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						<!-- Accordion Item 37 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/Educational%20Institutes/naval%20base%20secondary%20school.png">
+						</div>
+						<!-- Accordion Item 37 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/Educational%20Institutes/northland-secondary-school.png">
 						</div>
 						<!-- Accordion Item 38 -->
 						<div class="col is-one-quarter">
