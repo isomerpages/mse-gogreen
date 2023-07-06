@@ -539,7 +539,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						</div>
 															<!-- Accordion Item 6 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20furniture%20industries%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore-furniture-industries-council.png">
 						</div>
 															<!-- Accordion Item 7 -->
 						<div class="col is-one-quarter">
