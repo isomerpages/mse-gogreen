@@ -451,6 +451,37 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+		<!-- wristlet pouch -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sfc_pouch.PNG">
+        <h2>Create the Change 2023: Make Your Own Wristlet Pouch
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: $45</strong></li>
+          <li><strong>Venue: Design Orchard</strong></li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Get creative with colours and textures in this workshop as you create a patched pouch that is unique to you!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-your-own-wristlet-pouch/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Junior Ocean Detective -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
