@@ -14,9 +14,9 @@ description: ""
 
 Celebrate Go Green SG with Marina Bay Sands!  
 
-Embark on a sustainable culinary journey with a selection of responsibly sourced seafood and mouthwatering plant-based dishes. Enjoy exclusive privileges at selected outlets when you bring your own takeaway containers.  
+Embark on a sustainable culinary journey with a selection of responsibly-sourced seafood and mouthwatering plant-based dishes. Enjoy exclusive privileges at selected outlets when you bring your own takeaway containers.  
 
-Enjoy exclusive deals and discounts when you make purchases with other participating tenants this July! 
+Also enjoy exclusive deals and discounts when you make purchases with other participating tenants this July! 
 
 Participating tenants are as follows:  
 * Dallas Café &amp; Bar 
