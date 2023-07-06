@@ -8,39 +8,28 @@ image: ""
 ---
 ![](/images/Blog/social-media-frame.png)
 <br>
-**
-
-\[GIVEAWAY\] Stand a chance to win $50 supermarket vouchers by attending any Go Green SG event!
+## **\[GIVEAWAY\] Stand a chance to win $50 supermarket vouchers by attending any Go Green SG event!**
 
   
+To celebrate Go Green SG, we’re giving away $50 worth of supermarket vouchers to 10 lucky winners who attend Go Green SG events this July. 
 
-To celebrate Go Green SG, we’re giving away $50 worth of supermarket vouchers to 10 lucky winners who attend Go Green SG events this July.&nbsp;
-
-  
 
 All you have to do to enter is to:
-
 1.  Like and share our giveaway post on Facebook or Instagram
     
-2.  Snap a picture of yourself at any Go Green SG event&nbsp;
+2.  Snap a picture of yourself at any Go Green SG event
     
 3.  Upload your photo on Facebook or Instagram, with an accompanying caption that indicates which event you attended, and what the experience was like
     
 4.  Follow and tag @MSESingapore in the post, and hashtag #GoGreenSG
-    
+  
+Be sure that your accounts on social media are public, so that we can find your posts. The contest&nbsp; ends on 31st July, Monday, at 11.59PM (SGT). All winners will be notified via Facebook/Instagram DMs in mid-August.
+
+Good luck and most importantly, have fun going green, your way, this month!
 
   
 
-Be sure that your accounts on social media are public, so that we can find your posts. The contest&nbsp; ends on 31st July, Monday, at 11.59PM (SGT). All winners will be notified via Facebook/Instagram DMs in mid-August.&nbsp;&nbsp;
-
-  
-
-Good luck and most importantly, have fun going green, your way, this month!&nbsp;
-
-  
-  
-
-The very important T&amp;C:
+## Terms &amp; Conditions:
 
   
 
@@ -55,9 +44,7 @@ Eligibility:
 4.  By entering the Giveaway, you are deemed to have agreed to and accepted these Terms and Conditions.
     
 
-  
-
-More about the Giveaway:
+## More about the Giveaway:
 
 5.  Each entrant is allowed to submit multiple posts, but will only be eligible for one set of supermarket vouchers worth $50 SGD.
     
@@ -72,9 +59,7 @@ More about the Giveaway:
 10.  Participants who submit photographs must also ensure that their photographs do not violate the rights of a third party or any copyright.
     
 
-  
-
-Winners:
+## Winners:
 
 11.  The winning entries must fulfil all the requirements above to qualify for the prize. If any of the requirements are unmet, another winner will be selected.
     
@@ -91,9 +76,7 @@ Winners:
 17.  The results of the Contest shall be final and binding and no appeal will be entertained.
     
 
-  
-
-Other terms and conditions:
+## Other terms and conditions:
 
 18.  Submission of entries implies automatic acceptance of rules and regulation of the Giveaway. In the event of a dispute, the decision of MSE is final.
     
@@ -104,6 +87,3 @@ Other terms and conditions:
 21.  This promotion is in no way sponsored, endorsed or administered by, or associated with Facebook or Instagram. You are providing your information to MSE and not to Facebook or Instagram.
     
 22.  MSE holds the final rights to amend these Terms and Conditions.
-    
-
-**
