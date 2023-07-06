@@ -8,7 +8,7 @@ description: ""
 
 **Get creative with colours and textures in this workshop as you create a patched pouch that is unique to you!**
 
-**Date:** 15, 22 July,  11:00 am – 12:00 pm | 1:00 – 2:00 pm | 3:00 – 4:00 pm<br>
+**Date:** 15, 22 July,  11:00 am – 1:00 pm | 1:00 – 3:00 pm | 3:00 – 5:00 pm<br>
 **Admission:** $45<br>
 **Venue:** Design Orchard<br>
 **Organiser:** Singapore Fashion Council
