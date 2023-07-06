@@ -11,8 +11,8 @@ sections:
       title: Go Green, Your Way
   - infobar:
       title: Go Green this July!
-      description: "Ready for a month of fun-filled green activities and experiences?
-        Check out our listing of events below! "
+      description: Ready for a month of fun-filled green activities and experiences?
+        Check out our listing of events below!
   - infopic:
       title: Go Green <br>Tours
       description: Explore new and familiar places in Singapore with a green lens.
@@ -55,4 +55,8 @@ sections:
       url: /programmes/initiatives/
       alt: Image alt text
       image: /images/go-green-initiatives-4.png
+  - resources:
+      title: Blogs
+      subtitle: Resources
+      button: More blogs
 ---
