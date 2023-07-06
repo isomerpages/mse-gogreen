@@ -13,7 +13,7 @@ description: ""
 **Venue:** Ang Mo Kio Public Library, Programme Zone <br>
 **Organiser:** National Library Board, The Eco-Statement
 
-Are you ready for an exciting adventure to become a recycling superhero? The Get into the Game of Recycling programme is perfect for 7 – 12-year-olds to learn about the importance of protecting our planet while having fun!&nbsp;&nbsp;
+Are you ready to become a recycling superhero through this exciting adventure? The Get into the Game of Recycling programme is perfect for 7 – 12-year-olds to learn about the importance of protecting our planet while having fun!
 
 With interactive games, challenges, and hands-on activities, they will learn to reduce waste, reuse materials, and recycle like a pro!
 
