@@ -250,7 +250,72 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
-	
+	<!-- beeswax -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/indigo.jpeg">
+        <h2>Beeswax Wrap Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: $48.86</strong></li>
+          <li>
+            <strong>Venue: Hotel Indigo Singapore Katong</strong>
+          </li>
+          <li>
+            <strong>Organiser: Hotel Indigo Singapore Katong</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn about the benefits of beeswax wraps and try making your own with our formulation!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/beeswax-wrap-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
+	<!-- coffeegrounds -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/indigo_coffee.jpg">
+        <h2>Coffee Grounds Scrub Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: $48.86</strong></li>
+          <li>
+            <strong>Venue: Hotel Indigo Singapore Katong</strong>
+          </li>
+          <li>
+            <strong>Organiser: Hotel Indigo Singapore Katong</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Discover the beauty of coffee grounds and how to upcycle them.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/coffee-grounds-scrub/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <!-- Soil, Me and the Planet -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -282,6 +347,37 @@ Reimagine and build your own sustainable transportation in this workshop!
     </div>
     <div class="programmes__item__actions">
       <a href="/soil-me-and-the-planet/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			<!-- wristlet pouch -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sfc_pouch.PNG">
+        <h2>Create the Change 2023: Make Your Own Wristlet Pouch
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 July</strong>
+          </li>
+          <li><strong>Admission: $45</strong></li>
+          <li><strong>Venue: Design Orchard</strong></li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Get creative with colours and textures in this workshop as you create a patched pouch that is unique to you!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-your-own-wristlet-pouch/" class="button-primary">
         Find out more
       </a>
     </div>

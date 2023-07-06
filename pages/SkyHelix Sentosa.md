@@ -10,7 +10,7 @@ description: ""
 **Date:** 1 – 31 July, 10.00 am - 9.30 pm<br>
 **Admission:** Adult: $14.40 | Child: $12<br>
 **Venue:** Imbiah Lookout, Sentosa <br>
-**Organiser:** Sentosa Development Corporation 
+**Organiser:** Mount Faber Leisure Group 
 
 Take flight on the highest open-air panoramic ride in Singapore – SkyHelix Sentosa! Sit in an open-air gondola that gently rotates as it ascends to a height of 79 metres above sea level. Let your hair down, dangle your feet in the air and enjoy the uplifting experience with a cool drink in hand. Be mesmerised by the breathtaking 360° views stretching from Sentosa to the Keppel Bay area and the Southern Islands. Day or night, each “flight” is a ride to remember.
 

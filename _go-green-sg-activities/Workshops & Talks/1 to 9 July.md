@@ -333,7 +333,7 @@ Reimagine and build your own sustainable transportation in this workshop!
         <ul>
           <li>
             <strong>
-              Date: 5, 8 July</strong>
+              Date: 5 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
           <li><strong>Venue: City Sprouts</strong></li>
@@ -398,7 +398,7 @@ Reimagine and build your own sustainable transportation in this workshop!
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: South Beach Office Tower </strong></li>
+          <li><strong>Venue: South Beach Tower Lobby </strong></li>
           <li><strong>Organiser: Seastainable and LepakinSG</strong></li>
         </ul>
       </div>
@@ -410,6 +410,37 @@ Reimagine and build your own sustainable transportation in this workshop!
     </div>
     <div class="programmes__item__actions">
       <a href="/human-library/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Get into the Game of Recycling-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)get%20into%20the%20game%20of%20recycling.jpg">
+        <h2>Get into the Game of Recycling
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Ang Mo Kio Public Library</strong></li>
+          <li><strong>Organiser: National Library Board, The Eco-Statement</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Become a recycling superhero by challenging yourself to sustainability-themed board games!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/get-into-the-game-of-recycling/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -531,7 +562,7 @@ Reimagine and build your own sustainable transportation in this workshop!
               Date: 9 July</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: South Beach Consortium</strong></li>
+          <li><strong>Venue: South Beach Fountain Plaza</strong></li>
           <li><strong>Organiser: Just Keep Thinking (JKT)</strong></li>
         </ul>
       </div>
@@ -574,6 +605,37 @@ Reimagine and build your own sustainable transportation in this workshop!
     </div>
     <div class="programmes__item__actions">
       <a href="/climate-fresk/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Singapore Really Really Free Market-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)sg%20really%20really%20free%20market.jpg">
+        <h2>Singapore Really Really Free Market
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: National Library Board</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Join National Library Board  for the Singapore Really Really Free Market to make a positive impact on the environment in a fun and relaxed atmosphere.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-really-really-free-market/" class="button-primary">
         Find out more
       </a>
     </div>

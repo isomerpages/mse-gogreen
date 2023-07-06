@@ -7,7 +7,7 @@ description: ""
 
 **Learn to make your own DIY natural detergents and scrubs using common household waste and watch it beautify you and the earth. Minimise unnecessary waste by opting for zero-plastic beauty products at this workshop!**
 
-**Date:** 5, 19 July, 5:00 - 6:15 pm | 8, 22 July, 2:00 - 3:15 pm<br>
+**Date:** 5 July, 5:00 - 6:15 pm | 22 July, 11:00 am - 12:15 pm<br>
 **Admission:** $30<br>
 **Venue:** City Sprouts, 102 Henderson Road<br>
 **Organiser**: City Sprouts

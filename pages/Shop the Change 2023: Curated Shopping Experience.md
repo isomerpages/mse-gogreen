@@ -16,6 +16,9 @@ Shop the Change with Design Orchard this Sustainability Season with a curated co
 
 A unique and curated shopping experience awaits tourists and locals alike with a showcase of local fashion industry's efforts towards sustainable fashion.
 
+<a class="btn-link" target="_blank" href="https://www.designorchard.sg/shop-the-change-2023">
+	<img src="/images/more-info-btn.png">
+</a>
 
 <style>
 	.btn-link {

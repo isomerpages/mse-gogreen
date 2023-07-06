@@ -189,6 +189,37 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+	<!-- Aquatic pollutant problems: What are the issues and what can we do about them?-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)aquatic%20pollutant%20problems.jpg">
+        <h2>Aquatic pollutant problems: What are the issues and what can we do about them?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 July</strong>
+          </li>
+          <li><strong>Admission: Free </strong></li>
+          <li><strong>Venue: Zoom (online)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Learn about the wonderful world of plankton through a microscope and never look at water bodies the same way again!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquatic-pollutant-problems/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		  <!-- Au Naturale Beauty-->
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -201,7 +232,7 @@ Reimagine and build your own sustainable transportation in this workshop!
         <ul>
           <li>
             <strong>
-              Date: 19, 22 July</strong>
+              Date: 22 July</strong>
           </li>
           <li><strong>Admission: $30</strong></li>
           <li><strong>Venue: City Sprouts</strong></li>
@@ -251,6 +282,39 @@ Reimagine and build your own sustainable transportation in this workshop!
     </div>
     <div class="programmes__item__actions">
       <a href="/soil-me-and-the-planet/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- lessons from urban wetlands -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/gbtb_lessonsuw.jpg">
+        <h2>Lessons from Urban Wetlands: Mangroves in Freshwater and Carbon Sequestration</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 20 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li>
+            <strong>Venue: Gardens by the Bay</strong>
+          </li>
+          <li>
+            <strong>Organiser: Gardens by the Bay</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn more about the findings from Gardens by the Bay’s pilot study on carbon storage of ponds and potential of “blue” carbon sequestration by urban mangroves!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/lessons-from-urban-wetlands/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -317,6 +381,103 @@ Reimagine and build your own sustainable transportation in this workshop!
     </div>
     <div class="programmes__item__actions">
       <a href="/upcycle-food-waste-to-grow-your-own-vegetables" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- beeswax -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/indigo.jpeg">
+        <h2>Beeswax Wrap Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: $48.86</strong></li>
+          <li>
+            <strong>Venue: Hotel Indigo Singapore Katong</strong>
+          </li>
+          <li>
+            <strong>Organiser: Hotel Indigo Singapore Katong</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Learn about the benefits of beeswax wraps and try making your own with our formulation!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/beeswax-wrap-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
+	<!-- coffeegrounds -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/indigo_coffee.jpg">
+        <h2>Coffee Grounds Scrub Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: $48.86</strong></li>
+          <li>
+            <strong>Venue: Hotel Indigo Singapore Katong</strong>
+          </li>
+          <li>
+            <strong>Organiser: Hotel Indigo Singapore Katong</strong>
+          </li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+          Discover the beauty of coffee grounds and how to upcycle them.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/coffee-grounds-scrub/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- wristlet pouch -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sfc_pouch.PNG">
+        <h2>Create the Change 2023: Make Your Own Wristlet Pouch
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 July</strong>
+          </li>
+          <li><strong>Admission: $45</strong></li>
+          <li><strong>Venue: Design Orchard</strong></li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Get creative with colours and textures in this workshop as you create a patched pouch that is unique to you!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-your-own-wristlet-pouch/" class="button-primary">
         Find out more
       </a>
     </div>

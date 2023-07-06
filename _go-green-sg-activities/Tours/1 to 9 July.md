@@ -169,7 +169,7 @@ third_nav_title: Tours
           </li>
           <li><strong>Admission: Adult: $20 | Child: $16</strong></li>
           <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
-          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+          <li><strong>Organiser: Mount Faber Leisure Group</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -1346,7 +1346,7 @@ third_nav_title: Tours
               Date: 8 July</strong>
           </li>
           <li><strong>Admission: Adult: $60 | Child: $50</strong></li>
-          <li><strong>Venue: Gilman Barracks Block 9</strong></li>
+          <li><strong>Venue: Gilman Barracks</strong></li>
           <li><strong>Organiser: Indie Singapore Tours LLP</strong></li>
         </ul>
       </div>

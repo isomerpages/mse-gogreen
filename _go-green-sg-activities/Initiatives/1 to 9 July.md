@@ -40,6 +40,10 @@ third_nav_title: Initiatives
     list-style-type: none;
     margin: 1rem 0;
   }
+	
+	  .programmes__item__header > sup {
+    color: red;
+  }
 
   .programmes__item__detail > ul > li {
     margin: 0;
@@ -147,6 +151,37 @@ Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines
     </div>
     <div class="programmes__item__actions">
       <a href="/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- Castlery Trade In Program-->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/(listing)%20castlery%20picture.png">
+        <h2>
+          Castlery Trade In Program
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: From 1 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Castlery Flagship, Liat Towers</strong></li>
+          <li><strong>Organiser: Castlery</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Do you have Castlery furniture at home you want to replace? This July, trade-in your used Castlery furniture to give them a second life and get a discount on your next purchase!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/castlery-trade-in-program/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -276,6 +311,37 @@ Muuse and Stridy are kicking off #GoGreenSG and #PlasticFreeJuly with a Tampines
     </div>
     <div class="programmes__item__actions">
       <a href="/urban-cleanup-south-beach/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!-- beach and urban cleanup -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/stridy_beachcleanup_l.jpg">
+        <h2>Beach and Urban Clean Up
+</h2><sup>Fully booked</sup>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 8 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Marine Cove, East Coast Park</strong></li>
+          <li><strong>Organiser: Stridy, Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Join Just Keep Thinking and Stridy in a Beach and Urban Clean Up at East Coast Park! Participants will learn how they can all create a cleaner, greener future!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/beach-and-urban-clean-up/" class="button-primary">
         Find out more
       </a>
     </div>

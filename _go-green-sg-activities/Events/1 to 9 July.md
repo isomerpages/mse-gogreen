@@ -181,6 +181,37 @@ third_nav_title: Events
       </a>
     </div>
   </div>
+		<!-- superwasted -->
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/vintage_superwasted.jpg">
+        <h2>The SUPERWASTED Project
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: From 1 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: 16 Haji Lane</strong></li>
+          <li><strong>Organiser: That Wknd Company Pte Ltd (Vintagewknd)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       The SUPERWASTED project is a clothing store featuring an e-waste art installation created for the public, by the public.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-superwasted-project/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- opening of vintagewknd store -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -364,40 +395,6 @@ third_nav_title: Events
       </a>
     </div>
   </div>
-	  <!-- Sustainable Movie Night -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Events/cs_movie_l.png">
-        <h2>Sustainable Movie Night
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 7 July</strong></li>
-          <li>
-            <strong>Admission: $30</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Sky Sprouts
-            </strong>
-          </li>
-          <li><strong>Organiser: City Sprouts</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability and indulge in a picnic on the rooftop with a snack box and drinks.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainable-movie-night/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	  <!-- Panel Discussion: From Action to Activism -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
@@ -412,7 +409,7 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
           </li>
           <li><strong>Admission: Free</strong></li>
           <li>
-            <strong>Venue: South Beach Office Tower</strong>
+            <strong>Venue: South Beach Tower Lobby</strong>
           </li>
           <li><strong>Organiser: EB Impact</strong></li>
         </ul>
@@ -474,7 +471,7 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
           <li><strong>Admission: Free</strong></li>
           <li>
             <strong>
-              Venue: South Beach Consortium Open Space and Office Lobby
+              Venue: South Beach Fountain Plaza
             </strong>
           </li>
           <li><strong>Organiser: City Developments Limited</strong></li>
@@ -490,6 +487,37 @@ Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy
     </div>
     <div class="programmes__item__actions">
       <a href="/youth4climate-festival-2023" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<!--Singapore Really Really Free Market-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)sg%20really%20really%20free%20market.jpg">
+        <h2>Singapore Really Really Free Market
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: National Library Board</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Join National Library Board  for the Singapore Really Really Free Market to make a positive impact on the environment in a fun and relaxed atmosphere.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-really-really-free-market/" class="button-primary">
         Find out more
       </a>
     </div>

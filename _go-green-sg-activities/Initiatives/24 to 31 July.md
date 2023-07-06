@@ -120,6 +120,66 @@ third_nav_title: Initiatives
       </a>
     </div>
   </div>
+	<!-- Castlery Trade In Program-->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Initiatives/(listing)%20castlery%20picture.png">
+        <h2>
+          Castlery Trade In Program
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: From 1 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Castlery Flagship, Liat Towers</strong></li>
+          <li><strong>Organiser: Castlery</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Do you have Castlery furniture at home you want to replace? This July, trade-in your used Castlery furniture to give them a second life and get a discount on your next purchase!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/castlery-trade-in-program/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<!-- Sustainability Partner Showcase-->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Events/(listing)%20sustainability%20partnership%20showcase.jpg">
+        <h2>
+          Sustainability Partner Showcase
+        </h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>Date: 10 July - 4 Aug</strong>
+          </li><strong>Venue: Castlery Flagship, Liat Towers</strong>
+          <li><strong>Organiser: Castlery</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+ Explore a new partnership space that will showcase sustainable local brands and champions. Come learn more about living a more sustainable lifestyle together.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-partner-showcase/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <!-- Edible Gardening and Management @ Jurong Lake Gardens -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">

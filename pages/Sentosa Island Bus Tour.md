@@ -10,7 +10,7 @@ description: ""
 **Date:** 1 – 31 July, 10:00 am – 12:00 pm | 12:00 – 2:00 pm | 2:00 – 4:00 pm | 4:00 – 6:00 pm<br>
 **Admission:** Adult: $20 | Child: $16<br>
 **Venue:** Imbiah Lookout, Sentosa <br>
-**Organiser:** Sentosa Development Corporation 
+**Organiser:** Mount Faber Leisure Group 
 
 Explore Sentosa by bus! This two-hour guided tour of Sentosa is a great way to discover the beauty and charm of the State of Fun while learning more about the evolution and transformation of the island's environment. Sentosa’s friendly guides will be at the Sentosa Station Ticketing Counter at Imbiah Lookout Zone, and they will take you on the tour to experience incredible sights on wheels.
 

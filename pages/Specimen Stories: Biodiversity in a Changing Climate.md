@@ -18,6 +18,9 @@ At the centre of the exhibition will be a life-sized replica of the skull of a s
 
 The exhibition will run from 1 July to 31 August at The Fullerton Hotel Singapore’s East Garden Gallery located at the lobby level. The exhibition is open to all. 
 
+<a class="btn-link" target="_blank" href="https://www.fullertonhotels.com/fullerton-hotel-singapore/offers/fullerton-experiences/specimen-stories-biodiversity-in-a-changing-climate">
+	<img src="/images/more-info-btn.png">
+</a>
 
 <style>
 	.btn-link {

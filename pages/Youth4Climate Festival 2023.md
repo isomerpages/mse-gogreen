@@ -21,7 +21,8 @@ Here are some activities taking place during the festival you may want to check 
 	<a href="/antarctic-adventure/"> An Antarctic Adventure </a><br>
 		<a href="/action-to-activism/">Panel discussion: From Action to Activism</a><br>
 		<a href="/urban-cleanup-south-beach/">Urban Clean Up @ South Beach</a><br>
-<a href="/human-library/">Advancing Climate: A Human Library Experience</a>
+<a href="/human-library/">Advancing Climate: A Human Library Experience</a><br>
+	<a href="/climate-fresk/">Climate Fresk Workshop</a>
 </b>
 
 <a target="_blank" class="btn-link" href="https://cdlsustainability.com/climate-action/youth4climate/">
