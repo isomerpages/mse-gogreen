@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![](/images/Blog/social-media-frame.png)
+![](/images/Blog/giveaway-page-banner.png)
 <br>
 ## **\[GIVEAWAY\] Stand a chance to win $50 supermarket vouchers by attending any Go Green SG event!**
 
