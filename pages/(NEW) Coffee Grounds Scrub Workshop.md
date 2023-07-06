@@ -14,7 +14,7 @@ description: ""
 
 Embrace the role of a sustainability advocate in your community and expand your knowledge through this interactive, hands-on workshop organised by The Sustainability Project. 
 
-Singaporeans consumed 6 million kg of coffee in 2020. This is a big waste generator. There are many ways you can upcycle your used coffee grounds instead of throwing them away! Learn how to upcycle coffee grounds and use them for another purpose. Participants will get to take home one to two customised coffee ground body scrubs.
+Singaporeans consumed 6 million kg of coffee in 2020. This results in a lot of coffee grounds, and a lot of waste! Learn how to upcycle your used coffee grounds instead of throwing them away at this workshop. Participants will get to take home one to two customised coffee ground body scrubs.
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/o/hotel-indigo-singapore-katong-67683197963">
 	<img src="/images/gogreensg_website-32.png">
