@@ -395,40 +395,6 @@ third_nav_title: Events
       </a>
     </div>
   </div>
-	  <!-- Sustainable Movie Night -->
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Events/cs_movie_l.png">
-        <h2>Sustainable Movie Night
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Date: 7 July</strong></li>
-          <li>
-            <strong>Admission: $30</strong>
-          </li>
-          <li>
-            <strong>
-              Venue: Sky Sprouts
-            </strong>
-          </li>
-          <li><strong>Organiser: City Sprouts</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-Join Films on the Farm at Sky Sprouts for an intimate, open-air screening. Enjoy curated movies focused on sustainability and indulge in a picnic on the rooftop with a snack box and drinks.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainable-movie-night/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	  <!-- Panel Discussion: From Action to Activism -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
