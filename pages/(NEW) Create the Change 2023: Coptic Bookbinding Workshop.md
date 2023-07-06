@@ -13,9 +13,9 @@ description: ""
 **Venue:** Design Orchard<br>
 **Organiser:** Singapore Fashion Council
 
-In collaboration with Design Orchard, Serving people with disabilities (SPD) is organizing a bookbinding workshop for participants to learn how to hand bind a hardcover journal from scratch. This workshop will be guided by craftspeople with disabilities who have been honing their skills in the traditional art of book binding for over 30 years.   
+In collaboration with Design Orchard, SPD, a local charity that helps people with disabilities of all ages, is organising a bookbinding workshop for participants to learn how to hand bind a hardcover journal from scratch. This workshop will be guided by craftspeople with disabilities who have been honing their skills in the traditional art of book binding for over 30 years.   
 
-One of two workshops centered around sustainability, which will provide a hands-on experience and engagement for participants. Learn directly from local designers about the techniques used to make sustainable items. 
+This is one of two workshops under Create the Change centered around sustainability. Learn directly from local designers about the techniques used to make sustainable items. 
 
 <a class="btn-link" target="_blank" href="https://forms.office.com/pages/responsepage.aspx?id=5oKV660i30OSblgJdGQjr4TYaak5b59NrfpuotMnD4lUNlEyM0FNUkQ4UjFTRUpCUlZPMUNINkVLMC4u">
 	<img src="/images/gogreensg_website-32.png">
