@@ -401,7 +401,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 25 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/mandai%20wildlife%20group.png">
+									<img src="/images/Our%20Partners/Corporate/mandai-wildlife-group.png">
 								</div>
 								<!-- Accordion Item 26 -->
 								<div class="col is-one-quarter">
