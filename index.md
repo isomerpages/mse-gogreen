@@ -56,7 +56,6 @@ sections:
       alt: Image alt text
       image: /images/go-green-initiatives-4.png
   - resources:
-      title: Blogs
       subtitle: Resources
-      button: More blogs
+      button: More resources
 ---
