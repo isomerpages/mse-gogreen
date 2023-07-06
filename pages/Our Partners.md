@@ -529,31 +529,47 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/champs%20for%20our%20environment.png">
 						</div>
-															<!-- Accordion Item 2 -->
+						<!-- Accordion Item 2 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/circularclassroom.jpg">
+						</div>
+						<!-- Accordion Item 3 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/climate%20fresk.png">
+						</div>
+															<!-- Accordion Item 4-->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/divert%20for%202nd%20life.png">
 						</div>
-															<!-- Accordion Item 3 -->
+							<!-- Accordion Item 5 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/living%20soil%20asia.png">
-						</div>
-															<!-- Accordion Item 4 -->
-						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/metta%20welfare%20association.png">
-						</div>
-															<!-- Accordion Item 5 -->
-						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20fashion%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/eb-impact.png">
 						</div>
 															<!-- Accordion Item 6 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore-furniture-industries-council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/living%20soil%20asia.png">
 						</div>
 															<!-- Accordion Item 7 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/tanjong%20pagar%20town%20council.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/metta%20welfare%20association.png">
 						</div>
 															<!-- Accordion Item 8 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20fashion%20council.png">
+						</div>
+															<!-- Accordion Item 9 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore-furniture-industries-council.png">
+						</div>
+						<!-- Accordion Item 10 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/stridy.png">
+						</div>
+															<!-- Accordion Item 11 -->
+						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/tanjong%20pagar%20town%20council.png">
+						</div>
+															<!-- Accordion Item 12 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/unleash.png">
 						</div>
