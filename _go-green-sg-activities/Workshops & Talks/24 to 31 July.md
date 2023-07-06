@@ -219,6 +219,37 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+		<!-- bookbinding workshop -->
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/sfc_bookbinding.png">
+        <h2>Create the Change 2023: Coptic Bookbinding Workshop
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 July</strong>
+          </li>
+          <li><strong>Admission: $93</strong></li>
+          <li><strong>Venue: Design Orchard</strong></li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+       Create your very own journal in this book-binding workshops using deadstock fabric from Nyana Nyana and Ans.ein!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/coptic-bookbinding/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- chocolate making -->
 	 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
