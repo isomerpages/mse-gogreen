@@ -14,9 +14,9 @@ description: ""
 **Venue:** Waterview Room, Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
-This project is the first study in Singapore to explore the potential for carbon sequestration in urban wetlands, by leveraging the Garden’s Kingfisher Wetlands as a living laboratory. Kingfisher Wetlands acts as a&nbsp;testbed for new climate solutions, while promoting biodiversity and engaging visitors on sustainability. This project is conducted in partnership with the private sector and academia for City in Nature and supported by Temasek and SG EcoFund. &nbsp;
+Conducted by consultants from DHI Water and Environment, the talk will share the results and lessons learnt from one year of monitoring the carbon sequestration of mangroves and urban wetlands.
 
-Conducted by consultants from DHI Water and Environment, the talk will share the results and lessons learnt from one year of monitoring the carbon sequestration of mangroves and urban wetlands.&nbsp;&nbsp;
+This project is the first study in Singapore to explore the potential for carbon sequestration in urban wetlands, by leveraging the Garden’s Kingfisher Wetlands as a living laboratory. Kingfisher Wetlands acts as a testbed for new climate solutions, while promoting biodiversity and engaging visitors on sustainability. This project is conducted in partnership with the private sector and academia for City in Nature and supported by Temasek and SG EcoFund. 
 
 The results pave way for exploration of the best way to maximise the potential of man-made wetlands for long-term carbon storage, which could potentially be scaled up for use in other parts of Singapore or other cities.
 
