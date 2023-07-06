@@ -14,11 +14,7 @@ description: ""
 
 The SUPERWASTED project creates ultra-unique spaces by using 'waste' in creative ways to spark interest and engagement around green living and upcycling. The SUPERWASTED store features a live art activation that involves the public reusing their e-waste! 
 
-  
-
 Confess your wasted moments on donated CDs and read stories contributed by others.  The installation, gives a voice to the youthful energy of the community and creates conversations about waste.  
-
-  
 
 SUPERWASTED store is Vintagewknd’s edgier younger sister, featuring their best reworked pieces with a focus on streetwear.  The store is popular amongst fashion enthusiasts and a Gen Z crowd!
 
