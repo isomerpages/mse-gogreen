@@ -321,6 +321,10 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 6 -->
 								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/circular.png">
+								</div>
+								<!-- Accordion Item 6 -->
+								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Corporate/city%20developments%20limited.png">
 								</div>
 								<!-- Accordion Item 7 -->
@@ -441,7 +445,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 36 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/resort%20world%20cruises%20(rw%20cruises).png">
+									<img src="/images/Our%20Partners/Corporate/resort%20world%20cruises%20(rw%20cruises).PNG">
 								</div>
 								<!-- Accordion Item 37 -->
 								<div class="col is-one-quarter">
@@ -457,25 +461,29 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 40 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/sentosa%20dev%20corp.jpg">
+									<img src="/images/Our%20Partners/Corporate/servier.png">
 								</div>
 								<!-- Accordion Item 41 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/servier.png">
+									<img src="/images/Our%20Partners/Corporate/shangri-la%20singapore.png">
 								</div>
 								<!-- Accordion Item 42 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/shangri-la%20singapore.png">
+									<img src="/images/Our%20Partners/Corporate/shimizu%20corporation.png">
 								</div>
 								<!-- Accordion Item 43 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/shimizu%20corporation.png">
+									<img src="/images/Our%20Partners/Corporate/sofitel-logo.png">
 								</div>
-									<!-- Accordion Item 44 -->
+									<!-- Accordion Item 43 -->
 								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Corporate/susgain.png">
 								</div>
-									<!-- Accordion Item 45 -->
+								<!-- Accordion Item 43 -->
+								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Corporate/sustenir_rgb_icon_gn.png">
+								</div>
+									<!-- Accordion Item 44 -->
 								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Corporate/that%20wknd%20company.png">
 								</div>
