@@ -131,7 +131,7 @@ Here are some other ways our partners are Going Green, their way!
 	<!-- Item 3 -->
 	<div class="two-col__item">
 		<div class="two-col__item__body">
-			<p class="two-col__item__title"><strong>Learning journey to PSA Innovation Centre and Pasir Panjang Terminal</strong></p>
+			<p class="two-col__item__title"><strong>Learning journey to PSA Horizons and the PSA Innovation Centre</strong></p>
 			<p>PSA is organising a learning journey to the PSA Innovation Centre and Pasir Panjang Terminal for youths from Institutes of Higher Learning, to educate them on PSA’s innovation and sustainability journey, strategy and plans.</p>
 		</div>
 		<div class="two-col__item__image">
@@ -145,7 +145,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Resorts World Cruises has been collecting and processing cling wrap and carton boxes onboard their ships. Guests can participate in a workshop to transform the ship’s waste into beautiful handicrafts like tote bags, plastic folders and table organisers!</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Corporate/resort%20world%20cruises%20(rw%20cruises).png">
+			<img src="/images/Our%20Partners/Corporate/resort%20world%20cruises%20(rw%20cruises).PNG">
 		</div>
 	</div>
 
@@ -269,7 +269,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 6 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Public%20Agencies/nparks.jpg">
+									<img src="/images/Our%20Partners/Public%20Agencies/nparks.PNG">
 								</div>
 								<!-- Accordion Item 7 -->
 								<div class="col is-one-quarter">
@@ -481,7 +481,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 									<!-- Accordion Item 46 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/the%20fullerton%20hotel%20singapore.png">
+									<img src="/images/Our%20Partners/Corporate/the%20fullerton%20hotel%20singapore.PNG">
 								</div>
 									<!-- Accordion Item 47 -->
 								<div class="col is-one-quarter">
@@ -598,7 +598,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						</div>
 						<!-- Accordion Item 9 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/Educational%20Institutes/chij%20st%20joseph_s%20convent.png">
+							<img src="/images/Our%20Partners/Educational%20Institutes/chij%20st%20joseph_s%20convent.PNG">
 						</div>
 						<!-- Accordion Item 10 -->
 						<div class="col is-one-quarter">
