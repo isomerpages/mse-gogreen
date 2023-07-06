@@ -8,7 +8,7 @@ image: ""
 ---
 ![](/images/Blog/giveaway-page-banner.png)
 <br>
-## **\[GIVEAWAY\] Stand a chance to win $50 supermarket vouchers by attending any Go Green SG event!**
+## **\[GIVEAWAY\] Stand a chance to win  supermarket vouchers by attending any Go Green SG event!**
 
   
 To celebrate Go Green SG, we’re giving away $50 worth of supermarket vouchers to 10 lucky winners who attend Go Green SG events this July. 
@@ -32,4 +32,3 @@ Good luck and most importantly, have fun going green, your way, this month!
 ## Terms &amp; Conditions:
 
 [Read the fine print here.](/files/giveaway-terms-and-conditions.pdf)
-
