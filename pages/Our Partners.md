@@ -309,7 +309,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 2 -->
 								<div class="col is-one-quarter">
-									<img src="/images/Our%20Partners/Corporate/asia%20pacific%20breweries.png">
+									<img src="/images/Our%20Partners/Corporate/asia-pacific-breweries-logo.png">
 								</div>
 								<!-- Accordion Item 3 -->
 								<div class="col is-one-quarter">
@@ -549,35 +549,39 @@ Go Green SG would not be possible without the support from all our partners. Whe
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/eb-impact.png">
 						</div>
-															<!-- Accordion Item 6 -->
+							<!-- Accordion Item 6 -->
 						<div class="col is-one-quarter">
-							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/living%20soil%20asia.png">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/lepakinsg%20logo.png">
 						</div>
 															<!-- Accordion Item 7 -->
 						<div class="col is-one-quarter">
+							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/living%20soil%20asia.png">
+						</div>
+															<!-- Accordion Item 8 -->
+						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/metta%20welfare%20association.png">
 						</div>
-						<!-- Accordion Item 8 -->
+						<!-- Accordion Item 9 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/muuse-logo.png">
 						</div>
-															<!-- Accordion Item 9 -->
+															<!-- Accordion Item 10 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore%20fashion%20council.png">
 						</div>
-															<!-- Accordion Item 10 -->
+															<!-- Accordion Item 11 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/singapore-furniture-industries-council.png">
 						</div>
-						<!-- Accordion Item 11 -->
+						<!-- Accordion Item 12 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/stridy.png">
 						</div>
-															<!-- Accordion Item 12 -->
+															<!-- Accordion Item 13 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/tanjong%20pagar%20town%20council.png">
 						</div>
-															<!-- Accordion Item 13 -->
+															<!-- Accordion Item 14 -->
 						<div class="col is-one-quarter">
 							<img src="/images/Our%20Partners/NGOs%2C%20Interest%20Groups%20%26%20Others/unleash.png">
 						</div>
