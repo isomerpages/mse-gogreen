@@ -15,7 +15,7 @@ To celebrate Go Green SG, we’re giving away $50 worth of supermarket vouchers 
 
 
 All you have to do to enter is to:
-1.  Like and share our giveaway post on Facebook or Instagram
+1.  Like and share our giveaway post on [Facebook](https://www.facebook.com/watch/?v=3631815447096940) or [Instagram](https://www.instagram.com/reel/CuY3fSOuvab/).
     
 2.  Snap a picture of yourself at any Go Green SG event
     
