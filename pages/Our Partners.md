@@ -277,9 +277,13 @@ Go Green SG would not be possible without the support from all our partners. Whe
 								</div>
 								<!-- Accordion Item 8 -->
 								<div class="col is-one-quarter">
+									<img src="/images/Our%20Partners/Public%20Agencies/sentosa%20dev%20corp.jpg">
+								</div>
+								<!-- Accordion Item 9 -->
+								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Public%20Agencies/singapore%20food%20agency%20(sfa).jpg">
 								</div>
-										<!-- Accordion Item 9 -->
+										<!-- Accordion Item 10 -->
 								<div class="col is-one-quarter">
 									<img src="/images/Our%20Partners/Public%20Agencies/singaporetourismboard.jpg">
 								</div>
