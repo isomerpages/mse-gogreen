@@ -380,6 +380,40 @@ Reimagine and build your own sustainable transportation in this workshop!
       </a>
     </div>
   </div>
+	  <!--Building a Sustainable Living: Being Part of a Green Citizenry -->
+  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20&amp;%20Talks/(listing)workshopphoto.png">
+        <h2>Building a Sustainable Living: Being Part of a Green Citizenry
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 29 July</strong></li>
+          <li>
+            <strong>Admission: Free (open to Tampines Residents only) </strong>
+          </li>
+          <li>
+            <strong>
+              Venue: Tampines Town Council Office
+            </strong>
+          </li>
+          <li><strong>Organiser: Amazon Web Services, A*STAR  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Join Amazon for a one-time only recycling workshop that teaches the science behind recycling. Create a simple and easy solution for sustainability that you can put in place in your own life and community. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/build-sustainable-living/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<!-- Junior Ocean Detective -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
