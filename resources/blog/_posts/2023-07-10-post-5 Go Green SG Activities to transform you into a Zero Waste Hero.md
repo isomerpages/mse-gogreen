@@ -54,30 +54,32 @@ Click [here](https://www.gogreen.gov.sg/vintagewknd-pop-up-waste-gate/) for more
 ## 4. **Black Soldier Fly Eco Farm Tour**<br>
 ![](/images/Blog/blog3-4.png)
 <a target="_blank" href="https://www.instagram.com/p/CoqxxKKtpXT/?utm\_source=ig\_web\_copy\_link&amp;igshid=MzRlODBiNWFlZA==">Image Source</a><br><br>
+**Date**: 1, 8, 15, 22, 29 July, 10:00 am – 11:30 am<br>
+**Admission**: $28 - $38<br>
+**Venue**: Sustainability @ Tampines Park<br>
+**Organiser**: Otolith Enrichment
+<br><br>
+This tour is not for the squeamish! Find out how the docile Black Soldier Fly (BSF) can help solve Singapore’s food waste issues in this eco farm tour!
+<br><br>
+An eye-opening and hands-on learning experience for young and old alike, learn about the different stages of the BSF's life cycle, see how BSF frass can be used to fertilise plants, and even use BSF larvae to feed cute quails.
+<br><br>
+This eco farm tour is an immersive and fun way to learn about nature’s role in sustainable living. Slots are limited, so book your tour today!
+<br><br>
+Click [here](https://www.gogreen.gov.sg/black-soldier-fly/) for more information.
 
-**Date**: Early July<br>
-**Admission**: Free (registration required)<br>
-**Venue**: Pulau Semakau<br>
-**Organiser**: National Environment Agency
-<br><br>
-Did you know, Singapore is home to over 250 species of hard corals, 200 species of sponges and over 100 species of reef fish? Immerse yourself in the diverse marine ecology of Singapore during this 2-hour intertidal walk. Join a knowledgeable guide as you explore the sandy beaches of Pulau Semakau and discover the marine creatures that call this small island home.
-<br><br>
-Get ready for an unforgettable adventure as your family gets your feet wet, and marvel at the amazing diversity of marine life that can be found in Singapore. Spot starfish, sea cucumbers, sand dollars, sea anemones, hermit crabs, and many more amazing animals. This is a great opportunity to learn about the marine ecology of Singapore and learn about how our activities affect the marine ecosystem.
-<br><br>
-Find out more [here](https://www.gogreen.gov.sg/intertidal-walk-lkc/).
+## 5. **Zero to Hero Food Sustainability Tour**<br>
+![](/images/Blog/blog3-5.png)
+<a target="_blank" href="https://cdn-gmodf.nitrocdn.com/CcKRIygEPZHzKDcRzFChaBXGByOtIPjb/assets/images/optimized/rev-a47d704/wp-content/uploads/2023/05/eb3ec54caa82e5a9c1259ff20cc36189.Image\_20230308222200.jpg">Image Source</a><br><br>
 
-## 5. **Make the Switch: The Quest for Greener Land Transport**<br>
-![](/images/Blog/blog1-5.png)
-<a target="_blank" href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_organisation/sg_mobility_gallery/_jcr_content/par/tab_yellow_new_2034457095/tab-content-tab_yellow_new_2034457095/textimage/image.img.png/1680603097753.png">Image Source</a><br><br>
-
-**Date**: 1 - 28 July, Mondays to Fridays, 9:30 am – 5:00 pm<br>
-**Admission**: Free (registration required)<br>
-**Venue**: Singapore Mobility Gallery, Block 1 Level 1, 1 Hampshire Road<br>
-**Organiser**: Land Transport Authority (LTA)
+**Date**: 8, 22 July, 10:00 am – 1:00 pm<br>
+**Admission**: Adult: $100 | Senior: $80 | Child: $60<br>
+**Venue**: Clementi MRT Exit A<br>
+**Organiser**: Tribe Pte Ltd
 <br><br>
-Looking for an afternoon of educational fun? Get ready for an adventure where you will learn about the interesting world of green transportation. The “Make the Switch: The Quest for Greener Land Transport” exhibition at the Singapore Mobility Gallery (SMG) shows how small changes in our transport habits can make a big difference in the fight against climate change. 
-Featuring a series of entertaining, interactive quests that teach visitors about how Singapore's land transport system is going green, visitors can also learn about how they can reduce their own carbon footprint by making sustainable transportation choices.
+Continuing the food conversation, join in on a tour of the Clementi heartlands to explore the sustainability efforts at our wet markets and learn how to turn unwanted food into useful compost for new crops!
 <br><br>
-In addition to the exhibition, the SMG also offers a behind-the-scenes look at how LTA plans, designs, and builds our land transport system. Visitors can learn about the challenges and opportunities of creating a sustainable land transport system, and how LTA is using technology to make our transportation system more efficient, liveable, and inclusive.
+The tour starts by foraging for discarded or unsold vegetables and ‘ugly food’ at the wet market. Then, participants will head to a research institute to learn about compost and how it is made.
 <br><br>
-The exhibition is a great opportunity for both the young and old to learn about climate change and how we can make a difference. The exhibition is open to the public and is free to visit. Click [here](https://www.gogreen.gov.sg/make-the-switch-the-quest-for-greener-land-transport/) for more details.
+Work alongside volunteers to transform collected vegetables into compost, and take home a compost kit so you can continue composting at home.
+<br><br>
+This tour is suitable for all ages. Click [here](https://www.gogreen.gov.sg/zero-to-hero-food-sustainability-tour/) for more information.
