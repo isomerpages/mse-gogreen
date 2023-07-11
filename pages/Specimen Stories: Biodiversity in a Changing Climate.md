@@ -3,13 +3,13 @@ title: "Specimen Stories: Biodiversity in a Changing Climate"
 permalink: /specimen-stories-biodiversity-in-a-changing-climate/
 description: ""
 ---
-![](/images/Events/fullerton.png)
+![](/images/Events/fullerton_final.png)
 
-**Explore the wonders of biodiversity through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.**
+**Explore the wonders of biodiversity at The Fullerton Hotel Singapore through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.**
 
 **Date:** 1 July - 31 August<br>
 **Admission:** Free <br>
-**Venue:** The Fullerton Hotel’s East Garden Gallery<br>
+**Venue:** The Fullerton Hotel Singapore’s East Garden Gallery<br>
 **Organiser:** The Fullerton Hotel Singapore
 
 The Fullerton Hotel Singapore, in collaboration with Lee Kong Chian Natural History Museum, National University of Singapore, presents “Specimen Stories: Biodiversity in a Changing Climate”, a showcase of the richness of Southeast Asian biodiversity as documented through local and regional research expeditions. 

@@ -291,7 +291,7 @@ Reimagine and build your own sustainable transportation in this workshop!
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/gbtb_lessonsuw.jpg">
-        <h2>Lessons from Urban Wetlands: Mangroves in Freshwater and Carbon Sequestration</h2>
+        <h2>Lessons from Urban Wetlands: Mangroves and Carbon Sequestration in the City</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -455,7 +455,7 @@ Reimagine and build your own sustainable transportation in this workshop!
 	 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/sfc_pouch.PNG">
+        <img src="/images/Workshop%20&amp;%20Talks/sfc_pouchfinal.jpg">
         <h2>Create the Change 2023: Make Your Own Wristlet Pouch
 </h2>
       </div>
