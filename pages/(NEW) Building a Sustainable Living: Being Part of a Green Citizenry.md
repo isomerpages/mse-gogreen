@@ -4,7 +4,7 @@ permalink: /build-sustainable-living/
 description: ""
 ---
 ![](/images/Workshop%20&amp;%20Talks/workshop%20photo.png)
-**Join Amazon for a one-time only recycling workshop that teaches the science behind recycling. Create a simple and easy solution for sustainability that you can put in place in your own life and community.**
+**Join Amazon Web Services for a one-time only recycling workshop that teaches the science behind recycling. Create a simple and easy solution for sustainability that you can put in place in your own life and community.**
 
 **Date:** 29 July, 10:30 am - 12:30 pm<br>
 **Admission:** Free (registration required)<br>
@@ -15,7 +15,7 @@ Amazon Web Services (AWS), A*STAR's Institute of Materials Research and Engineer
  
 Explore the potential of creating a simple and easy solution for sustainability that you can put in place in your own life and community. Let's all be part of the Green Citizenry! 
  
-<em>* Workshop only open to Tampines residents. </em>
+<em>* Workshop  only open to Tampines residents. </em>
 
 
 <a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfvBoFiFqJxEHjkok1hqR8VWAy9JeASkjiZXCnI0m9vNrjMRg/viewform?pli=1">
