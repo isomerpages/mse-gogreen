@@ -399,7 +399,7 @@ Reimagine and build your own sustainable transportation in this workshop!
               Venue: Tampines Town Council Office
             </strong>
           </li>
-          <li><strong>Organiser: Amazon Web Services, A*STAR  </strong></li>
+          <li><strong>Organiser: Amazon Web Services, A*STAR, Tampines Town Council  </strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
