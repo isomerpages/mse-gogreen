@@ -9,7 +9,7 @@ description: ""
 **Date:** 29 July, 10:30 am - 12:30 pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Tampines Town Council Office<br>
-**Organiser:** Amazon Web Services, A*STAR  
+**Organiser:** Amazon Web Services, A*STAR, Tampines Town Council
 
 Amazon Web Services (AWS), A*STAR's Institute of Materials Research and Engineering (IMRE) and Tampines Town Council have jointly organised this workshop in efforts to work with stakeholders to reduce waste, increase recycling, and improve sustainability in the community.
  
