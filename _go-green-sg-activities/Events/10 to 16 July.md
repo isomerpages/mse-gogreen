@@ -185,7 +185,7 @@ third_nav_title: Events
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Events/fullerton.png">
+        <img src="/images/Events/fullerton_final.png">
         <h2>Specimen Stories: Biodiversity in a Changing Climate
 </h2>
       </div>
@@ -196,13 +196,13 @@ third_nav_title: Events
               Date: 1 July - 31 August</strong>
           </li>
           <li><strong>Admission: Free</strong></li>
-          <li><strong>Venue: The Fullerton Hotel’s East Garden Gallery</strong></li>
+          <li><strong>Venue: The Fullerton Hotel Singapore’s East Garden Gallery</strong></li>
           <li><strong>Organiser: The Fullerton Hotel Singapore</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
         <p>
-       Explore the wonders of biodiversity at The Fullerton Hotel through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.
+      Explore the wonders of biodiversity at The Fullerton Hotel Singapore through a specially curated collection of images and specimens, including a life-sized replica of a sperm whale’s skull.
         </p>
       </div>
     </div>
