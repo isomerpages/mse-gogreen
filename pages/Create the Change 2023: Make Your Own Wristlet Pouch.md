@@ -3,7 +3,7 @@ title: "Create the Change 2023: Make Your Own Wristlet Pouch"
 permalink: /make-your-own-wristlet-pouch/
 description: ""
 ---
-![](/images/Workshop%20&amp;%20Talks/sfc_pouch.PNG)
+![](/images/Workshop%20&amp;%20Talks/sfc_pouchfinal.jpg)
 
 
 **Get creative with colours and textures in this workshop as you create a patched pouch unique to you!**
