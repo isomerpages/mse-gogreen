@@ -21,8 +21,7 @@ importance of mangrove habitats in this guided walk.
 
 
 
-<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/29-jul-whats-in-
-my-mangrove">
+<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/activities/events-and-workshops/2023/7/29-jul-whats-in-my-mangrove">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
