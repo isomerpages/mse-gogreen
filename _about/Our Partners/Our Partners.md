@@ -246,7 +246,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
             </a>
         </h3>
 						<!-- Accordion 1 - Body -->
-            <div style="display: block" class="bp-accordion-body">
+            <div class="bp-accordion-body">
 							<div class="row">
 								<!-- Accordion Item 1 -->
 								<div class="col is-one-quarter">
@@ -302,7 +302,7 @@ Go Green SG would not be possible without the support from all our partners. Whe
             </a>
         </h3>
 						<!-- Accordion 2 - Body -->
-            <div style="display: block" class="bp-accordion-body">
+            <div class="bp-accordion-body">
 							<div class="row">
 								<!-- Accordion Item 1 -->
 								<div class="col is-one-quarter">
