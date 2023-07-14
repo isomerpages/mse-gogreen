@@ -22,7 +22,7 @@ Prolonging the life span of appliances reduces e-waste. Check out Gain City's "B
 Climate voucher recipients will be able to use their vouchers in our stores. Switch to water and energy-efficient products to lower bills and carbon footprint.  Embrace a greener lifestyle and be rewarded for your commitment to sustainability!
 
 
-<a class="btn-link" target="_blank" href="">
+<a class="btn-link" target="_blank" href="https://www.gaincity.com/We-Are-Family?utm_campaign=WeAreFamilyEW&amp;utm_medium=organic&amp;utm_source=website&amp;utm_content=gogreen">
 	<img src="/images/more-info-btn.png">
 </a>
 
