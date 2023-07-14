@@ -566,4 +566,35 @@ third_nav_title: Retail, Dining, and Deals
       </a>
     </div>
   </div>
+	  <!-- Because We Are Family: Upgrade & Save for a Sustainable Future with Gain City-->
+		  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Challenges%20&amp;%20Deals/gaincity648x486.jpg">
+        <h2>Because We Are Family: Upgrade &amp; Save for a Sustainable Future with Gain City
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 17 - 30 July</strong>
+          </li>
+          <li><strong>Admission: Free</strong></li>
+          <li><strong>Venue: Various Gain City Showrooms</strong></li>
+          <li><strong>Organiser: Gain City</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+      Save &amp; Embrace Green Living for a Sustainable Future!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/because-we-are-family/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
    </div>
