@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Challenges%20&amp;%20Deals/gaincity1920x1080.jpg)
 
-**Save &amp; Embrace Green Living for a Sustainable Future!**
+**Check out Gain City's "Because We Are Family" promotion and enjoy free extended warranty on air conditioners and other appliances. Save and embrace Green Living for a Sustainable Future!**
 
 **Date:** 17 - 30 July<br>
 **Admission:** Free<br>
@@ -17,7 +17,7 @@ Gain City Marina Square Showroom<br>
 Gain Ctiy Tampines 1 Showroom<br>
 **Organiser:** Gain City
 
-Prolonging the life span of appliances reduces e-waste. Check out Gain City's "Because We Are Family" promotion and enjoy an extended warranty on air conditioners and other appliances. 
+Prolonging the life span of appliances reduces e-waste. Check out Gain City's "Because We Are Family" promotion and enjoy free extended warranty on air conditioners and other appliances. 
 
 Climate voucher recipients will be able to use their vouchers in our stores. Switch to water and energy-efficient products to lower bills and carbon footprint.  Embrace a greener lifestyle and be rewarded for your commitment to sustainability!
 
