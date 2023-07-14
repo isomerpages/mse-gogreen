@@ -19,7 +19,7 @@ Gain Ctiy Tampines 1 Showroom<br>
 
 Prolonging the life span of appliances reduces e-waste. Check out Gain City's "Because We Are Family" promotion and enjoy an extended warranty on air conditioners and other appliances. 
 
-Climate voucher recipients will be able to use their vouchers in our store. Switch to water and energy-efficient products to lower bills and carbon footprint.  Embrace a greener lifestyle and be rewarded for your commitment to sustainability!
+Climate voucher recipients will be able to use their vouchers in our stores. Switch to water and energy-efficient products to lower bills and carbon footprint.  Embrace a greener lifestyle and be rewarded for your commitment to sustainability!
 
 
 <a class="btn-link" target="_blank" href="">
