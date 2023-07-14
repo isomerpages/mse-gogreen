@@ -587,7 +587,7 @@ third_nav_title: Retail, Dining, and Deals
       </div>
       <div class="programmes__item__body">
         <p>
-      Save &amp; Embrace Green Living for a Sustainable Future!
+      Check out Gain City's "Because We Are Family" promotion and enjoy free extended warranty on air conditioners and other appliances. Save and embrace Green Living for a Sustainable Future!
         </p>
       </div>
     </div>
