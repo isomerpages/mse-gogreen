@@ -17,7 +17,7 @@ Gain City Marina Square Showroom<br>
 Gain Ctiy Tampines 1 Showroom<br>
 **Organiser:** Gain City
 
-Join our "Because We Are Family" promotion and embrace Green Living with Gain City. Enjoy an extended warranty on air conditioners and other appliances, IT, and small products. Promoting longevity reduces e-waste. Discover water and energy-efficient products to lower bills and footprint. Climate voucher recipients are encouraged to make eco-conscious choices. Embrace a greener lifestyle and be rewarded for your commitment to sustainability.
+Join Gain City's "Because We Are Family" promotion and embrace Green Living with Gain City. Enjoy an extended warranty on air conditioners and other appliances, IT, and small products. Promoting longevity reduces e-waste. Discover water and energy-efficient products to lower bills and footprint. Climate voucher recipients are encouraged to make eco-conscious choices. Embrace a greener lifestyle and be rewarded for your commitment to sustainability.
 
 
 <a class="btn-link" target="_blank" href="">
