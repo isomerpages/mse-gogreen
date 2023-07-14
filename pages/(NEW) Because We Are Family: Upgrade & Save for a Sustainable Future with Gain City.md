@@ -23,7 +23,7 @@ Climate voucher recipients will be able to use their vouchers in our stores. Swi
 
 
 <a class="btn-link" target="_blank" href="">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 
