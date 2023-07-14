@@ -5,7 +5,7 @@ description: ""
 ---
 ![aquaponics farm to table](/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg)
 
-**Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce for a 3-course lunch at The Stamford Brasserie.**
+**Through this curated Aquaponics Farm-To-Table experience, you will learn about aquaponics farming and pick your preferred produce followed by a 3-course lunch at The Stamford Brasserie.**
 
 **Date:** 3 - 16 July, 11:00 am - 1:30 pm<br>
 **Admission:** $55++<br>
