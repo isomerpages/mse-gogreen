@@ -567,7 +567,7 @@ third_nav_title: Retail, Dining, and Deals
     </div>
   </div>
 	  <!-- Because We Are Family: Upgrade & Save for a Sustainable Future with Gain City-->
-		<!--  <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Challenges%20&amp;%20Deals/gaincity648x486.jpg">
@@ -592,9 +592,9 @@ third_nav_title: Retail, Dining, and Deals
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a class="button-primary" href="/because-we-are-family/">
+      <a href="/because-we-are-family/" class="button-primary">
         Find out more
       </a>
     </div>
-  </div> -->
+  </div> 
    </div>
