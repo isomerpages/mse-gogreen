@@ -344,7 +344,7 @@ third_nav_title: Events
       <div class="programmes__item__detail">
         <ul>
           <li>
-            <strong>Date: 3 - 14 July</strong>
+            <strong>Date: 3 July - 10 August</strong>
           </li>
           <li><strong>Admission: Free </strong></li>
           <li>
