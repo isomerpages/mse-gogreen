@@ -28,7 +28,7 @@ Join the tour right [here](https://www.gogreen.gov.sg/tiger-brewery-tour-sustain
 
 ## 2. **Sustainable Movie Night**<br>
 ![](/images/Blog/blog4-2.png)
-<a target="_blank" href="https://www.gogreen.gov.sg/images/Events/cs\_moviefinal.png">Image Source</a><br><br>
+<a target="_blank" href="https://www.gogreen.gov.sg/images/Events/cs_moviefinal.png">Image Source</a><br><br>
 **Date:** 21 July, 7:00 - 10:00 pm<br>
 **Admission:** $30<br>
 **Venue:** Sky Sprouts, 896 Dunearn Rd<br>
