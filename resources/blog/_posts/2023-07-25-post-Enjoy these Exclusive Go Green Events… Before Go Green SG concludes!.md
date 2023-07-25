@@ -24,7 +24,7 @@ Experience a unique adventure that involves all your senses -from the Changi Bou
 
 ## 2. **Nature and Sustainability Tour: Carbon and Climate**<br>
 ![](/images/Blog/blog5-2.png)
-<a target="_blank" href="https://www.sentosa.com.sg/-/media/sentosa/hero-asset/campaigns/thomas-dambo/draft/thomasdambo_explorersofsentosa_gallery3.jpg">Image Source</a><br><br>
+<a target="_blank" href="https://www.gogreen.gov.sg/images/Tours/gbtb_carbonclimatetour.png">Image Source</a><br><br>
 **Date**: 22, 23, 29, 30 July, 10:30 – 11:30 am<br>
 **Admission**: Free (registration required)<br>
 **Venue**: Gardens by the Bay<br>
@@ -40,7 +40,7 @@ This tour is made possible through the support of Keppel Corporation. Fastest fi
 
 ## 3. **What's in My Mangrove?**<br>
 ![](/images/Blog/blog5-3.jpeg)
-<a target="_blank" href="https://scontent-xsp1-2.xx.fbcdn.net/v/t39.30808-6/317515221_231217152563354_6075134079766040787_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=730e14&amp;_nc_ohc=zg2wwiuynzEAX-quknX&amp;_nc_ht=scontent-xsp1-2.xx&amp;oh=00_AfCXmUvF1ki_w_GaCyiUxa5XkARK3rM1IfjwJtoCU2wheg&amp;oe=649A93C3">Image Source</a><br><br>
+<a target="_blank" href="https://www.gogreen.gov.sg/images/Tours/(new)%20whats%20in%20my%20mangrove.jpg">Image Source</a><br><br>
 **Date**: 29 July, 9:30 - 11:00 am<br>
 **Admission**: Free (registration required)<br>
 **Venue**: Sungei Buloh Wetland Reserve Visitor Centre<br>
@@ -56,7 +56,7 @@ Sign up for a guided walk of these unique mangrove wetlands, one of the last few
 
 ## 4. **Forest Stream Walk and Survey**<br>
 ![](/images/Blog/blog5-4.jpeg)
-<a target="_blank" href="https://www.gogreen.gov.sg/images/Tours/intertidal lkc.jpg">Image Source</a><br><br>
+<a target="_blank" href="https://www.gogreen.gov.sg/images/Tours/forest%20stream%20walk%20(new).jpg">Image Source</a><br><br>
 **Date**: 21, 28 July, 7:15 – 8:30 pm<br>
 **Admission**: Adult: $49 | Child: $37<br>
 **Venue**: Ground-Up Initiative, 91 Lorong Chencharu<br>
@@ -70,7 +70,7 @@ Register [here](https://www.gogreen.gov.sg/forest-stream-walk-and-survey/) and g
 
 ## 5. **Promo Code For Your Second-hand Purchases**<br>
 ![](/images/Blog/blog5-5.jpeg)
-<a target="_blank" href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_organisation/sg_mobility_gallery/_jcr_content/par/tab_yellow_new_2034457095/tab-content-tab_yellow_new_2034457095/textimage/image.img.png/1680603097753.png">Image Source</a><br><br>
+<a target="_blank" href="https://www.gogreen.gov.sg/images/Challenges%20&amp;%20Deals/carousell.jpg">Image Source</a><br><br>
 
 **Date**: Until 31 July<br>
 **Organiser**: Carousell
@@ -85,7 +85,7 @@ Join Carousell in making second-hand the first choice, [right here](https://www.
 
 ## 6. **Ocean Fest 2023**<br>
 ![](/images/Blog/blog5-6.png)
-<a target="_blank" href="https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_organisation/sg_mobility_gallery/_jcr_content/par/tab_yellow_new_2034457095/tab-content-tab_yellow_new_2034457095/textimage/image.img.png/1680603097753.png">Image Source</a><br><br>
+<a target="_blank" href="https://www.rwsentosa.com/-/jssmedia/project/non-gaming/rwsentosa/promotions/2023/attractions/seaa/ocean-fest/ocean-fest\_bold-beauty\_thumbnails-750x422.jpg">Image Source</a><br><br>
 
 **Date**: Until 13 Aug<br>
 **Admission**: From $30<br>
