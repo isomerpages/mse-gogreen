@@ -71,7 +71,6 @@ Register [here](https://www.gogreen.gov.sg/forest-stream-walk-and-survey/) and g
 ## 5. **Promo Code For Your Second-hand Purchases**<br>
 ![](/images/Blog/blog5-5.jpeg)
 <a target="_blank" href="https://www.gogreen.gov.sg/images/Challenges%20&amp;%20Deals/carousell.jpg">Image Source</a><br><br>
-
 **Date**: Until 31 July<br>
 **Organiser**: Carousell
 <br><br>
@@ -86,7 +85,6 @@ Join Carousell in making second-hand the first choice, [right here](https://www.
 ## 6. **Ocean Fest 2023**<br>
 ![](/images/Blog/blog5-6.png)
 <a target="_blank" href="https://www.rwsentosa.com/-/jssmedia/project/non-gaming/rwsentosa/promotions/2023/attractions/seaa/ocean-fest/ocean-fest\_bold-beauty\_thumbnails-750x422.jpg">Image Source</a><br><br>
-
 **Date**: Until 13 Aug<br>
 **Admission**: From $30<br>
 **Venue**: S.E.A. Aquarium<br>
