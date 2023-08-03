@@ -10,9 +10,9 @@ sections:
       background: /images/artboard-4.png
       title: Go Green, Your Way
   - infobar:
-      title: Go Green this July!
-      description: Ready for a month of fun-filled green activities and experiences?
-        Check out our listing of events below!
+      title: Go Green beyond July!
+      description: "Go Green SG 2023 is over, and we can't thank you enough for your
+        support! Stay tuned for more fun-filled green activities next year! "
   - infopic:
       title: Go Green <br>Tours
       description: Explore new and familiar places in Singapore with a green lens.
