@@ -10,7 +10,7 @@ sections:
       background: /images/artboard-4.png
       title: Go Green, Your Way
   - infobar:
-      title: Go Green SG is over for 2023!
+      title: See you in 2024!
       description: Go Green SG 2023 is over, and we can't thank you enough for your
         support! Stay tuned for more fun-filled green activities next year!
   - infopic:
