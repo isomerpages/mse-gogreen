@@ -16,11 +16,11 @@ sections:
   - infopic:
       title: Thank you to our Partners!
       button: Learn More
-      url: about/our-partners/
+      url: /about/our-partners/
       alt: Image alt text
       image: /images/go-green-retail-dining-4.png
       description: "We couldn't have held Go Green SG without the help of our over 160
-        partners! Check out who they are here: "
+        partners! Check out who they are here:"
   - resources:
       subtitle: Resources
       button: More resources
