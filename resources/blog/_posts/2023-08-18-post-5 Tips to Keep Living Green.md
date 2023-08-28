@@ -47,4 +47,4 @@ Lastly, remember to take public transport whenever possible! Transport accounts 
 
 Let’s all do our part to protect the environment.
 
-Already do all of the 5 tips mentioned above? Keep it up, and check out these other tips for going green!   https://www.mse.gov.sg/take-action/individuals
+Already do all of the 5 tips mentioned above? Keep it up, and check out [these other tips](https://www.mse.gov.sg/take-action/individuals) for going green!   
