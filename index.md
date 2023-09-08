@@ -21,6 +21,13 @@ sections:
       image: /images/go-green-retail-dining-4.png
       description: "We couldn't have held Go Green SG without the help of our over 160
         partners! Check out who they are here:"
+  - infopic:
+      title: Video Highlights
+      description: Check out video highlights from GGSG 2023 here!
+      button: Watch more
+      url: /resources/media/
+      image: /images/go-green-events-2.png
+      alt: Image alt text
   - resources:
       subtitle: Resources
       button: More resources
