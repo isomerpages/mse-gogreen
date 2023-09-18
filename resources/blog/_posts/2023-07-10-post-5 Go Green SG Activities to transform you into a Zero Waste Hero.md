@@ -22,7 +22,7 @@ Together, we can actively change the future of this planet. Click [here](https:/
 
 ## 2. **Bring Your Own Containers for Takeaways and Be Rewarded!**<br>
 ![](/images/Blog/blog3-2.png)
-<a target="_blank" href="https://onecms-res.cloudinary.com/image/upload/s--kEvzk2UW--/f\_auto,q\_auto/c\_fill,g\_auto,h\_676,w\_1200/deliveroo-partners-barepack-to-offer-reusable-options-for-food-delivery--1-.jpg">Image Source</a><br><br>
+Image Source - Deliveroo <br><br>
 
 **Date**: 1 - 31 July
 <br><br>
