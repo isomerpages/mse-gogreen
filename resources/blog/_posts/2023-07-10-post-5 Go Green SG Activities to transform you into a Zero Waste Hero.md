@@ -22,7 +22,7 @@ Together, we can actively change the future of this planet. Click [here](https:/
 
 ## 2. **Bring Your Own Containers for Takeaways and Be Rewarded!**<br>
 ![](/images/Blog/blog3-2.png)
-<a target="_blank" href="https://onecms-res.cloudinary.com/image/upload/s--kEvzk2UW--/f\_auto,q\_auto/c\_fill,g\_auto,h\_676,w\_1200/deliveroo-partners-barepack-to-offer-reusable-options-for-food-delivery--1-.jpg">Image Source</a><br><br>
+Image Source - Deliveroo <br><br>
 
 **Date**: 1 - 31 July
 <br><br>
@@ -68,8 +68,8 @@ This eco farm tour is an immersive and fun way to learn about nature’s role in
 Click [here](https://www.gogreen.gov.sg/black-soldier-fly/) for more information.
 
 ## 5. **Zero to Hero Food Sustainability Tour**<br>
-![](/images/Blog/blog3-5.png)
-<a target="_blank" href="https://cdn-gmodf.nitrocdn.com/CcKRIygEPZHzKDcRzFChaBXGByOtIPjb/assets/images/optimized/rev-a47d704/wp-content/uploads/2023/05/eb3ec54caa82e5a9c1259ff20cc36189.Image\_20230308222200.jpg">Image Source</a><br><br>
+![](/images/Tours/tribe-png.jpg)
+<a target="_blank" href="https://tribe-tours.com/product/zero-to-hero-food-sustainability-tour/">Image Source</a><br><br>
 
 **Date**: 8, 22 July, 10:00 am – 1:00 pm<br>
 **Admission**: Adult: $100 | Senior: $80 | Child: $60<br>
