@@ -2,4 +2,5 @@ collections:
   partner-activities:
     output: true
     order:
+      - Learning Journeys.md
       - Tours.md
