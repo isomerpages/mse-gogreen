@@ -1,0 +1,4 @@
+collections:
+  partner-activities:
+    output: true
+    order: []
