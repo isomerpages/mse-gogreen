@@ -1,4 +1,5 @@
 collections:
   partner-activities:
     output: true
-    order: []
+    order:
+      - Tours.md
