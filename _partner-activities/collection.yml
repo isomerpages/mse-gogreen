@@ -2,5 +2,6 @@ collections:
   partner-activities:
     output: true
     order:
+      - Nature Trails.md
       - Learning Journeys.md
       - Tours.md
