@@ -137,7 +137,7 @@ Join D2L.sg as a volunteer to recover and distribute rescued items so that they 
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
+        <img src="/images/Our%20Partners/Public%20Agencies/landtransportauthority.jpg">
         <h2>Tiong Bahru/Redhill: The Paths that Shape Us</h2>
       </div>
       <div class="programmes__item__detail">
