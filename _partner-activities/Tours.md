@@ -94,13 +94,12 @@ description: ""
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/intertidal%20lkc.jpg">
+        <img src="/images/Tours/mbs_sid.jpg">
         <h2>Architecture Adventure Tour
 </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Venue: ArtScience Museum</strong></li>
           <li><strong>Organiser: ArtScience Museum</strong></li>
         </ul>
       </div>
@@ -111,7 +110,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/intertidal-walk-lkc/" class="button-primary">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -145,7 +144,7 @@ description: ""
 	 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/sdc_bus.jpg">
+        <img src="/images/Tours/question%20114%20-%201664984858397.jpg">
         <h2>ComCrop Farm tours
 </h2>
       </div>
@@ -161,7 +160,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/sentosa-island-bus-tour/" class="button-primary">
+      <a href="comcrop-farm-tour/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -170,7 +169,7 @@ description: ""
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/(listing)%20whats%20in%20my%20water.jpg">
+        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
         <h2>Fairmont Singapore Aquaponics Farm Experience
 </h2>
       </div>
@@ -186,7 +185,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/whats-in-my-water/" class="button-primary">
+      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -195,8 +194,8 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/sentosa_eastasianflyway_final.jpg">
-        <h2>Nature and Sustinability Tour: Biodiversity and Ecosystems</h2>
+        <img src="/images/Tours/gbtb_urbanwetlands.jpg">
+        <h2>Nature and Sustainability Tour: Biodiversity and Ecosystems</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -220,7 +219,7 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/sentosa_naturalistnightadventure.jpg">
+        <img src="/images/Tours/indie_kayak.jpg">
         <h2>History Wanderer (Waters of Change)</h2>
       </div>
       <div class="programmes__item__detail">
@@ -236,7 +235,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/sentosights-sentosa-naturalist-night-adventure/" class="button-primary">
+      <a href="/waters-of-change-kayak-tour/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -245,7 +244,7 @@ description: ""
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/gbtb_biodiversitynecosystems.png">
+        <img src="/images/Our%20Partners/Public%20Agencies/nationalenvironmentalagency.jpg">
         <h2>Clean &amp; Green Singapore Experiences</h2>
       </div>
       <div class="programmes__item__detail">
@@ -269,7 +268,7 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/gbtb_carbonclimatetour.png">
+        <img src="/images/Tours/otolith%20black%20soldier%20fly.jpg">
         <h2>Black Soldier Fly Eco Farm Tour</h2>
       </div>
       <div class="programmes__item__detail">
@@ -283,7 +282,7 @@ Visit Singapore’s first and biggest community-based circular ecosystem for sus
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tour-carbon-and-climate/" class="button-primary">
+      <a href="/black-soldier-fly/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -292,7 +291,7 @@ Visit Singapore’s first and biggest community-based circular ecosystem for sus
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/gbtb_seedsandsenses.PNG">
+        <img src="https://www.gogreen.gov.sg/images/Tours/tribe-png.jpg">
         <h2>Zero to Hero Food Sustainability Tour</h2>
       </div>
       <div class="programmes__item__detail">
@@ -307,7 +306,7 @@ Visit Singapore’s first and biggest community-based circular ecosystem for sus
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/seeds-and-senses/" class="button-primary">
+      <a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">
         Find out more
       </a>
     </div>
