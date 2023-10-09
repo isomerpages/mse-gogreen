@@ -91,7 +91,7 @@ description: ""
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/green glam up resized.png">
+        <img src="/images/Events/champs%20for%20our%20environment.png">
         <h2>Book reading sessions</h2>
       </div>
       <div class="programmes__item__detail">
@@ -106,7 +106,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/green-glam-up/" class="button-primary">
+      <a href="/what-happen-to-fish-in-lake/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -115,7 +115,7 @@ description: ""
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_swp_l.png">
+        <img src="/images/Initiatives/photo_2023-03-25_18-42-41.jpg">
         <h2>Food rescue with D2L</h2>
       </div>
       <div class="programmes__item__detail">
@@ -129,7 +129,7 @@ Join D2L.sg as a volunteer to recover and distribute rescued items so that they 
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/self-watering-planter/" class="button-primary">
+      <a href="/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -137,7 +137,7 @@ Join D2L.sg as a volunteer to recover and distribute rescued items so that they 
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/green glam up resized.png">
+        <img src="/images/Tours/make%20the%20switch%20the%20quest%20for%20greener%20land%20transport%20(large).jpg">
         <h2>Tiong Bahru/Redhill: The Paths that Shape Us</h2>
       </div>
       <div class="programmes__item__detail">
@@ -161,7 +161,7 @@ Join D2L.sg as a volunteer to recover and distribute rescued items so that they 
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_swp_l.png">
+        <img src="/images/Challenges%20&amp;%20Deals/planetsustain-mse-1920x1080-v1.jpg">
         <h2>Track Your Carbon Footprint with BlockRadiance Sustainability Programme</h2>
       </div>
       <div class="programmes__item__detail">
@@ -175,7 +175,7 @@ Through the utilisation of the PlanetSustain mobile app, everyone can monitor th
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/self-watering-planter/" class="button-primary">
+      <a href="/track-your-carbon-footprint-with-blockradiance-sustainability-programme/" class="button-primary">
         Find out more
       </a>
     </div>
