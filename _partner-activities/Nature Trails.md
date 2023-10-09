@@ -119,7 +119,7 @@ description: ""
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/tigerbrewery.jpg">
+        <img src="/images/Tours/intertidal%20adventure%20with%20biogirl%20mj%20(4by3).png">
         <h2>Guided tours by Just Keep Thinking</h2>
       </div>
       <div class="programmes__item__detail">
@@ -143,7 +143,7 @@ description: ""
 	 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/sdc_bus.jpg">
+        <img src="/images/Tours/sentosa_immersiverainforest.jpg">
         <h2>Unique wildlife-focused experiences by The Untamed Paths
 </h2>
       </div>
