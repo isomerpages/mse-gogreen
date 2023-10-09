@@ -94,7 +94,7 @@ description: ""
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/intertidal%20lkc.jpg">
+        <img src="/images/Our%20Partners/Public%20Agencies/nparks.PNG">
         <h2>HortPark Guided Tours
 </h2>
       </div>
