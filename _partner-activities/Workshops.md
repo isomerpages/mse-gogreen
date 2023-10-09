@@ -91,7 +91,7 @@ description: ""
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/green glam up resized.png">
+        <img src="/images/Workshop%20&amp;%20Talks/climatefresk.jpg">
         <h2>Climate Fresk workshops</h2>
       </div>
       <div class="programmes__item__detail">
@@ -106,7 +106,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/green-glam-up/" class="button-primary">
+      <a href="/climate-fresk/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -115,7 +115,7 @@ description: ""
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/cs_swp_l.png">
+        <img src="/images/Workshop%20&amp;%20Talks/ginlee.jpg">
         <h2>Make O - Tee to bag making</h2>
       </div>
       <div class="programmes__item__detail">
@@ -129,7 +129,7 @@ Learn to make bags out of unused T-shirts! Workshops available for younger child
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/self-watering-planter/" class="button-primary">
+      <a href="/make-o/" class="button-primary">
         Find out more
       </a>
     </div>
