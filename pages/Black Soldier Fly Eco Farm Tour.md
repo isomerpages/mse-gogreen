@@ -7,9 +7,6 @@ description: ""
 
 **Say hi to the mighty Black Solider Fly! Come and learn how an insect so small is making big contributions to waste reduction by turning trash into treasure!**
 
-**Date:** 1, 8, 15, 22, 29 July, 10:00 am – 11:30 am<br>
-**Admission:** $28 <br>
-**Venue:** Sustainability @ Tampines Park <br>
 **Organiser:** Otolith Enrichment
 
 Ever wondered how the Black Soldier Fly can help to reduce food waste? Join this interesting tour to learn about the various stages of the fly and its role in building a more sustainable future by turning trash into treasure. Participants will also get to try their hands in fertilising plants with Black Soldier Fly frass and feeding fish and quails with the larvae of the fly.
