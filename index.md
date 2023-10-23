@@ -14,6 +14,16 @@ sections:
       description: Go Green SG 2023 is over, and we can't thank you enough for your
         support! Stay tuned for more fun-filled green activities next year!
   - infopic:
+      title: Partner Activities
+      subtitle: Add an image and text
+      id: infopic
+      description: Still looking to Go Green? Check out these year-round activities
+        organised by our partners!
+      button: Learn More
+      url: /partner-activities/tours/
+      image: /images/go-green-tours-2.png
+      alt: Image alt text
+  - infopic:
       title: Thank you to our Partners!
       button: Learn More
       url: /about/our-partners/
