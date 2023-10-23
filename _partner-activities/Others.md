@@ -152,7 +152,7 @@ Join D2L.sg as a volunteer to recover and distribute rescued items so that they 
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/green-glam-up/" class="button-primary">
+      <a href="/the-paths-that-shape-us/" class="button-primary">
         Find out more
       </a>
     </div>
