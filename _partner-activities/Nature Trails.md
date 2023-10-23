@@ -110,7 +110,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/intertidal-walk-lkc/" class="button-primary">
+      <a href="/hortpark-guided-tours/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -134,7 +134,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/sustainability-garden-cruiser/" class="button-primary">
+      <a href="/guided-tours-just-keep-thinking/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -158,7 +158,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/sentosa-island-bus-tour/" class="button-primary">
+      <a href="/guided-tours-just-keep-thinking/" class="button-primary">
         Find out more
       </a>
     </div>
