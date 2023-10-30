@@ -15,7 +15,6 @@ sections:
         support! Stay tuned for more fun-filled green activities next year!
   - infopic:
       title: Partner Activities
-      subtitle: Add an image and text
       id: infopic
       description: Still looking to Go Green? Check out these year-round activities
         organised by our partners!
