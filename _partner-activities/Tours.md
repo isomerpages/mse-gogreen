@@ -145,7 +145,7 @@ description: ""
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/question%20114%20-%201664984858397.jpg">
-        <h2>ComCrop Farm tours
+        <h2>ComCrop Farm Tours
 </h2>
       </div>
       <div class="programmes__item__detail">
