@@ -116,7 +116,7 @@ description: ""
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/race%20on%20sunshine.jpg">
-        <h2>Solar power learning tour</h2>
+        <h2>Solar Power Learning Tour</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -162,7 +162,7 @@ Learn about solar power as a reliable renewable energy source for Singapore.</p>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/question%20112%20-%20changi%20seagrass%20patch%20treasure%20hunt%20(intertidal%20walk)_-%201______.jpg">
-        <h2>Science learning journeys</h2>
+        <h2>Science Learning Journeys</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
