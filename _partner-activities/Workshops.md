@@ -92,7 +92,7 @@ description: ""
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/climatefresk.jpg">
-        <h2>Climate Fresk workshops</h2>
+        <h2>Climate Fresk Workshops</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -111,12 +111,12 @@ description: ""
       </a>
     </div>
   </div>
-	  <!-- Make O - Tee to bag making -->
+	  <!-- Make O - Tee to Bag Making -->
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Workshop%20&amp;%20Talks/ginlee.jpg">
-        <h2>Make O - Tee to bag making</h2>
+        <h2>Make O - Tee-to-Bag Making</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
