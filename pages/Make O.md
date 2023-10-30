@@ -7,15 +7,6 @@ description: ""
 
 **Experience GINLEE's latest circular initiative - /\/\/\ake O, where you will be guided on how to customize your very own pleated bag or repurpose your unwanted t-shirts to create a Tee Bag that comes with specially printed 3D-handles.**
 
-**Date:** 1 - 31 July, 11:30 am - 1:00 pm | 2:30 - 4:00 pm | 4:00 - 5:30 pm
-<br>
-**Admission:**<br>
-***Tee-tO-bag workshop***<br>
-$88 for OneTee | $128 for twOtee <br>
-***cOts Experience***<br>
-$88 for pack sized bag | $108 for pack sized bag + pOcuts
-<br>
-**Venue:** National Design Centre, GINLEE Studio, #03-05<br>
 **Organiser:** GINLEE Studio
 
 With its thoughtful design and sustainable production process, GINLEE’s _/\/\/\ake O workshop breaks through the noise in an industry saturated by fast fashion, to create a space for customers to reimagine how good design can reduce waste and transform the unwanted into unique products.
@@ -28,7 +19,13 @@ The Tee-tO-Bag Experience caters to customers keen to repurpose unwanted t-shirt
   
 The initiative hopes to promote appreciation for the design process and to allow more to experience the joy of recreating useful products from the unwanted through hands-on experiences.
 
-<a class="btn-link" target="_blank" href="https://www.ginleestudio.com/collections/make-o-experiences">
+<a class="btn-link" target="_blank" href="https://www.ginleestudio.com/collections/make-o/products/the-tee-to-bag-experience">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+**For younger children:**
+
+<a class="btn-link" target="_blank" href="https://www.ginleestudio.com/collections/make-o/products/kids-tee-to-bag-experience-onetee-make-studio-national-design-centre-03-05">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 

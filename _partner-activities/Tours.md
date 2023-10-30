@@ -125,7 +125,7 @@ description: ""
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Venue: Tiger Brewery</strong></li>
-          <li><strong>Organiser: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Asia Pacific Brewery</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -135,7 +135,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/sustainability-garden-cruiser/" class="button-primary">
+      <a href="/tiger-brewery-tour-sustainability-edition/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -145,7 +145,7 @@ description: ""
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/question%20114%20-%201664984858397.jpg">
-        <h2>ComCrop Farm tours
+        <h2>ComCrop Farm Tours
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -160,7 +160,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="comcrop-farm-tour/" class="button-primary">
+      <a href="/comcrop-farm-tour/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -210,7 +210,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/sentosights-east-asian-flyway/" class="button-primary">
+      <a href="/nature-and-sustainability-tours/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -259,7 +259,7 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tour-biodiversity-and-ecosystems/" class="button-primary">
+      <a href="/clean-and-green-singapore-experiences/" class="button-primary">
         Find out more
       </a>
     </div>
