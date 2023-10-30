@@ -92,7 +92,7 @@ description: ""
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Events/champs%20for%20our%20environment.png">
-        <h2>Book reading sessions</h2>
+        <h2>Book Reading Sessions</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -116,7 +116,7 @@ description: ""
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Initiatives/photo_2023-03-25_18-42-41.jpg">
-        <h2>Food rescue with D2L</h2>
+        <h2>Food Rescue With D2L</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
