@@ -2,6 +2,7 @@
 title: Tours
 permalink: /partner-activities/tours/
 description: ""
+variant: markdown
 ---
 <style>
   .row_custom {
@@ -111,31 +112,6 @@ description: ""
     </div>
     <div class="programmes__item__actions">
       <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<!-- Tiger Brewery Tour -->
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/tigerbrewery.jpg">
-        <h2>Tiger Brewery Tour </h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Venue: Tiger Brewery</strong></li>
-          <li><strong>Organiser: Asia Pacific Brewery</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         Step into the home of Tiger Beer and discover how it has taken an integrated approach to brewing its beer sustainably.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/tiger-brewery-tour-sustainability-edition/" class="button-primary">
         Find out more
       </a>
     </div>
