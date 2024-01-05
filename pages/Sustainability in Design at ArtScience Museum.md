@@ -2,6 +2,7 @@
 title: Sustainability in Design at ArtScience Museum
 permalink: /sustainability-in-design-at-artscience-museum/
 description: ""
+variant: markdown
 ---
 ![](/images/Tours/mbs_sid.jpg)
 
@@ -9,12 +10,7 @@ description: ""
 
 **Organiser:** ArtScience Museum, Marina Bay Sands
 
-From sustainable architecture to innovative design features, witness sustainability in action throughout ArtScience Museum’s operations. 
-
-<a class="btn-link" target="_blank" href="Museumgroupbooking@marinabaysands.com">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
+From sustainable architecture to innovative design features, witness sustainability in action throughout ArtScience Museum’s operations. To book, email Museumgroupbooking@marinabaysands.com.
 
 <style>
 	.btn-link {
