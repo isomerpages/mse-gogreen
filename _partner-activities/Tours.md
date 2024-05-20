@@ -104,8 +104,7 @@ variant: markdown
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>
-        Gain insights into our urban planning challenges and the innovative solutions that tackle them.
+        <p>Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.
         </p>
       </div>
     </div>
@@ -115,9 +114,7 @@ variant: markdown
       </a>
     </div>
   </div>
-	
-	
-		  <div class="programmes__item col is-one-third">
+  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/mbs_sid.jpg">
