@@ -120,6 +120,35 @@ variant: markdown
       </a>
     </div>
   </div>
+				  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
+        <h2>Explore Chinatown's Built Heritage with Friends of the Museums
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 29 June, 5, 12 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore City Gallery</strong></li>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking tours, each covering a distictive precinct, led by docents from Friends of the Museums.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="xxxxx" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
