@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Kids Go Green.md
       - Junior Ocean Detective.md
       - Journey into Glass Recycling with Abraclean.md
       - JKT Intertidal Adventure with Biogirl MJ.md
