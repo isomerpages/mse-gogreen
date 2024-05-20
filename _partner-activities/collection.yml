@@ -2,10 +2,10 @@ collections:
   partner-activities:
     output: true
     order:
-      - Family Friendly.md
-      - Initiatives.md
       - Tours.md
       - Workshops.md
       - Learning Journeys.md
       - Nature Trails.md
+      - Family Friendly.md
+      - Initiatives.md
       - Others.md
