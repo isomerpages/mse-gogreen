@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Events Overview Old.md
       - Edible Gardening and Management @ Jurong Lake Gardens.md
       - Earth Observatory of Singapore Tour.md
       - Discounts for UnaBiz Green Building Solutions.md
