@@ -4,22 +4,20 @@ permalink: /maritime-evolution-trail/
 variant: markdown
 description: Maritime Evolution Trail
 ---
-![Beach Clean-up &amp; Talk with the Maritime and Port Authority of Singapore ](/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg)
-**Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!**
+![Maritime Evolution Trail](/images/Tours/MPA_Maritime_Evolution_Trail.jpg)
+**Join this thrilling Maritime Evolution Trail, tracing Singapore’s modern maritime industry from Labrador Park to St James Power Station. Explore dynamic Keppel Harbour, strategic St James Power Station, and hearing inspiring stories of our port infrastructure.**
 
-**Date:** 15 June, 9:00 am to 1.30pm<br>
+**Date:** 29, 30 June, 10:00 am to 12.30pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** East Coast Park<br>
+**Venue:** Harbourfront Centre, Passenger Service Counter 1 Maritime Square, Singapore 099253<br>
 **Organiser:** Maritime and Port Authority of Singapore (MPA)
 
-Join the Maritime and Port Authority of Singapore (MPA) for a day of action and inspiration at East Coast Park!&nbsp;
 
-MPA, with support from Jurong Port, invites you to roll up your sleeves and join their beach clean-up effort. Dive into the joy of giving back to nature while connecting with like-minded individuals. A one-way chartered bus will bring the participants to the Singapore Maritime Gallery for a catered lunch and a sustainability talk after the beach clean-up event. Learn from speakers in the sustainability-space and discover how small actions can lead to big changes in preserving our marine environment.&nbsp;
+Embark on a captivating journey of transformation with MPA’s Maritime Evolution Trail.&nbsp;
 
-This event is for eco-conscious individuals, youths, families and groups looking to make a tangible difference in the community while gaining valuable insights into sustainability practices.
+Discover the progress of Singapore’s modern maritime industry as you travel from Labrador Park to St James Power Station in an electric bus! Along the way, explore the dynamic Keppel Harbour, the strategic St James Power Station, hear stories of how we have built our port infrastructure and learn about how we are building a smarter and greener Tuas Port. This is an opportunity to reflect on the dedication of the maritime community, appreciate our remarkable achievements, and celebrate the inspiring story of Maritime Singapore. Join us and be part of this journey of discovery and celebration!
 
-
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/beach-clean-up-and-sustainability-talk-tickets-906155313937">
+<a class="btn-link" target="_blank" href="https://www.mpa.gov.sg/events-careers/events/event-details/maritime-evolution-trail">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
