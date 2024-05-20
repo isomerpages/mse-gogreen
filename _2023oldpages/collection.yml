@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Farm Tours and Weekend Brunches.md
       - Farm Fresh Lunch.md
       - Exploring Ecosystems through Digital Art.md
       - Explorers of Sentosa by Thomas Dambo.md
