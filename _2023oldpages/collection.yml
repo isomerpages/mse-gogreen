@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Nature and Sustainability Tour by Gardens By The Bay.md
       - Nature and Heritage Guided Walk at Rail Corridor (Central).md
       - Nature Trails with The Untamed Paths.md
       - Nature Appreciation Walk at Thomson Nature Park.md
