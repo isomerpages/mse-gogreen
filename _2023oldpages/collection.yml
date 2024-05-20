@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - ComCrop Farm Tour.md
       - Coffee Grounds Scrub Workshop.md
       - Coco and Friends Programme.md
       - Climate Fresk Workshop.md
