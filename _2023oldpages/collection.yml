@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Zero to Hero Food Sustainability Tour.md
       - Youth4Climate Festival 2023.md
       - "Where Singapore’s Waste Goes: A Tour of Semakau Landfill.md"
       - What's in My Water?.md
