@@ -17,7 +17,7 @@ Get creative with Co+Nut+ink’s recycling programme! &nbsp;Through this worksho
 This activity is suitable for individuals with mobility issues.
 
 
-<a class="btn-link" target="_blank" href="**[https://conutink.com/about-us/ecosystem/](https://conutink.com/about-us/ecosystem/)**">
+<a class="btn-link" target="_blank" href="https://conutink.com/about-us/ecosystem/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
