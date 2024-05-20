@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - "Innovation Day: Singapore 2023.md"
       - Industry Visit to Singapore Fashion Council.md
       - I BeLeaf In You.md
       - HortPark Guided Tours by NParks.md
