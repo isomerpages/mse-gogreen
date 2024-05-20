@@ -150,7 +150,7 @@ description: ""
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png">
-        <h2>Let’s write letters to thank our Seafarers!
+        <h2>Let’s Write Letters to Thank Our Seafarers!
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -170,9 +170,9 @@ description: ""
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/maritime-evolution-trail/" class="button-primary">
+      <a href="/let-s-write-letters-to-thank-our-seafarers/" class="button-primary">
         Find out more
       </a>
     </div>
-  </div>
+	</div>
 </div>
