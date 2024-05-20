@@ -91,28 +91,28 @@ description: ""
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
-        <h2>Discover Singapore’s Urban Transformation
+        <img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg">
+        <h2>Beach Clean Up and Sustainability Talk
 </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 13, 18, 20, 22, 25, 27 June, 2, 4, 9, 11, 13 July</strong>
+              Date: 15 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore City Gallery</strong></li>
-          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+          <li><strong>Venue: East Coast Park</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.
+        <p>Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
+      <a href="/beach-clean-up-and-sustainability-talk/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -120,28 +120,57 @@ description: ""
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
-        <h2>Discover Singapore’s Urban Transformation
+        <img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg">
+        <h2>Maritime Evolution Trail
 </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 13, 18, 20, 22, 25, 27 June, 2, 4, 9, 11, 13 July</strong>
+              Date: 29, 30 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore City Gallery</strong></li>
-          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+          <li><strong>Venue: Harbourfront Centre, Passenger Service Counter 1, Maritime Square</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.
+        <p>Join this thrilling Maritime Evolution Trail, tracing Singapore’s modern maritime industry from Labrador Park to St James Power Station. Explore dynamic Keppel Harbour, strategic St James Power Station, and hearing inspiring stories of our port infrastructure.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
+      <a href="/maritime-evolution-trail/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png">
+        <h2>Let’s write letters to thank our Seafarers!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Maritime Gallery</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/maritime-evolution-trail/" class="button-primary">
         Find out more
       </a>
     </div>
