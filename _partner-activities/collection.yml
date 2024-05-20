@@ -2,6 +2,7 @@ collections:
   partner-activities:
     output: true
     order:
+      - Initiatives.md
       - Tours.md
       - Workshops.md
       - Learning Journeys.md
