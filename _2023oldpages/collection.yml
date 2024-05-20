@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Au Naturale Beauty.md
       - "Aquatic pollutant problems: What are the issues and what can we do
         about them?.md"
       - Aquaponics Farm To Table Experience.md
