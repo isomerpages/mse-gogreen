@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Singapore Furniture Industries Council Sustainability Summit.md
       - Our Partners/Our Partners.md
       - Our Partners/.keep
       - Our Story/.keep
