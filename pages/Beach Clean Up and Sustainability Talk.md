@@ -7,7 +7,7 @@ description: Beach Clean-up & Sustainability Talk
 ![Beach Clean-up &amp; Talk with the Maritime and Port Authority of Singapore ](/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg)
 **Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!**
 
-**Date:** 15 June, 9:00 am to 1.30pm
+**Date:** 15 June, 9:00 am to 1.30pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** East Coast Park<br>
 **Organiser:** Maritime and Port Authority of Singapore (MPA)
