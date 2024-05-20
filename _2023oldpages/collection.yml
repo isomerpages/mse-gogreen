@@ -2,6 +2,8 @@ collections:
   2023oldpages:
     output: true
     order:
+      - "Lessons from Urban Wetlands: Mangroves and Carbon Sequestration in the
+        City.md"
       - Learning Forest Tour.md
       - Launch of Bounce Bag Point at 85 Dawson Road.md
       - Kids Go Green.md
