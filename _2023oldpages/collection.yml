@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Earth Observatory of Singapore Tour.md
       - Discounts for UnaBiz Green Building Solutions.md
       - Discount for Plant Based Groceries.md
       - Dazhong Community Day & Eco Carnival.md
