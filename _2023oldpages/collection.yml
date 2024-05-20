@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Self Watering Planter.md
       - Roasting Coffee, not the Earth.md
       - Regenerative Garden Experience.md
       - Rainforest Tour.md
