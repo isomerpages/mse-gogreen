@@ -123,7 +123,7 @@ variant: markdown
 				  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
+        <img src="/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg">
         <h2>Explore Chinatown's Built Heritage with Friends of the Museums
 </h2>
       </div>
