@@ -10,7 +10,7 @@ description: Let’s write letters to thank our Seafarers!
 **Date:** 22 June, 11:00 am to 12:00 pm | 2:00pm to 3:00pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Singapore Maritime Gallery<br>
-**Organiser:** Maritime and Port Authority of Singapore (MPA)
+**Organiser:** Maritime and Port Authority of Singapore
 
 Join "Seafarer: The Heroes of the Sea!" - a captivating parent-and-child workshop series conducted by Singapore Maritime Gallery (SMG) volunteers.&nbsp;
 
