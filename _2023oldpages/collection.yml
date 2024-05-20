@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Tampines Neighbourhood Cleanup.md
       - Sustenir Indoor Vertical Farm Tour.md
       - Sustainable Singapore Gallery Tour at Marina Barrage.md
       - Sustainable Movie Night.md
