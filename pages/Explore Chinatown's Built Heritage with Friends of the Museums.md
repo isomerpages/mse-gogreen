@@ -24,10 +24,16 @@ These Chinatown Heritage Trails are a collaborative initiative between the Urban
 
 This activity is suitable for individuals with mobility issues.
 
+<img src="/images/gogreensg_website-32.png">
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/join-a-guided-tour-of-the-singapore-city-gallery-tickets-237389076117?aff=oddtdtcreator">
-	<img src="/images/gogreensg_website-32.png">
-</a>
+[Bukit Pasoh route](https://www.eventbrite.sg/e/chinatown-heritage-walks-bukit-pasoh-tickets-776151960407?aff=ebdsoporgprofile)
+
+[Kreta Ayer route](https://www.eventbrite.sg/e/776751804557?aff=oddtdtcreator)
+
+[Tanjong Pagar route](https://www.eventbrite.sg/e/chinatown-heritage-walks-tanjong-pagar-tickets-779197148647?aff=ebdsoporgprofile)&nbsp;
+
+[Telok Ayer route](https://www.eventbrite.sg/e/chinatown-heritage-walks-telok-ayer-tickets-779198582937?aff=ebdsoporgprofile)
+
 
 <style>
 	.btn-link {
@@ -39,4 +45,4 @@ This activity is suitable for individuals with mobility issues.
 	.btn-link > img {
 		width: 100%;
 	}
-</style>![Explore Chinatown's Built Heritage with Friends of the Museums](/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg)
+</style>
