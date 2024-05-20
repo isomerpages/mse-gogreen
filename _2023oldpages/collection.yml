@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Ocean Fest 2023.md
       - "Night Explorations: Spot Flying Lemurs in a Secondary Forest.md"
       - "Night Explorations: Mangrove Night Walk with Naturalist Guide.md"
       - "Nature and Sustainability Tour: Urban Wetlands.md"
