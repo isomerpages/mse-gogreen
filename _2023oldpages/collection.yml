@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Harvesting Culture, Planting Seeds Tour.md
       - Harvest 2 Impact Bazaar.md
       - Guided Tours by Just Keep Thinking.md
       - GreenScout App Challenge.md
