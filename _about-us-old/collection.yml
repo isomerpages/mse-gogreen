@@ -2,6 +2,7 @@ collections:
   about-us-old:
     output: true
     order:
+      - Co⁺Nut⁺ink Ecosystem Program.md
       - Our History.md
       - General Information/General Information.md
       - General Information/Services.md
