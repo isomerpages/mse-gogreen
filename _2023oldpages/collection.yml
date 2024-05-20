@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Beeswax Wrap Workshop.md
       - "Because We Are Family: Upgrade & Save for a Sustainable Future with
         Gain City.md"
       - Beach and Urban Clean Up.md
