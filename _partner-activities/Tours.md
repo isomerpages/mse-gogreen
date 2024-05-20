@@ -144,7 +144,7 @@ variant: markdown
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="xxxxx" class="button-primary">
+      <a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/" class="button-primary">
         Find out more
       </a>
     </div>
