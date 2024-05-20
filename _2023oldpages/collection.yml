@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - "Night Explorations: Mangrove Night Walk with Naturalist Guide.md"
       - "Nature and Sustainability Tour: Urban Wetlands.md"
       - "Nature and Sustainability Tour: Seeds and Senses (Smell).md"
       - "Nature and Sustainability Tour: Carbon and Climate.md"
