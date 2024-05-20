@@ -2,6 +2,7 @@ collections:
   partner-activities:
     output: true
     order:
+      - Family Friendly.md
       - Initiatives.md
       - Tours.md
       - Workshops.md
