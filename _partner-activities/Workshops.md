@@ -120,46 +120,30 @@ variant: markdown
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/climatefresk.jpg">
-        <h2>Climate Fresk Workshops</h2>
+        <img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png">
+        <h2>Let’s Write Letters to Thank Our Seafarers!
+</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Organiser: Climate Fresk</strong></li>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Maritime Gallery</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>
-          Explore various fun and collaborative workshops to educate and raise awareness of climate change, explore addaptation strategies, challenges around biodiversity and impact of digital technology on the environment.
+        <p>Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/climate-fresk/" class="button-primary">
+      <a href="/let-s-write-letters-to-thank-our-seafarers/" class="button-primary">
         Find out more
       </a>
     </div>
-  </div>
-	  
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Workshop%20&amp;%20Talks/ginlee.jpg">
-        <h2>Make O - Tee-to-Bag Making</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Organiser: Ginlee Studio</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-Learn to make bags out of unused T-shirts! Workshops available for younger children (Kindergarten 1 - Primary 3) as well.        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/make-o/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div></div>
+	</div>
+</div>
