@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Coco and Friends Programme.md
       - Climate Fresk Workshop.md
       - Clean & Green Singapore Experiences by NEA.md
       - City Farm Tours With Tasting.md
