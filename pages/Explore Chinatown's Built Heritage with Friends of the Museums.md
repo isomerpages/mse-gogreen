@@ -5,7 +5,7 @@ variant: markdown
 description: Explore Chinatown's Built Heritage with Friends of the Museums
 ---
 ![](/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg)
-**Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking oturs, each covering a distictive precinct, led by docents from Friends of the Museums.**
+**Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking tours, each covering a distictive precinct, led by docents from Friends of the Museums.**
 
 **Date:**  
 14, 21, 29 June: 9:00 am – 11:00 am | 9.30 am – 11.30 am <br>
