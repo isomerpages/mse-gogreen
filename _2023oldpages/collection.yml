@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - GREEN HOUSE.md
       - "From Waste to Treasure: Exploring the World of E Waste Recycling.md"
       - From Plastics to Fab Bags Workshop.md
       - Forging A Sustainable Changi.md
