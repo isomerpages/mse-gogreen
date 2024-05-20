@@ -152,6 +152,35 @@ variant: markdown
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+        <img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg">
+        <h2>Maritime Evolution Trail
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29, 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Harbourfront Centre, Passenger Service Counter 1, Maritime Square</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join this thrilling Maritime Evolution Trail, tracing Singapore’s modern maritime industry from Labrador Park to St James Power Station. Explore dynamic Keppel Harbour, strategic St James Power Station, and hearing inspiring stories of our port infrastructure.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/maritime-evolution-trail/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
         <img src="/images/Tours/intertidal%20lkc.jpg">
         <h2>Intertidal Walk by Lee Kong Chian Natural History Museum
 </h2>
