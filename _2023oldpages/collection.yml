@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - "Panel discussion: From Action to Activism.md"
       - Orchid Garden Tour.md
       - Opening of the First Vintagewknd Store.md
       - "Old Gadgets, New Life: TES E Waste Recycling Journey.md"
