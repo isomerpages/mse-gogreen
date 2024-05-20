@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - What's in My Water?.md
       - What's in My Mud?.md
       - What's in My Mangrove?.md
       - What Happened to The Fish in the Lake? Book Reading and Games Session.md
