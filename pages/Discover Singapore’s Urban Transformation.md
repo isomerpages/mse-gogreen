@@ -5,7 +5,7 @@ variant: markdown
 description: Discover Singapore’s Urban Transformation
 ---
 ![Discover Singapore’s Urban Transformation](/images/URA_Discover_SG_Urban_Transformation_.jpg)
-**Gain insights into our urban planning challenges and the innovative solutions that tackle them.**
+**Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.**
 
 **Date:**  
 13, 18, 20, 25, 27 June, 2, 4, 9, 11 July:  2.30 pm – 3.30 pm&nbsp;<br>
