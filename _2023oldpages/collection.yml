@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Sustainability in Design at ArtScience Museum.md
       - "Sustainability at School: A Look at NUS’ Net Zero & Net Positive Energy
         Buildings.md"
       - Sustainability Partner Showcase.md
