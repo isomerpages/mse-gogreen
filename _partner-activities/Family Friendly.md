@@ -88,96 +88,62 @@ description: ""
 </style>
 
 <div class="row row_custom">
-  
-  <div class="programmes__item col is-one-third">
+			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Events/champs%20for%20our%20environment.png">
-        <h2>Book Reading Sessions</h2>
+        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
+        <h2>Discover Singapore’s Urban Transformation
+</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Organiser: Champs for Our Environment</strong></li>
+          <li>
+            <strong>
+              Date: 13, 18, 20, 22, 25, 27 June, 2, 4, 9, 11, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore City Gallery</strong></li>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>
-       Join the author of the children's book series "Champs for Our Environment", Maggie Lee, for interactive book reading sessions for children on environmental values. The book series explores eco-ethical values that inspire environmental stewardship in children.
+        <p>Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/what-happen-to-fish-in-lake/" class="button-primary">
+      <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
         Find out more
       </a>
     </div>
-  </div>
-	  
-  <div class="programmes__item col is-one-third">
+  </div>   
+			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Initiatives/photo_2023-03-25_18-42-41.jpg">
-        <h2>Food Rescue With D2L</h2>
+        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
+        <h2>Discover Singapore’s Urban Transformation
+</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Organiser: Divert for 2nd Life</strong></li>
+          <li>
+            <strong>
+              Date: 13, 18, 20, 22, 25, 27 June, 2, 4, 9, 11, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore City Gallery</strong></li>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>
-Join D2L.sg as a volunteer to recover and distribute rescued items so that they are put to a much better use than the bin, digester, composter or recycler. Learn how D2L.sg optimises the matching of items for the best and highest use via technology! </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/wanted-food-rescue-volunteers-to-help-redistribute-surplus-food/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div> 
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Our%20Partners/Public%20Agencies/landtransportauthority.jpg">
-        <h2>Tiong Bahru/Redhill: The Paths that Shape Us</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Organiser: Land Transport Authority</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-         This outdoor gamified trail takes players on an immersive journey through the vibrant culture and history of Tiong Bahru and Redhill, while exploring how the Land Transport Authority (LTA) is creating friendlier roads and happier commutes in these two estates.
+        <p>Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/the-paths-that-shape-us/" class="button-primary">
+      <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
-	  
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/planetsustain-mse-1920x1080-v1.jpg">
-        <h2>Track Your Carbon Footprint with BlockRadiance Sustainability Programme</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Organiser: InvoSystems Solutions Pte Ltd</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-Through the utilisation of the PlanetSustain mobile app, everyone can monitor their personal carbon footprint and actively contribute to the Singapore's Net Zero target and preservation of our planet.</p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/track-your-carbon-footprint-with-blockradiance-sustainability-programme/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div></div>
+</div>
