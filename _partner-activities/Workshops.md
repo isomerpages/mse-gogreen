@@ -2,6 +2,7 @@
 title: Workshops
 permalink: /partner-activities/workshops/
 description: ""
+variant: markdown
 ---
 <style>
   .row_custom {
@@ -87,7 +88,35 @@ description: ""
 </style>
 
 <div class="row row_custom">
-  <!-- Climate Fresk workshops -->
+ 			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Workshop%20Talks/CNI_1.jpg">
+        <h2>Co⁺Nut⁺ink Ecosystem Program
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: $26 per child, $10 per accompanying adult</strong></li>
+          <li><strong>Venue: Sentosa, 81 Siloso Road</strong></li>
+          <li><strong>Organiser: Co⁺Nut⁺Ink Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/co-nut-ink-ecosystem-program/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div> 
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -111,7 +140,7 @@ description: ""
       </a>
     </div>
   </div>
-	  <!-- Make O - Tee to Bag Making -->
+	  
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
