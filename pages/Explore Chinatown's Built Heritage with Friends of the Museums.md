@@ -24,7 +24,7 @@ These Chinatown Heritage Trails are a collaborative initiative between the Urban
 
 This activity is suitable for individuals with mobility issues.
 
-<img src="/images/gogreensg_website-32.png">
+<img width="226" src="/images/gogreensg_website-32.png">
 
 [Bukit Pasoh route](https://www.eventbrite.sg/e/chinatown-heritage-walks-bukit-pasoh-tickets-776151960407?aff=ebdsoporgprofile)
 
