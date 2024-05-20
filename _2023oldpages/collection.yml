@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - AgriSocial for Good Workshop & Experiential Urban Farm Tour.md
       - "Advancing Climate: A Human Library Experience.md"
       - "A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality
         Monitoring Stations.md"
