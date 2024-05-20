@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Sentosa Island Bus Tour.md
       - "SentoSights: Sentosa Naturalist Night Adventure.md"
       - "SentoSights: Sentosa Intertidal Exploration.md"
       - "SentoSights: Introduction to Birdwatching.md"
