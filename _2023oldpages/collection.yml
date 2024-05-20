@@ -1,4 +1,6 @@
 collections:
   2023oldpages:
     output: true
-    order: []
+    order:
+      - "A Breath of Fresh Air: Tour of Singapore's Ambient Air Quality
+        Monitoring Stations.md"
