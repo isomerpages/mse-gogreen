@@ -9,8 +9,8 @@ description: Maritime Evolution Trail
 
 **Date:** 29, 30 June, 10:00 am to 12.30pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Harbourfront Centre, Passenger Service Counter 1 Maritime Square, Singapore 099253<br>
-**Organiser:** Maritime and Port Authority of Singapore (MPA)
+**Venue:** Harbourfront Centre, Passenger Service Counter 1, Maritime Square, Singapore 099253<br>
+**Organiser:** Maritime and Port Authority of Singapore
 
 
 Embark on a captivating journey of transformation with MPA’s Maritime Evolution Trail.&nbsp;
