@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - The Paths That Shape Us.md
       - The Melting Menace (Sustainability Puzzle Hunt).md
       - "The Full Intertidal: Explore, Learn, Engage.md"
       - Tampines Neighbourhood Cleanup.md
