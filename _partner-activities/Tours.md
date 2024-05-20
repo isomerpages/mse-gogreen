@@ -91,7 +91,32 @@ variant: markdown
   }
 </style>
 <div class="row row_custom">
-	  <!-- ArtScience Museum Architecture Adventure Tour -->
+			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
+        <h2>Discover Singapore’s Urban Transformation
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>
+        Gain insights into our urban planning challenges and the innovative solutions that tackle them.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	
+	
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -116,7 +141,6 @@ variant: markdown
       </a>
     </div>
   </div>
-	<!-- ComCrop Farm tours -->
 	 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -140,8 +164,7 @@ variant: markdown
         Find out more
       </a>
     </div>
-  </div>
-		  <!-- Fairmont Singapore Aquaponics Farm Experience? -->
+  </div>		  
 		  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -166,7 +189,6 @@ variant: markdown
       </a>
     </div>
   </div>
-	<!-- Gardens by the Bay Nature & Sustainability Tour -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -191,7 +213,6 @@ variant: markdown
       </a>
     </div>
   </div>	
-	<!--Indie Singapore Tours LLP History Wanderer (Waters of Change) -->
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -216,7 +237,6 @@ variant: markdown
       </a>
     </div>
   </div>	
-	<!--NEA Clean & Green Singapore Experiences -->
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -239,8 +259,7 @@ variant: markdown
         Find out more
       </a>
     </div>
-  </div>
-	<!--Black Soldier Fly Eco Farm Tour-->
+  </div>	
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -263,7 +282,6 @@ Visit Singapore’s first and biggest community-based circular ecosystem for sus
       </a>
     </div>
   </div>
-		<!-- Zero to Hero Food Sustainability Tour -->
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
