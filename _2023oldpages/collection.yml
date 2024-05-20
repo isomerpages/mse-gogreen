@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Regenerative Garden Experience.md
       - Rainforest Tour.md
       - Race on Sunshine – Discovering Solar Energy.md
       - "Race Against Time: Science Behind a Botanic Garden Tour.md"
