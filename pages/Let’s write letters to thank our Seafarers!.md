@@ -4,22 +4,22 @@ permalink: /let-s-write-letters-to-thank-our-seafarers/
 variant: markdown
 description: Let’s write letters to thank our Seafarers!
 ---
-![Beach Clean-up &amp; Talk with the Maritime and Port Authority of Singapore ](/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg)
-**Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!**
+![Let’s write letters to thank our Seafarers!](/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png)
+**Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations. **
 
-**Date:** 15 June, 9:00 am to 1.30pm<br>
+**Date:** 22 June, 11:00 am to 12:00 pm | 2:00pm to 3:00pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** East Coast Park<br>
+**Venue:** Singapore Maritime Gallery<br>
 **Organiser:** Maritime and Port Authority of Singapore (MPA)
 
-Join the Maritime and Port Authority of Singapore (MPA) for a day of action and inspiration at East Coast Park!&nbsp;
+Join "Seafarer: The Heroes of the Sea!" - a captivating parent-and-child workshop series conducted by Singapore Maritime Gallery (SMG) volunteers.&nbsp;
 
-MPA, with support from Jurong Port, invites you to roll up your sleeves and join their beach clean-up effort. Dive into the joy of giving back to nature while connecting with like-minded individuals. A one-way chartered bus will bring the participants to the Singapore Maritime Gallery for a catered lunch and a sustainability talk after the beach clean-up event. Learn from speakers in the sustainability-space and discover how small actions can lead to big changes in preserving our marine environment.&nbsp;
+Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations. Participants will have the opportunity to create letters from recycled materials such as old magazines, newspapers, and accessories, which will be displayed at the PlayPort – a children's area of the gallery - until the end of June 2024. This activity is not only a showcase of children's creativity, it also serves as a public awareness initiative for the upcoming Day of the Seafarer on 25th June 2024.&nbsp;
 
-This event is for eco-conscious individuals, youths, families and groups looking to make a tangible difference in the community while gaining valuable insights into sustainability practices.
+By participating in this workshop, children and their parents can gain a deeper appreciation for the unsung heroes of the sea and the importance of sustainable practices. It is a chance for families to bond over a meaningful activity while learning about the maritime industry and contributing to a public exhibition. Don't miss this opportunity to engage in a fun and educational experience that celebrates the invaluable contributions of seafarers and promotes environmental consciousness. Sign up now and be part of this enriching event!
 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/beach-clean-up-and-sustainability-talk-tickets-906155313937">
+<a class="btn-link" target="_blank" href="https://www.mpa.gov.sg/events-careers/events">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
