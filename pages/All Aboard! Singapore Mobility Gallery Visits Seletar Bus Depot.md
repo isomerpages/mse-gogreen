@@ -4,9 +4,7 @@ permalink: /all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/
 variant: markdown
 description: ""
 ---
-
-**Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach.**
-
+![](/images/lta.jpg)
 **Date:** 12 June, 19 June, 12:30 pm – 4:30 pm<br>
 **Admission:** Free <br>
 **Venue:** Singapore Mobility Gallery, 1 Hampshire Road<br>
@@ -18,7 +16,7 @@ safely, reliably and efficiently for everyone!
 Journey into the world of sustainable transport and discover how
 you can make a positive difference!
 
-<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events![lta](/images/lta.jpg)![](/images/lta.jpg)/">
+<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events/">
   <img src="/images/gogreensg_website-32.png">
 </a>
 ​
