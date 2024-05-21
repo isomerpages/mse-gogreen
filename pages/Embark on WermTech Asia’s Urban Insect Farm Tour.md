@@ -4,7 +4,8 @@ permalink: /embark-on-wermtech-asia-s-urban-insect-farm-tour/
 variant: markdown
 description: ""
 ---
-![Embark on WermTech Asia's Urban Insect Tour!](/images/WhatsApp_Image_2024_03_23_at_11_24_37.jpg)
+![](/images/wermtech_asia_urban_insect_farm_tour.jpg)
+
 **Dates:** <br>
 * 15, 16, 22, 23, 29, 30 June <br>
 10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 1:00 pm 
