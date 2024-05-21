@@ -4,7 +4,6 @@ permalink: /all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/
 variant: markdown
 description: ""
 ---
-
 ![](/images/Tours/lta.jpg)
 
 **Date:** 12 June, 19 June, 12:30 pm – 4:30 pm<br>
@@ -35,3 +34,8 @@ you can make a positive difference!
     width: 100%;
   }
 </style>
+
+<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events/">
+  <img src="/images/more-info-btn.png">
+</a>
+​
