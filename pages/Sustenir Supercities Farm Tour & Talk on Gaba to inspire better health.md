@@ -11,7 +11,7 @@ description: ""
 **Venue:** 8 Admiralty Street, Admirax, #04-04 Singapore 757438<br>
 **Organiser:** Sustenir
 
-In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.&nbsp;
+In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
 
 See how Sustenir brings to life its signature salads such as Kinky Kale and Toscano Kale inside its farms. Learn about the challenges of growing greens using technology, try your hand at harvesting, and sample the freshest salads. Learn about the benefits of Gamma-Aminobutyric Acid (GABA), and how it can improve health and moods, address sleeplessness, and tackle stress in cities.
 
