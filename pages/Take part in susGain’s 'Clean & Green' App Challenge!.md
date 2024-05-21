@@ -10,7 +10,7 @@ description: ""
 **Admission:** Free (no registration required)<br>
 **Organiser:** susGain
 
-Participate in susGain's 'Clean &amp; Green' App Challenge and earn points by completing quizzes related to Public Hygiene and participating in other Go Green SG events. Stand a chance to win prizes sponsored by sustainable local brands!&nbsp;
+Participate in susGain's 'Clean &amp; Green' App Challenge and earn points by completing quizzes related to Public Hygiene and participating in other Go Green SG events. Stand a chance to win prizes sponsored by sustainable local brands! 
 
 With the susGain app, discover various activities and challenges on topics such as zero waste, carbon footprint, and well-being. Use your points to redeem one of three impact rewards – planting a tree, donating a meal, or removing trash from Singapore's waterways.
 
