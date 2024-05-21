@@ -5,11 +5,15 @@ variant: markdown
 description: ""
 ---
 ![](/images/Tours/ZerotoHero.jpg)
-**Zero to Hero Sustainability Tour**
 
-**Date:** 15, 22, 29 June, 10:00 am - 11:30 am,
-6, 13 July, 10:00 am – 11:30 am<br>
-**Admission:** $50/adult, free for children under 12. Maximum of 2 children per adult<br>
+**Dates:**
+* 15, 22, 29 June, 10:00 am - 11:30 am
+* 6, 13 July, 10:00 am – 11:30 am
+
+**Admission:** 
+* $50/adult, free for children under 12. 
+* Maximum of 2 children per adult<br>
+
 **Venue:** Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01<br>
 **Organiser:** Tribe Pte Ltd
 
