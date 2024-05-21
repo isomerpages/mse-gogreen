@@ -17,15 +17,15 @@ description: ""
 **Venue:** Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01<br>
 **Organiser:** Tribe Pte Ltd
 
-Get hands-on! Learn how your leftover food scraps can save the planet.&nbsp;
+Get hands-on! Learn how your leftover food scraps can save the planet.
 
-Join the Zero to Hero Food Sustainability Tour and discover the magic of composting!&nbsp;
+Join the Zero to Hero Food Sustainability Tour and discover the magic of composting!
 
-Learn how to turn waste into a powerful tool for a more secure food future. On this tour, you will visit a research institute - Bai Shi Yin Organisation, where staff and volunteers transform vegetable scraps into nutrient-rich compost.&nbsp;&nbsp;
+Learn how to turn waste into a powerful tool for a more secure food future. On this tour, you will visit a research institute - Bai Shi Yin Organisation, where staff and volunteers transform vegetable scraps into nutrient-rich compost.
 
-End the tour on a high note with a fun and energising wellness drumming session. Learn the basics of traditional Chinese drumming and discover how rhythm can connect us to nature and our well-being.&nbsp;&nbsp;
+End the tour on a high note with a fun and energising wellness drumming session. Learn the basics of traditional Chinese drumming and discover how rhythm can connect us to nature and our well-being.
 
-This activity is recommended for those 7 years old and above. All children under the age of 12 will need to be accompanied by an adult.&nbsp;
+This activity is recommended for those 7 years old and above. All children under the age of 12 will need to be accompanied by an adult.
 
 This activity is also suitable for individuals with mobility issues.
 
