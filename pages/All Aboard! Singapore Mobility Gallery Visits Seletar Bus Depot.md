@@ -34,8 +34,3 @@ you can make a positive difference!
     width: 100%;
   }
 </style>
-
-<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events/">
-  <img src="/images/more-info-btn.png">
-</a>
-​
