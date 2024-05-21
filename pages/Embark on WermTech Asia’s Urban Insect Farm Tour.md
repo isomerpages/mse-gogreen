@@ -4,12 +4,12 @@ permalink: /embark-on-wermtech-asia-s-urban-insect-farm-tour/
 variant: markdown
 description: ""
 ---
-![Beach Clean-up &amp; Talk with the Maritime and Port Authority of Singapore ](/images/WhatsApp_Image_2024_03_23_at_11_24_37.jpg)
+![Embark on WermTech Asia's Urban Insect Tour!](/images/WhatsApp_Image_2024_03_23_at_11_24_37.jpg)
 **Dates:** <br>
 * 15, 16, 22, 23, 29, 30 June <br>
-10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 01:00 pm 
+10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 1:00 pm 
 
-* 6, 7, 13, 14 July <br>10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 01:00 pm<br>
+* 6, 7, 13, 14 July <br>10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 1:00 pm<br>
 
 **Admission:** $12.50 (registration required)<br>
 **Venue:** 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12<br>
@@ -42,7 +42,7 @@ This activity is suitable for individuals with mobility issues.
 </style>
 
 <a class="btn-link" target="_blank" href="https://wermsinc.com/product/urban-insect-farming-workshop/">
-	<img src="!/images/more-info-btn.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
