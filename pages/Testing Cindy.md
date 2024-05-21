@@ -18,6 +18,12 @@ Designed for children aged 12 and below, this interactive event aims to educate 
 
 By participating in this workshop, children and their parents can gain a deeper appreciation for the unsung heroes of the sea and the importance of sustainable practices. It is a chance for families to bond over a meaningful activity while learning about the maritime industry and contributing to a public exhibition. Don't miss this opportunity to engage in a fun and educational experience that celebrates the invaluable contributions of seafarers and promotes environmental consciousness. Sign up now and be part of this enriching event!
 
+| 22 Jun, 11:00 am to 12:00 pm | 22 Jun, 2:00pm to 3:00pm | 
+| -------- | -------- |
+| <a class="btn-link" target="_blank" href="https://www.mpa.gov.sg/events-careers/events">
+<img src="/images/gogreensg_website-32.png"></a><style>.btn-linkdisplay: inline-block;}a.btn-link[target="_blank"]:after { display: none;}.btn-link > img {width: 10%;}</style>     | <a class="btn-link" target="_blank" href="https://www.mpa.gov.sg/events-careers/events">
+<img src="/images/gogreensg_website-32.png"></a><style>.btn-linkdisplay: inline-block;}a.btn-link[target="_blank"]:after { display: none;}.btn-link > img {width: 10%;}</style>      | 
+| Mary     | Smith    | 
 
 <a class="btn-link" target="_blank" href="https://www.mpa.gov.sg/events-careers/events">
 	<img src="/images/gogreensg_website-32.png">
