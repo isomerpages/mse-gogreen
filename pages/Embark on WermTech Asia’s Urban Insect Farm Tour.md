@@ -38,3 +38,19 @@ This activity is suitable for individuals with mobility issues.
 		width: 100%;
 	}
 </style>
+
+<a class="btn-link" target="_blank" href="https://wermsinc.com/product/urban-insect-farming-workshop/">
+	<img src="!/images/more-info-btn.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
