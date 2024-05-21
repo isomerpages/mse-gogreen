@@ -5,12 +5,11 @@ variant: markdown
 description: ""
 ---
 ![Beach Clean-up &amp; Talk with the Maritime and Port Authority of Singapore ](/images/WhatsApp_Image_2024_03_23_at_11_24_37.jpg)
-**Date:** <br>
+**Dates:** <br>
 * 15, 16, 22, 23, 29, 30 June <br>
 10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 01:00 pm 
 
-* 6, 7, 13, 14 July <br>10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 01:00 pm
-<br>
+* 6, 7, 13, 14 July <br>10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 01:00 pm<br>
 
 **Admission:** $12.50 (registration required)<br>
 **Venue:** 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12<br>
