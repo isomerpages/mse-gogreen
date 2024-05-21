@@ -16,7 +16,7 @@ Join Stridy members as they walk and clean up around the Jalan Besar neighbourho
 
 Litter-picking equipment will be provided.
 
-**REGISTER LINK 1**<br>
+
 <a class="btn-link" target="_blank" href="https://stridy.com/events/litter-vanture-go-green-sg">
 	<img src="/images/more-info-btn.png">
 </a>
@@ -33,5 +33,3 @@ Litter-picking equipment will be provided.
 	}
 	
 </style>
-
-
