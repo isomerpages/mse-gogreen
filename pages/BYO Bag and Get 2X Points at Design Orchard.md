@@ -6,8 +6,6 @@ description: ""
 ---
 ![](/images/Retail%20FB%20Deals/singapore_fashion_council_design_orchard.png)
 
-**Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!**
-
 **Date:** 12 June – 14 July, 10:30 am - 9:30 pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Design Orchard, 250 Orchard Road<br>
