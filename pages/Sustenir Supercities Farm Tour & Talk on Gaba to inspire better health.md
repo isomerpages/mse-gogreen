@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Tour_Image.jpg)
 
-**Date:** 12 June – 14 July, 2:00 pm – 4.00 pm (Excluding weekends and public holidays)<br>
+**Date:** 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)<br>
 **Admission:** $50/pax (before GST) <br>
 **Venue:** 8 Admiralty Street, Admirax, #04-04 Singapore 757438<br>
 **Organiser:** Sustenir
