@@ -1,5 +1,5 @@
 collections:
-  go-green-sg-activities:
+  2023-go-green-sg-activities:
     output: true
     order:
       - Our Activities.md
