@@ -131,7 +131,7 @@ variant: markdown
             <strong>
               Date: 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)</strong>
           </li>
-          <li><strong>$50/pax</strong></li>
+          <li><strong>Admission: $50/pax</strong></li>
           <li><strong>Venue: 8 Admiralty Street, Admirax, #04-04</strong></li>
           <li><strong>Organiser: Sustenir</strong></li>
         </ul>
