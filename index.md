@@ -51,14 +51,8 @@ sections:
       title: Retail, F&B and Deals
       id: infopic
       description: Enjoy shopping and dining deals while going green!
-      button: Button Text
+      button: Learn more
       image: /images/go-green-retail-dining-3.png
       alt: Image alt text
-  - infopic:
-      title: Infopic
-      subtitle: Add an image and text
-      id: infopic
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
+      url: /2024/retail-f-b-and-deals/
 ---
