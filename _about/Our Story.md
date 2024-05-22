@@ -13,7 +13,7 @@ variant: markdown
 
 ![](/images/banner-about-us.png)
 
-Led by the Ministry of Sustainability and the Environment, Go Green SG (formerly known as Climate Action Week) is a whole-of-nation movement to rally the community to take collective action towards a sustainable future for Singapore. It comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
+Led by the Ministry of Sustainability and the Environment (MSE), Go Green SG is a whole-of-nation movement to rally the community to take collective action towards a sustainable future for Singapore. It comprises a series of sustainability-related events and activities in July organised by our People, Public and Private (3P) partners.
 
 This year, Go Green SG will take place from **12 June to 14 July 2024**. 
 
@@ -21,9 +21,11 @@ You can curate your own Go Green experiences, based on individual lifestyles, pe
 
 Let’s work together in achieving our shared vision of a green, liveable and climate-resilient Singapore!
 
-### Check out our highlights from 2023
+### 2023 Highlights 
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wCTfvs_LLw0?si=abJXKhowOk4reqtu" height="315" width="560"></iframe>
+More than 70,000 participants were part of Go Green SG in 2023. More than 160 partners came together to organise over 300 activities, programmes, and experiences, including behind-the-scenes tours to sites like Semakau Landfill and the Meteorological Service Singapore’s Central Forecast Office. There were also various learning journeys and workshops to cater to the different interests of participants.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wCTfvs_LLw0?si=abJXKhowOk4reqtu" height="100%" width="100%"></iframe>
 
 (to replace photos below with pictures from 2024)
 
