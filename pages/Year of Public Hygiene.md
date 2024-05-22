@@ -5,3 +5,4 @@ variant: markdown
 description: Year of Public Hygiene
 image: /images/YOPH.jpg
 ---
+![](/images/YOPH.jpg)
