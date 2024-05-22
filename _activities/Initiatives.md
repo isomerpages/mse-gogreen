@@ -192,7 +192,7 @@ description: ""
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Crane @ Claymore Connect</strong></li>
-          <li><strong>Organiser: Stridy Pte Ltd, Crane</strong></li>
+          <li><strong>Organiser: Stridy and Crane</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
