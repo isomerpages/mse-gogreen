@@ -1,7 +1,7 @@
 logo: /images/logo-go-green.png
 links:
   - title: About
-    url: /about
+    url: /about/our-story
     sublinks:
       - title: Our Story
         url: /about/our-story
@@ -9,6 +9,8 @@ links:
         url: /about/our-partners/
   - title: Partner Activities
     collection: partner-activities
+  - title: Year of public hygiene
+    url: /year-of-public-hygiene
   - title: FAQ
     url: /faq
   - title: Contact Us
