@@ -22,27 +22,43 @@ sections:
       url: xyz
       button: Explore events listing
   - infopic:
-      title: Partner Activities
+      title: Tours
       id: infopic
-      description: Still looking to Go Green? Check out these year-round activities
-        organised by our partners!
+      description: Peek at the wonders of nature, explore the different sides of
+        familiar landmarks and visit places that are usually not open for public
+        access.
       button: Learn More
-      url: /partner-activities/tours/
-      image: /images/go-green-tours-2.png
-      alt: Image alt text
+      url: /2024/tours/
+      image: /images/go-green-tours.png
+      alt: Tours
   - infopic:
-      title: Thank you to our Partners!
+      title: Workshops & Talks
       button: Learn More
-      url: /about/our-partners/
-      alt: Image alt text
-      image: /images/go-green-retail-dining-4.png
-      description: "We couldn't have held Go Green SG without the help of our over 160
-        partners! Check out who they are here:"
+      url: /2024/workshops
+      alt: Workshops & Talks
+      image: /images/go-green-workshops-talks.png
+      description: Take part in these interactive workshops and hear from inspiring
+        speakers to deepen your knowledge about sustainability!
   - infopic:
-      title: Video Highlights
-      description: Check out video highlights from GGSG 2023 here!
-      button: Watch more
-      url: /resources/media/
+      title: Initiatives
+      description: Join the green movement. From tree planting to food rescue, there
+        are many opportunities to work together to protect our planet!
+      button: Learn more
+      url: /2024/initiatives/
       image: /images/go-green-events-2.png
+      alt: Image alt text
+  - infopic:
+      title: Retail, F&B and Deals
+      id: infopic
+      description: Enjoy shopping and dining deals while going green!
+      button: Button Text
+      image: /images/go-green-retail-dining-3.png
+      alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
       alt: Image alt text
 ---
