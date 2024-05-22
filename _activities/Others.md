@@ -101,7 +101,7 @@ variant: markdown
             <strong>
               Date: 12 June – 14 July</strong>
           </li>
-          <li><strong>Free (no registration required)</strong></li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
           <li><strong>Organiser: susGain</strong></li>
         </ul>
       </div>
