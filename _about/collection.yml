@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Our Story.md
-      - Our Partners/Our Partners.md
       - Our Partners/.keep
