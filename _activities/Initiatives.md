@@ -91,7 +91,8 @@ description: ""
   			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg">
+      <a href="/beach-clean-up-and-sustainability-talk/">
+					<img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg"></a>
         <h2>Beach Clean Up and Sustainability Talk
 </h2>
       </div>
@@ -117,4 +118,34 @@ description: ""
       </a>
     </div>
   </div>   
+					  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+					<a href="/let-s-write-letters-to-thank-our-seafarers/">
+						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
+        <h2>Let’s Write Letters to Thank Our Seafarers!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Maritime Gallery</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/let-s-write-letters-to-thank-our-seafarers/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 </div>
