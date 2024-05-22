@@ -47,3 +47,13 @@ Let’s work together in achieving our shared vision of a green, liveable and cl
 		<img src="/images/Our%20Story/gogreensg_website-45-new.png">
 	</div>
 </div>
+
+
+<style>
+	.tx-green { color: #00A651; }
+	.tx-light-green { color: #A9CB5A; }
+	.tx-dark-green { color: #52A057; }
+	.tx-blue { color: #71B4DA; }
+	.tx-gray { color: #9B9B9B; }
+	.tx-brown { color: #8B572A; }
+</style>
