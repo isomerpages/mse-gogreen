@@ -16,8 +16,9 @@ sections:
           url: year-of-public-hygiene
   - infobar:
       title: Get Ready For Go Green SG 2024!
-      description: Look forward to fun-filled green activities from 12 June to 14
-        July. Sign up for your favourite activity from 5 June onwards!
+      description: Look forward to fun-filled green activities and programmes from 12
+        June to 14 July. Sign up for your favourite activity from 5 June
+        onwards!
       url: xyz
       button: Explore events listing
   - infopic:
