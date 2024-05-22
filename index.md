@@ -7,12 +7,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/artboard-4.png
+      background: /images/GGSG_website_banner.jpg
       title: Go Green, Your Way
+      variant: image
   - infobar:
-      title: See you in 2024!
-      description: Go Green SG 2023 is over, and we can't thank you enough for your
-        support! Stay tuned for more fun-filled green activities next year!
+      title: Get Ready For Go Green SG 2024!
+      description: Go Green SG is back this year, with more fun-filled green
+        activities happening from 12 June to 14 July. Sign up for your favourite
+        activity from 5 June onwards!
   - infopic:
       title: Partner Activities
       id: infopic
