@@ -12,7 +12,7 @@ sections:
       variant: image
       key_highlights:
         - title: Year of Public Hygiene
-          description: "add description here "
+          description: add description here
           url: year-of-public-hygiene
   - infobar:
       title: Get Ready For Go Green SG 2024!
