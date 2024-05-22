@@ -7,7 +7,7 @@ description: ""
 ![](/images/Retail%20FB%20Deals/singapore_fashion_council_design_orchard.png)
 
 **Date:** 12 June – 14 July, 10:30 am - 9:30 pm<br>
-**Admission:** Free (noregistration required)<br>
+**Admission:** Free (no registration required)<br>
 **Venue:** Design Orchard, 250 Orchard Road<br>
 **Organiser:** Singapore Fashion Council
 
@@ -30,4 +30,3 @@ Customers who bring their own bag during Go Green SG (12 June – 14 July) will 
 	}
 	
 </style>
-
