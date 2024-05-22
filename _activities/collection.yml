@@ -2,7 +2,6 @@ collections:
   activities:
     output: true
     order:
-      - Learning Journeys.md
       - Tours.md
       - Workshops.md
       - Initiatives.md
