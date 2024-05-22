@@ -95,7 +95,7 @@ variant: markdown
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/" target="_blank">
+				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Tours/lta.jpg"></a>
         <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
       </div>
