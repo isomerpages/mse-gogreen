@@ -11,7 +11,7 @@ description: ""
 **Venue:** Design Orchard, 250 Orchard Road<br>
 **Organiser:** Singapore Fashion Council
 
-Customers who bring their own bag during Go Green SG&nbsp; (12 June – 14 July) will enjoy double the points on their purchase when they shop at Design Orchard.
+Customers who bring their own bag during Go Green SG (12 June – 14 July) will enjoy double the points on their purchase when they shop at Design Orchard.
 
 **REGISTER LINK 1**<br>
 <a class="btn-link" target="_blank" href="https://www.designorchard.sg/ido-crm">
