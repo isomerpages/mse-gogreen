@@ -124,7 +124,8 @@ variant: markdown
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/URA_Discover_SG_Urban_Transformation_.jpg">
+					<a href="/discover-singapore-s-urban-transformation/">
+						<img src="/images/URA_Discover_SG_Urban_Transformation_.jpg"></a>
         <h2>Discover Singapore’s Urban Transformation
 </h2>
       </div>
@@ -153,7 +154,8 @@ variant: markdown
 				  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg">
+						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
+							<img src="/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg"></a>
         <h2>Explore Chinatown's Built Heritage with Friends of the Museums
 </h2>
       </div>
@@ -179,10 +181,69 @@ variant: markdown
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/earth-observatory-of-singapore-tour/">
+        <img src="/images/Tours/eos_elysium_epic_exhibition.jpg"></a>
+        <h2>Earth Observatory of Singapore Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 June, 2:00 pm – 4:00 pm</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore, Nanyang Technological University</strong></li>
+          <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Earth Observatory of Singapore laboratories, and see how its scientists are developing solutions to adapt to climate change.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/earth-observatory-of-singapore-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/">
+        <img src="/images/wermtech_asia_urban_insect_farm_tour.jpg"></a>
+        <h2>Embark on WermTech Asia’s Urban Insect Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July </strong>
+          </li>
+          <li><strong>Admission: $12.50 (registration required)</strong></li>
+          <li><strong>Venue: 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12</strong></li>
+          <li><strong>Organiser: WermTech.Asia Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Check out this family-friendly insect farming workshop that  shows how Singapore can reduce waste through innovative solutions.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg">
+					<a href="/maritime-evolution-trail/">
+						<img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg"></a>
         <h2>Maritime Evolution Trail
 </h2>
       </div>
