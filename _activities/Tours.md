@@ -121,6 +121,35 @@ variant: markdown
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
+        <img src="/images/Tour_Image.jpg"></a>
+        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to inspire better health</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)</strong>
+          </li>
+          <li><strong>$50/pax</strong></li>
+          <li><strong>Venue: 8 Admiralty Street, Admirax, #04-04 Singapore 757438</strong></li>
+          <li><strong>Organiser: Sustenir</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -239,6 +268,35 @@ variant: markdown
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/zero-to-hero-food-sustainability-tour/">
+        <img src="/images/Tours/ZerotoHero.jpg"></a>
+        <h2>Zero to Hero Sustainability Food Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June 10:00 am - 11:30 am; 6, 13 July 10:00 am - 11:30 am</strong>
+          </li>
+          <li><strong>$50/adult, free for children under 12</strong></li>
+          <li><strong>Venue: Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01</strong></li>
+          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Get hands-on! Learn how your leftover food scraps can save the planet. Join the Zero to Hero Food Sustainability Tour and discover the magic of composting!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -269,222 +327,63 @@ variant: markdown
       </a>
     </div>
   </div>
-			  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/intertidal%20lkc.jpg">
-        <h2>Intertidal Walk by Lee Kong Chian Natural History Museum
-</h2>
+<a href="/walk-with-your-neighbours-chestnut-nature-park/">
+        <img src="/images/Tours/friends_chestnut_nature_park.jpg"></a>
+        <h2>Walk With Your Neighbours @ Chestnut Nature Park</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: Early July</strong>
+              Date: 6 July, 8:30 am – 10:30 am</strong>
+          </li>
+          <li><strong>Free (registration required)</strong></li>
+          <li><strong>Venue: Chestnut Nature Park Car Park, 201 Chestnut Avenue</strong></li>
+          <li><strong>Organiser: Friends of Chestnut Nature Park</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore Chestnut Park's hiking trails guided by residents of the area, and learn about the history of the park, including its plants and animals (some endangered!).
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/walk-with-your-neighbours-chestnut-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/republic-polytechnic-green-tour/">
+        <img src="/images/Tours/republic_polytechnic_main.png"></a>
+        <h2>Republic Polytechnic Green Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July 4:00 pm - 5:00pm; 11 July 9:00 am - 10:00 am</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Pulau Semakau</strong></li>
-          <li><strong>Organiser: National Environment Agency</strong></li>
+          <li><strong>Venue: Republic Polytechnic Centre, 9 Woodlands Avenue 9</strong></li>
+          <li><strong>Organiser: Republic Polytechnic</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>
-         Get up-close and personal with fascinating marine life and their habitats.
+        <p>Explore how environmentally sustainable initiatives and practices are integrated into the Republic Polytechnic’s campus. Come visit this campus in a park!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/intertidal-walk-lkc/" class="button-primary">
+      <a href="/republic-polytechnic-green-tour/" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
-  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/mbs_sid.jpg">
-        <h2>Architecture Adventure Tour
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Organiser: ArtScience Museum</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-        Find out more about the iconic structure of ArtScience Museum and learn about some of the eco-friendly and sustainability features within the museum.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	 <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/question%20114%20-%201664984858397.jpg">
-        <h2>ComCrop Farm Tours
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Venue: Imbiah Lookout, Sentosa</strong></li>
-          <li><strong>Organiser: ComCrop Pte Ltd</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Visit Singapore's first-ever commercial rooftop farm and learn more about advanced hydroponics technology. Offers school and corporate tours to raise awareness on rooftop farming.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/comcrop-farm-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>		  
-		  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Challenges%20&amp;%20Deals/aquaponics_final.jpg">
-        <h2>Fairmont Singapore Aquaponics Farm Experience
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Venue: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
-          <li><strong>Organiser: Fairmont Singapore &amp; Swissôtel The Stamford</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Offers customised experience for organisations, such as farm tour with dinner or farm tour with sustainability efforts showcase.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/aquaponics-farm-to-table-experience/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/gbtb_urbanwetlands.jpg">
-        <h2>Nature and Sustainability Tour: Biodiversity and Ecosystems</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Venue: Gardens by the Bay</strong></li>
-          <li><strong>Organiser: Gardens by the Bay</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Join guided walking tours to learn about the importance and interconnectedness of the natural environment, biodiversity and climate change. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/nature-and-sustainability-tours/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>	
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/indie_kayak.jpg">
-        <h2>History Wanderer (Waters of Change)</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Venue: Marina Bay, Kallang Basin</strong></li>
-          <li><strong>Organiser: Indie Singapore Tours LLP</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Learn more about Singapore's water story as well as our quest for water resilience through this kayaking tour of the Marina Bay area and Kallang Basin.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/waters-of-change-kayak-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>	
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Our%20Partners/Public%20Agencies/nationalenvironmentalagency.jpg">
-        <h2>Clean &amp; Green Singapore Experiences</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Organiser: National Environment Agency</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Book learning journeys to Semakau landfill, waste-to-energy plant, and take part in various tours under Clean &amp; Green Singapore experiences from July to November 2023 to learn more about Singapore's sustainability efforts.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/clean-and-green-singapore-experiences/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>	
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="/images/Tours/otolith%20black%20soldier%20fly.jpg">
-        <h2>Black Soldier Fly Eco Farm Tour</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Organiser: Otolith Enrichment</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-Visit Singapore’s first and biggest community-based circular ecosystem for sustainable food waste management and food production. Sustainability learning journeys and programs also available for shcool students and teachers.        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/black-soldier-fly/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-        <img src="https://www.gogreen.gov.sg/images/Tours/tribe-png.jpg">
-        <h2>Zero to Hero Food Sustainability Tour</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>
-          Embark on a tour that engages both your mind and your senses! Learn more about the strange yet fascinating plants at the Gardens.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
+
 </div>
