@@ -25,7 +25,7 @@ Let’s work together in achieving our shared vision of a green, liveable and cl
 
 More than 70,000 participants were part of Go Green SG in 2023. More than 160 partners came together to organise over 300 activities, programmes, and experiences, including behind-the-scenes tours to sites like Semakau Landfill and the Meteorological Service Singapore’s Central Forecast Office. There were also various learning journeys and workshops to cater to the different interests of participants.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wCTfvs_LLw0?si=abJXKhowOk4reqtu" height="100%" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wCTfvs_LLw0?si=abJXKhowOk4reqtu" height="500" width="100%"></iframe>
 
 (to replace photos below with pictures from 2024)
 
