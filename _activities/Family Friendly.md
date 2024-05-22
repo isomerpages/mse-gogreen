@@ -88,6 +88,122 @@ description: ""
 </style>
 
 <div class="row row_custom">
+					  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
+				<img src="/images/Tours/lta.jpg"></a>
+        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June, 19 June, 12:30 pm – 4:30 pm</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Mobility Gallery, 1 Hampshire Road</strong></li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover how Singapore is making our bus network more sustainable in this tour of the Singapore Mobility Gallery and Seletar Bus Depot with SBS Transit. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
+        <img src="/images/Tour_Image.jpg"></a>
+        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to inspire better health</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)</strong>
+          </li>
+          <li><strong>$50/pax</strong></li>
+          <li><strong>Venue: 8 Admiralty Street, Admirax, #04-04 Singapore 757438</strong></li>
+          <li><strong>Organiser: Sustenir</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/earth-observatory-of-singapore-tour/">
+        <img src="/images/Tours/eos_elysium_epic_exhibition.jpg"></a>
+        <h2>Earth Observatory of Singapore Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 June, 2:00 pm – 4:00 pm</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore, Nanyang Technological University</strong></li>
+          <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Earth Observatory of Singapore laboratories, and see how its scientists are developing solutions to adapt to climate change.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/earth-observatory-of-singapore-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/">
+        <img src="/images/wermtech_asia_urban_insect_farm_tour.jpg"></a>
+        <h2>Embark on WermTech Asia’s Urban Insect Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July </strong>
+          </li>
+          <li><strong>Admission: $12.50 (registration required)</strong></li>
+          <li><strong>Venue: 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12</strong></li>
+          <li><strong>Organiser: WermTech.Asia Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Check out this family-friendly insect farming workshop that  shows how Singapore can reduce waste through innovative solutions.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -117,36 +233,36 @@ description: ""
       </a>
     </div>
   </div>   
-			  <div class="programmes__item col is-one-third">
+		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg">
-        <h2>Maritime Evolution Trail
-</h2>
+<a href="/zero-to-hero-food-sustainability-tour/">
+        <img src="/images/Tours/ZerotoHero.jpg"></a>
+        <h2>Zero to Hero Sustainability Food Tour</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 29, 30 June</strong>
+              Date: 15, 22, 29 June 10:00 am - 11:30 am; 6, 13 July 10:00 am - 11:30 am</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Harbourfront Centre, Passenger Service Counter 1, Maritime Square</strong></li>
-          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+          <li><strong>$50/adult, free for children under 12</strong></li>
+          <li><strong>Venue: Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01</strong></li>
+          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Join this thrilling Maritime Evolution Trail, tracing Singapore’s modern maritime industry from Labrador Park to St James Power Station. Explore dynamic Keppel Harbour, strategic St James Power Station, and hearing inspiring stories of our port infrastructure.
+        <p>Get hands-on! Learn how your leftover food scraps can save the planet. Join the Zero to Hero Food Sustainability Tour and discover the magic of composting!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/maritime-evolution-trail/" class="button-primary">
+      <a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
-			  <div class="programmes__item col is-one-third">
+				  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
         <img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png">
@@ -175,4 +291,61 @@ description: ""
       </a>
     </div>
 	</div>
+			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+        <img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg">
+        <h2>Maritime Evolution Trail</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29, 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Harbourfront Centre, Passenger Service Counter 1, Maritime Square</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join this thrilling Maritime Evolution Trail, tracing Singapore’s modern maritime industry from Labrador Park to St James Power Station. Explore dynamic Keppel Harbour, strategic St James Power Station, and hearing inspiring stories of our port infrastructure.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/maritime-evolution-trail/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/walk-with-your-neighbours-chestnut-nature-park/">
+        <img src="/images/Tours/friends_chestnut_nature_park.jpg"></a>
+        <h2>Walk With Your Neighbours @ Chestnut Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July, 8:30 am – 10:30 am</strong>
+          </li>
+          <li><strong>Free (registration required)</strong></li>
+          <li><strong>Venue: Chestnut Nature Park Car Park, 201 Chestnut Avenue</strong></li>
+          <li><strong>Organiser: Friends of Chestnut Nature Park</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore Chestnut Park's hiking trails guided by residents of the area, and learn about the history of the park, including its plants and animals (some endangered!).
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/walk-with-your-neighbours-chestnut-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
