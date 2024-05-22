@@ -11,13 +11,13 @@ sections:
       title: Go Green, Your Way
       variant: image
       key_highlights:
-        - title: Year of Public Hygiene
-          description: add description here
+        - title: Go Green SG returns with a focus on public hygiene!
+          description: ""
           url: year-of-public-hygiene
   - infobar:
       title: Get Ready For Go Green SG 2024!
-      description: "Look forward to fun-filled green activities from 12 June to 14
-        July. Sign up for your favourite activity from 5 June onwards! "
+      description: Look forward to fun-filled green activities from 12 June to 14
+        July. Sign up for your favourite activity from 5 June onwards!
       url: xyz
       button: Explore events listing
   - infopic:
