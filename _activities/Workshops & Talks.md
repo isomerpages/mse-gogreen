@@ -91,7 +91,8 @@ variant: markdown
  			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Workshop%20Talks/CNI_1.jpg">
+				<a href="/co-nut-ink-ecosystem-program/">
+					<img src="/images/Workshop%20Talks/CNI_1.jpg"></a>
         <h2>Co⁺Nut⁺ink Ecosystem Program
 </h2>
       </div>
@@ -116,11 +117,41 @@ variant: markdown
         Find out more
       </a>
     </div>
-  </div> 
+  </div>
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
+        <img src="/images/Tour_Image.jpg"></a>
+        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to inspire better health</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)</strong>
+          </li>
+          <li><strong>$50/pax</strong></li>
+          <li><strong>Venue: 8 Admiralty Street, Admirax, #04-04 Singapore 757438</strong></li>
+          <li><strong>Organiser: Sustenir</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png">
+				<a href="/let-s-write-letters-to-thank-our-seafarers/">
+					<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
         <h2>Let’s Write Letters to Thank Our Seafarers!
 </h2>
       </div>
