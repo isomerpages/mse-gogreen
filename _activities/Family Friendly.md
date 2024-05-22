@@ -207,7 +207,8 @@ description: ""
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg">
+				<a href="/beach-clean-up-and-sustainability-talk/">
+					<img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg"></a>
         <h2>Beach Clean Up and Sustainability Talk
 </h2>
       </div>
@@ -265,7 +266,8 @@ description: ""
 				  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png">
+					<a href="/let-s-write-letters-to-thank-our-seafarers/">
+						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
         <h2>Let’s Write Letters to Thank Our Seafarers!
 </h2>
       </div>
@@ -294,7 +296,8 @@ description: ""
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-        <img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg">
+				<a href="/maritime-evolution-trail/">
+					<img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg"></a>
         <h2>Maritime Evolution Trail</h2>
       </div>
       <div class="programmes__item__detail">
