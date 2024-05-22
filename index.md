@@ -10,6 +10,10 @@ sections:
       background: /images/GGSG_website_banner.jpg
       title: Go Green, Your Way
       variant: image
+      key_highlights:
+        - title: Year of Public Hygiene
+          description: "add description here "
+          url: year-of-public-hygiene
   - infobar:
       title: Get Ready For Go Green SG 2024!
       description: Go Green SG is back this year, with more fun-filled green
