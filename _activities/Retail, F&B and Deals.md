@@ -92,6 +92,33 @@ description: Retail, F&B and Deals
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
+				<img src="/images/Retail%20FB%20Deals/singapore_fashion_council_design_orchard.png"></a>
+        <h2>BYO Bag and Get 2X Points at Design Orchard</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Customers who bring their own bag during Go Green SG will enjoy double the points on their purchase when they shop at Design Orchard.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/byo-bag-and-get-2x-points-at-design-orchard/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+					  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Retail%20FB%20Deals/hero_image__ColouredJutesNew__2_.jpg"></a>
         <h2>Discount on selected reusable bags</h2>
       </div>
@@ -115,6 +142,5 @@ description: Retail, F&B and Deals
       </a>
     </div>
   </div>
-
 	
 </div>
