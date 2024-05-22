@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - Retail, F&B and Deals.md
       - Tours.md
       - Workshops.md
       - Learning Journeys.md
