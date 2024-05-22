@@ -7,6 +7,9 @@ image: /images/YOPH.jpg
 ---
 ![](/images/YOPH.jpg)
 
+Go Green SG returns this year in support of the Year of Public Hygiene.
+
+This year's Go Green SG will feature activities and programmes to raise public awareness and nudge citizens to do their part for a cleaner and greener Singapore
 
 <style>
   .row_custom {
@@ -92,6 +95,34 @@ image: /images/YOPH.jpg
 </style>
 
 <div class="row row_custom">
+	   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/take-part-in-susgain-s-clean-green-app-challenge/">
+        <img src="/images/susGain_x_Go_Green_SG_2024.png"></a>
+        <h2>Take part in susGain’s 'Clean &amp; Green' App Challenge!</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Organiser: susGain</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Participate in susGain's 'Clean &amp; Green' App Challenge and earn points by completing quizzes. Stand a chance to win prizes sponsored by sustainable local brands! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/take-part-in-susgain-s-clean-green-app-challenge/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
   			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
