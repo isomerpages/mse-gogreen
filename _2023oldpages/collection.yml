@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Learning Journeys.md
       - Singapore Furniture Industries Council Sustainability Summit.md
       - Zero to Hero Food Sustainability Tour.md
       - Youth4Climate Festival 2023.md
