@@ -13,13 +13,11 @@ image: /images/Retail FB Deals/hero_image__ColouredJutesNew__2_.jpg
 
 Looking for a stylish reusable bag?&nbsp; D'Arts and Designs&nbsp;is offering a 24% discount on selected bags on its website!
 
-  
 Bags on sale include:
-1. Coloured jute bags (assorted colours)\
-2. Thick canvas weekend bag
-3. Canvas beach bag
-4. Juco shopping bag
-
+*  Coloured jute bags (assorted colours)
+*  Thick canvas weekend bag
+*  Canvas beach bag
+*  Juco shopping bag
 
 <a class="btn-link" target="_blank" href="https://www.d-artsanddesigns.com/bags-and-gifts-shop/wholesale-stocks/cotton-bags.html">
 	<img src="/images/more-info-btn.png">
