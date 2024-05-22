@@ -2,6 +2,7 @@ collections:
   2023oldpages:
     output: true
     order:
+      - Nature Trails.md
       - Learning Journeys.md
       - Singapore Furniture Industries Council Sustainability Summit.md
       - Zero to Hero Food Sustainability Tour.md
