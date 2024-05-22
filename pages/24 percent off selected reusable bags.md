@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 image: /images/Retail FB Deals/hero_image__ColouredJutesNew__2_.jpg
 ---
-![](![24 percent off selected reusable bags](/images/Retail%20FB%20Deals/hero_image__ColouredJutesNew__2_.jpg)
+![24 percent off selected reusable bags](/images/Retail%20FB%20Deals/hero_image__ColouredJutesNew__2_.jpg)
 
 
 **Date:** 12 June – 14 July<br>
