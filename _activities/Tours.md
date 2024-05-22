@@ -1,0 +1,389 @@
+---
+title: Tours
+permalink: /2024/tours/
+description: ""
+variant: markdown
+---
+<style>
+  .row_custom {
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .programmes__item {
+    flex: 0 1 calc(33% - 0.5rem) !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .programmes__item__header > img {
+    margin: 0;
+		width: 255px;
+		height: 191px;
+		object-fit: cover;
+		object-position: center;
+  }
+
+  .programmes__item__header > h2 {
+    color: black;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    margin: 1rem 0 0.5rem;
+    font-weight: bold;
+    color: #509b55;
+  }
+
+	  .programmes__item__header > sup {
+    color: red;
+  }
+	
+  .programmes__item__detail > ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    margin: 1rem 0;
+  }
+
+  .programmes__item__detail > ul > li {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.25;
+  }
+
+  .programmes__item__detail > ul > li:last-child {
+    margin: 0;
+  }
+
+  .programmes__item__body > p {
+    font-size: 1rem;
+    line-height: 1.25;
+  }
+
+  .programmes__item__actions {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    gap: 0.5rem;
+  }
+
+  .programmes__item__actions > a {
+    border: 2px solid black;
+    padding: 0.5rem 1rem;
+    height: fit-content;
+    border-radius: 1rem;
+    background-color: transparent;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    margin-bottom: 0;
+  }
+
+  .programmes__item__actions > .button-primary {
+    background-color: #529c57;
+    border: 2px solid #529c57;
+    color: white !important;
+  }
+
+  .programmes__item__actions > .button-secondary {
+    border: 2px solid #43b453;
+    color: #43b453 !important;
+  }
+</style>
+
+<div class="row row_custom">
+					  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
+				<img src="/images/Tours/lta.jpg"></a>
+        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June, 19 June, 12:30 pm – 4:30 pm</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Mobility Gallery, 1 Hampshire Road</strong></li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover how Singapore is making our bus network more sustainable in this tour of the Singapore Mobility Gallery and Seletar Bus Depot with SBS Transit. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
+        <img src="/images/Tour_Image.jpg"></a>
+        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to inspire better health</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)</strong>
+          </li>
+          <li><strong>Admission: $50/pax</strong></li>
+          <li><strong>Venue: 8 Admiralty Street, Admirax, #04-04 Singapore 757438</strong></li>
+          <li><strong>Organiser: Sustenir</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+					<a href="/discover-singapore-s-urban-transformation/">
+						<img src="/images/URA_Discover_SG_Urban_Transformation_.jpg"></a>
+        <h2>Discover Singapore’s Urban Transformation
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 18, 20, 22, 25, 27 June, 2, 4, 9, 11, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore City Gallery</strong></li>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+				  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
+							<img src="/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg"></a>
+        <h2>Explore Chinatown's Built Heritage with Friends of the Museums
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 29 June, 5, 12 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore City Gallery</strong></li>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking tours, each covering a distictive precinct, led by docents from Friends of the Museums.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/earth-observatory-of-singapore-tour/">
+        <img src="/images/Tours/eos_elysium_epic_exhibition.jpg"></a>
+        <h2>Earth Observatory of Singapore Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 June, 2:00 pm – 4:00 pm</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore, Nanyang Technological University</strong></li>
+          <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Earth Observatory of Singapore laboratories, and see how its scientists are developing solutions to adapt to climate change.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/earth-observatory-of-singapore-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/">
+        <img src="/images/wermtech_asia_urban_insect_farm_tour.jpg"></a>
+        <h2>Embark on WermTech Asia’s Urban Insect Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July </strong>
+          </li>
+          <li><strong>Admission: $12.50 (registration required)</strong></li>
+          <li><strong>Venue: 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12</strong></li>
+          <li><strong>Organiser: WermTech.Asia Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Check out this family-friendly insect farming workshop that  shows how Singapore can reduce waste through innovative solutions.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/zero-to-hero-food-sustainability-tour/">
+        <img src="/images/Tours/ZerotoHero.jpg"></a>
+        <h2>Zero to Hero Sustainability Food Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June 10:00 am - 11:30 am; 6, 13 July 10:00 am - 11:30 am</strong>
+          </li>
+          <li><strong>Admission: $50/adult, free for children under 12</strong></li>
+          <li><strong>Venue: Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01</strong></li>
+          <li><strong>Organiser: Tribe Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Get hands-on! Learn how your leftover food scraps can save the planet. Join the Zero to Hero Food Sustainability Tour and discover the magic of composting!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/zero-to-hero-food-sustainability-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+					<a href="/maritime-evolution-trail/">
+						<img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg"></a>
+        <h2>Maritime Evolution Trail
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29, 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Harbourfront Centre, Passenger Service Counter 1, Maritime Square</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join this thrilling Maritime Evolution Trail, tracing Singapore’s modern maritime industry from Labrador Park to St James Power Station. Explore dynamic Keppel Harbour, strategic St James Power Station, and hearing inspiring stories of our port infrastructure.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/maritime-evolution-trail/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/walk-with-your-neighbours-chestnut-nature-park/">
+        <img src="/images/Tours/friends_chestnut_nature_park.jpg"></a>
+        <h2>Walk With Your Neighbours @ Chestnut Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July, 8:30 am – 10:30 am</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Chestnut Nature Park Car Park, 201 Chestnut Avenue</strong></li>
+          <li><strong>Organiser: Friends of Chestnut Nature Park</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore Chestnut Park's hiking trails guided by residents of the area, and learn about the history of the park, including its plants and animals (some endangered!).
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/walk-with-your-neighbours-chestnut-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/republic-polytechnic-green-tour/">
+        <img src="/images/Tours/republic_polytechnic_main.png"></a>
+        <h2>Republic Polytechnic Green Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July 4:00 pm - 5:00pm; 11 July 9:00 am - 10:00 am</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Republic Polytechnic Centre, 9 Woodlands Avenue 9</strong></li>
+          <li><strong>Organiser: Republic Polytechnic</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore how environmentally sustainable initiatives and practices are integrated into the Republic Polytechnic’s campus. Come visit this campus in a park!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/republic-polytechnic-green-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+
+</div>
