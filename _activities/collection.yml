@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Tours.md
-      - Workshops.md
+      - Workshops & Talks.md
       - Initiatives.md
       - Retail, F&B and Deals.md
       - Family Friendly.md
