@@ -160,7 +160,7 @@ description: ""
             <strong>
               Date: 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)</strong>
           </li>
-          <li><strong>$50/pax</strong></li>
+          <li><strong>Admission: $50/pax</strong></li>
           <li><strong>Venue: 8 Admiralty Street, Admirax, #04-04</strong></li>
           <li><strong>Organiser: Sustenir</strong></li>
         </ul>
@@ -277,7 +277,7 @@ description: ""
             <strong>
               Date: 15, 22, 29 June 10:00 am - 11:30 am; 6, 13 July 10:00 am - 11:30 am</strong>
           </li>
-          <li><strong>$50/adult, free for children under 12</strong></li>
+          <li><strong>Admission: $50/adult, free for children under 12</strong></li>
           <li><strong>Venue: Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01</strong></li>
           <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
@@ -365,7 +365,7 @@ description: ""
             <strong>
               Date: 6 July, 8:30 am – 10:30 am</strong>
           </li>
-          <li><strong>Free (registration required)</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Chestnut Nature Park Car Park, 201 Chestnut Avenue</strong></li>
           <li><strong>Organiser: Friends of Chestnut Nature Park</strong></li>
         </ul>
