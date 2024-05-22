@@ -5,12 +5,11 @@ variant: markdown
 description: ""
 image: /images/Tours/eos_elysium_epic_exhibition.jpg
 ---
-![]![Earth Observatory of Singapore](/images/Tours/eos_elysium_epic_exhibition.jpg)
+![Earth Observatory of Singapore](/images/Tours/eos_elysium_epic_exhibition.jpg)
 
 **Date:** 14, 21, 28 June, 2:00 pm – 4:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** 
-Earth Observatory of Singapore, Nanyang Technological University, 50 Nanyang Avenue, Block N2-01a-15<br>
+**Venue:** Earth Observatory of Singapore, Nanyang Technological University, 50 Nanyang Avenue, Block N2-01a-15<br>
 **Organiser:** Earth Observatory of Singapore
 
 The Earth Observatory of Singapore (EOS) invites participants to learn about EOS’ activities, and to see how EOS is tackling the sustainability issues of the day.
