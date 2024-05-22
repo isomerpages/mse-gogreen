@@ -5,7 +5,7 @@ variant: markdown
 description: Let’s write letters to thank our Seafarers!
 ---
 ![Let’s write letters to thank our Seafarers!](/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png)
-**Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations. **
+**Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.**
 
 **Date:** 22 June, 11:00 am to 12:00 pm | 2:00pm to 3:00pm<br>
 **Admission:** Free (registration required)<br>
