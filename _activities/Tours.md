@@ -90,7 +90,37 @@ variant: markdown
     color: #43b453 !important;
   }
 </style>
+
 <div class="row row_custom">
+					  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/" target="_blank">
+				<img src="/images/Tours/lta.jpg"></a>
+        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June, 19 June, 12:30 pm – 4:30 pm</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Mobility Gallery, 1 Hampshire Road</strong></li>
+          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover how Singapore is making our bus network more sustainable in this tour of the Singapore Mobility Gallery and Seletar Bus Depot with SBS Transit. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
