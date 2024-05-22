@@ -22,7 +22,7 @@ The tour is ideal for individuals, families, and groups.
 <a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events/">
   <img src="/images/gogreensg_website-32.png">
 </a>
-​
+
 <style>
   .btn-link {
     display: inline-block;
