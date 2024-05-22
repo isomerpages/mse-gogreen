@@ -2,11 +2,11 @@ collections:
   activities:
     output: true
     order:
-      - Retail, F&B and Deals.md
+      - Learning Journeys.md
       - Tours.md
       - Workshops.md
-      - Learning Journeys.md
+      - Initiatives.md
+      - Retail, F&B and Deals.md
       - Nature Trails.md
       - Family Friendly.md
-      - Initiatives.md
       - Others.md
