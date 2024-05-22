@@ -10,7 +10,7 @@ Led by the Ministry of Sustainability and the Environment (MSE), Go Green SG (fo
 Climate Action Week) is a whole-of-nation movement to rally citizens, organisations, and the community
 to take collective action towards a more environmentally sustainable and climate-resilient Singapore.
 
-You can find more information about Go Green SG [here](https://www.gogreen.gov.sg/about/our-story/).
+You can find more information about Go Green SG [here](/about/our-story/).
 
 ### 2. How many activities are organised under Go Green SG?
 Over 250 exciting activities will be held under Go Green SG. These include internal activities to
