@@ -148,4 +148,62 @@ description: ""
       </a>
     </div>
 	</div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/litter-vanture-go-green-sg/">
+        <img src="/images/Tours/hero_image__act_1.jpg"></a>
+        <h2>Litter Vanture Go Green SG</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June, 9:00 am - 10:00 am</strong>
+          </li>
+          <li><strong>Free (registration required)</strong></li>
+          <li><strong>Venue: Blk 4C St. Georges Lane, Linkway Building</strong></li>
+          <li><strong>Organiser: Stridy Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Stridy members as they walk and clean up around the Jalan Besar neighbourhood. Get an hour of walking exercise in and meet like-minded individuals while learning something new!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/litter-vanture-go-green-sg/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/waste-to-wonder-paper-making-and-claymore-cleanup/">
+        <img src="/images/Initiatives/waste_to_wonder.jpg"></a>
+        <h2>Waste to Wonder: Paper making &amp; Claymore Clean Up</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June, 2:00 pm - 5:00 pm</strong>
+          </li>
+          <li><strong>Free (registration required)</strong></li>
+          <li><strong>Venue: Crane @ Claymore Connect</strong></li>
+          <li><strong>Organiser: Stridy Pte Ltd, Crane</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join us for this paper making workshop where you can learn about Singapore's waste management challenges! The workshop will be followed by a clean-up of the Claymore neighbourhood. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/waste-to-wonder-paper-making-and-claymore-cleanup/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
