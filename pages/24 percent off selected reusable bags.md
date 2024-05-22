@@ -22,7 +22,7 @@ Bags on sale include:
 
 
 <a class="btn-link" target="_blank" href="https://www.d-artsanddesigns.com/bags-and-gifts-shop/wholesale-stocks/cotton-bags.html">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
