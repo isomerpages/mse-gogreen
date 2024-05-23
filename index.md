@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024banner.jpg
+      background: /images/2024banner.png
       title: Go Green, Your Way
       variant: image
       key_highlights:
