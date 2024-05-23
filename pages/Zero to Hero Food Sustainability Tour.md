@@ -31,7 +31,7 @@ This activity is also suitable for individuals with mobility issues.
 
 
 
-<a class="btn-link" target="_blank" href="https://conutink.com/about-us/ecosystem/">
+<a class="btn-link" target="_blank" href="https://tribe-tours.com/product/go-green-sg-food-sustainability-tour /">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
