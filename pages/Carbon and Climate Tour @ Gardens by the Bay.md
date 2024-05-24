@@ -6,6 +6,8 @@ description: ""
 ---
 ![carbon and climate tour at gardens by the bay](/images/Tours/GBTB_carbonandclimatetour.jpg)
 
+In this Gardens by the Bay tour, learn about the different colours of carbon, carbon sources and sinks, and what this means for a changing climate.
+
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 8:30 am – 9:30 am  
 6, 7, 13, 14 July, 8:30 am – 9:30 am<br>
