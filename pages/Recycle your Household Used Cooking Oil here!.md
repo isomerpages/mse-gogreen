@@ -4,3 +4,15 @@ permalink: /recycle-your-household-used-cooking-oil-here/
 variant: markdown
 description: ""
 ---
+![](/images/Events/hero_image__apeiron_bioenergy_and_tptc.png)
+
+**Date:**  22 June, 10:00 am to 12:00 pm<br>
+**Admission:** Free (no registration required)<br>
+**Venue:** Our Green Hub, 40 Cambridge Road<br>
+**Organiser:** Apeiron Bioenergy and Tanjong Pagar Town Council
+
+Join Apeiron Bioenergy and Tanjong Pagar Town Council as they launch Singapore's first-ever used cooking oil recycling point for households and learn how to dispose of your own used cooking oil responsibly.&nbsp;
+
+Attend an interactive talk and observe the proper way to dispose of used cooking oil and the detrimental effects of improper disposal of used cooking oil.
+
+Participants are encouraged to bring their own used cooking oil to recycle it responsibly. Simply pour the cooled oil into a bottle, screw the cap on tightly, and drop it off at the designated recycling point at Our Green Hub. Let’s pave the way to a cleaner, greener Singapore!
