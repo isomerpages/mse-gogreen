@@ -4,7 +4,7 @@ permalink: /saving-bumi-family-day/
 variant: markdown
 description: ""
 ---
-
+![Skool4Kidz_Saving Bumi Family Day](/images/Skool4kidz___Saving_Bumi_Family_Day.jpg)
 
 **Date:** 15 June, 6:00 PM – 9:00 PM<br>
 **Admission:** $7/pax (registration required)<br>
