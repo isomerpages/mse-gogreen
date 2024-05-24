@@ -4,7 +4,8 @@ permalink: /energy-and-water-tour-gardens-by-the-bay/
 variant: markdown
 description: ""
 ---
-**![](/images/Tours/GBTB_energy_water_tour.jpg)
+![](/images/Tours/GBTB_energy_water_tour.jpg)
+**Experience a journey covering the two essentials that sustain and underpin life – energy and water. This tour explores the water-sensitive urban design concepts at Gardens by the Bay.**
 
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 8:30 am – 9:30 am  
