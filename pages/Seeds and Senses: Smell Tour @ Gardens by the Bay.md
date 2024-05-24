@@ -7,8 +7,8 @@ description: ""
 ![](/images/Tours/GBTB_smell_tour_key_visual.jpg)
 
 **Dates:** <br>
-15, 16, 22, 23, 29, 30 June, 8:30 am – 9:30 am  
-6, 7, 13, 14 July, 8:30 am – 9:30 am<br>
+15, 16, 22, 23, 29, 30 June, 10:30 am – 11:30 am  
+6, 7, 13, 14 July, 10:30 am – 11:30 am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Friends of the Gardens Centre, #03-02/03, Gardens by the Bay, 18 Marina Gardens Drive<br>
 **Organiser:** Gardens by the Bay
