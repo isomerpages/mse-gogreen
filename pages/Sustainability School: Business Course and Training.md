@@ -35,3 +35,20 @@ Join the Sustainability School and become a sustainability ambassador among your
 		width: 100%;
 	}
 </style>
+
+
+<a class="btn-link" target="_blank" href="[https://www.youtube.com/watch?v=zGkljg-PDhQ](https://www.youtube.com/watch?v=zGkljg-PDhQ)">
+	<img src="/images/more-info-btn.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
