@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/Tours/GBTB_smell_tour_key_visual.jpg)
+**Here’s your chance to stop and smell the flowers, fruits, and leaves! Journey with guides through the World of Plants gardens at Gardens by the Bay.**
 
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 10:30 am – 11:30 am  
