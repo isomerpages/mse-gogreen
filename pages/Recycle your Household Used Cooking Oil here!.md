@@ -7,7 +7,7 @@ description: ""
 ![](/images/Events/hero_image__apeiron_bioenergy_and_tptc.png)
 
 **Date:**  22 June, 10:00 am to 12:00 pm<br>
-**Admission:** Free (no registration required)<br>
+**Admission:** Free (registration required)<br>
 **Venue:** Our Green Hub, 40 Cambridge Road<br>
 **Organiser:** Apeiron Bioenergy and Tanjong Pagar Town Council
 
@@ -16,3 +16,19 @@ Join Apeiron Bioenergy and Tanjong Pagar Town Council as they launch Singapore's
 Attend an interactive talk and observe the proper way to dispose of used cooking oil and the detrimental effects of improper disposal of used cooking oil.
 
 Participants are encouraged to bring their own used cooking oil to recycle it responsibly. Simply pour the cooled oil into a bottle, screw the cap on tightly, and drop it off at the designated recycling point at Our Green Hub. Let’s pave the way to a cleaner, greener Singapore!
+
+<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfzocI-b7etFuEkXSDYNwL0jlrshQlAuDniB9-YM84YM_qNEQ/viewform">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
