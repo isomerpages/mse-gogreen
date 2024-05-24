@@ -4,3 +4,22 @@ permalink: /biodiversity-and-ecosystems-tour-gardens-by-the-bay/
 variant: markdown
 description: ""
 ---
+![](/images/Tours/GBTB_biodiversity_and_ecosystem_tour.jpg)
+
+**Dates:** <br>
+15, 16, 22, 23, 29, 30 June, 10:30 am – 11:30 am  
+6, 7, 13, 14 July, 10:30 am – 11:30 am<br>
+**Admission:**<br>
+*[Singapore Residents]* <br>
+Free (registration required)<br>
+*[For non-residents]*<br>
+1 conservatory: $24 for adult | $15 for child via walk in<br>
+Both conservatories: $32 for adult | $18 for child via online purchase.**<br>
+**Venue:** Main Arrival Entrance (Outside McDonalds), Gardens by the Bay, 18 Marina Gardens Drive<br>
+**Organiser:** Gardens by the Bay
+
+This tour highlights the intricate relationships between plant, animal, and microbial biodiversity, and the ecosystems they compose and inhabit. Participants will be taken on a journey of diverse habitats from around the world and learn about how different organisms form special relationships to survive and thrive in very challenging conditions!&nbsp;
+
+This special tour includes free entry to Flower Dome for Singapore Residents.
+
+This 1-hour activity involves walking in the outdoor gardens. Gardens by the Bay is wheelchair-accessible.
