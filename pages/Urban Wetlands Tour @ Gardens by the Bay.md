@@ -8,8 +8,8 @@ description: ""
 **Through this outdoor nature walk, expose yourself to the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.**
 
 **Dates:** <br>
-15, 16, 22, 23, 29, 30 June, 8:30 am – 9:30 am  
-6, 7, 13, 14 July, 8:30 am – 9:30 am<br>
+15, 16, 22, 23, 29, 30 June, 9:30 am – 10:30 am  
+6, 7, 13, 14 July, 9:30 am – 10:30 am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Satay by the Bay, #01-19, Gardens by the Bay, 18 Marina Gardens Drive<br>
 **Organiser:** Gardens by the Bay
