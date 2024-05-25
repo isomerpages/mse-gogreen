@@ -159,10 +159,10 @@ description: ""
         <ul>
           <li>
             <strong>
-              Date: 29 June, 9:00 am - 10:00 am</strong>
+              Date: 29 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Blk 4C St. Georges Lane, Linkway Building</strong></li>
+          <li><strong>Venue: Blk 4C, St. Georges Lane, Linkway Building</strong></li>
           <li><strong>Organiser: Stridy Pte Ltd</strong></li>
         </ul>
       </div>
@@ -188,7 +188,7 @@ description: ""
         <ul>
           <li>
             <strong>
-              Date: 30 June, 2:00 pm - 5:00 pm</strong>
+              Date: 30 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Crane @ Claymore Connect</strong></li>
