@@ -20,7 +20,7 @@ Each participant will be given a goodie bag (worth $25) and will get to enjoy a 
 This activity is recommended for participants who are above 10 years old.
 
 
-<a class="btn-link" target="_blank" href="[info@sustenir.com](mailto:info@sustenir.com)">
+<a class="btn-link" target="_blank" href="mailto:info@sustenir.com">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
