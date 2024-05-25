@@ -11,7 +11,7 @@ description: ""
 * 6, 13 July, 10:00 am – 11:30 am
 
 **Admission:** 
-* $50/adult, free for children under 12. 
+* $50/adult, free for children under 12
 * Maximum of 2 children per adult<br>
 
 **Venue:** Bai Shi Yin Organisation, 31 Toh Guan Rd East, #08-01<br>
