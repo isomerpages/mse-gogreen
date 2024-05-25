@@ -2,10 +2,10 @@ collections:
   activities:
     output: true
     order:
-      - Events.md
       - Tours.md
       - Workshops & Talks.md
-      - Initiatives.md
+      - Events.md
       - Retail, F&B and Deals.md
       - Family Friendly.md
+      - Initiatives.md
       - Others.md
