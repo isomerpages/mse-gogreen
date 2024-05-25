@@ -9,6 +9,6 @@ description: ""
 **Date:** 12 June – 14 July<br>
 **Organiser:** Reebelo Singapore
 
-Reebelo is a marketplace for second-hand electronic devices like smartphones, tablets, and laptops. It helps to extend the lifespan of old gadgets by finding them new owners and reduce electronic waste.&nbsp;
+Reebelo is a marketplace for second-hand electronic devices like smartphones, tablets, and laptops. The platform helps to extend the lifespan of your unwanted gadgets by finding them new owners. 
 
-Do your part to reduce e-waste by selling your old electronics devices on Reebelo and get an extra S$20 voucher. Increase the lifespan of your devices and earn while doing so.
+Do your part to reduce e-waste by selling your old electronics devices on Reebelo and get an extra S$20 voucher!
