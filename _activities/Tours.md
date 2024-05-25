@@ -103,7 +103,7 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 12 June, 19 June</strong>
+              Date: 12 and 19 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Mobility Gallery</strong></li>
