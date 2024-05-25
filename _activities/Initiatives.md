@@ -263,7 +263,7 @@ description: ""
       <div class="programmes__item__header">
 <a href="/waste-to-wonder-paper-making-and-claymore-cleanup/">
         <img src="/images/Initiatives/waste_to_wonder.jpg"></a>
-        <h2>Waste to Wonder: Paper making &amp; Claymore Clean Up</h2>
+        <h2>Waste to Wonder: Paper Making &amp; Claymore Clean Up</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
