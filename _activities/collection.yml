@@ -2,6 +2,7 @@ collections:
   activities:
     output: true
     order:
+      - Events.md
       - Tours.md
       - Workshops & Talks.md
       - Initiatives.md
