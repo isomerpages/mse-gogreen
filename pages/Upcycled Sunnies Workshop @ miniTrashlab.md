@@ -6,7 +6,7 @@ description: ""
 ---
 ![Woman making upcycled sunglasses](/images/Workshop%20&amp;%20Talks/upcycled_sunnies_workshop.jpg)
 
-**Date:** 12 June to 14 July, 12:00 pm – 8:00 pm (weekdays), 11:00 am to 9:00 pm (weekends &amp; public holidays <br>
+**Date:** 12 June - 14 July, 12:00 pm – 8:00 pm (weekdays), 11:00 am to 9:00 pm (weekends &amp; public holidays <br>
 **Admission:** $41.90/pax<br>
 **Venue:** Sentosa, Beach Station Concourse, 50 Beach View<br>
 **Organiser:** Mount Faber Leisure Group Pte Ltd
