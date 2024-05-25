@@ -147,7 +147,7 @@ description: Retail, F&B and Deals
       <div class="programmes__item__header">
 				<a href="/sell-your-electronics-on-reebelo/">
 				<img src="/images/Reebelo_sell_your_old_electronics.png"></a>
-        <h2>Sell Your Electronics on Reebelo and Get Extra $20 Voucher</h2>
+        <h2>Sell Your Electronics and Get Extra $20 Voucher</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -155,7 +155,7 @@ description: Retail, F&B and Deals
             <strong>
               Date: 12 June - 14 July</strong>
           </li>
-          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+          <li><strong>Organiser: Reebelo</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
