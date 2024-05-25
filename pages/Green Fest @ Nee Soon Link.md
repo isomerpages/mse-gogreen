@@ -13,7 +13,7 @@ description: ""
 
 Green Fest @ Nee Soon Link (NSL) is an annual event organised by NSL Youth Network, aimed at rallying the NSL community towards embracing eco-friendly practices through awareness-building, showcasing local initiatives, and promoting green consumption.
 
-This year, a returning highlight is the Zero Market, in partnership with Tzu Chi Humanistic Youth Centre. Participants can purchase sustainable products from organic pineapple juice to handmade reusable household items.
+This year, a returning highlight is the Zero Market, in partnership with Tzu Chi Humanistic Youth Centre. Participants can purchase sustainable products such as organic pineapple juice and handmade reusable household items.
 
 Participants can also immerse themselves in hands-on activities, such as tie-dying and glass painting workshops to craft sustainable products with the guidance of Youth Network members. Participants can also unleash their creativity and repurpose recyclable materials into practical items.
 
