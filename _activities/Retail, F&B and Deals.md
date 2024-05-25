@@ -161,7 +161,7 @@ description: Retail, F&B and Deals
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Green Fest @ Nee Soon Link (NSL) is an annual event organised by NSL Youth Network, aimed at rallying the NSL community towards embracing eco-friendly practices through awareness-building, showcasing local initiatives, and promoting green consumption.
+        <p>&nbsp;A highlight of Green Fest is the Zero Market where you can shop for sustainable products such as organic pineapple juice and handmade reusable household items.
         </p>
       </div>
     </div>
