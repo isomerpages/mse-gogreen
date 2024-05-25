@@ -8,12 +8,13 @@ description: ""
 
 **Date:** 6 July, 9:00 am - 2:00 pm<br>
 **Admission:** Free (no registration required)<br>
-**Venue:** N4 Courtyard, Blk 414 Yishun Avenue 11<br>
+**Venue:** Blk 414 Yishun Avenue 11, N4 Courtyard<br>
 **Organiser:** Nee Soon Link Youth Network and Tzu Chi Humanistic Youth Centre
 
 Green Fest @ Nee Soon Link (NSL) is an annual event organised by NSL Youth Network, aimed at rallying the NSL community towards embracing eco-friendly practices through awareness-building, showcasing local initiatives, and promoting green consumption.
-This year, a returning highlight is the Zero Market, in partnership with Tzu Chi Humanistic Youth Centre. Participants can purchase sustainable products -- from organic pineapple juice to handmade reusable household items.
+
+This year, a returning highlight is the Zero Market, in partnership with Tzu Chi Humanistic Youth Centre. Participants can purchase sustainable products from organic pineapple juice to handmade reusable household items.
 
 Participants can also immerse themselves in hands-on activities, such as tie-dying and glass painting workshops to craft sustainable products with the guidance of Youth Network members. Participants can also unleash their creativity and repurpose recyclable materials into practical items.
 
-This activity is suitable for participants with mobility issues. 
+This activity is suitable for participants with mobility issues.
