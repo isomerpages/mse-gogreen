@@ -12,10 +12,11 @@ description: ""
 6, 7, 13, 14 July, 8:30 am – 9:30 am<br>
 
 **Admission:**<br>
-Free for Singapore residents (registration required)
+
+Free for Singapore residents (registration required)<br>
 For non-residents<br>
-1 conservatory: $24 for adult | $15 for child (via walk in)<br>
-Both conservatories: $32 for adult | $18 for child (via online purchase)<br>
+* 1 conservatory: $24 for adult | $15 for child (via walk in)<br>
+* Both conservatories: $32 for adult | $18 for child (via online purchase)<br>
 
 **Venue:** Exit B, Bayfront Plaza Shuttle Station<br>
 **Organiser:** Gardens by the Bay
