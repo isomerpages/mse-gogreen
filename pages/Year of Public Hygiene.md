@@ -196,7 +196,7 @@ This year's Go Green SG will feature activities and programmes to raise public a
               Date: 29 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Blk 4C St. Georges Lane, Linkway Building</strong></li>
+          <li><strong>Venue: Blk 4C, St. Georges Lane, Linkway Building</strong></li>
           <li><strong>Organiser: Stridy Pte Ltd</strong></li>
         </ul>
       </div>
