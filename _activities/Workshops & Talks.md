@@ -129,7 +129,7 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 12 June – 14 July(Excluding weekends and public holidays)</strong>
+              Date: 12 June – 14 July (Excluding weekends and public holidays)</strong>
           </li>
           <li><strong>Admission: $50/pax</strong></li>
           <li><strong>Venue: Admirax, 8 Admiralty Street</strong></li>
