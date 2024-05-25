@@ -19,7 +19,7 @@ For non-residents:<br>
 **Venue:** Gardens by the Bay, Main Arrival Entrance (Outside McDonalds)<br>
 **Organiser:** Gardens by the Bay
 
-This tour highlights the intricate relationships between plant, animal, and microbial biodiversity, and the ecosystems they compose and inhabit. Participants will be taken on a journey of diverse habitats from around the world and learn about how different organisms form special relationships to survive and thrive in very challenging conditions!
+This tour highlights the intricate relationships between plant, animal, and microbial biodiversity, and the ecosystems they compose and inhabit. Participants will be taken on a journey of diverse habitats from around the world and learn how different organisms form special relationships to survive and thrive in very challenging conditions!
 
 This special tour includes free entry to Flower Dome for Singapore Residents.
 
