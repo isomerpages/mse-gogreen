@@ -87,8 +87,8 @@ description: ""
   }
 </style>
 
-<div class="row row_custom">
-<div class="programmes__item col is-one-third">
+<div class="row row_custom">  
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/sustainability-school-business-course-and-training/">
@@ -99,7 +99,7 @@ description: ""
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Date: 12 June – 14 July</strong></li>
-          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Admission: Free (Account registration is required)</strong></li>
           <li><strong>Organiser: Schneider Electric</strong></li>
         </ul>
       </div>
@@ -114,6 +114,32 @@ description: ""
       </a>
     </div>
   </div>   
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/track-your-carbon-footprint-with-planetsustain/">
+					<img src="/images/Challenges%20&amp;%20Deals/Track_Your_Carbon_Footprint_with_PlanetSustain.png"></a>
+        <h2>Track Your Carbon Footprint with PlanetSustain
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 12 June – 14 July</strong></li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Organiser: Invosystems Solutions Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The PlanetSustain app empowers users to embrace responsible consumption and adopt sustainable practices in their daily lives.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/track-your-carbon-footprint-with-planetsustain/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div> 
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
