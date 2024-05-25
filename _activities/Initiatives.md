@@ -88,7 +88,33 @@ description: ""
 </style>
 
 <div class="row row_custom">
-  			  <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/sustainability-school-business-course-and-training/">
+					<img src="/images/Initiatives/Sustainability_School_Schneider.jpg"></a>
+        <h2>Sustainability School: Business Course and Training
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 12 June – 14 July</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Organiser: Schneider Electric</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Gain sustainability knowledge and skills with the Sustainability Programme. Start learning today!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-school-business-course-and-training/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/beach-clean-up-and-sustainability-talk/">
