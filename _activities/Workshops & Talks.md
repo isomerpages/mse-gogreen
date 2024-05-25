@@ -88,7 +88,7 @@ variant: markdown
 </style>
 
 <div class="row row_custom">
- 			  <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/co-nut-ink-ecosystem-program/">
@@ -118,7 +118,37 @@ variant: markdown
       </a>
     </div>
   </div>
-	  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/upcycled-sunnies-workshop-minitrashlab/">
+					<img src="/images/Workshop%20&amp;%20Talks/upcycled_sunnies_workshop.jpg"></a>
+        <h2>Upcycled Sunnies Workshop @ miniTrashlab
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: $41.90/pax</strong></li>
+          <li><strong>Venue: Sentosa, Beach Station Concourse</strong></li>
+          <li><strong>Organiser: Mount Faber Leisure Group Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join the Upcycled Sunnies Workshop @ miniTrashlab to upcycle retired kayaks, Skyline Luge carts, and other plastic waste found in Sentosa
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/upcycled-sunnies-workshop-minitrashlab/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
