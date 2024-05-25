@@ -88,7 +88,7 @@ description: Retail, F&B and Deals
 </style>
 
 <div class="row row_custom">
-					  <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
@@ -142,7 +142,34 @@ description: Retail, F&B and Deals
       </a>
     </div>
   </div>
-	   <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/sell-your-electronics-on-reebelo/">
+				<img src="/images/Reebelo_sell_your_old_electronics.png"></a>
+        <h2>Sell Your Electronics on Reebelo and Get Extra $20 Voucher</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Organiser: Singapore Fashion Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Do your part to reduce e-waste by selling your old electronics devices on Reebelo and get an extra S$20 voucher.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sell-your-electronics-on-reebelo/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/green-fest-nee-soon-link/">
