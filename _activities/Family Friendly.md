@@ -292,6 +292,35 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+				<a href="/seeds-and-senses-touch-tour-gardens-by-the-bay/">
+				<img src="/images/Tours/GBTB_seeds_senses_touch_tour.jpg"></a>
+        <h2>Seeds and Senses: Touch Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join guides on a tactile journey through Gardens by the Bay’s outdoor gardens to learn about plants with fascinating forms and textures, and how they relate to the sense of touch.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seeds-and-senses-touch-tour-gardens-by-the-bay/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/">
         <img src="/images/wermtech_asia_urban_insect_farm_tour.jpg"></a>
         <h2>Embark on WermTech Asia’s Urban Insect Farm Tour</h2>
