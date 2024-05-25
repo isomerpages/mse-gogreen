@@ -7,8 +7,8 @@ description: ""
 ![](/images/Tour_Image.jpg)
 
 **Date:** 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)<br>
-**Admission:** $50/pax (before GST) <br>
-**Venue:** 8 Admiralty Street, Admirax, #04-04 Singapore 757438<br>
+**Admission:** $50/pax <br>
+**Venue:** Admirax,8 Admiralty Street, #04-04 <br>
 **Organiser:** Sustenir
 
 In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
