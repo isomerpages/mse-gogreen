@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Tours/lta.jpg)
 
-**Date:** 12 June, 19 June, 12:30 pm – 4:30 pm<br>
+**Date:** 12 and 19 June, 12:30 pm – 4:30 pm<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Singapore Mobility Gallery, 1 Hampshire Road<br>
 **Organiser:** Land Transport Authority (LTA)<br>
