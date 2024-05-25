@@ -9,12 +9,12 @@ image: /images/Tours/friends_chestnut_nature_park.jpg
 
 **Date:** 6 July, 8:30 am – 10:30 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Chestnut Nature Park Car Park, 201 Chestnut Avenue<br>
+**Venue:** Chestnut Nature Park<br>
 **Organiser:** Friends of Chestnut Nature Park
 
 Unfamiliar with Chestnut Nature Park? Don't fret!
 
-Friends of Chestnut Nature Park present a free nature walk guided by residents of the area. Learn about the history of the park, including its plants and animals (some endangered!).&nbsp;
+Friends of Chestnut Nature Park present a free nature walk guided by residents of the area. Learn about the history of the park, including its plants and animals (some endangered!).
 
 Bring your family and friends down to meet new friends — and if you're lucky, you may even get to meet a mousedeer!&nbsp;
 
