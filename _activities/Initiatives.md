@@ -162,7 +162,7 @@ description: ""
               Date: 22 June</strong>
           </li>
           <li><strong>Admission: Free (no registration required)</strong></li>
-					<li><strong>Venue: BOur Green Hub, 40 Cambridge Road</strong></li>
+					<li><strong>Venue: Our Green Hub, 40 Cambridge Road</strong></li>
 					<li><strong>Organiser: Apeiron Bioenergy and Tanjong Pagar Town Council</strong></li>
         </ul>
       </div>
