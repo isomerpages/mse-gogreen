@@ -120,7 +120,7 @@ description: Retail, F&B and Deals
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Retail%20FB%20Deals/hero_image__ColouredJutesNew__2_.jpg"></a>
-        <h2>Discount on selected reusable bags</h2>
+        <h2>Discount on Selected Reusable Bags</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
