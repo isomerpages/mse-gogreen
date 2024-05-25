@@ -14,7 +14,7 @@ description: ""
 * $50/adult, free for children under 12. 
 * Maximum of 2 children per adult<br>
 
-**Venue:** Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01<br>
+**Venue:** Bai Shi Yin Organisation, 31 Toh Guan Rd East, #08-01<br>
 **Organiser:** Tribe Pte Ltd
 
 Get hands-on! Learn how your leftover food scraps can save the planet.
@@ -31,7 +31,7 @@ This activity is also suitable for individuals with mobility issues.
 
 
 
-<a class="btn-link" target="_blank" href="https://tribe-tours.com/product/go-green-sg-food-sustainability-tour /">
+<a class="btn-link" target="_blank" href="https://tribe-tours.com/product/go-green-sg-food-sustainability-tour/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
