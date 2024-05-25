@@ -25,3 +25,19 @@ What is carbon and how are humans affecting it? Learn about the different colour
 This special tour includes free entry to Flower Dome for Singapore Residents.
 
 This 1-hour activity involves walking in the outdoor gardens. Gardens by the Bay is wheelchair-accessible.
+
+<a class="btn-link" target="_blank" href="#">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
