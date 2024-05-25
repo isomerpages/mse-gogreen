@@ -93,7 +93,7 @@ variant: markdown
       <div class="programmes__item__header">
 <a href="/take-part-in-susgain-s-clean-green-app-challenge/">
         <img src="/images/susGain_x_Go_Green_SG_2024.png"></a>
-        <h2>Take part in susGain’s 'Clean &amp; Green' App Challenge!</h2>
+        <h2>Take Part in susGain’s 'Clean &amp; Green' App Challenge!</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
