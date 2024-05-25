@@ -301,7 +301,7 @@ variant: markdown
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/energy-and-water-tour-gardens-by-the-bay/">
-				<img src="/images/Tours/GBTB_carbonandclimatetour.jpg"></a>
+				<img src="/images/Tours/GBTB_energy_water_tour.jpg"></a>
         <h2>Energy and Water Tour</h2>
       </div>
       <div class="programmes__item__detail">
