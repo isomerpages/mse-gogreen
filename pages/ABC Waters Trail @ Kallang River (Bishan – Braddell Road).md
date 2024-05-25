@@ -6,10 +6,10 @@ description: ""
 ---
 ![ABC Water Trail _Shimizu](/images/Tours/ABC_Waters_Trail_Shimizu.jpg)
 
-**Date:** 22, 29 June, 9:00 am – 10:45 am<br>
+**Date:** 22 and 29 June, 9:00 am – 10:45 am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** ABC Waters @ Kallang River (Bishan Road - Braddell Road)<br>
-**Organisers:** Shimizu Corporatio and PUB
+**Organisers:** Shimizu Corporation and PUB
 
 Join Shimizu Corporation and PUB for the ABC (Active, Beautiful, Clean) Waters Trail @ Kallang River (Bishan – Braddell Road). 
 
