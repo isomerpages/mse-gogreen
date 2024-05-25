@@ -326,6 +326,35 @@ variant: markdown
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/seeds-and-senses-smell-tour-gardens-by-the-bay/">
+				<img src="/images/Tours/GBTB_smell_tour_key_visual.jpg"></a>
+        <h2>Seeds and Senses: Smell Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Here’s your chance to stop and smell the flowers, fruits, and leaves! Journey with guides through the World of Plants gardens at Gardens by the Bay.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seeds-and-senses-smell-tour-gardens-by-the-bay/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
