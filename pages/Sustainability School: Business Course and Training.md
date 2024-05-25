@@ -20,7 +20,7 @@ Have you ever wanted to do more for sustainability but didn't know how? Schneide
 Join the Sustainability School and become a sustainability ambassador among your peers. Start learning today!
 
 
-<a class="btn-link" target="_blank" href="https://www.se.com/sg/en/work/solutions/sustainability/school-training-and-online-courses.jsp](https://www.se.com/sg/en/work/solutions/sustainability/school-training-and-online-courses.jsp)7">
+<a class="btn-link" target="_blank" href="https://www.se.com/sg/en/work/solutions/sustainability/school-training-and-online-courses.jsp">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -37,7 +37,7 @@ Join the Sustainability School and become a sustainability ambassador among your
 </style>
 
 
-<a class="btn-link" target="_blank" href="[https://www.youtube.com/watch?v=zGkljg-PDhQ](https://www.youtube.com/watch?v=zGkljg-PDhQ)">
+<a class="btn-link" target="_blank" href="https://www.youtube.com/watch?v=zGkljg-PDhQ">
 	<img src="/images/more-info-btn.png">
 </a>
 
