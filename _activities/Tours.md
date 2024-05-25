@@ -300,6 +300,35 @@ variant: markdown
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+				<a href="/energy-and-water-tour-gardens-by-the-bay/">
+				<img src="/images/Tours/GBTB_carbonandclimatetour.jpg"></a>
+        <h2>Energy and Water Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Exit B, Bayfront Plaza Shuttle Station</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Experience a journey covering the two essentials that sustain and underpin life – energy and water. This tour explores the water-sensitive urban design concepts at Gardens by the Bay.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/energy-and-water-tour-gardens-by-the-bay/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/">
         <img src="/images/wermtech_asia_urban_insect_farm_tour.jpg"></a>
         <h2>Embark on WermTech Asia’s Urban Insect Farm Tour</h2>
