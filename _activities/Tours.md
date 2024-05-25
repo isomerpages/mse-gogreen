@@ -239,7 +239,7 @@ variant: markdown
       </a>
     </div>
   </div>
-						  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/biodiversity-and-ecosystems-tour-gardens-by-the-bay/">
@@ -264,6 +264,35 @@ variant: markdown
     </div>
     <div class="programmes__item__actions">
       <a href="/biodiversity-and-ecosystems-tour-gardens-by-the-bay/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/carbon-and-climate-tour-gardens-by-the-bay/">
+				<img src="/images/Tours/GBTB_carbonandclimatetour.jpg"></a>
+        <h2>Carbon and Climate Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens by the Bay</strong></li>
+          <li><strong>Organiser: Gardens by the Bay</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In this Gardens by the Bay tour, learn about the different colours of carbon, carbon sources and sinks, and what this means for a changing climate.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/carbon-and-climate-tour-gardens-by-the-bay/" class="button-primary">
         Find out more
       </a>
     </div>
