@@ -25,3 +25,19 @@ Experience a journey through the two essentials that sustain and underpin life â
 This special tour includes free entry to Cloud Forest for Singapore residents.
 
 This 1-hour activity involves walking in the outdoor gardens and Gardens by the Bay is wheelchair-accessible.
+
+<a class="btn-link" target="_blank" href="#">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
