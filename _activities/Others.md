@@ -115,4 +115,34 @@ variant: markdown
         Find out more
       </a>
     </div>
-  </div></div>
+  </div>
+   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/survive-the-collapse-a-sustainability-based-outdoor-scavenger-hunt/">
+        <img src="/images/Others/hero_image__Collapse_after__1_.jpg"></a>
+        <h2>Survive The Collapse, A Sustainability Based Outdoor Scavenger Hunt</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: $15 (registration required)</strong></li>
+					<li><strong>Venue: Far East Square, Genius Central</strong></li>
+          <li><strong>Organiser: OCERA Games</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Take part in a scavenger hunt game to learn more about climate change.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/survive-the-collapse-a-sustainability-based-outdoor-scavenger-hunt/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+</div>
