@@ -133,7 +133,7 @@ description: ""
           </li>
           <li><strong>Admission: $26 per child, $10 per accompanying adult</strong></li>
           <li><strong>Venue: Sentosa, 81 Siloso Road</strong></li>
-          <li><strong>Organiser: Co⁺Nut⁺Ink Pte Ltd</strong></li>
+          <li><strong>Organiser: Co⁺Nut⁺ink Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -152,13 +152,13 @@ description: ""
       <div class="programmes__item__header">
 <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
         <img src="/images/Tour_Image.jpg"></a>
-        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to inspire better health</h2>
+        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to Inspire Better Health</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 12 June – 14 July (Excluding weekends and public holidays)</strong>
+              Date: 12 June – 14 July (excluding weekends and public holidays)</strong>
           </li>
           <li><strong>Admission: $50/pax</strong></li>
           <li><strong>Venue: Admirax, 8 Admiralty Street</strong></li>
@@ -564,7 +564,7 @@ description: ""
         <ul>
           <li>
             <strong>
-              Date: 29, 30 June</strong>
+              Date: 29 and 30 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Harbourfront Centre</strong></li>
