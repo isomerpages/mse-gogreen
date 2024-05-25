@@ -11,13 +11,8 @@ description: ""
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 11:30 am – 12:30 pm  
 6, 7, 13, 14 July, 11:30 am – 12:30 pm<br>
-**Admission:**<br>
-*[Singapore Residents]* <br>
-Free (registration required)<br>
-*[For non-residents]*<br>
-1 conservatory: $24 for adult | $15 for child via walk in<br>
-Both conservatories: $32 for adult | $18 for child via online purchase.**<br>
-**Venue:** Friends of the Gardens Centre, #03-02/03, Gardens by the Bay, 18 Marina Gardens Drive<br>
+**Admission:** Free (registration required)<br>
+**Venue:** Gardens by the Bay, Friends of the Gardens Centre, #03-02/03<br>
 **Organiser:** Gardens by the Bay
 
 Smooth and sticky, sharp and rough, fluted and furry – feel some examples of different textures that plants have evolved on the surfaces of their trunks, leaves, roots, fruits, and flowers to survive and thrive!&nbsp;
