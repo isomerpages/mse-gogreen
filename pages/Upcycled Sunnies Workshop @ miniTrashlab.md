@@ -8,7 +8,7 @@ description: ""
 
 **Date:** 12 June to 14 July, 12:00 pm – 8:00 pm<br>
 **Admission:** $41.90/pax<br>
-**Venue:** Beach Station Concourse, Sentosa, 50 Beach View<br>
+**Venue:** Sentosa, Beach Station Concourse, 50 Beach View<br>
 **Organiser:** Mount Faber Leisure Group Pte Ltd
 
 Join the Upcycled Sunnies Workshop @ miniTrashlab to upcycle retired kayaks, Skyline Luge carts, and other plastic waste found in Sentosa. Experience a hands-on journey of transforming plastic waste into sunglasses, ideal for your island adventure! 
