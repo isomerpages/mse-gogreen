@@ -7,9 +7,9 @@ description: Maritime Evolution Trail
 ![Maritime Evolution Trail](/images/Tours/MPA_Maritime_Evolution_Trail.jpg)
 **Join this thrilling Maritime Evolution Trail, tracing Singapore’s modern maritime industry from Labrador Park to St James Power Station. Explore dynamic Keppel Harbour, strategic St James Power Station, and hearing inspiring stories of our port infrastructure.**
 
-**Date:** 29, 30 June, 10:00 am to 12.30pm<br>
+**Date:** 29 and 30 June, 10:00 am to 12.30pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Harbourfront Centre, Passenger Service Counter 1, Maritime Square, Singapore 099253<br>
+**Venue:** Harbourfront Centre, 1, Maritime Square (Passenger Service Counter)<br>
 **Organiser:** Maritime and Port Authority of Singapore
 
 
