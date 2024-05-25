@@ -18,7 +18,7 @@ Whether you are a conscientious consumer, an eco-conscious student, or a sustain
 
 
 <a class="btn-link" target="_blank" href="https://invosystems.com/PlanetSustain/](https://invosystems.com/PlanetSustain/)">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
