@@ -297,6 +297,35 @@ variant: markdown
       </a>
     </div>
   </div>
+							  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/abc-waters-trail-kallang-river-bishan-braddell-road/">
+				<img src="/images/Tours/ABC_Waters_Trail_Shimizu.jpg"></a>
+        <h2>ABC Waters Trail @ Kallang River (Bishan – Braddell Road)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 and 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: ABC Waters @ Kallang River</strong></li>
+          <li><strong>Organiser: Shimizu Corporation and PUB</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn more about Singapore’s Water Story and how the ABC Waters Programme is transforming Singapore’s canal, rivers &amp; reservoirs into beautiful recreational spaces.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/abc-waters-trail-kallang-river-bishan-braddell-road/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
