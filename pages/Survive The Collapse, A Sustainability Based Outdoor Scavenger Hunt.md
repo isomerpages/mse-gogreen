@@ -18,3 +18,19 @@ Get transported to the year 2060 and step into a very different Singapore. You a
 After the game, meet the other teams and debrief strategies over some well-deserved drinks. Forge new connections and relish the spirit of unity that emerges from this gripping experience. Get ready to learn a great deal about the planet and environmental challenges that must be confronted.
 
 Children aged 0 to 14 must be accompanied by a paying adult.
+
+<a class="btn-link" target="_blank" href="https://survive-the-collapse.com/">
+  <img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+  .btn-link {
+    display: inline-block;
+  }
+  a.btn-link[target="_blank"]:after {
+  display: none;
+}
+  .btn-link > img {
+    width: 100%;
+  }
+</style>
