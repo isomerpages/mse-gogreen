@@ -91,6 +91,35 @@ description: ""
    <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/recycle-your-household-used-cooking-oil-here/">
+        <img src="/images/Events/hero_image__apeiron_bioenergy_and_tptc.png"></a>
+        <h2>Recycle Your Household Used Cooking Oil</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+					<li><strong>Venue: BOur Green Hub, 40 Cambridge Road</strong></li>
+					<li><strong>Organiser: Apeiron Bioenergy and Tanjong Pagar Town Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Apeiron Bioenergy and Tanjong Pagar Town Council as they launch Singapore’s first-ever used cooking oil recycling point for households and learn how to dispose of your own used cooking oil responsibly.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/recycle-your-household-used-cooking-oil-here/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/green-fest-nee-soon-link/">
         <img src="/images/Nee_Soon_Link_Green_Fest.jpg"></a>
         <h2>Green Fest @ Nee Soon Link</h2>
