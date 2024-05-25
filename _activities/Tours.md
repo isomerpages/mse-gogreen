@@ -103,10 +103,10 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 12 June, 19 June, 12:30 pm – 4:30 pm</strong>
+              Date: 12 June, 19 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Mobility Gallery, 1 Hampshire Road</strong></li>
+          <li><strong>Venue: Singapore Mobility Gallery</strong></li>
           <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
         </ul>
       </div>
@@ -132,10 +132,10 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)</strong>
+              Date: 12 June – 14 July (Excluding weekends and public holidays)</strong>
           </li>
           <li><strong>Admission: $50/pax</strong></li>
-          <li><strong>Venue: 8 Admiralty Street, Admirax, #04-04 Singapore 757438</strong></li>
+          <li><strong>Venue: Admirax, 8 Admiralty Street</strong></li>
           <li><strong>Organiser: Sustenir</strong></li>
         </ul>
       </div>
@@ -221,7 +221,7 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 14, 21, 28 June, 2:00 pm – 4:00 pm</strong>
+              Date: 14, 21, 28 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Earth Observatory of Singapore, Nanyang Technological University</strong></li>
@@ -253,7 +253,7 @@ variant: markdown
               Date: 15, 16, 22, 23, 29, 30 June; 6, 7, 13, 14 July </strong>
           </li>
           <li><strong>Admission: $12.50 (registration required)</strong></li>
-          <li><strong>Venue: 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12</strong></li>
+          <li><strong>Venue: Citilink Warehouse Complex, 102E Pasir Panjang Road </strong></li>
           <li><strong>Organiser: WermTech.Asia Pte Ltd</strong></li>
         </ul>
       </div>
@@ -279,10 +279,10 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 15, 22, 29 June 10:00 am - 11:30 am; 6, 13 July 10:00 am - 11:30 am</strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
           </li>
           <li><strong>Admission: $50/adult, free for children under 12</strong></li>
-          <li><strong>Venue: Bai Shi Yin Organisation, 31 Toh Guan Rd E, #08-01</strong></li>
+          <li><strong>Venue: Bai Shi Yin Organisation, 31 Toh Guan Rd East</strong></li>
           <li><strong>Organiser: Tribe Pte Ltd</strong></li>
         </ul>
       </div>
@@ -341,7 +341,7 @@ variant: markdown
               Date: 29, 30 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Harbourfront Centre, Passenger Service Counter 1, Maritime Square</strong></li>
+          <li><strong>Venue: Harbourfront Centre</strong></li>
           <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
         </ul>
       </div>
@@ -367,10 +367,10 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 6 July, 8:30 am – 10:30 am</strong>
+              Date: 6 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Chestnut Nature Park Car Park, 201 Chestnut Avenue</strong></li>
+          <li><strong>Venue: Chestnut Nature Park</strong></li>
           <li><strong>Organiser: Friends of Chestnut Nature Park</strong></li>
         </ul>
       </div>
@@ -396,7 +396,7 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 9 July 4:00 pm - 5:00pm; 11 July 9:00 am - 10:00 am</strong>
+              Date: 9 and 11 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Republic Polytechnic Centre, 9 Woodlands Avenue 9</strong></li>
