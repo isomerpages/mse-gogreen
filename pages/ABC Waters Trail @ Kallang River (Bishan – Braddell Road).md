@@ -6,12 +6,14 @@ description: ""
 ---
 ![ABC Water Trail _Shimizu](/images/Tours/ABC_Waters_Trail_Shimizu.jpg)
 
-**Date:** 22, 29 June 9:00 am – 10:45 am<br>
+**Date:** 22, 29 June, 9:00 am – 10:45 am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** ABC Waters @ Kallang River (Bishan Road - Braddell Road)<br>
-**Organisers:** Shimizu Corporation, PUB
+**Organisers:** Shimizu Corporatio and PUB
 
-Join Shimizu Corporation and PUB for the ABC (Active, Beautiful, Clean) Waters Trail @ Kallang River (Bishan – Braddell Road). Through a walking tour by Shimizu’s PUB-trained docents, learn more about Singapore’s Water Story and how the ABC Waters Programme is transforming Singapore's canal, rivers &amp; reservoirs into beautiful recreational spaces. Experience first-hand how playing your part helps keep our waterways and catchments clean and litter-free.&nbsp;
+Join Shimizu Corporation and PUB for the ABC (Active, Beautiful, Clean) Waters Trail @ Kallang River (Bishan – Braddell Road). 
+
+You will be led on a walking tour by Shimizu’s docents who are trained by PUB. Learn more about Singapore’s Water Story and how the ABC Waters Programme is transforming Singapore's canal, rivers &amp; reservoirs into beautiful recreational spaces. Experience first-hand how playing your part will keep our waterways and catchments clean and litter-free.&nbsp;
 
 Participants are advised to wear comfortable clothes and shoes, and to bring along their own water bottles.&nbsp;
 
