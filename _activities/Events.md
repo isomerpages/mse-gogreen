@@ -88,7 +88,33 @@ description: ""
 </style>
 
 <div class="row row_custom">
-   <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/saving-bumi-family-day/">
+        <img src="/images/Skool4kidz___Saving_Bumi_Family_Day.jpg"></a>
+        <h2>Saving Bumi Family Day</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 15 June</strong></li>
+          <li><strong>Admission: $7/pax</strong></li>
+					<li><strong>Venue: Block 32B Marsiling Drive</strong></li>
+					<li><strong>Organiser: Skool4kidz Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This event will showcase a diverse array of sustainably created crafts made by the preschoolers of Skool4kidz of Marsiling Drive. Take part in fun games, activities, and a planting workshop too!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/saving-bumi-family-day/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/recycle-your-household-used-cooking-oil-here/">
