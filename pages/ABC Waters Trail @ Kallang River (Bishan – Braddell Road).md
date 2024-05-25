@@ -43,14 +43,3 @@ Note: In the case of heavy rain, the walk will be cancelled.
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
