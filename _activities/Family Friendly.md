@@ -439,4 +439,33 @@ description: ""
       </a>
     </div>
   </div>
+   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/green-fest-nee-soon-link/">
+        <img src="/images/Nee_Soon_Link_Green_Fest.jpg"></a>
+        <h2>Green Fest @ Nee Soon Link</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+					<li><strong>Venue: Blk 414 Yishun Avenue 11</strong></li>
+					<li><strong>Organiser: Nee Soon Link Youth Network and Tzu Chi Humanistic Youth Centre</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Green Fest @ Nee Soon Link (NSL) is an annual event organised by NSL Youth Network, aimed at rallying the NSL community towards embracing eco-friendly practices through awareness-building, showcasing local initiatives, and promoting green consumption.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/green-fest-nee-soon-link/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 </div>
