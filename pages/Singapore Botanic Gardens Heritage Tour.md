@@ -4,7 +4,7 @@ permalink: /singapore-botanic-gardens-heritage-tour/
 variant: markdown
 description: ""
 ---
- ![](/images/Tours/SBG_heritage_tour.jpg)
+![Singapore Botanic Gardens Bandstand](/images/Tours/SBG_heritage_tour.jpg)
 
 **Date:** 15 June, 9:00 am – 10:00 am<br>
 **Admission:** Free (registration required)<br>
