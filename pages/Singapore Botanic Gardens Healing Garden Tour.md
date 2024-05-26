@@ -4,7 +4,7 @@ permalink: /singapore-botanic-gardens-healing-garden-tour/
 variant: markdown
 description: ""
 ---
-![](/images/Tours/SBG_heritage_tour.jpg)
+![Orange flowers in a garden](/images/Tours/SBG_healing_tour.jpg)
 
 **Date:** 6 July, 9:00 am – 10:00 am<br>
 **Admission:** Free (registration required)<br>
