@@ -240,4 +240,33 @@ This year's Go Green SG will feature activities and programmes to raise public a
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
+        <img src="/images/Tours/Sewer_Choke_Demonstration_and_Visit_to_Ulu_Pandan_Reclamation_Plant.png"></a>
+        <h2>Sewer Choke Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: PUB Waterhub, 80 Toh Guan Road East</strong></li>
+          <li><strong>Organiser: PUB, Singapore’s National Water Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn what common materials choke our sewage systems, and do your part to keep public and private sewers free-flowing to minimise public health issues. Witness a manhole inspection and demonstration of how sewer chokes are cleared.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
