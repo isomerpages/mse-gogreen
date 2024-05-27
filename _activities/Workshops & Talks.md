@@ -153,7 +153,7 @@ variant: markdown
       <div class="programmes__item__header">
 <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
         <img src="/images/Tour_Image.jpg"></a>
-        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to Inspire Better health</h2>
+        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to Inspire Better Health</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -177,7 +177,36 @@ variant: markdown
       </a>
     </div>
   </div>
-						  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/dazzling-dendrobium-from-your-home-to-the-world-stage/">
+        <img src="/images/Workshop%20&amp;%20Talks/Dazzling_Dendrobium_HortPark_workshop.jpg"></a>
+        <h2>Dazzling Dendrobium: From Your Home to the World Stage</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: HortPark</strong></li>
+          <li><strong>Organiser: Sustenir</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Pick up practical tips on how to grow orchids at home and be introduced to a wide array of Dendrobium hybrids named after international dignitaries and celebrities.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/dazzling-dendrobium-from-your-home-to-the-world-stage/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/">
