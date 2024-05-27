@@ -591,6 +591,35 @@ variant: markdown
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/learning-journey-to-changi-water-reclamation-plant/">
+        <img src="/images/Tours/Learning_Journey_to_Changi_Water_Reclamation_Plant.png"></a>
+        <h2>Learning Journey to Changi Water Reclamation Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Changi Water Reclamation Plant</strong></li>
+          <li><strong>Organiser: PUB, Singapore’s National Water Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Changi Water Reclamation Plant (WRP), one of the largest and most advanced water reclamation facilities in the world.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/learning-journey-to-changi-water-reclamation-plant/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/walk-with-your-neighbours-chestnut-nature-park/">
         <img src="/images/Tours/friends_chestnut_nature_park.jpg"></a>
         <h2>Walk With Your Neighbours @ Chestnut Nature Park</h2>
