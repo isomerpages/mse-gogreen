@@ -4,8 +4,6 @@ permalink: /game-to-go-green/
 variant: markdown
 description: ""
 ---
-
-
 **Date:** 19 June, 9:00 am – 11:00 am | 1:00 pm – 3:00 pm<br>
 **Admission:** Free (registration required, admission charges to Science Centre applies)<br>
 **Venue:** Science Centre Singapore, 15 Science Centre Road, Curie and Herschel Labs (Level 2)<br>
