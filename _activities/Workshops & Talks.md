@@ -192,7 +192,7 @@ variant: markdown
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: HortPark</strong></li>
-          <li><strong>Organiser: Sustenir</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
