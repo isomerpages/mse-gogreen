@@ -242,6 +242,35 @@ variant: markdown
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/edibles-discovery-tour-at-the-hortpark/">
+        <img src="/images/Tours/Nparks_hortpark_edibles_tour.jpg"></a>
+        <h2>Edibles Discovery Tour at the HortPark</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: HortPark</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Excite your taste buds as you discover the various edibles that can be grown in your backyard and balcony spaces. Learn about heirloom edibles used in cooking and sustainable gardening practices.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/edibles-discovery-tour-at-the-hortpark/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/biodiversity-and-ecosystems-tour-gardens-by-the-bay/">
 				<img src="/images/Tours/GBTB_biodiversity_and_ecosystem_tour.jpg"></a>
         <h2>Biodiversity and Ecosystems Tour</h2>
