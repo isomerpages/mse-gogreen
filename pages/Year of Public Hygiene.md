@@ -9,7 +9,7 @@ image: /images/YOPH.jpg
 
 Go Green SG returns this year in support of the Year of Public Hygiene.
 
-This year's Go Green SG will feature activities and programmes to raise public awareness and nudge citizens to do their part for a cleaner and greener Singapore
+This year's Go Green SG will feature activities and programmes to raise public awareness and nudge citizens to do their part for a cleaner and greener Singapore.
 
 <style>
   .row_custom {
