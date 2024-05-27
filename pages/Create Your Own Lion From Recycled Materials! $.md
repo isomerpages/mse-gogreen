@@ -4,22 +4,22 @@ permalink: /create-your-own-lion-from-recycled-materials/
 variant: markdown
 description: ""
 ---
+![Create Your own Lion from Recycled Materials - Fullerton](/images/Workshop%20&amp;%20Talks/Create_your_own_lion_from_recycled_materials_.jpg)
 
-
-**Date:** 14, 21, 28 June, 2:00 pm – 4:00 pm<br>
+**Date:** 22 June, 3:00 pm to 4:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Earth Observatory of Singapore, Nanyang Technological University, 50 Nanyang Avenue, Block N2-01a-15<br>
-**Organiser:** Earth Observatory of Singapore
+**Venue:** The Fullerton Hotel Singapore, 1 Fullerton Square (Inland Revenue Room, Basement 1)<br>
+**Organiser:** The Fullerton Hotel Singapore
 
-The Earth Observatory of Singapore (EOS) invites participants to learn about EOS’ activities, and to see how EOS is tackling the sustainability issues of the day.
+Embrace the spirit of the Lion City by crafting your own majestic lion using recycled materials! Let your creativity run wild as you transform everyday items into an eco-friendly masterpiece.&nbsp;
 
-The visit will include a walkthrough of the EOS laboratories to learn how its scientists are developing solutions to adapt to future climate change.
+&nbsp;Please make your reservation at least 3 days in advance by emailing [tfs.concierge@fullertonhotels.com](mailto:tfs.concierge@fullertonhotels.com).&nbsp;&nbsp;
 
-Participants will also get to think about sustainability in a broader perspective by considering other key aspects such as our resilience to natural hazards.&nbsp;
+Please arrive 10 minutes prior to the session. Latecomers will be turned away. Activity schedule and programmes are subject to change at the discretion of the hotel.&nbsp;
 
-Registration for this tour is on a first come, first served basis. The tour is suitable for secondary school students and adults (including individuals with mobility issues).
+This activity is recommended for children between 5 and 10 years old.
 
-<a class="btn-link" target="_blank" href="https://forms.office.com/r/mZWtTK3BxC">
+<a class="btn-link" target="_blank" href="https://www.fullertonhotels.com/fullerton-hotel-singapore/offers/fullerton-experiences/crafty-lion-creations">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
