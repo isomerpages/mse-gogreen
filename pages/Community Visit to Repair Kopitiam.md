@@ -18,7 +18,7 @@ If not properly cleaned, such food appliances can become breeding grounds for gr
 Participants will then be brought on a walk-about around Our Tampines Hub to experience how sustainable solutions are applied in practical ways. Experience firsthand how the mall reduces energy consumption, minimises its carbon footprint, conserves water, and processes food waste. The event provides a good opportunity for participants to learn and be inspired by real-world examples of sustainability in action.
 
 <a class="btn-link" target="_blank" href="https://forms.gle/szvVjhdCT1jY6UmV7">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
