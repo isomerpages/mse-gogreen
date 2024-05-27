@@ -20,11 +20,10 @@ In "Fact or Fiction (Energy Edition)", a fraudster is scamming you with fictitio
 
 These activities are suitable for participants aged 10 and above. &nbsp;
 
-Do note that Science Centre admission charges apply:&nbsp;
-
+Do note that Science Centre admission charges apply:<br>
 Child (ages 3 to 12): $4 | Adult: $6 | Senior Citizen (ages 60 and above): $4 | Existing members of the Science Centre will enjoy complimentary access.
 
-<a class="btn-link" target="_blank" href="">
+<a class="btn-link" target="_blank" href="https://form.gov.sg/66050c384eb0e8df4544b572">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
