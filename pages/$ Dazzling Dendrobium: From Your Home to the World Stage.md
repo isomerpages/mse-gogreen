@@ -11,7 +11,7 @@ description: ""
 **Venue:** HortPark<br>
 **Organiser:** National Parks Board<br>
 
-Dendrobium orchids produce beautiful and intricate flowers, making them a popular choice among orchid growers. In this talk, Jeremy (Manager, National Orchid Garden) will share practical tips on how to grow orchids in your home environment, and introduce to you the wide array of Dendrobium hybrids named after international dignitaries and celebrities.
+Dendrobium orchids produce beautiful and intricate flowers, making them a popular choice among orchid growers. In this talk, you will pick up practical tips on how to grow orchids in your home environment, and be introduced to a wide array of Dendrobium hybrids named after international dignitaries and celebrities.
 
 <a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/GDO24_29/448_Jun-2024-GDO-Gardening-Series-Dazzling-Dendrobium-From-your-Home-to-the-World-Stage">
 	<img src="/images/gogreensg_website-32.png">
