@@ -238,6 +238,35 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/edibles-discovery-tour-at-the-hortpark/">
+        <img src="/images/Tours/Nparks_hortpark_edibles_tour.jpg"></a>
+        <h2>Edibles Discovery Tour at the HortPark</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: HortPark</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Excite your taste buds as you discover the various edibles that can be grown in your backyard and balcony spaces. Learn about heirloom edibles used in cooking and sustainable gardening practices.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/edibles-discovery-tour-at-the-hortpark/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/saving-bumi-family-day/">
         <img src="/images/Skool4kidz___Saving_Bumi_Family_Day.jpg"></a>
         <h2>Saving Bumi Family Day</h2>
