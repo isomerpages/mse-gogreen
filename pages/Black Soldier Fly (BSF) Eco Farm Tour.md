@@ -10,14 +10,23 @@ description: ""
 * 22 June, 10:00 am – 11:30 am 
 * 13 July, 10:00 am – 11:30 am <br>
 
-**Admission:** Free (no registration required)<br>
-**Venue:** Design Orchard, 250 Orchard Road<br>
-**Organiser:** Singapore Fashion Council
+**Admission:** 
+* Adult: $33
+* Child (13 years old and above): $33
+* Child (7 to 12 years old): $28
+* Parent + Child (6 years old and below): $44  <br>
 
-Customers who bring their own bag during Go Green SG (12 June – 14 July) will enjoy double the points on their purchase when they shop at Design Orchard.
+**Venue:** Sustainability @ Tampines Park, 144 Tampines Street 12<br>
+**Organiser:** Otolith Enrichment
 
-<a class="btn-link" target="_blank" href="https://www.designorchard.sg/ido-crm">
-	<img src="/images/more-info-btn.png">
+Treat your kids to an eye-opening and hands-on learning experience.  Learn how the docile Black Soldier Fly (BSF) uses its magic to turn trash into treasure, and provide a solution to food waste. Understand the various stages of the BSF's life cycle, and how it can play an important role in creating a more sustainable future for all. In addition, participants will visit a community farm, help fertilise plants with BSF frass, and feed both fish and quails with BSF larvae.  
+
+The eco farm tour is designed for both adults and children. Children aged 6 and below must be accompanied by parents.   
+
+Accompanying adults are considered participants as well.  
+
+<a class="btn-link" target="_blank" href="http://tiny.cc/BSFEcoFarmTour">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
