@@ -11,9 +11,9 @@ description: ""
 **Venue:** Changi Water Reclamation Plant, 10 Changi East Close<br>
 **Organiser:** PUB, Singapore’s National Water Agency
 
-Visit the Changi Water Reclamation Plant (WRP), one of the largest and most advanced water reclamation facilities in the world. Changi WRP is noted for its compact and innovative design features, like being built partially underground and stacking its used water treatment facilities to optimise land use efficiency. Learn more about the influent pumping station located 60m underground - the heart of Singapore's Deep Tunnel Sewerage System! Discover how treated effluent at the WRP is subsequently utilised as feedstock to produce NEWater at the Changi NEWater Factory, co-located with the Changi WRP.&nbsp;
+Visit the Changi Water Reclamation Plant (WRP), one of the largest and most advanced water reclamation facilities in the world. Changi WRP is noted for its compact and innovative design features, like being built partially underground and stacking its used water treatment facilities to optimise land use efficiency. Learn more about the influent pumping station located 60m underground - the heart of Singapore's Deep Tunnel Sewerage System. Discover how treated effluent at the WRP is subsequently utilised as feedstock to produce NEWater at the Changi NEWater Factory, co-located with the Changi WRP.
 
-Transport will be provided from Environment Building (40 Scotts Road).&nbsp;&nbsp;
+Transport will be provided from Environment Building (40 Scotts Road).
 
 Participants must be 18 years old and above and wear covered shoes for the visit. Please note that this is a bus tour, and participants will only disembark at designated locations.
 
