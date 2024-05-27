@@ -261,6 +261,35 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/community-visit-to-repair-kopitiam/">
+        <img src="/images/SL2_Impact_Air_Fryer.jpg"></a>
+        <h2>Community Visit to Repair Kopitiam</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Our Tampines Hub</strong></li>
+          <li><strong>Organiser: SL2 Impact Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how to keep food appliances clean and well-maintained for improved hygiene and performance.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/community-visit-to-repair-kopitiam/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/waste-to-wonder-paper-making-and-claymore-cleanup/">
         <img src="/images/Initiatives/waste_to_wonder.jpg"></a>
         <h2>Waste to Wonder: Paper Making &amp; Claymore Clean Up</h2>
