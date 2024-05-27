@@ -4,7 +4,6 @@ permalink: /get-up-close-with-butterflies-at-the-butterfly-habitat/
 variant: markdown
 description: ""
 ---
-
 ![Volunteers enhancing a butterfly habitat](/images/Initiatives/Get_close_with_butterflies_Butterfly_Habitat.jpg)
 
 **Date:** 3 and 10 July, 9:00 am – 11:00 am  <br>
