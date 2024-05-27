@@ -4,7 +4,7 @@ permalink: /mangrove-clean-up-at-sungei-pang-sua/
 variant: markdown
 description: ""
 ---
- ![Woman picking up litter](/images/Initiatives/Mangrove_cleanup_sungei_pang_sua.jpg)
+![Woman picking up litter](/images/Initiatives/Mangrove_cleanup_sungei_pang_sua.jpg)
 
 **Date:** 29 June, 9:00 am – 12:00 pm<br>
 **Admission:** Free (registration required)<br>
