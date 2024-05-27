@@ -4,7 +4,7 @@ permalink: /wwf/
 variant: markdown
 description: ""
 ---
-![Paper, Plastic, Metal: What to Recycle?](/images/Others/WWF___Act_1.jpg)
+![Art and nature @ Rifle Range Park](/images/Tours/WWF__Act_2.jpg)
 
 **Date:** 19 June, 9:00 am to 11:00 am<br>
 **Admission:** Free (registration required)<br>
