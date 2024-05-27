@@ -39,14 +39,3 @@ Participants must be 18 years old and above and wear covered shoes for the visit
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
