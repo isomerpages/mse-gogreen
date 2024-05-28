@@ -364,7 +364,7 @@ variant: markdown
         <ul>
           <li>
             <strong>
-              Date: 6July</strong>
+              Date: 6 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: City Sprouts</strong></li>
