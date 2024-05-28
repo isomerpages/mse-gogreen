@@ -92,9 +92,8 @@ variant: markdown
 	
 	.text-center-color {
 		text-align: center;
-		border: 2px solid green;
-		padding: 5px;
-		
+		color: #006633;
+		background-color: lightgreen;
 	}
 </style>
 
@@ -510,7 +509,36 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
       </a>
     </div>
   </div>
-						  <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/wwf-explores-art-and-nature-rifle-range/">
+				<img src="/images/Tours/WWF__Act_2.jpg"></a>
+        <h2>WWF Explores: Art and Nature @ Rifle Range Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Rifle Range Nature Park</strong></li>
+          <li><strong>Organiser: World Wide Fund for Nature Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore the roles of colours, shapes, and textures at Rifle Range Nature Park, with a focus on the physical adaptations of local flora and fauna. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wwf-explores-art-and-nature-rifle-range/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/">
