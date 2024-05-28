@@ -11,7 +11,13 @@ description: ""
 **Venue:** Visitor Pavilion @ Rifle Range Nature Park, 127K Rifle Range Road <br>
 **Organiser:** World Wide Fund for Nature (WWF) Singapore
 
-This guided programme aims to develop participants’ appreciation for our natural environment, and serve as source of inspiration for the arts. Together with the World Wide Fund for Nature Singapore, explore the roles of colours, shapes, and textures at Rifle Range Nature Park, with a focus on the physical adaptations of local flora and fauna. Gain insights into Singapore’s green spaces, and how certain features are put in place to facilitate animal movement. During the walk, discover creative ways to enjoy nature - drawing, colouring, and nature journaling.&nbsp;&nbsp;
+This guided programme aims to develop participants’ appreciation for our natural environment, and serve as source of inspiration for the arts. 
+
+Together with the World Wide Fund for Nature Singapore, explore the roles of colours, shapes, and textures at Rifle Range Nature Park, with a focus on the physical adaptations of local flora and fauna. 
+
+Gain insights into Singapore’s green spaces, and how certain features are put in place to facilitate animal movement. 
+
+During the walk, discover creative ways to enjoy nature through drawing, colouring, and nature journaling.
 
 This activity is recommended for families with children between the ages of 7 to 16.
 
