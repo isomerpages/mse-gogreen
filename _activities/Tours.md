@@ -482,6 +482,35 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/sustainability-learning-journey-by-tzu-chi-foundation/">
+        <img src="/images/Sustainability_Learning_Journey_Tzu_Chi_Foundation.jpg"></a>
+        <h2>Sustainability Learning Journey by Tzu Chi Foundation</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 and 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Tzu Chi Humanistic Youth Centre</strong></li>
+          <li><strong>Organiser: Buddhist Compassion Relief Tzu-Chi Foundation (Singapore)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>With real life examples, learn about the environmental costs of our lifestyle on Mother Earth. Pick up sustainable living habits and integrate into them your daily lives towards a sustainable future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-learning-journey-by-tzu-chi-foundation/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/zero-to-hero-food-sustainability-tour/">
         <img src="/images/Tours/ZerotoHero.jpg"></a>
         <h2>Zero to Hero Sustainability Food Tour</h2>
