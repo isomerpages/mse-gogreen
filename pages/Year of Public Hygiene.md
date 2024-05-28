@@ -214,6 +214,35 @@ This year's Go Green SG will feature activities and programmes to raise public a
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/mangrove-clean-up-at-sungei-pang-sua/">
+        <img src="/images/Initiatives/Mangrove_cleanup_sungei_pang_sua.jpg"></a>
+        <h2>Mangrove Clean Up at Sungei Pang Sua</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Pang Sua</strong></li>
+          <li><strong>Organiser: Nature Society Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This event aims to raise awareness on the impact litter has on the environment as well as demonstrate responsible practices in our waterways.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/mangrove-clean-up-at-sungei-pang-sua/&quot;" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/waste-to-wonder-paper-making-and-claymore-cleanup/">
         <img src="/images/Initiatives/waste_to_wonder.jpg"></a>
         <h2>Waste to Wonder: Paper making &amp; Claymore Clean Up</h2>
