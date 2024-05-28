@@ -7,7 +7,7 @@ description: ""
 ![Participants of a tour at Chek Jawa](/images/Tours/Chek_jawa_tour_nparks.jpg)
 
 **Date:** 26 and 27 June, 8:00 am – 10:00 am   <br>
-**Admission:** $60 per group. Maximum 15 people per group. <br>
+**Admission:** $60 per group (maximum 15 people per group)<br>
 Members of the public must form their own groups before signing up.  <br>
 **Venue:** Pulau Ubin <br>
 **Organiser:** National Parks Board
