@@ -15,5 +15,8 @@ Bring along your clean and dry plastic recyclables and join the Science Centre S
 
 This activity is suitable for all ages. <br>
 
-Do note that Science Centre admission charges apply:<br>
-Child (ages 3 to 12): $4 | Adult: $6 | Senior Citizen (ages 60 and above): $4 | Existing members of the Science Centre will enjoy complimentary access.
+While the activity is free, do note that usual Science Centre admission charges apply:<br>
+* Child (ages 3 to 12): $4
+* Adult: $6
+* Senior Citizen (ages 60 and above): $4
+* Existing members of the Science Centre will enjoy complimentary access.
