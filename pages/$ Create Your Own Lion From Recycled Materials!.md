@@ -11,7 +11,7 @@ description: ""
 **Venue:** The Fullerton Hotel Singapore, 1 Fullerton Square (Inland Revenue Room, Basement 1)<br>
 **Organiser:** The Fullerton Hotel Singapore
 
-Embrace the spirit of the Lion City by crafting your own majestic lion using recycled materials! Let your creativity run wild as you transform everyday items into an eco-friendly masterpiece.&nbsp;
+Embrace the spirit of the Lion City by crafting your own majestic lion using recycled materials! Let your creativity run wild as you transform everyday items into an eco-friendly masterpiece.
 
 &nbsp;Please make your reservation at least 3 days in advance by emailing [tfs.concierge@fullertonhotels.com](mailto:tfs.concierge@fullertonhotels.com).&nbsp;&nbsp;
 
