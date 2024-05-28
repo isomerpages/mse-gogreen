@@ -552,7 +552,67 @@ description: ""
       </a>
     </div>
   </div>
-							  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+					<a href="/let-s-write-letters-to-thank-our-seafarers/">
+						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
+        <h2>Let’s Write Letters to Thank Our Seafarers!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Maritime Gallery</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/let-s-write-letters-to-thank-our-seafarers/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+					<a href="/create-your-own-lion-from-recycled-materials/">
+						<img src="/images/Workshop%20&amp;%20Talks/Create_your_own_lion_from_recycled_materials_.jpg"></a>
+        <h2>Create Your Own Lion From Recycled Materials!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: The Fullerton Hotel Singapore</strong></li>
+          <li><strong>Organiser: The Fullerton Hotel Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embrace the spirit of the Lion City by crafting your own majestic lion using recycled materials! Let your creativity run wild as you transform everyday items into an eco-friendly masterpiece.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/create-your-own-lion-from-recycled-materials/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/abc-waters-trail-kallang-river-bishan-braddell-road/">
@@ -610,36 +670,6 @@ description: ""
       </a>
     </div>
   </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-					<a href="/let-s-write-letters-to-thank-our-seafarers/">
-						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
-        <h2>Let’s Write Letters to Thank Our Seafarers!
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 22 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Maritime Gallery</strong></li>
-          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/let-s-write-letters-to-thank-our-seafarers/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-	</div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
