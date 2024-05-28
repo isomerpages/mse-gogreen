@@ -15,12 +15,10 @@ description: ""
 **Venue:** City Sprouts, 102 Henderson Road<br>
 **Organiser:** City Sprouts
 
-Get creative with Co+Nut+ink’s recycling programme! &nbsp;Through this workshop, participants will learn about the health benefits of coconuts, the importance of fair trade, and how art &amp; craft can be sustainable too! What’s more, they can enjoy vegan-friendly coconut ice cream and coconut water along the beach at the end of the learning journey, and bring home a plant in a coconut husk.
-
-This activity is suitable for individuals with mobility issues.
+Join City Sprouts on their Signature Farm Tour to learn about the different ways of farming from traditional methods (like rice paddies and in the ground) to modern ways (like hydroponics and aquaponics). Meet the chickens, ducks, and quails and learn how to deal with numerous types of waste sustainably using various methods. Experience techniques such as composting, utilising worms, people-powered recycling and new biodigester technologies! Each of these methods turn different types of waste into something of value.
 
 
-<a class="btn-link" target="_blank" href="https://conutink.com/about-us/ecosystem/">
+<a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110)">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
