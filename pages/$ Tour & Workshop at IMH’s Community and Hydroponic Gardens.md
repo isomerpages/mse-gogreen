@@ -17,9 +17,9 @@ Unravel the science of hydroponics through a workshop at the Hydroponic Garden a
 
 Whether you’re a plant enthusiast or a newbie trying to cultivate your green fingers, you’ll get the chance to learn and engage in hands-on activities during the tour and workshop. Plus, you’ll get to bring home your very own green creation of a scented bag.&nbsp;&nbsp;
 
-Don’t miss out on the chance to join IMH in making a positive impact on de\-stigmatising mental health and promoting sustainability through gardening. Reserve your spots today and be part of this transformative experience!
+Don’t miss out on the chance to join IMH in making a positive impact on de-stigmatising mental health and promoting sustainability through gardening. Reserve your spots today and be part of this experience!
 
-<a class="btn-link" target="_blank" href="https://for.sg/imh-garden-workshop-jun-jul-24)">
+<a class="btn-link" target="_blank" href="https://for.sg/imh-garden-workshop-jun-jul-24">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
