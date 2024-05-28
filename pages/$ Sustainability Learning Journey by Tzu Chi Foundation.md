@@ -22,3 +22,7 @@ With real life examples, learn about the environmental costs of our lifestyle on
 Parents and children can learn to embrace sustainable living habits together and how they can be integrated into their daily lives. Back at home, family members can put what they learnt into practice and nudge each other towards sustainable choices to become a ‘Green Family' - a family united in their commitment to a sustainable future.
 
 This activity is recommended for participants aged 10 and above.
+
+**Register now**:
+* [15 June](https://bit.ly/1604GOG)
+* [22 June](https://bit.ly/2206GOG)
