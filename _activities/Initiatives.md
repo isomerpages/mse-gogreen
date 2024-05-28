@@ -261,6 +261,35 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/mangrove-clean-up-at-sungei-pang-sua/">
+        <img src="/images/Initiatives/Mangrove_cleanup_sungei_pang_sua.jpg"></a>
+        <h2>Mangrove Clean Up at Sungei Pang Sua</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Pang Sua</strong></li>
+          <li><strong>Organiser: Nature Society Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This event aims to raise awareness on the impact litter has on the environment as well as demonstrate responsible practices in our waterways.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/mangrove-clean-up-at-sungei-pang-sua/&quot;" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/community-visit-to-repair-kopitiam/">
         <img src="/images/SL2_Impact_Air_Fryer.jpg"></a>
         <h2>Community Visit to Repair Kopitiam</h2>
