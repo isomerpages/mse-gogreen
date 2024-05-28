@@ -92,8 +92,9 @@ variant: markdown
 	
 	.text-center-color {
 		text-align: center;
-		color: #006633;
-		background-color: lightgreen;
+		border: 2px solid green;
+		padding: 5px;
+		
 	}
 </style>
 
