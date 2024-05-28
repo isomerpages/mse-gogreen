@@ -264,6 +264,35 @@ description: ""
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+					<a href="/design-a-photo-frame-for-your-superhero-dad/">
+						<img src="/images/Workshop%20&amp;%20Talks/Design_a_Photo_Frame_for_Your_Superhero_Dad.jpg"></a>
+        <h2>Design a Photo Frame for Your Superhero Dad</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: The Fullerton Hotel Singapore</strong></li>
+          <li><strong>Organiser: The Fullerton Hotel Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Let your kids’ imagination take flight as they use recycled materials to design superhero-themed photo frames and add their unique touch of vibrant pop art colours.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/design-a-photo-frame-for-your-superhero-dad/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
