@@ -290,6 +290,35 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/nature-society-singapore-rewilding-project/">
+        <img src="/images/Initiatives/Nature_society_rewilding.jpg"></a>
+        <h2>Nature Society Singapore: Rewilding Project</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Rail Corridor</strong></li>
+          <li><strong>Organiser: Nature Society Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Get involved in this meaningful rewilding activity, which includes manual clearance of grass and weeds, followed by a tree planting along the Rail Corridor.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-society-singapore-rewilding-project/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/community-visit-to-repair-kopitiam/">
         <img src="/images/SL2_Impact_Air_Fryer.jpg"></a>
         <h2>Community Visit to Repair Kopitiam</h2>
