@@ -92,9 +92,8 @@ variant: markdown
 	
 	.text-center-color {
 		text-align: center;
-		color: #006633;
-		background-color: lightgreen;
-	}
+		border: 2px solid green;
+			}
 </style>
 
 <div style="margin-bottom:30px;" class="text-center-color">Check out the activities we have in store this Go Green SG!<br>
