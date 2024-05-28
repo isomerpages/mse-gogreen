@@ -584,6 +584,35 @@ description: ""
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+					<a href="/game-to-go-green/">
+						<img src="/images/Others/Game_to_Go_Green___SC.jpg"></a>
+        <h2>Game to Go Green?</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Science Centre Singapore</strong></li>
+          <li><strong>Organiser: Science Centre Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn through playing! Pick up knowledge about climate change, sustainability and energy while trying your hand at two new card games "Sus Chef" and "Fact or Fiction (Energy Edition)". 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/game-to-go-green/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 					<a href="/let-s-write-letters-to-thank-our-seafarers/">
 						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
         <h2>Let’s Write Letters to Thank Our Seafarers!
