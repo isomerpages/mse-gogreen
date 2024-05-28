@@ -93,6 +93,7 @@ variant: markdown
 	.text-center-color {
 		text-align: center;
 		color: #006633;
+		background-color: yellow;
 	}
 </style>
 
