@@ -610,36 +610,6 @@ description: ""
       </a>
     </div>
 	</div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-					<a href="/let-s-write-letters-to-thank-our-seafarers/">
-						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
-        <h2>Let’s Write Letters to Thank Our Seafarers!
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 22 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Maritime Gallery</strong></li>
-          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/let-s-write-letters-to-thank-our-seafarers/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-	</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -666,6 +636,36 @@ description: ""
     </div>
     <div class="programmes__item__actions">
       <a href="/create-your-own-lion-from-recycled-materials/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+					<a href="/let-s-write-letters-to-thank-our-seafarers/">
+						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
+        <h2>Let’s Write Letters to Thank Our Seafarers!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Maritime Gallery</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Designed for children aged 12 and below, this interactive event aims to educate and inspire the next generation about the vital role of seafarers in maritime operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/let-s-write-letters-to-thank-our-seafarers/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -815,6 +815,64 @@ description: ""
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/getting-to-zero-card-game-workshop/">
+				<img src="/images/CASA_Getting_to_Zero_Card_Game.png"></a>
+        <h2>Getting to Zero Card Game Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
+          <li><strong>Organiser: Climate Action SG Alliance and National Institute of Education’s Sustainability Learning Lab</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through gameplay, you will be introduced to Singapore’s various energy options, their relative impact on carbon emissions, and their economic trade-offs.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/getting-to-zero-card-game-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/green-fest-nee-soon-link/">
+        <img src="/images/Nee_Soon_Link_Green_Fest.jpg"></a>
+        <h2>Green Fest @ Nee Soon Link</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+					<li><strong>Venue: Blk 414 Yishun Avenue 11</strong></li>
+					<li><strong>Organiser: Nee Soon Link Youth Network and Tzu Chi Humanistic Youth Centre</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Green Fest @ Nee Soon Link (NSL) is an annual event organised by NSL Youth Network, aimed at rallying the NSL community towards embracing eco-friendly practices through awareness-building, showcasing local initiatives, and promoting green consumption.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/green-fest-nee-soon-link/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -844,33 +902,4 @@ description: ""
       </a>
     </div>
   </div>
-   <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/green-fest-nee-soon-link/">
-        <img src="/images/Nee_Soon_Link_Green_Fest.jpg"></a>
-        <h2>Green Fest @ Nee Soon Link</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 6 July</strong>
-          </li>
-          <li><strong>Admission: Free (no registration required)</strong></li>
-					<li><strong>Venue: Blk 414 Yishun Avenue 11</strong></li>
-					<li><strong>Organiser: Nee Soon Link Youth Network and Tzu Chi Humanistic Youth Centre</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Green Fest @ Nee Soon Link (NSL) is an annual event organised by NSL Youth Network, aimed at rallying the NSL community towards embracing eco-friendly practices through awareness-building, showcasing local initiatives, and promoting green consumption.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/green-fest-nee-soon-link/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>	
 </div>
