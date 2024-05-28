@@ -89,8 +89,13 @@ variant: markdown
     border: 2px solid #43b453;
     color: #43b453 !important;
   }
+	
+	.text-center {
+		text-align: center;
+	}
 </style>
 
+<div class="text-center">Testing</div>
 <div class="row row_custom">
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
