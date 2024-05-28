@@ -6,7 +6,7 @@ description: ""
 ---
 ![Photo of coasters made at the workshop](/images/Semula_Plastic_Upcycling_Coaster_Making_Workshop.jpg)
 
-**Date:** 
+**Dates:** 
 * 15, 22, 29 June <br> 10:00 am – 12:00 pm | 1:00 pm - 3:00 pm
 * 1 July – 5 July <br>10:00 am – 12:00 pm | 1:00 pm - 3:00 pm | 3:00 pm - 5:00 pm
 * 6 July <br> 10:00 am – 12:00 pm | 1:00 pm – 3:00 pm
