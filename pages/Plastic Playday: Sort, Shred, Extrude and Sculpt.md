@@ -8,7 +8,7 @@ description: ""
 
 **Date:** 22, 23 June, 10:30 am – 12:30 pm | 2:30 pm to 4:30 pm<br>
 **Admission:** Free (no registration required, admission charges to Science Centre applies)<br>
-**Venue:** Science Centre Singapore, 15 Science Centre Road, Hall E, Tinkering Studio.<br>
+**Venue:** Science Centre Singapore, Hall E, Tinkering Studio<br>
 **Organiser:** Science Centre Board
 
 Bring along your clean and dry plastic recyclables and join the Science Centre Singapore in a round-robin activity to learn more about different types of plastics, how to sort and treat them for recycling, convert plastic "waste" into plastic filament, and try your hands at using 3D pens for art and craft activities. &nbsp;
