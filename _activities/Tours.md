@@ -95,8 +95,9 @@ variant: markdown
 	}
 </style>
 
-<div class="text-center">Check out the activities we have in store this Go Green SG!<br>
+<div style="margin-bottom:30px;" class="text-center">Check out the activities we have in store this Go Green SG!<br>
 Come back on 5 June when registration links go live to sign up for your favourite activities!</div>
+
 <div class="row row_custom">
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
