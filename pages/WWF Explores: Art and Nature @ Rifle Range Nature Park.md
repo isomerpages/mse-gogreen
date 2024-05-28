@@ -8,7 +8,7 @@ description: ""
 
 **Date:** 19 June, 9:00 am to 11:00 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Visitor Pavilion @ Rifle Range Nature Park, 127K Rifle Range Road <br>
+**Venue:** Rifle Range Nature Park (Visitor Pavilion)<br>
 **Organiser:** World Wide Fund for Nature (WWF) Singapore
 
 This guided programme aims to develop participants’ appreciation for our natural environment, and serve as source of inspiration for the arts. 
