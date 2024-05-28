@@ -11,8 +11,10 @@ description: ""
 **Venue:** Central Public Library, 100 Victoria St, #B1-01 National Library <br>
 **Organiser:** World Wide Fund for Nature (WWF) Singapore
 
-At this interactive outreach booth, learn what kinds of paper, plastic, and metal are recyclable, and make better-informed decisions to reduce contamination of recycling bins in the community. Recycling right helps to divert waste away from Semakau Landfill, prolonging its lifespan!&nbsp;&nbsp;
+Recycling right helps to divert waste away from Semakau Landfill, prolonging its lifespan.
 
-Learn about the importance of reducing waste through recycling and its implications for Semakau Landfill and climate change.&nbsp;
+At this interactive outreach booth, learn what kinds of paper, plastic, and metal are recyclable, and make better-informed decisions to reduce contamination of recycling bins in the community. 
 
-This booth is open to all, especially families, and is suitable for participants with mobility issues.
+Learn about the importance of reducing waste through recycling and its implications for Semakau Landfill and climate change.
+
+The booth is open to all, especially families, and is suitable for participants with mobility issues.
