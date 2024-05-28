@@ -558,7 +558,36 @@ variant: markdown
       </a>
     </div>
   </div>
-			  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/black-soldier-fly-bsf-eco-farm-tour/">
+				<img src="/images/Otolith_Enrichment_Black_Soldier_Fly_Eco_Farm_Tour.jpg"></a>
+        <h2>Black Soldier Fly (BSF) Eco Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June, 13 July</strong>
+          </li>
+          <li><strong>Admission: $28++</strong></li>
+          <li><strong>Venue: Sustainability @ Tampines Park</strong></li>
+          <li><strong>Organiser: Otolith Enrichment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how the docile Black Soldier Fly (BSF) uses its magic to turn trash into treasure, and provide a solution to food waste.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/black-soldier-fly-bsf-eco-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 					<a href="/maritime-evolution-trail/">
