@@ -235,7 +235,7 @@ This year's Go Green SG will feature activities and programmes to raise public a
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/mangrove-clean-up-at-sungei-pang-sua/&quot;" class="button-primary">
+      <a href="/mangrove-clean-up-at-sungei-pang-sua/" class="button-primary">
         Find out more
       </a>
     </div>
