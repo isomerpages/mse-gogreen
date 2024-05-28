@@ -203,4 +203,30 @@ variant: markdown
       </a>
     </div>
   </div>	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/paper-plastic-metal-what-to-recycle/">
+				<img src="/images/Others/WWF___Act_1.jpg"></a>
+        <h2>Paper, Plastic, Metal: What to Recycle?</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 14 July</strong></li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Central Public Library</strong></li>
+          <li><strong>Organiser: World Wide Fund for Nature  Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>At this interactive outreach booth, learn what kinds of paper, plastic, and metal are recyclable, and make better-informed decisions to reduce contamination of recycling bins in the community.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/paper-plastic-metal-what-to-recycle/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 </div>
