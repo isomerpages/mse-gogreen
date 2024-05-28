@@ -235,6 +235,36 @@ variant: markdown
       </a>
     </div>
 	</div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/plastic-upcycling-coaster-making-workshop/">
+					<img src="/images/Semula_Plastic_Upcycling_Coaster_Making_Workshop.jpg"></a>
+        <h2>Plastic Upcycling Coaster Making Workshop
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 15, 22, 29 June; 1 - 5 July, 6 July</strong>
+          </li>
+          <li><strong>Admission: $10 per parent/child pair</strong></li>
+          <li><strong>Venue: Jun Jie Industrial Building, 153 Kampong Ampat, #04-02</strong></li>
+          <li><strong>Organiser: Semula Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Turn High Density Polyethylene (HDPE) plastic waste, commonly found in milk bottles, bottle caps, and detergent bottles, into functional items like coasters at this workshop.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/plastic-upcycling-coaster-making-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
