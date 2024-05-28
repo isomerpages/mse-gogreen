@@ -90,12 +90,13 @@ variant: markdown
     color: #43b453 !important;
   }
 	
-	.text-center {
+	.text-center-color {
 		text-align: center;
+		color: #006633;
 	}
 </style>
 
-<div style="margin-bottom:30px;" class="text-center">Check out the activities we have in store this Go Green SG!<br>
+<div style="margin-bottom:30px;" class="text-center-color">Check out the activities we have in store this Go Green SG!<br>
 Come back on 5 June when registration links go live at 10am, to sign up for your favourite activities!</div>
 
 <div class="row row_custom">
