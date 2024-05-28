@@ -258,6 +258,35 @@ description: ""
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/forest-clean-up-at-pulau-ubin/">
+        <img src="/images/Initiatives/Forest_cleanup_ubin_nature_soc.jpg"></a>
+        <h2>Forest Clean Up at Pulau Ubin</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Pulau Ubin</strong></li>
+          <li><strong>Organiser: Nature Society Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Forest Clean-up at Pulau Ubin aims to raise awareness about our impact on the environment and how we can make a difference through our daily habits.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-clean-up-at-pulau-ubin/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
