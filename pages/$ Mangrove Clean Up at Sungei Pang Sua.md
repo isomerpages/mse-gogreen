@@ -13,7 +13,7 @@ description: ""
 
 Sungei Pang Sua is a river that reaches the Kranji mudflats, an Important Bird and Biodiversity Area (IBA site) where hundreds of migrant birds find nourishment when they arrive to escape the winter. 
 
-However, Sungei Pang Sua is polluted with litter which finds its way to the mudflats, preventing birds and other wildlife from thriving. It is therefore crucial to maintain the health of this waterway so as not to affect the ecosystem and its biodiversity downstream. 
+However, litter may sometimes find its way to the mudflats, preventing birds and other wildlife from thriving. It is therefore crucial to maintain the health of this waterway so as not to affect the ecosystem and its biodiversity downstream. 
 
 The Mangrove Clean-up at Sungei Pang Sua aims to raise awareness on the impact litter has on the environment as well as demonstrate responsible practices in our waterways. Besides removing debris in the area, you will also be collecting data as part of Nature Society Singapore’s monitoring programme on the trends and composition of the debris. Data sheets and guidance on data collection will be provided. 
 
