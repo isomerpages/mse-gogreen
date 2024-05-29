@@ -723,7 +723,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 15 and 22 June</strong>
+              Date: 15, 22 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Tzu Chi Humanistic Youth Centre</strong></li>
@@ -811,7 +811,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 17 June, 1 July</strong>
+              Date: 17 June; 1 July</strong>
           </li>
           <li><strong>Admission: $20 per pax</strong></li>
           <li><strong>Venue: Buangkok Green Medical Park</strong></li>
