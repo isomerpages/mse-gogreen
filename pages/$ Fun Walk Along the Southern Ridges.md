@@ -4,7 +4,7 @@ permalink: /fun-walk-along-the-southern-ridges/
 variant: markdown
 description: ""
 ---
-![A tour group at Southern Ridges](/images/Tours/Fun_walk_along_southern_ridges.jpg)
+![A tour group at Southern Ridges](/images/Tours/fun_walk_along_southern_ridges.jpg)
 
 **Date:** 22 June, 9:00 am to 11:00 am<br>
 **Admission:** Free (registration required)<br>
