@@ -21,7 +21,7 @@ This gentle, immersive experience is suitable for all fitness levels. Come and d
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
