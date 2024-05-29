@@ -157,6 +157,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/get-up-close-with-butterflies-at-the-butterfly-habitat/">
+              <img src="/images/Initiatives/Get_close_with_butterflies_Butterfly_Habitat.jpg"></a>
+        <h2>Get Up Close with Butterflies at the Butterfly Habitat
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3, 10 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Bishan-Ang Mo Kio Park</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Get involved in the maintenance of the Butterfly Habitat at Bishan-AMK Park, and learn about common butterfly species sighted at the park.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/get-up-close-with-butterflies-at-the-butterfly-habitat/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
