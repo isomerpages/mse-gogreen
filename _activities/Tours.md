@@ -776,6 +776,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	         <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/race-against-time-science-behind-a-botanic-garden-tour/">
+              <img src="/images/Tours/SBG_race_tour.jpg"></a>
+        <h2>Race Against Time: Science Behind a Botanic Garden Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Tanglin Gate)</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Get a close-up view of the Singapore Botanic Garden's research facilities, like the Library of Botany, Horticulture and Orchid Micro-propagation laboratory on tour.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/race-against-time-science-behind-a-botanic-garden-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
