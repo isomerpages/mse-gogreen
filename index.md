@@ -41,8 +41,8 @@ sections:
         speakers to deepen your knowledge about sustainability!
   - infopic:
       title: Initiatives
-      description: Join the green movement. From tree planting to food rescue, there
-        are many opportunities to work together to protect our planet!
+      description: Join the green movement. From tree planting to litter picking,
+        there are many opportunities to work together to protect our planet!
       button: Learn more
       url: /2024/initiatives/
       image: /images/go-green-initiatives.png
@@ -67,7 +67,7 @@ sections:
   - infopic:
       title: Events
       id: infopic
-      description: Enjoy a fun-packed day at festivals and shows.
+      description: Enjoy a fun-packed day mingling with other like-minded eco enthusiasts.
       button: Learn More
       url: /events/
       image: /images/go-green-events.png
