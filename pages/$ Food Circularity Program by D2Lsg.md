@@ -8,7 +8,7 @@ description: ""
 
 **Dates:** <br>15, 19, 22 June&nbsp;
 
-*   &nbsp; 11:00 am - 12:00 pm (Zoom) &nbsp;
+*   11:00 am - 12:00 pm (Zoom) &nbsp;
     
 *    2:45 pm - 4:30 pm (Hands-on)&nbsp;
 3, 6 July&nbsp;
