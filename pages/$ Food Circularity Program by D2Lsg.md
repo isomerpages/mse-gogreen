@@ -27,7 +27,7 @@ The Food Circularity Program offers a transformative experience to tackle Singap
 
 Participants can join an educational session conducted virtually on Zoom to gain insights into the environmental, social, and economic impacts of food waste, and learn sustainable management practices.&nbsp;&nbsp;
 
-Participants can also register for an additional hands-on, experiential session held at Pullman Hill Street to witness first\-hand food rescue and redistribution processes, fostering a deeper understanding of the issue.&nbsp;&nbsp;
+Participants can also register for an additional hands-on, experiential session held at Pullman Hill Street to witness first-hand food rescue and redistribution processes, fostering a deeper understanding of the issue.&nbsp;&nbsp;
 
 Join a movement towards sustainability, equipped with knowledge and skills to make a tangible difference.&nbsp;&nbsp;
 
@@ -40,7 +40,7 @@ This activity is suitable for participants with mobility issues.
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
