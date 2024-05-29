@@ -40,16 +40,3 @@ Children under the age of 13 must be accompanied by an adult.
 <a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/PUCJ2410/326_Chek-Jawa-Wetlands-Tour-27-June-2024">
 	<img src="/images/gogreensg_website-32.png">
 </a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
