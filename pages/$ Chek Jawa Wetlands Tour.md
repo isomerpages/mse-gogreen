@@ -16,15 +16,13 @@ Did you know that the intertidal flats at Chek Jawa Wetlands are most suitable f
 
 Children under the age of 13 must be accompanied by an adult.
 
-**26 June**
-
 <a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/PUCJ2409/325_Chek-Jawa-Wetlands-Tour-26-June-2024">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
@@ -34,8 +32,6 @@ Children under the age of 13 must be accompanied by an adult.
 	}
 	
 </style>
-
-**27 June**
 
 <a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/PUCJ2410/326_Chek-Jawa-Wetlands-Tour-27-June-2024">
 	<img src="/images/gogreensg_website-32.png">
