@@ -13,7 +13,7 @@ variant: markdown
 
 ![](/images/banner-about-us.png)
 
-Led by the Ministry of Sustainability and the Environment (MSE), **Go Green SG** is a whole-of-nation movement to rally citizens, organisations and the community to take collective action towards a more environmentally sustainable and climate-resilient Singapore. It comprises a series of sustainability-related events and activities organised by our People, Public and Private (3P) partners.
+**Go Green SG** is a whole-of-nation movement led and coordinated by the Ministry of Sustainability and the Environment to rally citizens, organisations and the community to take collective action towards a more environmentally sustainable and climate-resilient Singapore. It comprises a series of sustainability-related events and activities organised by our People, Public and Private (3P) partners.
 
 This year, Go Green SG will take place from **12 June to 14 July 2024**. 
 
