@@ -27,7 +27,7 @@ The workshop aims to show participants how every one of us can do our part to he
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
