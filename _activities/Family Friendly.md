@@ -958,7 +958,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 22 and 23 June</strong>
+              Date: 22, 23 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Science Centre Singapore</strong></li>
