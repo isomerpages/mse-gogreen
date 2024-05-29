@@ -397,6 +397,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/national-orchid-garden-tour/">
+              <img src="/images/Tours/SBG_orchid_tour.jpg"></a>
+        <h2>National Orchid Garden Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free, but admission charges to the National Orchid Garden applies</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens (National Orchid Garden Ticketing Gate)</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Behold over 1,000 species of orchids and 2,000 hybrids on display at the National Orchid Garden on this tour. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/national-orchid-garden-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
