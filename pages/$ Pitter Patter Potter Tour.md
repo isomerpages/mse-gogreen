@@ -22,7 +22,7 @@ This tour is suitable for children from 5 to 8 years old. Each child must be acc
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
