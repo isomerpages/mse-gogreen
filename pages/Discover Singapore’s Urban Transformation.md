@@ -14,7 +14,7 @@ description: Discover Singapore’s Urban Transformation
 *Please note that the session on 13 July 12:00 pm – 1:00pm will be conducted in Mandarin.*
 
 **Admission:** Free (registration required)<br>
-**Venue:** Singapore City Gallery 45 Maxwell Road, The URA Centre<br>
+**Venue:** Singapore City Gallery, 45 Maxwell Road, The URA Centre<br>
 **Organiser:** Urban Redevelopment Authority
 
 
