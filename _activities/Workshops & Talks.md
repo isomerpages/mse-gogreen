@@ -307,6 +307,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
 	</div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/garden-therapy-workshop/">
+              <img src="/images/Workshop%20&amp;%20Talks/Garden_therapy_workshop_HortPark.jpg"></a>
+        <h2>Garden Therapy Workshop
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: $40/pax</strong></li>
+          <li><strong>Venue: HortPark</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Participate in a guided garden therapy walk to immerse yourself in the healing power of nature. Be led through a series of sensory invitations to deepen your connection with the natural world. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/garden-therapy-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
