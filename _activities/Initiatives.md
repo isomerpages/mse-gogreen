@@ -212,6 +212,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/food-circularity-program-by-d2lsg/">
+              <img src="/images/Initiatives/Food_Circularity_Program_by_D2L_sg.jpg"></a>
+        <h2>Food Circularity Program by D2Lsg
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 19, 22 June</strong>
+          </li>
+          <li><strong>Admission: $25/pax (Zoom Educational session)</strong></li>
+          <li><strong>Venue: Virtual (Zoom)/ Pullman Hill Street Hotel</strong></li>
+          <li><strong>Organiser: D2L.sg</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>D2L's Food Circularity Program offers a transformative experience to tackle Singapore's food waste through education, hands-on engagement, and community empowerment. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/food-circularity-program-by-d2lsg/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	         <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
