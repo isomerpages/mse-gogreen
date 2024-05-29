@@ -156,33 +156,32 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>
-	          <div class="programmes__item col is-one-third">
+  </div>          <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-            <a href="/get-up-close-with-butterflies-at-the-butterfly-habitat/">
-              <img src="/images/Initiatives/Get_close_with_butterflies_Butterfly_Habitat.jpg"></a>
-        <h2>Get Up Close with Butterflies at the Butterfly Habitat
+            <a href="/habitat-enhancement-at-lim-chu-kang-nature-park/">
+              <img src="/images/Others/Lim_Chu_Kang_habitat_enhancement_1.jpg"></a>
+        <h2>Habitat Enhancement at Lim Chu Kang Nature Park
 </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 3, 10 July</strong>
+              Date: 22 June</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Bishan-Ang Mo Kio Park</strong></li>
+          <li><strong>Admission: Free (registration required) </strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve, Visitor Centre</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Get involved in the maintenance of the Butterfly Habitat at Bishan-AMK Park, and learn about common butterfly species sighted at the park.
+        <p>Play a part in enhancing the coastal and grassland habitats of Lim Chu Kang Nature Park. Help nurture young saplings and remove invasive species to restore the native habitats of the Nature Park!
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/get-up-close-with-butterflies-at-the-butterfly-habitat/" class="button-primary">
+      <a href="/habitat-enhancement-at-lim-chu-kang-nature-park/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -216,6 +215,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
 	</div>
+		          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/get-up-close-with-butterflies-at-the-butterfly-habitat/">
+              <img src="/images/Initiatives/Get_close_with_butterflies_Butterfly_Habitat.jpg"></a>
+        <h2>Get Up Close with Butterflies at the Butterfly Habitat
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3, 10 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Bishan-Ang Mo Kio Park</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Get involved in the maintenance of the Butterfly Habitat at Bishan-AMK Park, and learn about common butterfly species sighted at the park.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/get-up-close-with-butterflies-at-the-butterfly-habitat/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
