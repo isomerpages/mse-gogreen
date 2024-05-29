@@ -13,7 +13,7 @@ description: ""
 
 Immerse yourself in nature, capturing moments of beauty while staying physically active. Connect with nature to heighten your awareness of the surroundings and learn from nature’s symbols and imagery, creating a space for personal and eco-wellbeing. 
 
-The programme is open to everyone. Join The Rainbow Artisan with an open mind and a camera phone. Participants are encouraged to be mindful and respectful about the environment and wildlife while taking photos in nature. If you have additional needs (persons with mobility issues, seniors, etc), please write to Alice Goh and Gina Soh at therainbowartisan@gmail.com. 
+The programme is open to everyone. Join The Rainbow Artisan with an open mind and a camera phone. Participants are encouraged to be mindful and respectful about the environment and wildlife while taking photos in nature. If you have additional needs (persons with mobility issues, seniors, etc), please write to Alice Goh and Gina Soh at [therainbowartisan@gmail.com](mailto:therainbowartisan@gmail.com). 
 
 This event is part of a series held at parks and gardens conveniently  located near MRT stations. Participants are encouraged to walk, cycle or take public transport for a greener future. 
 
