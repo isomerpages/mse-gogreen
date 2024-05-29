@@ -16,7 +16,7 @@ Play a part in enhancing the coastal and grassland habitats of Lim Chu Kang Natu
 This programme is suitable for participants aged 5 years and above.
 
 
-<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBLCK02/315\_Habitat-Enhancement-at-Lim-Chu-Kang-Nature-Park">
+<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBLCK02/315_Habitat-Enhancement-at-Lim-Chu-Kang-Nature-Park">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
