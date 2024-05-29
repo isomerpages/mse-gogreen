@@ -11,7 +11,7 @@ description: Explore Chinatown's Built Heritage with Friends of the Museums
 5, 12 July: 9:00 am – 11:00 am | 9.30 am – 11.30 am
 
 **Admission:** Free (registration required)<br>
-**Venue:** Singapore City Gallery 45 Maxwell Road, The URA Centre<br>
+**Venue:** Singapore City Gallery, 45 Maxwell Road, The URA Centre<br>
 **Organiser:** Urban Redevelopment Authority
 
 
