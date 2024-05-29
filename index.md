@@ -45,7 +45,7 @@ sections:
         are many opportunities to work together to protect our planet!
       button: Learn more
       url: /2024/initiatives/
-      image: /images/go-green-events-2.png
+      image: /images/go-green-initiatives.png
       alt: Image alt text
   - infopic:
       title: Retail, F&B and Deals
@@ -55,4 +55,14 @@ sections:
       image: /images/go-green-retail-dining-3.png
       alt: Image alt text
       url: /2024/retail-f-b-and-deals/
+  - infopic:
+      title: Family Friendly
+      subtitle: Add an image and text
+      id: infopic
+      description: Fun for the Family at Go Green SG! Check out this curated list of
+        activities perfect for families to enjoy.
+      button: Learn More
+      url: /2024/retail-f-b-and-deals/
+      image: /images/go-green-events-2.png
+      alt: Image alt text
 ---
