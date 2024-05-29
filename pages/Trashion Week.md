@@ -20,7 +20,7 @@ Trashion Week is a multi-platform physical &amp; social media event that combine
 Wear your most fabulous upcycled fashion fits, visit famous attractions, heritage sites, hawker centres, beaches, and other public spaces to clean up the environment, and your actions might be amplified on social media too!
 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/908077423017?aff=oddtftcreator)">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/908077423017?aff=oddtftcreator">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
