@@ -115,7 +115,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 12 19 June</strong>
+              Date: 12, 19 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Mobility Gallery</strong></li>
