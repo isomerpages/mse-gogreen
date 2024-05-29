@@ -7,7 +7,7 @@ description: ""
 ![Green House 2024](/images/Events/GREEN_HOUSE_2024.jpg)
 
 **Date:** 13,&nbsp;14 July | 10:00 am – 7:00 pm<br>
-**Admission:** Free (registration required) <br>
+**Admission:** Free (no registration required) <br>
 **Venue:** New Bahru, 46 &amp; 58 Kim Yam Road<br>
 **Organiser:** Pass It On Elab Pte Ltd
 
