@@ -343,7 +343,7 @@ More activities will also be added progressively.</div>
 			<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-<a href="singapore-botanic-gardens-learning-forest-tour/">
+<a href="/singapore-botanic-gardens-learning-forest-tour/">
         <img src="/images/Tours/SBG_learning_tour.jpg"></a>
         <h2>Singapore Botanic Gardens Learning Forest Tour</h2>
       </div>
@@ -364,7 +364,7 @@ More activities will also be added progressively.</div>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="singapore-botanic-gardens-learning-forest-tour/" class="button-primary">
+      <a href="/singapore-botanic-gardens-learning-forest-tour/" class="button-primary">
         Find out more
       </a>
     </div>
