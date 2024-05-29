@@ -19,7 +19,7 @@ Sungei Buloh is home to many animals and plants. There are different types of aq
 ##### **!! Registraion Opens on 14 June, 8am**
 
 **22 June (9.30am – 11am)**<br>
-<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0007/358_What-s-in-my-Water)">
+<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0007/358_What-s-in-my-Water">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -36,18 +36,7 @@ Sungei Buloh is home to many animals and plants. There are different types of aq
 </style>
 
 **6 July (9.30am – 11am)**<br>
-<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0007/359_What-s-in-my-Water)">
+<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0007/359_What-s-in-my-Water">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
