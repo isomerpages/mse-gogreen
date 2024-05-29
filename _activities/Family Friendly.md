@@ -111,11 +111,11 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 12 and 19 June</strong>
+              Date: 1,2 19 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Mobility Gallery</strong></li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
@@ -158,37 +158,7 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>
-	 			  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-				<a href="/co-nut-ink-ecosystem-program/">
-					<img src="/images/Workshop%20Talks/CNI_1.jpg"></a>
-        <h2>Co⁺Nut⁺ink Ecosystem Program
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 12 June – 14 July</strong>
-          </li>
-          <li><strong>Admission: $26 per child, $10 per accompanying adult</strong></li>
-          <li><strong>Venue: Sentosa, 81 Siloso Road</strong></li>
-          <li><strong>Organiser: Co⁺Nut⁺ink Pte Ltd</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/co-nut-ink-ecosystem-program/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div> 
+	</div>
 	         <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -219,7 +189,37 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/co-nut-ink-ecosystem-program/">
+					<img src="/images/Workshop%20Talks/CNI_1.jpg"></a>
+        <h2>Co⁺Nut⁺ink Ecosystem Program
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: $26 per child, $10 per accompanying adult</strong></li>
+          <li><strong>Venue: Sentosa, 81 Siloso Road</strong></li>
+          <li><strong>Organiser: Co⁺Nut⁺ink Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unleash your creativity to design coconut husks, learn about health benefits of coconuts and enjoy coconut ice cream and coconut water along the beach.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/co-nut-ink-ecosystem-program/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div> 
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
@@ -397,65 +397,6 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/whats-in-my-mangrove/">
-				<img src="/images/Tours/Whats_in_my_Mangrove_SBWR.png"></a>
-        <h2>What's in My Mangrove?</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Learn about the unique features of the mangrove species&nbsp;found in Sungei Buloh and the importance of mangrove habitats in this guided walk.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/whats-in-my-mangrove/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-				<a href="/plastic-upcycling-coaster-making-workshop/">
-					<img src="/images/Semula_Plastic_Upcycling_Coaster_Making_Workshop.jpg"></a>
-        <h2>Plastic Upcycling Coaster Making Workshop
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Dates: 15, 22, 29 June; 1 - 5 July, 6 July</strong>
-          </li>
-          <li><strong>Admission: $10 per parent/child pair</strong></li>
-          <li><strong>Venue: Jun Jie Industrial Building, 153 Kampong Ampat, #04-02</strong></li>
-          <li><strong>Organiser: Semula Pte Ltd</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Turn High Density Polyethylene (HDPE) plastic waste, commonly found in milk bottles, bottle caps, and detergent bottles, into functional items like coasters at this workshop.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/plastic-upcycling-coaster-making-workshop/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
 <a href="/saving-bumi-family-day/">
         <img src="/images/Skool4kidz___Saving_Bumi_Family_Day.jpg"></a>
         <h2>Saving Bumi Family Day</h2>
@@ -533,6 +474,65 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/survive-the-collapse-a-sustainability-based-outdoor-scavenger-hunt/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/whats-in-my-mangrove/">
+				<img src="/images/Tours/Whats_in_my_Mangrove_SBWR.png"></a>
+        <h2>What's in My Mangrove?</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about the unique features of the mangrove species&nbsp;found in Sungei Buloh and the importance of mangrove habitats in this guided walk.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-mangrove/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/plastic-upcycling-coaster-making-workshop/">
+					<img src="/images/Semula_Plastic_Upcycling_Coaster_Making_Workshop.jpg"></a>
+        <h2>Plastic Upcycling Coaster Making Workshop
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 15, 22, 29 June; 1 - 5 July, 6 July</strong>
+          </li>
+          <li><strong>Admission: $10 per parent/child pair</strong></li>
+          <li><strong>Venue: Jun Jie Industrial Building, 153 Kampong Ampat, #04-02</strong></li>
+          <li><strong>Organiser: Semula Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Turn High Density Polyethylene (HDPE) plastic waste, commonly found in milk bottles, bottle caps, and detergent bottles, into functional items like coasters at this workshop.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/plastic-upcycling-coaster-making-workshop/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -682,7 +682,7 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-			  <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/beach-clean-up-and-sustainability-talk/">
