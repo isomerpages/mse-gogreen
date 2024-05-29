@@ -24,16 +24,11 @@ These Chinatown Heritage Trails are a collaborative initiative between the Urban
 
 This activity is suitable for individuals with mobility issues.
 
-**Register now**
 
-* [Bukit Pasoh route](https://www.eventbrite.sg/e/chinatown-heritage-walks-bukit-pasoh-tickets-776151960407?aff=ebdsoporgprofile)
-
-* [Kreta Ayer route](https://www.eventbrite.sg/e/776751804557?aff=oddtdtcreator)
-
-* [Tanjong Pagar route](https://www.eventbrite.sg/e/chinatown-heritage-walks-tanjong-pagar-tickets-779197148647?aff=ebdsoporgprofile)
-
-* [Telok Ayer route](https://www.eventbrite.sg/e/chinatown-heritage-walks-telok-ayer-tickets-779198582937?aff=ebdsoporgprofile)
-
+**Bukit Pasoh route**<br>
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/chinatown-heritage-walks-bukit-pasoh-tickets-776151960407?aff=ebdsoporgprofile">
+	<img src="/images/gogreensg_website-32.png">
+</a>
 
 <style>
 	.btn-link {
@@ -45,4 +40,23 @@ This activity is suitable for individuals with mobility issues.
 	.btn-link > img {
 		width: 100%;
 	}
+	
 </style>
+
+**Kreta Ayer route**<br>
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/776751804557?aff=oddtdtcreator">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+
+**Tanjong Pagar route**<br>
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/chinatown-heritage-walks-tanjong-pagar-tickets-779197148647?aff=ebdsoporgprofile">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+
+
+**Telok Ayer route**<br>
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/chinatown-heritage-walks-telok-ayer-tickets-779198582937?aff=ebdsoporgprofile">
+	<img src="/images/gogreensg_website-32.png">
+</a>
