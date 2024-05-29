@@ -5,7 +5,6 @@ variant: markdown
 description: ""
 ---
 ![](/images/Tours/GBTB_urbanwetlandstour.jpg)
-**Through this outdoor nature walk, expose yourself to the sights and sounds of the Kingfisher Wetlands and discover the native flora and fauna within.**
 
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 9:30 am – 10:30 am  
