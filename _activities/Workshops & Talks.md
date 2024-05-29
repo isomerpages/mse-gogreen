@@ -91,8 +91,7 @@ variant: markdown
 		border: 2px solid green;
 	padding: 25px;
 	 font-weight: bold;
-	color:green;
-	border-radius: 1rem;
+
 			}
 </style>
 
