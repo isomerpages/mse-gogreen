@@ -7,8 +7,8 @@ description: ""
 ![City Sprouts - Wine and Chill(i)](/images/Workshop%20&amp;%20Talks/City_Sprouts__Wine_and_Chill_i__Night.png)
 
 **Dates:** <br>
-* 19 June | 7:00 pm – 8:00 pm&nbsp;&nbsp;
-* 3 July | 7:00 pm – 8:00 pm<br>
+19 June | 7:00 pm – 8:00 pm<br>
+3 July | 7:00 pm – 8:00 pm<br>
 
 **Admission:** 1 pax: $45, 2 pax: $80 <br>
 **Venue:** City Sprouts, 102 Henderson Road<br>
