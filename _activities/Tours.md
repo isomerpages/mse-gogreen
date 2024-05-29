@@ -129,6 +129,36 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/city-sprouts-signature-farm-tour-introduction-to-ways-of-waste/">
+              <img src="/images/Workshop%20&amp;%20Talks/City_Sprouts_Signature_Farm_Tour___Introduction_to_Ways_of_Waste.jpg"></a>
+        <h2>City Sprouts Signature Farm Tour &amp; Introduction to Ways of Waste
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 25 June; 2, 6 July</strong>
+          </li>
+          <li><strong>Admission: 1 pax: $30, 2 pax: $50</strong></li>
+          <li><strong>Venue: City Sprouts, 102 Henderson Road</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join City Sprouts on their Signature Farm Tour to learn about the different ways of farming, ranging from traditional methods to modern ways. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/city-sprouts-signature-farm-tour-introduction-to-ways-of-waste/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
