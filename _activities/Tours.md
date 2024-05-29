@@ -411,7 +411,7 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 15 June</strong>
           </li>
-          <li><strong>Admission: Free (admission charges to National Orchid Garden applies)</strong></li>
+          <li><strong>Admission: Free (admission charges to National Orchid Garden apply)</strong></li>
           <li><strong>Venue: Singapore Botanic Gardens</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
@@ -772,6 +772,36 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/fun-walk-along-the-southern-ridges/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/chek-jawa-wetlands-tour/">
+              <img src="/images/Tours/Chek_jawa_tour_nparks.jpg"></a>
+        <h2>Chek Jawa Wetlands Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 26, 27 June</strong>
+          </li>
+          <li><strong>Admission: $60 per group (max. 15 people per group)</strong></li>
+          <li><strong>Venue: Pulau Ubin</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join nature guides on this tour to experience Chek Jawa’s amazing natural heritage. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/chek-jawa-wetlands-tour/" class="button-primary">
         Find out more
       </a>
     </div>
