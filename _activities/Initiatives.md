@@ -182,6 +182,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/explore-with-lens-6-sides-of-eco-wellness/">
+              <img src="/images/Initiatives/rainbow_artisan.jpg"></a>
+        <h2>Explore with Lens: 6 Sides of Eco Wellness
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June, 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gardens By The Bay, Singapore Botanic Gardens</strong></li>
+          <li><strong>Organiser: The Rainbow Artisan</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Immerse yourself in nature, capturing moments of beauty while staying physically active at this event. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/explore-with-lens-6-sides-of-eco-wellness/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	         <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
