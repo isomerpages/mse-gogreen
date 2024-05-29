@@ -14,7 +14,13 @@ description: ""
 **Venue:** City Sprouts, 102 Henderson Road<br>
 **Organiser:** City Sprouts
 
-Looking for a unique date night or night out? Get ready for a relaxing evening of wine and chilli! No - your eyes aren't playing tricks on you – you will be served natural wines not with cheese, but with chilli! Surprise your senses by being guided through a tasting of natural wines, paired with a range of sambals prepared with fresh chillis. You can even make your own sambal blend and pair it with bruschetta toasts.
+Looking for a unique date night or night out? 
+
+Get ready for a relaxing evening of wine and chilli! 
+
+No, your eyes aren't playing tricks on you! During this event, you will be served natural wines, not with cheese, but with chilli! Surprise your senses by being guided through a tasting of natural wines, paired with a range of sambals prepared with fresh chillis. 
+
+You can even make your own sambal blend and pair it with bruschetta toasts.
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110)">
 	<img src="/images/gogreensg_website-32.png">
