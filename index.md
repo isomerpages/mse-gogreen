@@ -11,7 +11,7 @@ sections:
       title: Go Green, Your Way
       variant: image
       key_highlights:
-        - title: Go Green SG returns with a focus on public hygiene
+        - title: Go Green SG returns, in support of Year of Public Hygiene
           description: ""
           url: year-of-public-hygiene
   - infobar:
