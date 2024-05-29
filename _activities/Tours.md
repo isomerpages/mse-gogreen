@@ -310,6 +310,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/whats-in-my-mangrove/">
+				<img src="/images/Tours/Whats_in_my_Mangrove_SBWR.png"></a>
+        <h2>What's in My Mangrove?</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about the unique features of the mangrove species&nbsp;found in Sungei Buloh and the importance of mangrove habitats in this guided walk.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-mangrove/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
