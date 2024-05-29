@@ -370,7 +370,37 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-			<div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/singapore-botanic-gardens-heritage-tour/">
+              <img src="/images/Tours/SBG_heritage_tour.jpg"></a>
+        <h2>Singapore Botanic Gardens Heritage Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Tanglin Gate)</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit what's considered the birthplace of Southeast Asia's rubber and orchid industries. Highlights of this tour include the Bandstand, the Heritage Trees, the Main Gate, and the Saraca Stream Walk. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-botanic-gardens-heritage-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/singapore-botanic-gardens-learning-forest-tour/">
@@ -631,36 +661,6 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	       <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-            <a href="/singapore-botanic-gardens-heritage-tour/">
-              <img src="/images/Tours/SBG_heritage_tour.jpg"></a>
-        <h2>Singapore Botanic Gardens Heritage Tour
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Tanglin Gate)</strong></li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Visit what's considered the birthplace of Southeast Asia's rubber and orchid industries. Highlights of this tour include the Bandstand, the Heritage Trees, the Main Gate, and the Saraca Stream Walk. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/singapore-botanic-gardens-heritage-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -672,7 +672,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 15 and 22 June</strong>
+              Date: 15, 22 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Tzu Chi Humanistic Youth Centre</strong></li>
