@@ -438,7 +438,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 19 June, 3 July</strong>
+              Date: 19 June; 3 July</strong>
           </li>
           <li><strong>Admission: 1 pax: $45, 2 pax: $80</strong></li>
           <li><strong>Venue: City Sprouts, 102 Henderson Road</strong></li>
@@ -556,7 +556,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 22 and 23 June</strong>
+              Date: 22, 23 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Science Centre Singapore</strong></li>
