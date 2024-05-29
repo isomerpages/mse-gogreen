@@ -340,7 +340,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="singapore-botanic-gardens-learning-forest-tour/">
+        <img src="/images/Tours/SBG_learning_tour.jpg"></a>
+        <h2>Singapore Botanic Gardens Learning Forest Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about freshwater forest wetland ecosystems at the Keppel Discovery Wetlands and walk amongst a collection of some of the tallest tree species in Southeast Asia at the SPH Walk of Giants!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="singapore-botanic-gardens-learning-forest-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/whats-in-my-mangrove/">
