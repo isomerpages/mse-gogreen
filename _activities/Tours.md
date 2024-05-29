@@ -109,7 +109,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Tours/lta.jpg"></a>
-        <h2>All Aboard! ,Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -119,7 +119,7 @@ More activities will also be added progressively.</div>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Mobility Gallery</strong></li>
-          <li><strong>Organiser: Land Transport Authority (LTA)</strong></li>
+          <li><strong>Organiser: Land Transport Authority</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
