@@ -100,7 +100,37 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">
-	          <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/learn-to-make-diy-natural-scrubs-with-city-sprouts/">
+              <img src="/images/Workshop%20&amp;%20Talks/Learn_to_make_DIY_Natural_Scrubs_with_City_Sprouts.jpg"></a>
+        <h2>Learn to make DIY Natural Scrubs with City Sprouts
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 19, 21 June; 6 July</strong>
+          </li>
+          <li><strong>Admission: 1 pax: $30, 2 pax: $50 </strong></li>
+          <li><strong>Venue: City Sprouts, 102 Henderson Road</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how to make environmentally-friendly self-care alternatives like scrubs and hair masks with ingredients easily found in your kitchen. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/learn-to-make-diy-natural-scrubs-with-city-sprouts/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/city-sprouts-signature-farm-tour-introduction-to-ways-of-waste/">
@@ -156,36 +186,6 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/co-nut-ink-ecosystem-program/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	         <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-            <a href="/learn-to-make-diy-natural-scrubs-with-city-sprouts/">
-              <img src="/images/Workshop%20&amp;%20Talks/Learn_to_make_DIY_Natural_Scrubs_with_City_Sprouts.jpg"></a>
-        <h2>Learn to make DIY Natural Scrubs with City Sprouts
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 12, 19, 21 June; 6 July</strong>
-          </li>
-          <li><strong>Admission: 1 pax: $30, 2 pax: $50 </strong></li>
-          <li><strong>Venue: City Sprouts, 102 Henderson Road</strong></li>
-          <li><strong>Organiser: City Sprouts</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Learn how to make environmentally-friendly self-care alternatives like scrubs and hair masks with ingredients easily found in your kitchen. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/learn-to-make-diy-natural-scrubs-with-city-sprouts/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -408,7 +408,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 17 June, 1 July</strong>
+              Date: 17 June; 1 July</strong>
           </li>
           <li><strong>Admission: $20 per pax</strong></li>
           <li><strong>Venue: Buangkok Green Medical Park</strong></li>
