@@ -11,7 +11,7 @@ description: ""
 **Venue:** Singapore Botanic Gardens (Visitor Services at Nassim Gate)<br>
 **Organiser:** National Parks Board
 
-Come and be amazed by the Rainforest at the Gardens, one of the oldest remnants of a primary forest in Singapore.
+Come and be amazed by the Rainforest at the Singapore Botanic Gardens, one of the oldest remnants of a primary forest in Singapore.
 
 Some 314 species of plants jostle for space in this precious six-hectare fragment of primary tropical forest, forming a multi-layered ecosystem of herbs, ferns, climbers, shrubs, and trees. Some trees reach 50 metres in height and were here even before the founding of modern Singapore in 1819.
 
