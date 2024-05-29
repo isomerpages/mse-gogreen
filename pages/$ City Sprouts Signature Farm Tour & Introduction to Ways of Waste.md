@@ -15,7 +15,9 @@ description: ""
 **Venue:** City Sprouts, 102 Henderson Road<br>
 **Organiser:** City Sprouts
 
-Join City Sprouts on their Signature Farm Tour to learn about the different ways of farming from traditional methods (like rice paddies and in the ground) to modern ways (like hydroponics and aquaponics). Meet the chickens, ducks, and quails and learn how to deal with numerous types of waste sustainably using various methods. Experience techniques such as composting, utilising worms, people-powered recycling and new biodigester technologies! Each of these methods turn different types of waste into something of value.
+Join City Sprouts on their Signature Farm Tour to learn about the different ways of farming, ranging from traditional methods (like rice paddies and in the ground) to modern ways (like hydroponics and aquaponics). 
+
+Meet the chickens, ducks, and quails of City Sprouts and learn how to deal with numerous types of waste sustainably using various methods. Experience techniques such as composting, utilising worms, people-powered recycling and new biodigester technologies! Each of these methods turn different types of waste into something of value.
 
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110)">
