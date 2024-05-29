@@ -57,7 +57,6 @@ sections:
       url: /2024/retail-f-b-and-deals/
   - infopic:
       title: Family Friendly
-      subtitle: Add an image and text
       id: infopic
       description: Fun for the Family at Go Green SG! Check out this curated list of
         activities perfect for families to enjoy.
