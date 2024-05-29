@@ -69,7 +69,7 @@ sections:
       id: infopic
       description: Enjoy a fun-packed day mingling with other like-minded eco enthusiasts.
       button: Learn More
-      url: /events/
+      url: /2024/events/
       image: /images/go-green-events.png
       alt: Image alt text
 ---
