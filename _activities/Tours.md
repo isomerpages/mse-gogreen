@@ -720,6 +720,35 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+				<a href="/whats-in-my-water/">
+				<img src="/images/Tours/Whats_in_my_Water_SBWR.png"></a>
+        <h2>What's in My Water?</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June, 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>During this walk, participants can learn about the creatures and plants that lives in and around the water edges of Sungei Buloh.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/whats-in-my-water/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/black-soldier-fly-bsf-eco-farm-tour/">
 				<img src="/images/Otolith_Enrichment_Black_Soldier_Fly_Eco_Farm_Tour.jpg"></a>
         <h2>Black Soldier Fly (BSF) Eco Farm Tour</h2>
