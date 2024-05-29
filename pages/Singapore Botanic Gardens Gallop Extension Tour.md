@@ -24,7 +24,7 @@ Registration is required by 8.45am at the Gallop Visitor Services Desk (nearest 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
