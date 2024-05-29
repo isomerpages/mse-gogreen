@@ -7,9 +7,12 @@ image: /images/YOPH.jpg
 ---
 ![](/images/YOPH.jpg)
 
-Go Green SG returns from 12 June to 14 July 2024 in support of the Year of Public Hygiene.
 
-This year's Go Green SG will feature activities and programmes to raise public awareness and nudge citizens to do their part for a cleaner and greener Singapore.
+Go Green SG returns with a focus on public hygiene!
+
+With 2024 designated as the Year of Public Hygiene, this year's Go Green SG will feature activities and programmes to raise public awareness and nudge citizens to do their part for a cleaner and greener Singapore.
+
+Check out the activities below!
 
 <style>
   .row_custom {
