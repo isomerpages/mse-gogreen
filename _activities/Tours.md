@@ -411,8 +411,8 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 15 June</strong>
           </li>
-          <li><strong>Admission: Free, but admission charges to the National Orchid Garden applies</strong></li>
-          <li><strong>Venue: Singapore Botanic Gardens (National Orchid Garden Ticketing Gate)</strong></li>
+          <li><strong>Admission: Free, (admission charges to National Orchid Garden applies)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
