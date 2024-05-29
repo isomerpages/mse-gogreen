@@ -52,7 +52,7 @@ sections:
       id: infopic
       description: Enjoy shopping and dining deals while going green!
       button: Learn more
-      image: /images/go-green-retail-dining-3.png
+      image: /images/go-green-challenges-deals.png
       alt: Image alt text
       url: /2024/retail-f-b-and-deals/
   - infopic:
@@ -63,5 +63,13 @@ sections:
       button: Learn More
       url: /2024/family-friendly/
       image: /images/go-green-events-2.png
+      alt: Image alt text
+  - infopic:
+      title: Events
+      id: infopic
+      description: Enjoy a fun-packed day at festivals and shows.
+      button: Learn More
+      url: /events/
+      image: /images/go-green-events.png
       alt: Image alt text
 ---
