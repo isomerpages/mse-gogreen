@@ -13,7 +13,7 @@ description: ""
 
 As one of Singapore’s largest experiential retail event, look forward to shopping more than 80 sustainable lifestyle brands, take part in hands-on workshops that inspire a low-carbon-footprint lifestyle, and discover exclusive cross-collaborations between brands at GREEN-HOUSE 2024.&nbsp;
 
-Children  and, pets are welcome!
+Children and pets are welcome!
 
 This activity is suitable for individuals with mobility issues.
 
