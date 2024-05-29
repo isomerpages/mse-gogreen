@@ -1200,7 +1200,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 9 and 11 July</strong>
+              Date: 9, 11 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Republic Polytechnic Centre, 9 Woodlands Avenue 9</strong></li>
