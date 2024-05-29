@@ -270,4 +270,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/green-house-2024/">
+              <img src="/images/Events/GREEN_HOUSE_2024.jpg"></a>
+        <h2>GREEN-HOUSE 2024
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: New Bahru, 46 &amp; 58 Kim Yam Road</strong></li>
+          <li><strong>Organiser: Pass It On Elab Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Shop more than 80 sustainable lifestyle brands, take part in hands-on workshops and discover exclusive collaborations at GREEN-HOUSE 2024!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/green-house-2024/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 </div>
