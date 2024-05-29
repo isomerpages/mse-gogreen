@@ -86,14 +86,18 @@ description: ""
     color: #43b453 !important;
   }
 
-		.text-center-color {
+	.text-center-color {
 		text-align: center;
-		border: 2px solid green;
+		border: 2px solid #50b748;
+	padding: 25px;
+	 font-weight: bold;
+
 			}
 </style>
 
-<div style="margin-bottom:30px;" class="text-center-color">Check out the activities we have in store this Go Green SG!<br>
-Come back on 5 June when registration links go live at 10am, to sign up for your favourite activities!</div>
+<div style="margin-bottom:30px;" class="text-center-color">Check out the activities we have in store during Go Green SG!<br>
+Come back on 5 June when registration links go live at 10am, to sign up for your favourite activities!<br>
+More activities will also be added progressively.</div>
 
 <div class="row row_custom">  
 	<div class="programmes__item col is-one-third">
