@@ -15,6 +15,6 @@ Introducing Waste-Gate, a public art installation in Haji Lane, spearheaded by V
 
 This innovative project features a "waste-bombing" concept, symbolising sustainability and creative reuse. Each part of the installation showcases a different type of waste, from textile remnants to plastic food packaging, with informative write-ups highlighting their impact on sustainability.&nbsp;
 
-Members of the public who wish to participate in the building of the project can do so in June. &nbsp;
+Members of the public who wish to participate in the building of the project can visit Vintagewknd at 41 Haji Lane.
 
 Waste-Gate also features a tactile section where you can touch and feel different types of textile waste. Learn how displays featuring flowers made from plastic waste and outdoor mirror installations have been upcycled. Take selfies with upcycled props to post on your social media, with a chance to win some upcycled prizes!
