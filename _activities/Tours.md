@@ -109,13 +109,13 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Tours/lta.jpg"></a>
-        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+        <h2>All Aboard! ,Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 12 and 19 June</strong>
+              Date: 12 19 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore Mobility Gallery</strong></li>
