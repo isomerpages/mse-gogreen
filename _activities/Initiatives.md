@@ -212,6 +212,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/art-installation-waste-gate/">
+              <img src="/images/Initiatives/WASTEGATE.png"></a>
+        <h2>Art Installation: Waste Gate
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 41 Haji Lane</strong></li>
+          <li><strong>Organiser: Vintagewknd </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Check out Waste-Gate, a public art installation in Haji Lane spearheaded by Vintagewknd alongside students and members of the public, and its 'waste-bombing' concept.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/art-installation-waste-gate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -271,35 +301,6 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/litter-vanture-go-green-sg/">
-        <img src="/images/Tours/hero_image__act_1.jpg"></a>
-        <h2>Litter Vanture Go Green SG</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 29 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Blk 4C, St. Georges Lane, Linkway Building</strong></li>
-          <li><strong>Organiser: Stridy Pte Ltd</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Join Stridy members as they walk and clean up around the Jalan Besar neighbourhood. Get an hour of walking exercise in and meet like-minded individuals while learning something new!
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/litter-vanture-go-green-sg/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -325,6 +326,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/forest-clean-up-at-pulau-ubin/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/litter-vanture-go-green-sg/">
+        <img src="/images/Tours/hero_image__act_1.jpg"></a>
+        <h2>Litter Vanture Go Green SG</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Blk 4C, St. Georges Lane, Linkway Building</strong></li>
+          <li><strong>Organiser: Stridy Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Stridy members as they walk and clean up around the Jalan Besar neighbourhood. Get an hour of walking exercise in and meet like-minded individuals while learning something new!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/litter-vanture-go-green-sg/" class="button-primary">
         Find out more
       </a>
     </div>
