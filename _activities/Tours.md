@@ -310,6 +310,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/pitter-patter-potter-tour/">
+              <img src="/images/Tours/Pitter_Patter_Potter_Tour_HortPark.jpg"></a>
+        <h2>Pitter Patter Potter Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: HortPark</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on an exciting nature exploration journey at the Pitter Patter Potter Garden, a "classroom in a garden" tailored to spark curiosity and inspire a love for nature in young minds.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/pitter-patter-potter-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
