@@ -987,7 +987,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 22 and 29 June</strong>
+              Date: 22, 29 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: ABC Waters @ Kallang River</strong></li>
@@ -1016,7 +1016,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 22 June, 6 July</strong>
+              Date: 22 June; 6 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
@@ -1045,7 +1045,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 22 June, 13 July</strong>
+              Date: 22 June; 13 July</strong>
           </li>
           <li><strong>Admission: $28++</strong></li>
           <li><strong>Venue: Sustainability @ Tampines Park</strong></li>
@@ -1074,7 +1074,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 29 and 30 June</strong>
+              Date: 29,  30 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Harbourfront Centre</strong></li>
