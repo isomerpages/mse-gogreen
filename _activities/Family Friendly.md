@@ -307,6 +307,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/beach-clean-up-and-sustainability-talk/">
+					<img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg"></a>
+        <h2>Beach Clean Up and Sustainability Talk
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: East Coast Park</strong></li>
+          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/beach-clean-up-and-sustainability-talk/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -682,36 +712,6 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-				<a href="/beach-clean-up-and-sustainability-talk/">
-					<img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg"></a>
-        <h2>Beach Clean Up and Sustainability Talk
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: East Coast Park</strong></li>
-          <li><strong>Organiser: Maritime and Port Authority of Singapore</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/beach-clean-up-and-sustainability-talk/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
