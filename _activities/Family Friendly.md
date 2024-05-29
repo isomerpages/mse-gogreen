@@ -1153,6 +1153,35 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/singapore-botanic-gardens-rainforest-tour/">
+        <img src="//images/Tours/SBG_rainforest_tour.jpg"></a>
+        <h2>Singapore Botanic Gardens Rainforest Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Come and be amazed by the Rainforest at the Singapore Botanic Gardens, one of the oldest remnants of a primary forest in Singapore.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-botanic-gardens-rainforest-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/walk-with-your-neighbours-chestnut-nature-park/">
         <img src="/images/Tours/friends_chestnut_nature_park.jpg"></a>
         <h2>Walk With Your Neighbours @ Chestnut Nature Park</h2>
