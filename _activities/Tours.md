@@ -773,7 +773,7 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-<a href="sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
+<a href="/sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
         <img src="/images/Tours/Sewer_Choke_Demonstration_and_Visit_to_Ulu_Pandan_Reclamation_Plant.png"></a>
         <h2>Sewer Choke Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
       </div>
@@ -794,7 +794,7 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/" class="button-primary">
+      <a href="/sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/" class="button-primary">
         Find out more
       </a>
     </div>
