@@ -62,7 +62,7 @@ sections:
       description: Fun for the Family at Go Green SG! Check out this curated list of
         activities perfect for families to enjoy.
       button: Learn More
-      url: /2024/retail-f-b-and-deals/
+      url: /2024/family-friendly/
       image: /images/go-green-events-2.png
       alt: Image alt text
 ---
