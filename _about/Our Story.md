@@ -27,30 +27,6 @@ More than 70,000 participants were part of Go Green SG in 2023. More than 160 pa
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wCTfvs_LLw0?si=abJXKhowOk4reqtu" height="500" width="100%"></iframe>
 
-(to replace photos below with pictures from last year. below shows pics from 2022)
-
-<div class="row row_custom">
-	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-40-new.png">
-	</div>
-	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-43-new.png">
-	</div>
-	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-44-new.png">
-	</div>
-	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-42-new.png">
-	</div>
-	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-41-new.png">
-	</div>
-	<div class="col is-one-third">
-		<img src="/images/Our%20Story/gogreensg_website-45-new.png">
-	</div>
-</div>
-
-
 <style>
 	.tx-green { color: #00A651; }
 	.tx-light-green { color: #A9CB5A; }
