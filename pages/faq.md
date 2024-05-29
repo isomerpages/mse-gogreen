@@ -18,7 +18,7 @@ promote sustainability within their organisations, as well as external activitie
 public. 
 
 Activities that are open to members of the public include exclusive and specially curated behind-the-scenes sustainability tours, learning journeys, events, workshops, youth activities, promotions, and
-green challenges. Check out the list of activities on the “[Our Activities](https://www.gogreen.gov.sg/programmes/)” page.
+green challenges. Check out the list of activities on the “[Our Activities](https://www.gogreen.gov.sg/2024/tours/)” page.
 
 ### 3. Who are these activities organised by?
 More than 100 partners from Government agencies, corporates, non-governmental
@@ -46,7 +46,7 @@ curate their own Go Green experiences based on individual lifestyles, personal i
 you require more information about the activities, please contact the respective organisers directly.
 
 ### 6. I want to sign up for a specific activity, how do I go about doing so?
-The full list of activities can be found on the ["Our Activities"](https://www.gogreen.gov.sg/programmes/) page. You may browse by different
+The full list of activities can be found on the ["Our Activities"](https://www.gogreen.gov.sg/2024/tours/) page. You may browse by different
 categories to find
 activities that interest you. To sign up for an activity, click on the specific activity page followed by the
 ‘Register now’ button. You will be directed to the respective organiser’s page to complete the
@@ -76,4 +76,4 @@ cancellations. Some partners may have specific terms and conditions for their ac
 You may submit your questions or feedback on the ["Contact Us"](https://www.gogreen.gov.sg/contact/) page.
 
 ### 13. I would like to submit a proposal to organise an activity for Go Green SG 2024. How do I go about doing so?
-Registration for partners who would like to organise activities in support of Go Green SG 2023 has closed. We welcome you to organise activities for Go Green SG next year!
+Registration for partners who would like to organise activities in support of Go Green SG 2024 has closed. We welcome you to organise activities for Go Green SG next year!
