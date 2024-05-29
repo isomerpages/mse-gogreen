@@ -22,7 +22,7 @@ This programme is suitable for participants aged 5 years and above.
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
