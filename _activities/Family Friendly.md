@@ -1183,7 +1183,7 @@ More activities will also be added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/singapore-botanic-gardens-rainforest-tour/">
-        <img src="//images/Tours/SBG_rainforest_tour.jpg"></a>
+        <img src="/images/Tours/SBG_rainforest_tour.jpg"></a>
         <h2>Singapore Botanic Gardens Rainforest Tour</h2>
       </div>
       <div class="programmes__item__detail">
