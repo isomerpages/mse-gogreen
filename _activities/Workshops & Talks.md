@@ -262,7 +262,7 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
               Dates: 15, 22, 29 June; 1 - 5 July, 6 July</strong>
           </li>
           <li><strong>Admission: $10 per parent/child pair</strong></li>
-          <li><strong>Venue: Jun Jie Industrial Building, 153 Kampong Ampat, #04-02</strong></li>
+          <li><strong>Venue: Jun Jie Industrial Building, 153 Kampong Ampat</strong></li>
           <li><strong>Organiser: Semula Pte Ltd</strong></li>
         </ul>
       </div>
