@@ -2,19 +2,19 @@ title: Go Green SG
 url: https://www.gogreen.gov.sg
 favicon: /images/logo-go-green.png
 colors:
-  primary-color: "#006633"
-  secondary-color: "#006633"
+  primary-color: "#50b748"
+  secondary-color: "#00b1dc"
   media-colors:
     - title: media-color-one
-      color: "#a9cb5a"
+      color: "#50b748"
     - title: media-color-two
-      color: "#205979"
+      color: "#00b1dc"
     - title: media-color-three
-      color: "#305f33"
+      color: "#50b748"
     - title: media-color-four
-      color: "#545454"
+      color: "#00b1dc"
     - title: media-color-five
-      color: "#8b572a"
+      color: "#50b748"
 description: Sign up for exclusive Go Green SG activities, programmes and experiences!
 permalink: none
 baseurl: ""
