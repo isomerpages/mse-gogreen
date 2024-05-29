@@ -182,6 +182,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+	         <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/trashion-week/">
+              <img src="/images/Initiatives/trashion_week.png"></a>
+        <h2>Trashion Week
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: East Coast Park/Haji Lane</strong></li>
+          <li><strong>Organiser: Vintagewkend and Stridy</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Calling all youths! Join Vintagewkend and Stridy in your most fashionable fits to make Singapore cleaner and greener at Trashion Week. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/trashion-week/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
