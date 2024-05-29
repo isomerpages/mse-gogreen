@@ -19,7 +19,7 @@ sections:
       description: Look forward to fun-filled green activities and programmes from 12
         June to 14 July. Sign up for your favourite activity from 5 June
         onwards!
-      url: xyz
+      url: /2024/tours/
       button: Explore events listing
   - infopic:
       title: Tours
