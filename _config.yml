@@ -3,7 +3,7 @@ url: https://www.gogreen.gov.sg
 favicon: /images/logo-go-green.png
 colors:
   primary-color: "#50b748"
-  secondary-color: "#00b1dc"
+  secondary-color: "#50b748"
   media-colors:
     - title: media-color-one
       color: "#50b748"
