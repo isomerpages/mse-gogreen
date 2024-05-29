@@ -194,7 +194,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 15 June, 6 July</strong>
+              Date: 15 June; 6 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Gardens By The Bay, Singapore Botanic Gardens</strong></li>
@@ -272,36 +272,6 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	          <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-            <a href="/art-installation-waste-gate/">
-              <img src="/images/Initiatives/WASTEGATE.png"></a>
-        <h2>Art Installation: Waste Gate
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 22 June – 14 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: 41 Haji Lane</strong></li>
-          <li><strong>Organiser: Vintagewknd </strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Check out Waste-Gate, a public art installation in Haji Lane spearheaded by Vintagewknd alongside students and members of the public, and its 'waste-bombing' concept.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/art-installation-waste-gate/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -361,7 +331,37 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
-		<div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/art-installation-waste-gate/">
+              <img src="/images/Initiatives/WASTEGATE.png"></a>
+        <h2>Art Installation: Waste Gate
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 41 Haji Lane</strong></li>
+          <li><strong>Organiser: Vintagewknd </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Check out Waste-Gate, a public art installation in Haji Lane spearheaded by Vintagewknd alongside students and members of the public, and its 'waste-bombing' concept.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/art-installation-waste-gate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/forest-clean-up-at-pulau-ubin/">
