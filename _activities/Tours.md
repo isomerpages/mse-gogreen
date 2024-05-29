@@ -806,36 +806,37 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	<div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/abc-waters-trail-kallang-river-bishan-braddell-road/">
-				<img src="/images/Tours/ABC_Waters_Trail_Shimizu.jpg"></a>
-        <h2>ABC Waters Trail @ Kallang River (Bishan – Braddell Road)</h2>
+            <a href="/fun-walk-along-the-southern-ridges/">
+              <img src="/images/Tours/fun_walk_along_southern_ridges.jpg"></a>
+        <h2>Fun Walk Along the Southern Ridges
+</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
           <li>
             <strong>
-              Date: 22, 29 June</strong>
+              Date: 22 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: ABC Waters @ Kallang River</strong></li>
-          <li><strong>Organiser: Shimizu Corporation and PUB</strong></li>
+          <li><strong>Venue: Henderson Waves bridge, Mt Faber Loop</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Learn more about Singapore’s Water Story and how the ABC Waters Programme is transforming Singapore’s canal, rivers &amp; reservoirs into beautiful recreational spaces.
+        <p>Take your family on a leisure stroll through The Southern Ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. 
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/abc-waters-trail-kallang-river-bishan-braddell-road/" class="button-primary">
+      <a href="/fun-walk-along-the-southern-ridges/" class="button-primary">
         Find out more
       </a>
     </div>
   </div>
-	         <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/race-against-time-science-behind-a-botanic-garden-tour/">
@@ -868,6 +869,35 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+				<a href="/abc-waters-trail-kallang-river-bishan-braddell-road/">
+				<img src="/images/Tours/ABC_Waters_Trail_Shimizu.jpg"></a>
+        <h2>ABC Waters Trail @ Kallang River (Bishan – Braddell Road)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: ABC Waters @ Kallang River</strong></li>
+          <li><strong>Organiser: Shimizu Corporation and PUB</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn more about Singapore’s Water Story and how the ABC Waters Programme is transforming Singapore’s canal, rivers &amp; reservoirs into beautiful recreational spaces.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/abc-waters-trail-kallang-river-bishan-braddell-road/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/whats-in-my-water/">
 				<img src="/images/Tours/Whats_in_my_Water_SBWR.png"></a>
         <h2>What's in My Water?</h2>
@@ -876,7 +906,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 22 June, 6 July</strong>
+              Date: 22 June; 6 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
@@ -905,7 +935,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 22 June, 13 July</strong>
+              Date: 22 June; 13 July</strong>
           </li>
           <li><strong>Admission: $28++</strong></li>
           <li><strong>Venue: Sustainability @ Tampines Park</strong></li>
@@ -919,36 +949,6 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/black-soldier-fly-bsf-eco-farm-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	          <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-            <a href="/fun-walk-along-the-southern-ridges/">
-              <img src="/images/Tours/fun_walk_along_southern_ridges.jpg"></a>
-        <h2>Fun Walk Along the Southern Ridges
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 22 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Henderson Waves bridge, Mt Faber Loop</strong></li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Take your family on a leisure stroll through The Southern Ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/fun-walk-along-the-southern-ridges/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -995,7 +995,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 29 and 30 June</strong>
+              Date: 29, 30 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Harbourfront Centre</strong></li>
