@@ -716,6 +716,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/fun-walk-along-the-southern-ridges/">
+              <img src="/images/Tours/fun_walk_along_southern_ridges.jpg"></a>
+        <h2>Fun Walk Along the Southern Ridges
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Henderson Waves bridge, Mt Faber Loop</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Take your family on a leisure stroll through The Southern Ridges, a soothing sanctuary of greenery that is not only steeped in history but also home to some of Singapore's most exciting flora and fauna. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/fun-walk-along-the-southern-ridges/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
