@@ -177,6 +177,66 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
       </a>
     </div>
   </div>
+		          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/chillin-with-chillis-with-city-sprouts/">
+              <img src="/images/Workshop%20&amp;%20Talks/Chillin_with_Chillis_with_City_Sprouts.jpg"></a>
+        <h2>Chillin with Chillis with City Sprouts
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16, 21 June</strong>
+          </li>
+          <li><strong>Admission: $35/pax</strong></li>
+          <li><strong>Venue: City Sprouts, 102 Henderson Road</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Love chilli? Join this City Sprouts workshop and learn how to turn leftover chillis into various products, like a unique sambal, mocktails, and even pest spray. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/chillin-with-chillis-with-city-sprouts/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	          <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/city-sprouts-wine-and-chill-i-night/">
+              <img src="/images/Workshop%20&amp;%20Talks/City_Sprouts__Wine_and_Chill_i__Night.png"></a>
+        <h2>City Sprouts' Wine and Chill(i) Night
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 June, 3 July</strong>
+          </li>
+          <li><strong>Admission: 1 pax: $45, 2 pax: $80</strong></li>
+          <li><strong>Venue: City Sprouts, 102 Henderson Road</strong></li>
+          <li><strong>Organiser: City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Looking to spice up your date night or night out? Get ready for a relaxing evening of wine and chilli with this City Sprouts event! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/city-sprouts-wine-and-chill-i-night/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
