@@ -602,6 +602,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	       <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/singapore-botanic-gardens-heritage-tour/">
+              <img src="/images/Tours/SBG_heritage_tour.jpg"></a>
+        <h2>Singapore Botanic Gardens Heritage Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Tanglin Gate)</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit what's considered the birthplace of Southeast Asia's rubber and orchid industries. Highlights of this tour include the Bandstand, the Heritage Trees, the Main Gate, and the Saraca Stream Walk. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-botanic-gardens-heritage-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -979,6 +1009,66 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/learning-journey-to-changi-water-reclamation-plant/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	       <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/singapore-botanic-gardens-gallop-extension-tour/">
+              <img src="/images/Tours/SBG_gallop_tour.jpg"></a>
+        <h2>Singapore Botanic Gardens Gallop Extension Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Gallop Extension)</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Start your tour at the Gallop Extension, and proceed to the OCBC Arboretum to see the dipterocarp collection. Visitors will also get to experience the Forest Discovery Centre &amp; Botanical Art Gallery.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-botanic-gardens-gallop-extension-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	       <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/singapore-botanic-gardens-healing-garden-tour/">
+              <img src="/images/Tours/SBG_healing_tour.jpg"></a>
+        <h2>Singapore Botanic Gardens Healing Garden Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Nassim Gate)</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Healing Garden, which showcases over 400 varieties of plants with medicinal uses. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-botanic-gardens-healing-garden-tour/" class="button-primary">
         Find out more
       </a>
     </div>
