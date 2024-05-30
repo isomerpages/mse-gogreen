@@ -719,6 +719,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/young-nautilus-marine-scientist-day-camps/">
+	<img src="/images/Tours/Young_Nautilus_MSDC_Mangroves_Edition.png"></a>
+        <h2>Young Nautilus' Marine Scientist Day Camps
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 16, 29 June</strong></li>
+          <li><strong>Admission: Adult $80.10, Child $78.30</strong></li>
+<li><strong>Venue: Pasir Ris Park Mangrove, Changi Beach</strong></li>
+          <li><strong>Organiser: Young Nautilus</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>It’s a Go Green June holiday! Join the Marine Scientist Day Camp and embark on a journey of discovery as a family!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/young-nautilus-marine-scientist-day-camps/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
