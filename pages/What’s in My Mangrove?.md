@@ -24,7 +24,7 @@ Learn about the unique features that these plants possess and the importance of 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
