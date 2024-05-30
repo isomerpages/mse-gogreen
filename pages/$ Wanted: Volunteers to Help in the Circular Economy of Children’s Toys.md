@@ -6,13 +6,14 @@ description: ""
 ---
 ![Volunteers - Circular Economy ](/images/Initiatives/Wanted_Volunteers_to_Help_in_the_Circular_Economy_of_Children_s_Toys.png)
 
-**Dates:** 12 June \- 14 July<br>
-**Admissions**: Free (registration required)<br>
+**Dates:** 12 June - 14 July<br>
 **Organiser:** Play Beyond Private Limited
 
 Volunteer with Play Beyond to build a circular economy for children’s toys.&nbsp;&nbsp;&nbsp;
 
-As a volunteer, you will play a vital role in Play Beyond’s sustainability efforts. Whether it is assisting with mobile playgrounds, organising toy collection drives, or facilitating children’s workshops, your contribution matters.&nbsp; Play Beyond volunteers can contribute in various roles, including administration, transportation, publicity, event management and more.&nbsp;&nbsp;
+As a volunteer, you will play a vital role in Play Beyond’s sustainability efforts. Whether it is assisting with mobile playgrounds, organising toy collection drives, or facilitating children’s workshops, your contribution matters.&nbsp; 
+
+Play Beyond volunteers can contribute in various roles, including administration, transportation, publicity, event management and more.&nbsp;&nbsp;
 
 Join Play Beyond’s volunteer team today and contribute to a more sustainable future.
 
