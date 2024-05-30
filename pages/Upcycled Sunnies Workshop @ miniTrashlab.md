@@ -23,7 +23,7 @@ In support of Go Green SG, enjoy this workshop at a special price of $41.90 (U.P
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
