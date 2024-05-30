@@ -26,7 +26,7 @@ Training will be provided for volunteers who are new to Heron Watch. New volunte
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
