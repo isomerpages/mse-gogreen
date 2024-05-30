@@ -19,7 +19,8 @@ This programme will provide participants an opportunity to support National Park
 
 Participants are required to wear covered shoes and prepare their own pair of gardening gloves.
 
-**Pulau Ubin – West, MaChor Trail (12 June, 9:30 am – 11:30 am)** 
+**PULAU UBIN – WEST, MACHOR TRAIL (12 June, 9:30 am – 11:30 am)** 
+
 <a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
 	<img src="/images/gogreensg_website-32.png">
 </a>
@@ -36,7 +37,8 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	}
 </style>
 
-**Pulau Ubin – Butterfly Hill (5 July, 9:30 am – 11:30 am)** 
+**PULAU UBIN – BUTTERFLY HILL (5 July, 9:30 am – 11:30 am)** 
+
 <a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin5july">
 	<img src="/images/gogreensg_website-32.png">
 </a>
@@ -53,9 +55,9 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	}
 </style>
 
-**Rifle Range (49 June, 9:30 am – 11:30 am)** 
+**RIFLE RANGE NATURE PARK (22 June, 9:30 am – 11:30 am)** 
 
-<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
+<a class="btn-link" target="_blank" href="https://go.gov.sg/ismCOMMUNITY">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
