@@ -45,7 +45,7 @@ This activity is recommended for families with children between the ages of 7 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
