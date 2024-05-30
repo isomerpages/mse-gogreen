@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/Tours/GBTB_smell_tour_key_visual.jpg)
-**Here is your chance to stop and smell the flowers, fruits, and leaves! Journey with guides through the World of Plants gardens at Gardens by the Bay.**
+
 
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 10:30 am – 11:30 am  
@@ -19,3 +19,22 @@ Here is your chance to stop and smell the flowers, fruits, and leaves! Journey w
 On the way, you will discover more about your sense of smell and how plants produce and use scents (both fragrant and foetid) to communicate, protect themselves, and attract animals to do their bidding!
 
 This 1-hour activity involves walking in the outdoor gardens. Gardens by the Bay is wheelchair-accessible.
+
+Registration for the July runs opens on 5 or 13 June, 9.00 am or 10.00 am
+
+
+<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-seeds-and-senses-smell-june-tickets-891466388967?aff=ebdsoporgprofile">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
