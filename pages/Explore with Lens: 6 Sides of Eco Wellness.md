@@ -40,4 +40,3 @@ This event is part of a series held at parks and gardens conveniently  located n
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/discover-with-lens-6-sides-of-eco-wellness-singapore-botanic-gardens-tickets-897878638177?aff=oddtdtcreator">
 	<img src="/images/gogreensg_website-32.png">
 </a>
-
