@@ -17,7 +17,7 @@ Join NParks in their tree planting efforts in our streetscapes, gardens, parks a
 
 This activity is suitable for all to attend. Children under the age of 12 must be accompanied by an adult. 
 
-For more information about the OneMillionTrees movement, visit: https://www.nparks.gov.sg/treessg/one-million-trees-movement/ 
+For more information about the OneMillionTrees movement, visit: [https://www.nparks.gov.sg/treessg/one-million-trees-movement/](https://www.nparks.gov.sg/treessg/one-million-trees-movement/)
 
 
 **CHANGI SOUTH AVE 2/ST 3 (28 June, 9.00 am - 10.00 am)**
@@ -66,4 +66,3 @@ For more information about the OneMillionTrees movement, visit: https://www.npar
 <a class="btn-link" target="_blank" href="https://form.gov.sg/65f91fbe279a4e9119bb35c6">
 	<img src="/images/gogreensg_website-32.png">
 </a>
-
