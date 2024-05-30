@@ -246,33 +246,6 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div> 
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-      <a href="/onemilliontrees-movement-tree-planting-sessions/">
-	<img src="/images/Initiatives/NParks_OneMillionTrees.jpg"></a>
-        <h2>OneMillionTrees Movement Tree Planting Sessions
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Dates: 28 June; 12 July</strong></li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-<li><strong>Venue: Various</strong></li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>The OneMillionTrees movement is a nationwide effort to plant a million more trees across Singapore between 2020 and 2030. Join NParks in their tree planting efforts to build a City in Nature.  
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/onemilliontrees-movement-tree-planting-sessions/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1225,7 +1198,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-			  <div class="programmes__item col is-one-third">
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/onemilliontrees-movement-tree-planting-sessions/">
+	<img src="/images/Initiatives/NParks_OneMillionTrees.jpg"></a>
+        <h2>OneMillionTrees Movement Tree Planting Sessions
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 28 June; 12 July</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The OneMillionTrees movement is a nationwide effort to plant a million more trees across Singapore between 2020 and 2030. Join NParks in their tree planting efforts to build a City in Nature.  
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/onemilliontrees-movement-tree-planting-sessions/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/maritime-evolution-trail/">
