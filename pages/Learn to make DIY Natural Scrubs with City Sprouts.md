@@ -25,7 +25,7 @@ This activity allows participants to learn how to make self-care alternatives th
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
