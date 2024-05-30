@@ -24,7 +24,7 @@ Registration is required in-person at Nassim Visitor Services Desk by 8:45 am. L
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
