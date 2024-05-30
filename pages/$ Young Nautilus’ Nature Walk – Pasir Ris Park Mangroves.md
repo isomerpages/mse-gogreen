@@ -11,7 +11,7 @@ description: ""
 * Adult: $52.20
 * Child: $50.40
 * 2 x Adult: $100.80
-* Bundle of 4 Pax (A/C): $201.60<br>
+* Bundle of 4 Pax (Adult or Child): $201.60<br>
 
 **Venue:** Pasir Ris Park Mangrove <br>
 **Organiser:** Young Nautilus  
@@ -20,7 +20,7 @@ Explore the hidden mangrove gem of the East through a nature walk! The protected
 
 Although you will not be walking in the water, be prepared to get specks of mud on your feet.  
 
-Enter the promo code "YNGOGREENSG24" for a 10% discount. (This discount cannot be combined with any other existing promo codes) 
+Enter the promo code "**YNGOGREENSG24**" for a 10% discount. (This discount cannot be combined with any other existing promo codes.) 
 
 This activity is recommended for individuals aged 2 and above and is suitable for individuals with mobility issues. 
 
