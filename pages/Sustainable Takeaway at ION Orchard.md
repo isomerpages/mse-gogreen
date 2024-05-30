@@ -34,7 +34,7 @@ Participating stores include:&nbsp;
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
