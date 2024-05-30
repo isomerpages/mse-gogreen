@@ -23,6 +23,38 @@ Parents and children can learn to embrace sustainable living habits together and
 
 This activity is recommended for participants aged 10 and above.
 
-**Register now**:
-* [15 June](https://bit.ly/1604GOG)
-* [22 June](https://bit.ly/2206GOG)
+**15 JUNE**
+
+<a class="btn-link" target="_blank" href="https://bit.ly/1604GOG">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
+
+**22 JUNE**
+
+<a class="btn-link" target="_blank" href="https://bit.ly/2206GOG">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style> 
