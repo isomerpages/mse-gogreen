@@ -217,6 +217,35 @@ Check out the activities below!
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/tour-workshop-at-imh-s-community-and-hydroponic-gardens/">
+				<img src="/images/Tours/Tour___Workshop_at_IMH_s_Community_and_Hydroponic_Gardens.png"></a>
+        <h2>Tour &amp; Workshop at IMH’s Community and Hydroponic Gardens</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 19 June; 1 July</strong>
+          </li>
+          <li><strong>Admission: $20 per pax</strong></li>
+          <li><strong>Venue: Buangkok Green Medical Park</strong></li>
+          <li><strong>Organiser: Institute of Mental Health</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how food waste is converted into plant fertilisers/compost and explore the various species of edible and scented plants at the Community Garden.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/tour-workshop-at-imh-s-community-and-hydroponic-gardens/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>		
 			<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
