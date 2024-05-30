@@ -23,7 +23,7 @@ The programme also features a learning journey to introduce the various concepts
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
