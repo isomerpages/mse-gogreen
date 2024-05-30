@@ -7,37 +7,69 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/artboard-4.png
+      background: /images/2024banner_text.png
       title: Go Green, Your Way
+      variant: image
+      key_highlights:
+        - title: Go Green SG returns with a focus on public hygiene
+          description: ""
+          url: year-of-public-hygiene
   - infobar:
-      title: See you in 2024!
-      description: Go Green SG 2023 is over, and we can't thank you enough for your
-        support! Stay tuned for more fun-filled green activities next year!
+      title: Get Ready For Go Green SG 2024!
+      description: Look forward to fun-filled green activities and programmes from 12
+        June to 14 July. Sign up for your favourite activity from 5 June
+        onwards!
+      url: /2024/tours/
+      button: Explore events listing
   - infopic:
-      title: Partner Activities
+      title: Tours
       id: infopic
-      description: Still looking to Go Green? Check out these year-round activities
-        organised by our partners!
+      description: Peek at the wonders of nature, explore the different sides of
+        familiar landmarks and visit places that are usually not open for public
+        access.
       button: Learn More
-      url: /partner-activities/tours/
-      image: /images/go-green-tours-2.png
+      url: /2024/tours/
+      image: /images/go-green-tours.png
+      alt: Tours
+  - infopic:
+      title: Workshops & Talks
+      button: Learn More
+      url: /2024/workshops
+      alt: Workshops & Talks
+      image: /images/go-green-workshops-talks.png
+      description: Take part in these interactive workshops and hear from inspiring
+        speakers to deepen your knowledge about sustainability!
+  - infopic:
+      title: Initiatives
+      description: Join the green movement. From tree planting to litter picking,
+        there are many opportunities to work together to protect our planet!
+      button: Learn more
+      url: /2024/initiatives/
+      image: /images/go-green-initiatives.png
       alt: Image alt text
   - infopic:
-      title: Thank you to our Partners!
-      button: Learn More
-      url: /about/our-partners/
+      title: Retail, F&B and Deals
+      id: infopic
+      description: Enjoy shopping and dining deals while going green!
+      button: Learn more
+      image: /images/go-green-challenges-deals.png
       alt: Image alt text
-      image: /images/go-green-retail-dining-4.png
-      description: "We couldn't have held Go Green SG without the help of our over 160
-        partners! Check out who they are here:"
+      url: /2024/retail-f-b-and-deals/
   - infopic:
-      title: Video Highlights
-      description: Check out video highlights from GGSG 2023 here!
-      button: Watch more
-      url: /resources/media/
+      title: Family Friendly
+      id: infopic
+      description: Fun for the Family at Go Green SG! Check out this curated list of
+        activities perfect for families to enjoy.
+      button: Learn More
+      url: /2024/family-friendly/
       image: /images/go-green-events-2.png
       alt: Image alt text
-  - resources:
-      subtitle: Resources
-      button: More resources
+  - infopic:
+      title: Events
+      id: infopic
+      description: Enjoy a fun-packed day mingling with other like-minded eco enthusiasts.
+      button: Learn More
+      url: /2024/events/
+      image: /images/go-green-events.png
+      alt: Image alt text
 ---

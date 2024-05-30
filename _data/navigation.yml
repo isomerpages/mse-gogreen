@@ -1,17 +1,12 @@
 logo: /images/logo-go-green.png
 links:
   - title: About
-    url: /about
-    sublinks:
-      - title: Our Story
-        url: /about/our-story
-      - title: Our Partners
-        url: /about/our-partners/
-  - title: Partner Activities
-    collection: partner-activities
+    collection: about
+  - title: Activities
+    collection: activities
+  - title: Year of Public Hygiene
+    url: /year-of-public-hygiene
   - title: FAQ
     url: /faq
   - title: Contact Us
     url: /contact
-  - title: Resources
-    resource_room: true

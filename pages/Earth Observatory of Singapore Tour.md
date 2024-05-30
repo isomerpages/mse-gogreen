@@ -1,40 +1,36 @@
 ---
 title: Earth Observatory of Singapore Tour
-permalink: /eos-tour/
+permalink: /earth-observatory-of-singapore-tour/
+variant: markdown
 description: ""
+image: /images/Tours/eos_elysium_epic_exhibition.jpg
 ---
-![](/images/Tours/eos%20premises.jpg)
+![Earth Observatory of Singapore](/images/Tours/eos_elysium_epic_exhibition.jpg)
 
-**Learn more about Earth Observatory of Singapore's research and projects, and how they are tackling sustainability issues of the day.**
-
-
-**Date:** 4 July, 3:00 - 5:00 pm (FULLY BOOKED) | 5 July, 3:00 - 5:00 pm <br>
+**Date:** 14, 21, 28 June, 2:00 pm – 4:00 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Earth Observatory of Singapore, 50 Nanyang Avenue<br>
+**Venue:** Earth Observatory of Singapore, Nanyang Technological University, 50 Nanyang Avenue, Block N2-01a-15<br>
 **Organiser:** Earth Observatory of Singapore
 
-The Earth Observatory of Singapore (EOS) Tour is an opportunity for participants to catch a glimpse of EOS' activities, and see first-hand how EOS is tackling the sustainability issues of the day.
+The Earth Observatory of Singapore (EOS) invites participants to learn about EOS’ activities, and to see how EOS is tackling the sustainability issues of the day.
 
-The visit will include a walk through the EOS laboratories to learn how EOS scientists are looking at past climates and at the solutions to adapt to future climate change. Participants will also get to think about sustainability in a broader perspective by considering other key aspects such as our resilience to natural hazards.
+The visit will include a walkthrough of the EOS laboratories to learn how its scientists are developing solutions to adapt to future climate change.
 
-The tour is open for all, but the content would be more suited for students from secondary schools and adults.
+Participants will also get to think about sustainability in a broader perspective by considering other key aspects such as our resilience to natural hazards.&nbsp;
 
-Due to limited capacity, registration for this tour will be on a first come, first served basis. 
+Registration for this tour is on a first come, first served basis. The tour is suitable for secondary school students and adults (including individuals with mobility issues).
 
-
-<a class="btn-link" target="_blank" href="https://forms.office.com/r/6tXFLhibyG">
+<a class="btn-link" target="_blank" href="https://forms.office.com/r/mZWtTK3BxC">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
 	.btn-link {
-		display: inline-block;
-	}
-	
-	a.btn-link[target="_blank"]:after {
 		display: none;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}

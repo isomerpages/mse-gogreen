@@ -1,0 +1,11 @@
+collections:
+  activities:
+    output: true
+    order:
+      - Tours.md
+      - Workshops & Talks.md
+      - Events.md
+      - Retail, F&B and Deals.md
+      - Family Friendly.md
+      - Initiatives.md
+      - Others.md

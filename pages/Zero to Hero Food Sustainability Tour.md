@@ -1,35 +1,47 @@
 ---
 title: Zero to Hero Food Sustainability Tour
 permalink: /zero-to-hero-food-sustainability-tour/
+variant: markdown
 description: ""
 ---
-![](/images/Tours/tribe-png.jpg)
+![](/images/Tours/ZerotoHero.jpg)
 
-**An immersive, privately-guided, multi-venue experiential tour into Singapore’s heartlands. Deep dive into the wet market on a hunt for green ‘waste’ and transform them into useful compost.**
+**Dates:**
+* 15, 22, 29 June, 10:00 am - 11:30 am
+* 6, 13 July, 10:00 am – 11:30 am
 
+**Admission:** 
+* $50/adult, free for children under 12
+* Maximum of 2 children per adult<br>
+
+**Venue:** Bai Shi Yin Organisation, 31 Toh Guan Rd East, #08-01<br>
 **Organiser:** Tribe Pte Ltd
 
-What is Singapore doing to ensure and secure our food supply? What role can you play to strengthen our food supply resilience? 
+Get hands-on! Learn how your leftover food scraps can save the planet.
 
-This exclusive tour will bring you for a deep dive into the Clementi heartlands to explore the sustainability efforts within our wet markets and provide a unique experience to forage for vegetable waste and ugly food.
- 
-Next, we go behind the scenes at a research institute to learn about compost. A ground-up initiative managed by volunteers, work alongside them and embark on a one-of-a-kind hands-on experience to transform your collected vegetable waste into compost!.
+Join the Zero to Hero Food Sustainability Tour and discover the magic of composting!
 
-Tour is suitable for all ages, families and couples! 
+Learn how to turn waste into a powerful tool for a more secure food future. On this tour, you will visit a research institute - Bai Shi Yin Organisation, where staff and volunteers transform vegetable scraps into nutrient-rich compost.
 
-<a class="btn-link" target="_blank" href="https://tribe-tours.com/product/zero-to-hero-food-sustainability-tour/">
+End the tour on a high note with a fun and energising wellness drumming session. Learn the basics of traditional Chinese drumming and discover how rhythm can connect us to nature and our well-being.
+
+This activity is recommended for those 7 years old and above. All children under the age of 12 will need to be accompanied by an adult.
+
+This activity is also suitable for individuals with mobility issues.
+
+
+
+<a class="btn-link" target="_blank" href="https://tribe-tours.com/product/go-green-sg-food-sustainability-tour/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
 	.btn-link {
-		display: inline-block;
-	}
-	
-	a.btn-link[target="_blank"]:after {
 		display: none;
 	}
-	
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
 	.btn-link > img {
 		width: 100%;
 	}

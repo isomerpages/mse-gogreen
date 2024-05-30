@@ -1,9 +1,0 @@
-collections:
-  partner-activities:
-    output: true
-    order:
-      - Tours.md
-      - Workshops.md
-      - Learning Journeys.md
-      - Nature Trails.md
-      - Others.md
