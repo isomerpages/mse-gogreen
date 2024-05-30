@@ -26,6 +26,8 @@ This special tour includes free entry to Flower Dome for Singapore Residents.
 
 This 1-hour activity involves walking in the outdoor gardens. Gardens by the Bay is wheelchair-accessible.
 
+Registration for the July runs opens on 5 or 13 June, 9.00 am or 10.00 am
+
 <a class="btn-link" target="_blank" href="#">
 	<img src="/images/gogreensg_website-32.png">
 </a>
