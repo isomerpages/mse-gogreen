@@ -20,7 +20,7 @@ On the way, you will discover more about your sense of smell and how plants prod
 
 This 1-hour activity involves walking in the outdoor gardens. Gardens by the Bay is wheelchair-accessible.
 
-Registration for the July runs opens on 5 or 13 June, 9.00 am or 10.00 am
+Registration for the July runs opens on 13 June, 10:00 am.
 
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-seeds-and-senses-smell-june-tickets-891466388967?aff=ebdsoporgprofile">
