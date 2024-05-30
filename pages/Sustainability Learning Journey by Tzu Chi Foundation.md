@@ -57,4 +57,4 @@ This activity is recommended for participants aged 10 and above.
 	.btn-link > img {
 		width: 100%;
 	}
-</style> 
+</style>
