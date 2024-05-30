@@ -4,7 +4,7 @@ permalink: /discover-singapore-s-urban-transformation/
 variant: markdown
 description: Discover Singapore’s Urban Transformation
 ---
-![Discover Singapore’s Urban Transformation](/images/URA_Discover_SG_Urban_Transformation_.jpg)
+![Discover Singapore’s Urban Transformation](/images/Tours/ura_discover_sg_urban_transformation.jpg)
 **Learn how Singapore transformed over the past 50 years to become a liveable and sustainable city, and a delightful and endearing home.**
 
 **Date:**  
