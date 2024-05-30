@@ -10,7 +10,7 @@ description: ""
 **Venue:** Bukit Canberra, 21 Canberra Link, Active Health Nutrition and Wellness Studio (Lift Lobby A, Level 2)<br>
 **Organisers:** Urban Green Dot Pte Ltd and Active Health
 
-Microgreens \- culinary trend, or something more? Get acquainted with them through this activity. &nbsp;
+Microgreens - culinary trend, or something more? Get acquainted with them through this activity. &nbsp;
 
 During this two-hour workshop, you will:&nbsp;&nbsp;
 <br>
