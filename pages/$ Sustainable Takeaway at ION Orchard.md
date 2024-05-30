@@ -28,7 +28,7 @@ Participating stores include:&nbsp;
     
 *   Toast Box
 
-<a class="btn-link" target="_blank" href="https://www.ionorchard.com/en/campaign/sustainable-takeaways.html)">
+<a class="btn-link" target="_blank" href="https://www.ionorchard.com/en/campaign/sustainable-takeaways.html">
 	<img src="/images/more-info-btn.png">
 </a>
 
