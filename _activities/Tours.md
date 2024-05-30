@@ -1076,7 +1076,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 29, 30 June</strong>
+              Dates: 29, 30 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Harbourfront Centre</strong></li>
@@ -1099,12 +1099,12 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
       <a href="/urban-wilderness-a-foraging-tour-of-city-hall/">
 	<img src="/images/Tours/Urban_Wilderness_A_Foraging_Tour_of_City_Hall.jpg"></a>
-        <h2>Urban Wilderness A Foraging Tour of City Hall
+        <h2>Urban Wilderness: A Foraging Tour of City Hall
 </h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Dates: 29 June</strong></li>
+          <li><strong>Date: 29 June</strong></li>
           <li><strong>Admission: $60/pax</strong></li>
 <li><strong>Venue: Raffles City Shopping Centre, Funan</strong></li>
           <li><strong>Organiser: Edible Garden City</strong></li>
@@ -1124,6 +1124,33 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+      <a href="/what-s-in-my-mud/">
+	<img src="/images/Tours/Whats_in_my_Mud_SBWR.png"></a>
+        <h2>What’s in my Mud?
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 29 June</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: Sungei Buloh Wetland Reserve</strong></li>
+          <li><strong>Organiser: National Parks Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join this guided walk featuring our lesser-known creatures of the mudflats in Sungei Buloh, and see if you can spot its well-disguised inhabitants.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/what-s-in-my-mud/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
       <a href="/young-nautilus-nature-walk-changi-sandy-intertidal/">
 	<img src="/images/Tours/Young_Nautilus_Changi_Sandy_Intertidal.png"></a>
         <h2>Young Nautilus' Nature Walk – Changi Sandy Intertidal
@@ -1131,7 +1158,7 @@ More activities will also be added progressively.</div>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Dates: 29 June</strong></li>
+          <li><strong>Date: 29 June</strong></li>
           <li><strong>Admission: Adult $52.20, Child $50.40</strong></li>
 <li><strong>Venue: Changi Beach (sandy intertidal zone)</strong></li>
           <li><strong>Organiser: Young Nautilus  </strong></li>
