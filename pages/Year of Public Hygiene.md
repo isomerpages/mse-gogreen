@@ -5,7 +5,7 @@ variant: markdown
 description: Year of Public Hygiene
 image: /images/YOPH.jpg
 ---
-![](/images/YOPH.jpg)
+![](/images/YOPH.png)
 
 
 Go Green SG returns with a focus on public hygiene!
