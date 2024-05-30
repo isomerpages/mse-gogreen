@@ -6,7 +6,7 @@ description: ""
 ---
 ![Invasive Species Management](/images/Others/Invasive_Species_Management.jpg)
 
-**Date:** 12 June, 9:30 am – 11:30 am<br>
+**Date:** (12 June, 9:30 am – 11:30 am)<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Pulau Ubin – West, MaChor Trail<br>
 **Organiser:** National Parks Board
