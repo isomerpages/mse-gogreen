@@ -11,13 +11,13 @@ description: ""
 **Venue:** JTC’s SolarLand Site, 40 Changi Business Park Central 2<br>
 **Organisers:** JTC Corporation and Terrenus Energy Pte Ltd
 
-Experience an immersive journey into the world of sustainable energy at JTC Corporation's SolarLand Site, nestled within Changi Business Park.&nbsp;&nbsp;
+Experience an immersive journey into the world of sustainable energy at JTC Corporation's SolarLand Site, nestled within Changi Business Park.
 
-The tour commences with a presentation on solar energy by JTC and Terrenus Energy (JTC’s partnered solar vendor), shedding light on its significance and potential applications.&nbsp;&nbsp;
+The tour commences with a presentation on solar energy by JTC and Terrenus Energy (JTC’s partnered solar vendor), shedding light on its significance and potential applications.
 
-Next, visitors will go on a guided tour around the SolarLand site for a first\-hand glimpse of the innovative infrastructure driving sustainable energy solutions.&nbsp;&nbsp;
+Next, visitors will go on a guided tour around the SolarLand site for a first\-hand glimpse of the innovative infrastructure driving sustainable energy solutions.
 
-The highlights of the visit include an up-close showcase of solar panels, a mobile substation, hydropanels, and agrivoltaics which provide a comprehensive understanding of the site's cutting-edge technologies.&nbsp;&nbsp;
+The highlights of the visit include an up-close showcase of solar panels, a mobile substation, hydropanels, and agrivoltaics which provide a comprehensive understanding of the site's cutting-edge technologies.
 
 Join this educational and inspiring exploration of renewable energy at SolarLand!
 
