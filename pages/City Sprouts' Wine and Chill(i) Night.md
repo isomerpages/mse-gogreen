@@ -28,7 +28,7 @@ You can even make your own sambal blend and pair it with bruschetta toasts.
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
