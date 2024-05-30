@@ -33,14 +33,13 @@ Join a movement towards sustainability, equipped with knowledge and skills to ma
 
 This activity is suitable for participants with mobility issues.
 
-
-<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdZfNN4exvG0M47AH8xCxBKyH6HGW9CodvLTzjjmXCITMC2Uw/viewform?usp=sf_link">
+<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdZfNN4exvG0M47AH8xCxBKyH6HGW9CodvLTzjjmXCITMC2Uw/viewform">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
