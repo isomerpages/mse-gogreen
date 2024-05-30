@@ -59,25 +59,6 @@ For more information about the OneMillionTrees movement, visit: https://www.npar
 </style>
 
 
-**HINDHEDE NATURE PARK (14 June, 9.30 am - 11.00 am). Registration opens in mid-June**
-
-<a class="btn-link" target="_blank" href="https://form.gov.sg/65f8f488187d1368c78f67f3">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
-
 **JALAN KAYU (12 July, 9.00 am - 11.00 am). Registration opens in mid-June**
 
 <a class="btn-link" target="_blank" href="https://form.gov.sg/65f91f154a44f5816c63a84f">
