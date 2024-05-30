@@ -26,7 +26,7 @@ The tour is ideal for individuals, families, and groups.
 
 <style>
   .btn-link {
-    display: inline-block;
+    display: none;
   }
   a.btn-link[target="_blank"]:after {
   display: none;
