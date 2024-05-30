@@ -6,7 +6,10 @@ description: ""
 ---
 ![](/images/Tour_Image.jpg)
 
-**Date:** 12 June – 14 July, 2:00 pm – 4:00 pm (Excluding weekends and public holidays)<br>
+**Date:** 
+* 12, 13, 14, 18, 19, 20, 21, 24, 25, 26, 27, 28 June, 2:00 pm – 4.00pm
+*  1, 2, 3, 4, 5, 8, 9, 10, 11, 12 July, 2:00 pm – 4:00 pm  <br>
+
 **Admission:** $50/pax <br>
 **Venue:** Admirax, 8 Admiralty Street, #04-04 <br>
 **Organiser:** Sustenir
@@ -20,7 +23,7 @@ Each participant will be given a goodie bag (worth $25) and will get to enjoy a 
 This activity is recommended for participants who are above 10 years old.
 
 
-<a class="btn-link" target="_blank" href="https://forms.office.com/r/iKhSWxtCh">
+<a class="btn-link" target="_blank" href="https://forms.office.com/r/iKhSWxtChu">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
