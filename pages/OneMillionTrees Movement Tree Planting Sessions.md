@@ -6,7 +6,7 @@ description: ""
 ---
 ![Participants doing tree-planting](/images/Initiatives/NParks_OneMillionTrees.jpg)
 
-**Date:** Various   <br>
+**Date:** 28 June; 12 July   <br>
 **Admission:** Free (registration required)<br>
 **Venue:** Various <br>
 **Organiser:** National Parks Board
