@@ -20,7 +20,7 @@ With the susGain app, discover various activities and challenges on topics such 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
