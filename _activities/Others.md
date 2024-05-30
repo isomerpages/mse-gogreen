@@ -127,6 +127,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/invasive-species-management/">
+	<img src="/images/Others/Invasive_Species_Management.jpg"></a>
+        <h2>Invasive Species Management
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: Various</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This programme will provide participants an opportunity to support National Parks Board in the removal of invasive species. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/invasive-species-management/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
    <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
