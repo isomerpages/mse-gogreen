@@ -25,7 +25,7 @@ You can also try your hand at turning those same chillis into a unique sambal wh
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
