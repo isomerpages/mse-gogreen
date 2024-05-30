@@ -19,7 +19,22 @@ This programme will provide participants an opportunity to support National Park
 
 Participants are required to wear covered shoes and prepare their own pair of gardening gloves.
 
+**Pulau Ubin – West, MaChor Trail (12 June, 9:30 am – 11:30 am)** 
+<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
+	<img src="/images/gogreensg_website-32.png">
+</a>
 
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
 
 **Pulau Ubin – Butterfly Hill (5 July, 9:30 am – 11:30 am)** 
 <a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin5july">
@@ -38,7 +53,44 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	}
 </style>
 
-**Pulau Ubin – West, MaChor Trail (12 June, 9:30 am – 11:30 am)** 
+**Rifle Range (49 June, 9:30 am – 11:30 am)** 
+
+<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
+
+**Windsor (126 June, 9:30 am – 11:30 am)** 
+
+<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
+
+**Rail Corridor (152 June, 9:30 am – 11:30 am)** 
+
 <a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
 	<img src="/images/gogreensg_website-32.png">
 </a>
