@@ -11,7 +11,7 @@ description: ""
 *   11:00 am - 12:00 pm (Zoom) &nbsp;
     
 *    2:45 pm - 4:30 pm (Hands-on)&nbsp;
-3, 6 July&nbsp;
+<br>3, 6 July&nbsp;
 
 *  11:00 am - 12:00 pm (Zoom) &nbsp;
     
