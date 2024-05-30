@@ -23,7 +23,7 @@ Whether you are a conscientious consumer, an eco-conscious student, or a sustain
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
