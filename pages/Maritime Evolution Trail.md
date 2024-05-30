@@ -23,7 +23,7 @@ Discover the progress of Singapore’s modern maritime industry as you travel fr
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
