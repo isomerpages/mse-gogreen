@@ -119,7 +119,7 @@ Here are some other ways our partners are Going Green, their way!
 	}
 	
 	.two-col__item__image img {
-		max-width: 100px;
+		max-width: 170px;
     margin-right: 0;
 	
 	}
