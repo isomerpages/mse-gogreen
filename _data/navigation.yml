@@ -1,7 +1,7 @@
 logo: /images/logo-go-green.png
 links:
   - title: About
-    url: /about/our-story
+    collection: about
   - title: Activities
     collection: activities
   - title: Year of Public Hygiene
