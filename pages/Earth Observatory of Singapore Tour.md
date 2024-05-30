@@ -26,7 +26,7 @@ Registration for this tour is on a first come, first served basis. The tour is s
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
