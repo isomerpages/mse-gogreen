@@ -111,7 +111,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Dates: 12 June – 14 July</strong></li>
-          <li><strong>Admission: Free (Account registration is required)</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
 <li><strong>Venue: Various</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
         </ul>
