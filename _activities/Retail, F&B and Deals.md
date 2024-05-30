@@ -154,6 +154,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/earn-green-points-for-taking-green-actions-at-ion-orchard/">
+					<img src="/images/Retail%20FB%20Deals/Earn_Green_Points_For_Taking_Green_Actions_at_ION_Orchard_.jpg"></a>
+        <h2>Earn Green Points For Taking Green Actions at ION Orchard!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 12 June – 14 July</strong></li>
+      
+<li><strong>Venue: ION Orchard</strong></li>
+          <li><strong>Organiser: ION Orchard</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Earn Green Points when you shop sustainably at ION Orchard. Redeem them for various privileges at ION Orchard! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/earn-green-points-for-taking-green-actions-at-ion-orchard/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
