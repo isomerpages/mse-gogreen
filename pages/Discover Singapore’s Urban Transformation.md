@@ -31,7 +31,7 @@ This activity is suitable for individuals with mobility issues.
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
