@@ -11,7 +11,7 @@ description: ""
 6, 7, 13, 14 July, 10:30 am – 11:30 am<br>
 
 **Admission:**<br>
- Free for Singapore residents (registration required)<br>
+Free for Singapore residents (registration required)<br>
 For non-residents:<br>
 * 1 conservatory: $24 for adult | $15 for child (via walk in)<br>
 * Both conservatories: $32 for adult | $18 for child (via online purchase)<br>
