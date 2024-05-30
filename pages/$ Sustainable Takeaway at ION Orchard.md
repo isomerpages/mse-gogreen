@@ -10,9 +10,9 @@ description: ""
 **Venue:** Participating stores, ION Orchard<br>
 **Organiser:** ION Orchard
 
-Borrow a free reusable cup or container for your takeaway at participating stores at ION Orchard, powered by Muuse.&nbsp;&nbsp;
+Borrow a free reusable cup or container for your takeaway at participating stores at ION Orchard, powered by Muuse.
 
-With Muuse’s app, simply scan to Borrow, Enjoy, and Return within 30 days for professional cleaning!&nbsp;&nbsp;
+With Muuse’s app, simply scan to Borrow, Enjoy, and Return within 30 days for professional cleaning!
 
 Participating stores include:&nbsp;
 
