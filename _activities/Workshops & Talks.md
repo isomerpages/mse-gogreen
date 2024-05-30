@@ -348,7 +348,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Dates: 15, 22, 29 June</strong></li>
-          <li><strong>Admission: $20/pax or parent-child pair (child age between 3-17 years old)</strong></li>
+          <li><strong>Admission: $20/pax or parent-child pair</strong></li>
 <li><strong>Venue: Bukit Canberra, 21 Canberra Link, Active Health Nutrition and Wellness Studio</strong></li>
           <li><strong>Organiser: Urban Green Dot Pte Ltd and Active Health</strong></li>
         </ul>
