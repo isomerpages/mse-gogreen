@@ -75,10 +75,10 @@ Here are some other ways our partners are Going Green, their way!
 		<div class="two-col__item">
 		<div class="two-col__item__body">
 			<p class="two-col__item__title"><strong>Mobile Community Composting Drive by Ismaili CIVIC, Henderson-Dawson Green Action for Communities (HDGAC), City Sprouts, and National Environment Agency (NEA)</strong></p>
-			<p>Ismaili CIVIC, HDGAC, City Sprouts, and NEA  is running a Mobile Community Composting Drive to educate residents on waste disposal and composting procedures, as part of their efforts to promote community ownership of sustainable practices.</p>
+			<p>Ismaili CIVIC, HDGAC, City Sprouts, and NEA is running a Mobile Community Composting Drive to educate residents on waste disposal and composting procedures, as part of their efforts to promote community ownership of sustainable practices.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Special%20Mentions/educational-1.png">
+			<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Ismaili_CIVIC.png">
 		</div>
 	</div>
 
