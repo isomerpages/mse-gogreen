@@ -28,7 +28,7 @@ Join this educational and inspiring exploration of renewable energy at SolarLand
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
