@@ -20,7 +20,7 @@ Customers who bring their own bag during Go Green SG (12 June – 14 July) will 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
