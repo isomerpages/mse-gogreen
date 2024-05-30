@@ -4,7 +4,7 @@ permalink: /explore-chinatown-s-built-heritage-with-friends-of-the-museums/
 variant: markdown
 description: Explore Chinatown's Built Heritage with Friends of the Museums
 ---
-![](/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg)
+![Explore Chinatown on this walking tour conducted by the Urban Development Authority](/images/Tours/URA_Explore_Chinatown.jpg)
 
 **Date:**  
 14, 21, 29 June: 9:00 am – 11:00 am | 9.30 am – 11.30 am <br>
