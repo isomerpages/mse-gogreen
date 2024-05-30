@@ -25,7 +25,7 @@ Children under 14 must be accompanied by a paying adult.
 
 <style>
   .btn-link {
-    display: inline-block;
+    display: none;
   }
   a.btn-link[target="_blank"]:after {
   display: none;
