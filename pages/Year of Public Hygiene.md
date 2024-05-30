@@ -100,6 +100,33 @@ Check out the activities below!
 </style>
 
 <div class="row row_custom">
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/invasive-species-management/">
+	<img src="/images/Others/Invasive_Species_Management.jpg"></a>
+        <h2>Invasive Species Management
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 12, 22 June; 5, 9, 12 July</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This programme will provide participants an opportunity to support National Parks Board in the removal of invasive species. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/invasive-species-management/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	   <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
