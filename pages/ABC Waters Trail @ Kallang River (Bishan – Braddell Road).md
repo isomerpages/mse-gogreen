@@ -21,10 +21,17 @@ This activity is recommended for participants above 6 years old and is suitable 
 
 Note: In the case of heavy rain, the walk will be cancelled.
 
-**22 June**<br>
+
 <a class="btn-link" target="_blank" href="https://form.gov.sg/6630fff78a5eefca874b8e94">
 	<img src="/images/gogreensg_website-32.png">
 </a>
+
+
+
+<a class="btn-link" target="_blank" href="https://form.gov.sg/6639de929b862f4c473b8fdb">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
 
 <style>
 	.btn-link {
@@ -37,9 +44,3 @@ Note: In the case of heavy rain, the walk will be cancelled.
 		width: 100%;
 	}
 </style>
-
-**29 June**<br>
-<a class="btn-link" target="_blank" href="https://form.gov.sg/6639de929b862f4c473b8fdb">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
