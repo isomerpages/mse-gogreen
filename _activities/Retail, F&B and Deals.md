@@ -103,7 +103,7 @@ More activities will also be added progressively.</div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
+				<a href="/byo-bag-and-get-2x-points-at-design-orchard/">
 				<img src="/images/Retail%20FB%20Deals/singapore_fashion_council_design_orchard.png"></a>
         <h2>BYO Bag and Get 2X Points at Design Orchard</h2>
       </div>
@@ -130,7 +130,7 @@ More activities will also be added progressively.</div>
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
+				<a href="/discount-on-selected-reusable-bags/">
 				<img src="/images/Retail%20FB%20Deals/hero_image__ColouredJutesNew__2_.jpg"></a>
         <h2>Discount on Selected Reusable Bags</h2>
       </div>
