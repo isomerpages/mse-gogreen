@@ -15,9 +15,7 @@ The mudflats might look dull at first glance, but they are actually full of life
 
 Join this guided walk featuring our lesser-known creatures of the mudflats in Sungei Buloh.
 
-
-
-**22 June - Registration opens on 14 June, 8:00am**<br>
+**Registration opens on 21 June, 8:00am**<br>
 <a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0008/360\_What-s-in-my-Mud">
 	<img src="/images/gogreensg_website-32.png">
 </a>
@@ -32,5 +30,5 @@ Join this guided walk featuring our lesser-known creatures of the mudflats in Su
 	.btn-link > img {
 		width: 100%;
 	}
+	
 </style>
-
