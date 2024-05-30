@@ -91,9 +91,9 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	}
 </style>
 
-**Rail Corridor (152 June, 9:30 am – 11:30 am)** 
+**RAIL CORRIDOR (12 July, 2:00 pm – 4:00 pm)** 
 
-<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
+<a class="btn-link" target="_blank" href="x">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
