@@ -57,7 +57,7 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 
 **RIFLE RANGE NATURE PARK (22 June, 9:30 am – 11:30 am)** 
 
-<a class="btn-link" target="_blank" href="https://go.gov.sg/ismCOMMUNITY">
+<a class="btn-link" target="_blank" href="https://go.gov.sg/ismcommunity">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -73,9 +73,9 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	}
 </style>
 
-**Windsor (126 June, 9:30 am – 11:30 am)** 
+**WINDSOR NATURE PARK (9 July, 9:30 am – 11:30 am)** 
 
-<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin12june">
+<a class="btn-link" target="_blank" href="x">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
