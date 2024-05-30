@@ -25,7 +25,7 @@ This event is part of a series held at parks and gardens conveniently  located n
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
@@ -41,14 +41,3 @@ This event is part of a series held at parks and gardens conveniently  located n
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
