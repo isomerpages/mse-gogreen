@@ -12,9 +12,8 @@ description: ""
 
 Microgreens - culinary trend, or something more? Get acquainted with them through this activity. &nbsp;
 
-During this two-hour workshop, you will:&nbsp;&nbsp;
+During this two-hour workshop, you will:
 <br>
-
 * Learn how to grow your own microgreens: You will get a DIY microgreen kit to bring home! 
 * Have a child-friendly cooking session: All ingredients and utensils (including the microgreens) are provided.<br>
 * Bring home 1 free bag of vegetables from a local indoor farm.
