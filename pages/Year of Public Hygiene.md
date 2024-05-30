@@ -158,6 +158,35 @@ Check out the activities below!
       </a>
     </div>
   </div>  
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/plastic-playday-sort-shred-extrude-and-sculpt/">
+				<img src="/images/Initiatives/Plastic_Playday___SC.png"></a>
+        <h2>Plastic Playday: Sort, Shred, Extrude and Sculpt</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Science Centre Singapore</strong></li>
+          <li><strong>Organiser: Science Centre Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Bring along your clean and dry plastic recyclables and take part in a round-robin activity to learn more about different types of plastics, how to sort and treat them for recycling, and convert plastic “waste” into plastic filament.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/plastic-playday-sort-shred-extrude-and-sculpt/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 							  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
