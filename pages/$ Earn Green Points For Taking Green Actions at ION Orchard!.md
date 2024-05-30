@@ -18,7 +18,7 @@ ION+ Rewards members will be rewarded with Green Points when they:
 
 Each Green Point awarded is equivalent to 1 ION+ Point, and each member can earn up to a maximum of 5 Green Points per month. Points can be redeemed for various privileges at ION Orchard.
 
-<a class="btn-link" target="_blank" href="https://www.ionorchard.com/en/deal/earn-1-green-point.html)">
+<a class="btn-link" target="_blank" href="https://www.ionorchard.com/en/deal/earn-1-green-point.html">
 	<img src="/images/more-info-btn.png">
 </a>
 
