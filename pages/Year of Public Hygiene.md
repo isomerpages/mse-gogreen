@@ -400,10 +400,10 @@ Show your support by adopting the Year of Public Hygiene profile image frame!
 
 Click&nbsp;[here](https://www.mse.gov.sg/year-of-public-hygiene/YoPH-social-media-frame-template-and-guide.pptx)&nbsp;to download the frame, and a guide on how to add the frame to your profile image.
 
-<h3>
+<hr>
 
 #### Other Resources
 
 [NEA's Year of Public Hygiene webpage](http://www.nea.gov.sg/our-services/year-of-public-hygiene)<br>
 [Public Hygiene Council's website](http://www.publichygienecouncil.sg/)<br>
-[Clean &amp; Green Singapore](http://www.cgs.gov.sg/)</h3>
+[Clean &amp; Green Singapore](http://www.cgs.gov.sg/)
