@@ -15,7 +15,7 @@ description: ""
 
 **Admission:** $12.50 (registration required)<br>
 **Venue:** 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12<br>
-**Organiser:** WermTech.Asia Pte Ltd
+**Organiser:** Werms.inc
 
 A 60min family-friendly insect farming workshop that promotes awareness on food waste in Singapore’s agri-food supply chain and how we can reduce waste through innovative solutions.
 
