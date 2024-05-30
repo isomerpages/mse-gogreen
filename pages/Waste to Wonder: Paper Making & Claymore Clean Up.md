@@ -19,7 +19,7 @@ Join us for this paper making workshop where you can learn about Singapore's was
 
 <style>
   .btn-link {
-    display: none;
+    display: inline-block;
   }
   a.btn-link[target="_blank"]:after {
   display: none;
