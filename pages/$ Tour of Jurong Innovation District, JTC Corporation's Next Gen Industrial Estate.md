@@ -23,7 +23,7 @@ Be part of this experience to learn how JTC partners the industry to build susta
 This activity is suitable for participants with mobility issues.
 
 
-<a class="btn-link" target="_blank" href="https://form.gov.sg/664c4e4991cbd7c5fa5f16c7)">
+<a class="btn-link" target="_blank" href="https://form.gov.sg/664c4e4991cbd7c5fa5f16c7">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
