@@ -777,6 +777,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/visit-to-jtc-corporation-s-solarland-site-at-changi-business-park/">
+	<img src="/images/Tours/Visit_to_JTC_Corporation_s_SolarLand_Site_at_Changi_Business_Park.jpg"></a>
+        <h2>Visit to JTC Corporation’s SolarLand Site at Changi Business Park
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 21 June</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: JTC’s SolarLand Site, 40 Changi Business Park Central 2</strong></li>
+          <li><strong>Organiser: JTC Corporation and Terrenus Energy Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Experience an immersive journey into the world of sustainable energy at JTC Corporation's SolarLand Site, nestled within Changi Business Park.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-jtc-corporation-s-solarland-site-at-changi-business-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
