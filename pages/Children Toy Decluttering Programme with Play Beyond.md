@@ -16,13 +16,13 @@ Play Beyond Toy Decluttering Programme aims to create a circular economy for chi
 This programme is suitable for families who want to declutter their homes, reduce waste, and make a positive impact on the environment.
 
 
-<a class="btn-link" target="_blank" href="www.playbeyond.co/pages/how-to-sell">
+<a class="btn-link" target="_blank" href="http://www.playbeyond.co/pages/how-to-sell">
 	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
