@@ -7,7 +7,7 @@ description: ""
 ![Track Your Carbon Footprint with PlanetSustain](/images/Challenges%20&amp;%20Deals/Track_Your_Carbon_Footprint_with_PlanetSustain.png)
 
 **Date:** 12 June – 14 July<br>
-**Admission:** Free (no registration required)<br>
+**Admission:** Free (registration required)<br>
 **Organiser:** Invosystems Solutions Pte Ltd
 
 The PlanetSustain app empowers users to embrace responsible consumption and adopt sustainable practices in their daily lives. With easy-to-use tools and personalised recommendations, the app guides users towards a greener lifestyle while contributing to the global fight against climate change.  &nbsp;
