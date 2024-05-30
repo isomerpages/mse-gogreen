@@ -15,7 +15,7 @@ Invasive species pose a threat to biodiversity. They compete for space, light, w
 
 Invasive species management is labour-intensive and needs to be sustained regularly.&nbsp;
 
-This programme will provide participants an opportunity to support National Parks Board staff in the removal of invasive species. They will also be equipped with information on trail etiquette and various invasive plant species, and on how to effectively remove weeds.&nbsp;
+This programme will provide participants an opportunity to support National Parks Board in the removal of invasive species. Participants will also be equipped with information on trail etiquette and various invasive plant species, and how to effectively remove weeds.&nbsp;
 
 Participants are required to wear covered shoes and prepare their own pair of gardening gloves.
 
