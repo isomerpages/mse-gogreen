@@ -1227,6 +1227,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/young-nautilus-nature-walk-changi-sandy-intertidal/">
+	<img src="/images/Tours/Young_Nautilus_Changi_Sandy_Intertidal.png"></a>
+        <h2>Young Nautilus' Nature Walk – Changi Sandy Intertidal
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 29 June</strong></li>
+          <li><strong>Admission: Adult $52.20, Child $50.40</strong></li>
+<li><strong>Venue: Changi Beach (sandy intertidal zone)</strong></li>
+          <li><strong>Organiser: Young Nautilus  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Get ready for a hands-on unique experience with the marine intertidal animals of the Changi sandy shore! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/young-nautilus-nature-walk-changi-sandy-intertidal/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
