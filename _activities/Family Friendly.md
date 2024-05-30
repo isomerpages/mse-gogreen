@@ -1293,7 +1293,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li><strong>Date: 29 June</strong></li>
           <li><strong>Admission: Adult $52.20, Child $50.40</strong></li>
-<li><strong>Venue: Changi Beach (sandy intertidal zone)</strong></li>
+<li><strong>Venue: Changi Beach</strong></li>
           <li><strong>Organiser: Young Nautilus  </strong></li>
         </ul>
       </div>
