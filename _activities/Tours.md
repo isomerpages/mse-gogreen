@@ -637,7 +637,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
 <a href="/embark-on-wermtech-asia-s-urban-insect-farm-tour/">
         <img src="/images/wermtech_asia_urban_insect_farm_tour.jpg"></a>
-        <h2>Embark on WermTech Asia’s Urban Insect Farm Tour</h2>
+        <h2>Embark on Werms.inc’s Urban Insect Farm Tour</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -647,7 +647,7 @@ More activities will also be added progressively.</div>
           </li>
           <li><strong>Admission: $12.50 (registration required)</strong></li>
           <li><strong>Venue: Citilink Warehouse Complex, 102E Pasir Panjang Road </strong></li>
-          <li><strong>Organiser: WermTech.Asia Pte Ltd</strong></li>
+          <li><strong>Organiser: Werms.inc Pte Ltd</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
