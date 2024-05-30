@@ -311,7 +311,7 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 13, 14 July</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
           <li><strong>Venue: New Bahru, 46 &amp; 58 Kim Yam Road</strong></li>
           <li><strong>Organiser: Pass It On Elab Pte Ltd</strong></li>
         </ul>
