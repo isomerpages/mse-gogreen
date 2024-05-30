@@ -24,7 +24,7 @@ Participants must be 18 years old and above and wear covered shoes for the visit
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
