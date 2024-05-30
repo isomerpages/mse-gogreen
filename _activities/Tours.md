@@ -226,7 +226,7 @@ More activities will also be added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
-							<img src="/images/Tours/URA_Explore_Chinatown_Built_Heritage.jpg"></a>
+							<img src="/images/Tours/URA_Explore_Chinatown.jpg"></a>
         <h2>Explore Chinatown's Built Heritage with Friends of the Museums
 </h2>
       </div>
