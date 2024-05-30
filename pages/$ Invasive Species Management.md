@@ -37,24 +37,6 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	}
 </style>
 
-**PULAU UBIN – BUTTERFLY HILL (5 July, 9:30 am – 11:30 am)** 
-
-<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin5july">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
-
 **RIFLE RANGE NATURE PARK (22 June, 9:30 am – 11:30 am)** 
 
 <a class="btn-link" target="_blank" href="https://go.gov.sg/ismcommunity">
@@ -73,9 +55,27 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	}
 </style>
 
+**PULAU UBIN – BUTTERFLY HILL (5 July, 9:30 am – 11:30 am)** 
+
+<a class="btn-link" target="_blank" href="https://go.gov.sg/ismubin5july">
+	<img src="/images/gogreensg_website-32.png">
+</a>
+
+<style>
+	.btn-link {
+		display: inline-block;
+	}
+	a.btn-link[target="_blank"]:after {
+	display: none;
+}
+	.btn-link > img {
+		width: 100%;
+	}
+</style>
+
 **WINDSOR NATURE PARK (9 July, 9:30 am – 11:30 am)** 
 
-<a class="btn-link" target="_blank" href="x">
+<a class="btn-link" target="_blank" href="https://form.gov.sg/66177813cd2185d32efc6f13">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -93,7 +93,7 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 
 **RAIL CORRIDOR (12 July, 2:00 pm – 4:00 pm)** 
 
-<a class="btn-link" target="_blank" href="x">
+<a class="btn-link" target="_blank" href="https://form.gov.sg/66177813cd2185d32efc6f13">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
