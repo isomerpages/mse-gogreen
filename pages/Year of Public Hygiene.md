@@ -449,6 +449,35 @@ Check out the activities below!
       </a>
     </div>
   </div>
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/getting-to-zero-card-game-workshop/">
+				<img src="/images/CASA_Getting_to_Zero_Card_Game.png"></a>
+        <h2>Getting to Zero Card Game Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: City Sprouts</strong></li>
+          <li><strong>Organiser: Climate Action SG Alliance and National Institute of Education’s Sustainability Learning Lab</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through gameplay, you will be introduced to Singapore’s various energy options, their relative impact on carbon emissions, and their economic trade-offs.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/getting-to-zero-card-game-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
