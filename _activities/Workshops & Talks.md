@@ -559,7 +559,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Embrace the spirit of the Lion City by crafting your own majestic lion using recycled materials! Let your creativity run wild as you transform everyday items into an eco-friendly masterpiece.
+        <p>Embrace the spirit of the Lion City by crafting your own majestic lion using recycled materials at Fullerton Hotel's Crafty Lion Creations activity! Let your creativity run wild as you transform everyday items into an eco-friendly masterpiece.
         </p>
       </div>
     </div>
