@@ -29,7 +29,7 @@ Battle against marine trash and take action to protect the ocean in a coastal cl
 
 Don't miss out on this opportunity to become a marine scientist for a day! 
 
-Enter the promo code "YNGOGREENSG24" for a 10% discount. (This discount cannot be combined with any other existing promo codes)
+Enter the promo code "**YNGOGREENSG24**" for a 10% discount. (This discount cannot be combined with any other existing promo codes.)
 
 This activity is recommended for individuals aged 6 and above. With exception to the coastal clean-up, this activity is suitable for people with mobility issues. 
 
