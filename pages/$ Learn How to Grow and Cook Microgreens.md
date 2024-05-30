@@ -4,7 +4,6 @@ permalink: /learn-how-to-grow-and-cook-microgreens/
 variant: markdown
 description: ""
 ---
-
 ![Learn how to grow and cook microgreens](/images/Workshop%20&amp;%20Talks/Learn_how_to_grow_and_cook_microgreens.jpg)
 **Dates:** 15, 22, 29 June, 9:00 am – 11:00 am<br>
 **Admission:** $20/pax or parent\-child (3-17 years old) pair <br>
@@ -15,9 +14,10 @@ Microgreens \- culinary trend, or something more? Get acquainted with them throu
 
 During this two-hour workshop, you will:&nbsp;&nbsp;
 <br>
-1. Learn how to grow your own microgreens:&nbsp;You will get a DIY microgreen kit to bring home!&nbsp;&nbsp;&nbsp;
-2. Child-friendly cooking session: All&nbsp;ingredients and utensils (including the microgreens) are provided.<br>
-* You will also get to bring home 1 free bag of vegetables from a local indoor farm
+
+* Learn how to grow your own microgreens: You will get a DIY microgreen kit to bring home! 
+* Have a child-friendly cooking session: All ingredients and utensils (including the microgreens) are provided.<br>
+* Bring home 1 free bag of vegetables from a local indoor farm.
 
 This activity is suitable for individuals with mobility issues.
 
