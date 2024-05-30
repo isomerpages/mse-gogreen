@@ -34,7 +34,7 @@ Registration for the July runs opens on 5 or 13 June, 9.00 am or 10.00 am
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
