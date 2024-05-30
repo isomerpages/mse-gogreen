@@ -24,7 +24,7 @@ Participants need to be physically fit (e.g., be able to lift at least 10kg and 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
