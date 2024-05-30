@@ -1040,6 +1040,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/urban-wilderness-a-foraging-tour-of-city-hall/">
+	<img src="/images/Tours/Urban_Wilderness_A_Foraging_Tour_of_City_Hall.jpg"></a>
+        <h2>Urban Wilderness A Foraging Tour of City Hall
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 29 June</strong></li>
+          <li><strong>Admission: $60/pax</strong></li>
+<li><strong>Venue: Raffles City Shopping Centre, Funan</strong></li>
+          <li><strong>Organiser: Edible Garden City</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Delight your senses in this foraging tour of two rooftop farms in the City Hall district – Raffles City Rooftop Farm and Funan Urban Farm. Participants can also enjoy a short potting activity and bring a new little plant home! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/urban-wilderness-a-foraging-tour-of-city-hall/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
