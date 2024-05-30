@@ -1131,6 +1131,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/tour-of-jurong-innovation-district-jtc-corporation-s-next-gen-industrial-estate/">
+	<img src="/images/Tours/Tour_of_Jurong_Innovation_District__JTC_Corporation_s_Next_Gen_Industrial_Estate.jpg"></a>
+        <h2>Tour of Jurong Innovation District
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 6 July</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: JTC CleanTech Three, 8 Cleantech Loop</strong></li>
+          <li><strong>Organiser: JTC Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore and learn about the future plans for the Jurong Innovation District (JID), JTC Corporation’s next-generation business hub.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/tour-of-jurong-innovation-district-jtc-corporation-s-next-gen-industrial-estate/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
