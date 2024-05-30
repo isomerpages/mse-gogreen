@@ -151,7 +151,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Children and their parents from Jamiyah Kindergarten will be doing a beach clean-up, to inspire them to take ownership of keeping Singapore clean and care for the nature.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Special%20Mentions/educational-1.png">
+			<img src="/images/Our_Partners_2024/Educational_Institutions/Jamiyah_Kindergarten.png">
 		</div>
 	</div>
 	<div class="two-col__item">
@@ -160,7 +160,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Organised by EOS at NTU, Science Centre Singapore (SCS) and U.S. Embassy in Singapore, the Earth Alive Inter-School Challenge is a geography-themed competition for secondary school students. The Challenge aims to expand talent development in Geography in Singapore by engaging youth on natural hazards and climate change, and consists of two components: a Webinar with Scientists and the Challenge Finale where participants will be tasked with quiz missions and invited to play station games at the Earth Alive exhibition in Science Centre Singapore.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Special%20Mentions/educational-2.png">
+			<img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Technological_University_Earth_Observatory_Singapore.png">
 		</div>
 	</div>
 	
@@ -172,7 +172,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Mandai Wildlife Group is organising a Forest Clean-up session, bringing staff together to remove litter from past human activities in the forest buffer next to Bird Paradise. This activity is part of the Group’s ongoing ecological restoration efforts.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Special%20Mentions/amazon.png">
+			<img src="/images/Our_Partners_2024/Corporates/Mandai_Wildlife_Group.png">
 		</div>
 	</div>
 	<div class="two-col__item">
@@ -193,7 +193,7 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Conservation International is organising a visual storytelling workshop, inspiring young participants to craft meaningful messages on the 4Rs - Reduce, Reuse, Recycle, and Recover, to enhance the impact of environmental education.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Special%20Mentions/amazon.png">
+			<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Conservation_International.png">
 		</div>
 	</div>
 	<div class="two-col__item">
@@ -202,6 +202,6 @@ Here are some other ways our partners are Going Green, their way!
 			<p>Kwong Wai Shiu Hospital is organising a clothing swap event to reduce textile waste, promoting a culture of sustainability amongst staff. Staff can refresh their wardrobe without making new purchases, while fostering community spirit along the way.</p>
 		</div>
 		<div class="two-col__item__image">
-			<img src="/images/Our%20Partners/Corporate/psa%20corporation.png">
+			<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Kwong_Wai_Shiu_Hospital.png">
 </div>
 	</div></div></div></div></div>
