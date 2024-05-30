@@ -24,7 +24,7 @@ Join Play Beyond’s volunteer team today and contribute to a more sustainable f
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
