@@ -1025,6 +1025,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
 	</div>	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/earth-explorers-discovering-sustainability-through-fun-and-games/">
+	<img src="/images/Events/Earth_Explorers_Discovering_Sustainability_Through_Fun_and_Games_.png"></a>
+        <h2>Earth Explorers: Discovering Sustainability Through Fun and Games!
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 22 June</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: Sengkang Public Library</strong></li>
+          <li><strong>Organiser: Play Beyond Private Limited</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on an adventure of fun and discovery at Earth Explorers, where sustainability meets excitement! Children can take part in engaging activities and fun games to learn about upcycling and sustainable play. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/earth-explorers-discovering-sustainability-through-fun-and-games/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
