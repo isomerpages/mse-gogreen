@@ -22,7 +22,7 @@ All proceeds from craft sales and donations will be dedicated to supporting MWS 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
