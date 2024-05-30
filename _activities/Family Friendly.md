@@ -311,7 +311,7 @@ More activities will also be added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/beach-clean-up-and-sustainability-talk/">
-					<img src="/images/Tours/MPA_Beach_Clean_up_and_Sustainability.jpg"></a>
+					<img src="/images/Initiatives/mpa_beach_clean_up_and_sustainability.jpg"></a>
         <h2>Beach Clean Up and Sustainability Talk
 </h2>
       </div>
