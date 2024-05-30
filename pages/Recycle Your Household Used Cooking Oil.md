@@ -23,7 +23,7 @@ Participants are encouraged to bring their own used cooking oil for recycling. S
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
