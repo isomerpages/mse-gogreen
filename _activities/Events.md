@@ -155,6 +155,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/free-screening-of-the-human-element-at-singapore-botanic-gardens/">
+	<img src="/images/Events/Free_Screening_of__The_Human_Element__at_Singapore_Botanic_Gardens.jpg"></a>
+        <h2>Free Screening of ‘The Human Element’ at Singapore Botanic Gardens
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 29 June</strong></li>
+          <li><strong>Admission: Free (Registration is required)</strong></li>
+<li><strong>Venue: Eco Lake Lawn, Singapore Botanic Gardens</strong></li>
+          <li><strong>Organiser: YTL PowerSeraya</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>To commemorate World Environment Day, join YTL PowerSeraya at the inaugural Singapore screening of The Human Element, an award-winning movie on climate change.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/free-screening-of-the-human-element-at-singapore-botanic-gardens/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
    <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
