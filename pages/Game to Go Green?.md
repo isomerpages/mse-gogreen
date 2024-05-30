@@ -32,7 +32,7 @@ While the activity is free, do note that usual Science Centre admission charges 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
