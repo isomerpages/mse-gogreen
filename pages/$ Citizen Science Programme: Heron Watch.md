@@ -4,11 +4,11 @@ permalink: /citizen-science-programme-heron-watch/
 variant: markdown
 description: ""
 ---
-![Heron Watch](/images/Others/Heron_Watch.jpg)
+![Heron Watch ](/images/Others/Heron_Watch_169.jpg)
 
 **Date:** 13 - 21 July<br>
 **Admission:** Free (registration required) <br>
-**Venue:** Various
+**Venue:** Various <br>
 **Organiser:** National Parks Board
 
 This programme is suitable for anyone aged 12 and above.&nbsp;
@@ -19,7 +19,8 @@ For one morning or afternoon from 13 – 21 July, volunteers will survey one of 
 
 Training will be provided for volunteers who are new to Heron Watch. New volunteers can sign up for their preferred training slot (either 29 or 30 June). Training will be held at Bishan-Ang Mo Kio Park.
 
-<a class="btn-link" target="_blank">
+**Registration opens on 13 June**<br>
+<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/heronwatch">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
