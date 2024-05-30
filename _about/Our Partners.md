@@ -5,14 +5,6 @@ variant: markdown
 description: ""
 ---
 ![](/images/banner-about-us.png)
-
-We thank all our valued partners for your strong support! While many events under Go Green SG are open to the public, MSE, along with our partners are also celebrating Go Green SG with a wide array of internal events to encourage sustainability within our organisations!
-
-For example, MSE and its statutory boards, NEA, PUB and SFA will be co-hosting the MSE Family Go Green Week. It comprises sustainability-related activities to encourage our staff to reduce waste, water and energy use, and to purchase local produce. 
-
-Here are some other ways our partners are Going Green, their way!
-
-## Community / Interest Groups:
 <style>
 	.two-col {
 		display: flex;
@@ -71,6 +63,14 @@ Here are some other ways our partners are Going Green, their way!
 	
 </style>
 
+We thank all our valued partners for your strong support! While many events under Go Green SG are open to the public, MSE, along with our partners are also celebrating Go Green SG with a wide array of internal events to encourage sustainability within our organisations!
+
+For example, MSE and its statutory boards, NEA, PUB and SFA will be co-hosting the MSE Family Go Green Week. It comprises sustainability-related activities to encourage our staff to reduce waste, water and energy use, and to purchase local produce. 
+
+Here are some other ways our partners are Going Green, their way!
+
+## Community / Interest Groups
+
 <div class="two-col">
 		<div class="two-col__item">
 		<div class="two-col__item__body">
@@ -83,66 +83,7 @@ Here are some other ways our partners are Going Green, their way!
 	</div>
 
 
-## Educational Institutions:
-
-<style>
-	.two-col {
-		display: flex;
-    flex-direction: column;
-		gap: 2rem;
-	
-	}
-	
-	.two-col__item {
-		display: flex;
-		align-items: center;
-		justify-content: space-between;
-		flex-wrap: wrap;
-		gap: 1rem;
-	
-	}
-	
-	.two-col__item__body {
-		flex: 1 1 70%;
-	
-	}
-	
-	div.two-col__item__body p,
-	div.two-col__item__body p.two-col__item__title {
-		margin: 0;
-	
-	}
-	
-	.two-col__item__image {
-	    flex: 1 1 20%;
-	
-	}
-	
-	.two-col__item__image img {
-		max-width: 170px;
-    margin-right: 0;
-	
-	}
-	
-	@media (max-width: 576px) {
-		.two-col__item__body {
-			flex: 1 1 100%;
-	
-		}
-	
-		.two-col__item__image {
-			order: -1;
-	
-		}
-	
-		.two-col__item__image img {
-			margin: auto;
-		}
-	
-	}
-	
-
-</style>
+## Educational Institutions
 
 <div class="two-col">
 		<div class="two-col__item">
@@ -164,7 +105,7 @@ Here are some other ways our partners are Going Green, their way!
 		</div>
 	</div>
 	
-## Corporates:
+## Corporates
 <div class="two-col">
 	<div class="two-col__item">
 		<div class="two-col__item__body">
