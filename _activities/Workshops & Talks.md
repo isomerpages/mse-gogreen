@@ -337,6 +337,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/learn-how-to-grow-and-cook-microgreens/">
+	<img src="/images/Workshop%20&amp;%20Talks/Learn_how_to_grow_and_cook_microgreens.jpg"></a>
+        <h2>Learn How to Grow and Cook Microgreens
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 15, 22, 29 June</strong></li>
+          <li><strong>Admission: $20/pax or parent-child pair (child age between 3-17 years old)</strong></li>
+<li><strong>Venue: Bukit Canberra, 21 Canberra Link, Active Health Nutrition and Wellness Studio</strong></li>
+          <li><strong>Organiser: Urban Green Dot Pte Ltd and Active Health</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn all about microgreens, growing them and cooking them in this two-hour workshop. Participants get to bring home one free bag of vegetables! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/learn-how-to-grow-and-cook-microgreens/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
