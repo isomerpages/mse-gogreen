@@ -100,6 +100,32 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">  
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/sustainable-takeaway-at-ion-orchard/">
+	<img src="/images/Initiatives/Sustainable_Takeaway_at_ION_Orchard.png"></a>
+        <h2>Sustainable Takeaway at ION Orchard
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 12 June - 14 July</strong></li>
+        <li><strong>Venue: Participating stores, ION Orchard</strong></li>
+          <li><strong>Organiser: ION Orchard</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Borrow a free reusable cup or container for your takeaways at participating ION Orchard stores - powered by Muuse's app! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainable-takeaway-at-ion-orchard/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
