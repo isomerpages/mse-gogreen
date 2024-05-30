@@ -576,7 +576,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li><strong>Dates: 15, 22, 29 June</strong></li>
           <li><strong>Admission: $20/pax or parent-child pair</strong></li>
-<li><strong>Venue: Bukit Canberra, 21 Canberra Link, Active Health Nutrition and Wellness Studio</strong></li>
+<li><strong>Venue: Bukit Canberra</strong></li>
           <li><strong>Organiser: Urban Green Dot Pte Ltd and Active Health</strong></li>
         </ul>
       </div>
@@ -606,7 +606,7 @@ More activities will also be added progressively.</div>
               Dates: 15, 22, 29 June; 1 - 5 July, 6 July</strong>
           </li>
           <li><strong>Admission: $10 per parent/child pair</strong></li>
-          <li><strong>Venue: Jun Jie Industrial Building, 153 Kampong Ampat, #04-02</strong></li>
+          <li><strong>Venue: Jun Jie Industrial Building, 153 Kampong Ampat</strong></li>
           <li><strong>Organiser: Semula Pte Ltd</strong></li>
         </ul>
       </div>
@@ -866,12 +866,12 @@ More activities will also be added progressively.</div>
         <ul>
           <li><strong>Dates: 16 June</strong></li>
           <li><strong>Admission: Adult $52.20, Child $50.40</strong></li>
-<li><strong>Venue: Pasir Ris Park Mangrove (sandy intertidal zone)</strong></li>
+<li><strong>Venue: Pasir Ris Park Mangrove</strong></li>
           <li><strong>Organiser: Young Nautilus  </strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>On this nature walk, rxplore the hidden mangrove gem of the East, home to many interesting flora and fauna like fiddler crabs, kingfishers, and others! 
+        <p>On this nature walk, explore the hidden mangrove gem of the East, home to many interesting flora and fauna like fiddler crabs, kingfishers, and others! 
         </p>
       </div>
     </div>
