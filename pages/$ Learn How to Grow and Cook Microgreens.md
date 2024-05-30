@@ -5,6 +5,7 @@ variant: markdown
 description: ""
 ---
 ![Learn how to grow and cook microgreens](/images/Workshop%20&amp;%20Talks/Learn_how_to_grow_and_cook_microgreens.jpg)
+
 **Dates:** 15, 22, 29 June, 9:00 am – 11:00 am<br>
 **Admission:** $20/pax or parent-child pair (child age between 3-17 years old) <br>
 **Venue:** Bukit Canberra, 21 Canberra Link, Active Health Nutrition and Wellness Studio (Lift Lobby A, Level 2)<br>
