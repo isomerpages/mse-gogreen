@@ -5,6 +5,15 @@ variant: markdown
 description: ""
 ---
 ![](/images/banner-about-us.png)
+
+We thank all our valued partners for your strong support! While many events under Go Green SG are open to the public, MSE, along with our partners are also celebrating Go Green SG with a wide array of internal events to encourage sustainability within our organisations!
+
+For example, MSE and its statutory boards, NEA, PUB and SFA will be co-hosting the MSE Family Go Green Week. It comprises sustainability-related activities to encourage our staff to reduce waste, water and energy use, and to purchase local produce. 
+
+Here are some other ways our partners are Going Green, their way!
+
+## Community / Interest Groups
+
 <style>
 	.two-col {
 		display: flex;
@@ -63,14 +72,6 @@ description: ""
 	
 </style>
 
-We thank all our valued partners for your strong support! While many events under Go Green SG are open to the public, MSE, along with our partners are also celebrating Go Green SG with a wide array of internal events to encourage sustainability within our organisations!
-
-For example, MSE and its statutory boards, NEA, PUB and SFA will be co-hosting the MSE Family Go Green Week. It comprises sustainability-related activities to encourage our staff to reduce waste, water and energy use, and to purchase local produce. 
-
-Here are some other ways our partners are Going Green, their way!
-
-## Community / Interest Groups
-
 <div class="two-col">
 		<div class="two-col__item">
 		<div class="two-col__item__body">
@@ -81,7 +82,7 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Ismaili_CIVIC.png">
 		</div>
 	</div>
-
+</div>
 
 ## Educational Institutions
 
@@ -104,6 +105,7 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Technological_University_Earth_Observatory_Singapore.png">
 		</div>
 	</div>
+	</div>
 	
 ## Corporates
 <div class="two-col">
@@ -125,6 +127,7 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our%20Partners/Corporate/psa%20corporation.png">
 </div>
 	</div>
+</div>
 
 ## Non-Governmental Organisations
 <div class="two-col">
@@ -145,4 +148,5 @@ Here are some other ways our partners are Going Green, their way!
 		<div class="two-col__item__image">
 			<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Kwong_Wai_Shiu_Hospital.png">
 </div>
-	</div></div></div></div></div>
+	</div></div>
+	
