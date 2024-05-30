@@ -11,7 +11,9 @@ description: ""
 
 Discover the joy of curated preloved toys with Play Beyond! Preloved toys not only save you money, but also help reduce waste by giving toys a second life. Play Beyond offers a curated selection of preloved toys in excellent condition, carefully inspected and sanitised, and at a fraction of their retail price. 
 
-As a special offer, enjoy 10% off your purchase with a minimum spend of $40 when you sign up with Play Beyond. Join Play Beyond in its mission to go green and make a positive impact on the planet, one toy at a time.
+As a special offer, enjoy 10% off your purchase with a minimum spend of $40 when you sign up for a Play Beyond account. 
+
+Join Play Beyond in its mission to go green and make a positive impact on the planet, one toy at a time.
 
 
 <a class="btn-link" target="_blank" href="http://www.playbeyond.co/collections/all">
