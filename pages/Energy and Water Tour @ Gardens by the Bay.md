@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 ---
 ![](/images/Tours/GBTB_energy_water_tour.jpg)
-**Experience a journey covering the two essentials that sustain and underpin life – energy and water. This tour explores the water-sensitive urban design concepts at Gardens by the Bay.**
+
 
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 8:30 am – 9:30 am  
@@ -26,6 +26,8 @@ Experience a journey through the two essentials that sustain and underpin life �
 This special tour includes free entry to Cloud Forest for Singapore residents.
 
 This 1-hour activity involves walking in the outdoor gardens and Gardens by the Bay is wheelchair-accessible.
+
+Registration for the July runs opens on 5 or 13 June, 9.00 am or 10.00 am
 
 <a class="btn-link" target="_blank" href="#">
 	<img src="/images/gogreensg_website-32.png">
