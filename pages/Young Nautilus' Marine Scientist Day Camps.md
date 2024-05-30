@@ -40,7 +40,7 @@ This activity is recommended for individuals aged 6 and above. With exception to
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
