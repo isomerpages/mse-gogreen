@@ -196,7 +196,7 @@ More activities will also be added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 					<a href="/discover-singapore-s-urban-transformation/">
-						<img src="/images/URA_Discover_SG_Urban_Transformation_.jpg"></a>
+						<img src="/images/Tours/ura_discover_sg_urban_transformation.jpg"></a>
         <h2>Discover Singapore’s Urban Transformation
 </h2>
       </div>
