@@ -19,12 +19,12 @@ This activity is suitable for individuals with mobility issues.
 
 
 <a class="btn-link" target="_blank" href="https://pass-it-on.co/pages/green-house)">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
