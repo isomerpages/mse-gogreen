@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/Initiatives/Children_Toy_Decluttering_Programme_with_Play_Beyond.png)
 
-**Dates:** 12 June \- 14 July<br>
+**Dates:** 12 June - 14 July<br>
 **Admissions**: Free (no registration required)<br>
 **Venue:** Various <br>
 **Organiser:** Play Beyond Private Limited
