@@ -25,17 +25,6 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
 
 **RIFLE RANGE NATURE PARK (22 June, 9:30 am – 11:30 am)** 
 
@@ -43,17 +32,7 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
+
 
 **PULAU UBIN – BUTTERFLY HILL (5 July, 9:30 am – 11:30 am)** 
 
@@ -61,17 +40,7 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
+
 
 **WINDSOR NATURE PARK (9 July, 9:30 am – 11:30 am)** 
 
@@ -79,17 +48,6 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
 
 **RAIL CORRIDOR (12 July, 2:00 pm – 4:00 pm)** 
 
@@ -99,7 +57,7 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
