@@ -103,6 +103,33 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+      <a href="/children-toy-decluttering-programme-with-play-beyond/">
+	<img src="/images/Initiatives/Children_Toy_Decluttering_Programme_with_Play_Beyond.png"></a>
+        <h2>Children Toy Decluttering Programme with Play Beyond
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 12 June - 14 July</strong></li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+<li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: Play Beyond Private Limited</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Play Beyond Toy Decluttering Programme aims to create a circular economy for children’s toys. Sell or donate your preloved toys by dropping them off at Play Beyond’s events or opt for doorstep pick-up service. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/children-toy-decluttering-programme-with-play-beyond/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
       <a href="/sustainable-takeaway-at-ion-orchard/">
 	<img src="/images/Initiatives/Sustainable_Takeaway_at_ION_Orchard.png"></a>
         <h2>Sustainable Takeaway at ION Orchard
