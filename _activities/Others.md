@@ -99,34 +99,7 @@ variant: markdown
 Come back on 5 June when registration links go live at 10am, to sign up for your favourite activities!<br>
 More activities will also be added progressively.</div>
 
-<div class="row row_custom">
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-      <a href="/citizen-science-programme-heron-watch/">
-					<img src="/images/Others/Heron_Watch_169.jpg"></a>
-        <h2>Citizen Science Programme: Heron Watch
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Dates: 13 - 21 July</strong></li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-<li><strong>Venue: Various</strong></li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Heron Watch is a citizen science initiative by NParks to get Singaporeans involved in collecting valuable information about the herons, egrets and bitterns across Singapore. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/citizen-science-programme-heron-watch/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>   
+<div class="row row_custom"> 
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -329,7 +302,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
-		<div class="programmes__item col is-one-third">
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/citizen-science-programme-heron-watch/">
+					<img src="/images/Others/Heron_Watch_169.jpg"></a>
+        <h2>Citizen Science Programme: Heron Watch
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 13 - 21 July</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+<li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Heron Watch is a citizen science initiative by NParks to get Singaporeans involved in collecting valuable information about the herons, egrets and bitterns across Singapore. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/citizen-science-programme-heron-watch/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>  
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/paper-plastic-metal-what-to-recycle/">
