@@ -534,7 +534,7 @@ Check out the activities below!
         Find out more
       </a>
     </div>
-  </div>
+	</div>
 			<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -564,6 +564,36 @@ Check out the activities below!
       </a>
     </div>
   </div>	
+	       <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/singapore-botanic-gardens-healing-garden-tour/">
+              <img src="/images/Tours/SBG_healing_tour.jpg"></a>
+        <h2>Singapore Botanic Gardens Healing Garden Tour
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Nassim Gate)</strong></li>
+          <li><strong>Organiser: National Parks Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Healing Garden, which showcases over 400 varieties of plants with medicinal uses. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/singapore-botanic-gardens-healing-garden-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
