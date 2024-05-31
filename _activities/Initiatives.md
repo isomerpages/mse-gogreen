@@ -188,7 +188,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__detail">
         <ul>
           <li><strong>Date: 12 June – 14 July</strong></li>
-          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Organiser: Invosystems Solutions Pte Ltd</strong></li>
         </ul>
       </div>
