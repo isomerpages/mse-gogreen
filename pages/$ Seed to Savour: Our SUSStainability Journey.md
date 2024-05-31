@@ -11,9 +11,9 @@ description: ""
 **Venue:** Singapore University of Social Sciences, 463 Clementi Road, Block C, C.1.05 (level 1 beside Starbucks)<br>
 **Organiser:** Singapore University of Social Sciences
 
-Embark on a culinary adventure at this bazaar where innovation meets eco-consciousness., Indulge in delicious and nutritious treats crafted from locally harvested ingredients and learn about the diverse farming techniques employed to cultivate them sustainably.&nbsp;
+Embark on a culinary adventure at this bazaar where innovation meets eco-consciousness. Indulge in delicious and nutritious treats crafted from locally harvested ingredients and learn about the diverse farming techniques employed to cultivate them sustainably.
 
-The bazaar is the culmination of Singapore University of Social Sciences (SUSS)'s Ecopreneur Innovation Programme as students showcase their entrepreneurial spirit through a variety of ideas aimed at revolutionising the food sector, all developed and validated at the SUSS Experiential Urban Farm and Food Lab.&nbsp;
+The bazaar is the culmination of Singapore University of Social Sciences (SUSS)'s Ecopreneur Innovation Programme as students showcase their entrepreneurial spirit through a variety of ideas aimed at revolutionising the food sector, all developed and validated at the SUSS Experiential Urban Farm and Food Lab.
 
 Every purchase contributes to the SUSS Student Care Fund.
 
