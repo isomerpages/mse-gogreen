@@ -6,7 +6,7 @@ description: ""
 ---
 ![Learning Journey Changi Water Reclamation - PUB](/images/Tours/Learning_Journey_to_Changi_Water_Reclamation_Plant.png)
 
-**Date:** 3 July, 9:30 am – 1:00 pm | 2:30 pm – 6:00 pm<br>
+**Date:** 3 July, 9:30 am – 1:00 pm, 2:30 pm – 6:00 pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Changi Water Reclamation Plant, 10 Changi East Close<br>
 **Organiser:** PUB, Singapore’s National Water Agency
