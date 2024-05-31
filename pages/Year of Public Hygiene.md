@@ -187,6 +187,34 @@ Check out the activities below!
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/eco-paddle-with-ola/">
+        <img src="/images/Initiatives/Eco_Paddle_with_OLA.jpg"></a>
+        <h2>Eco Paddle with Ola</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 23 June; 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Ola Beach Club, Sentosa</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Litter-picking is fun! Join us on kayaks to conduct a coastal clean-up at Sentosa and nearby islands. Learn more about Singapore’s marine biodiversity and how to protect it.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/eco-paddle-with-ola/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
       <a href="/beach-clean-up-and-sustainability-talk/">
 					<img src="/images/Initiatives/mpa_beach_clean_up_and_sustainability.jpg"></a>
         <h2>Beach Clean Up and Sustainability Talk
