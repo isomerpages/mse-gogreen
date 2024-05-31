@@ -13,11 +13,14 @@ description: ""
 
 Introducing Indoor Vertical Aquaponics, a farming technique used to grow vegetables and fish. Being a self-circulatory ecosystem, the output from fish is converted to nutrients for the vegetables, which in turn clear the water for the fish.&nbsp;
 
-With Singapore University of Social Sciences’ prototypes, explore (1) how aquaponics can contribute to food security, (2) how a team of students (ABCM)’s formulated juice with home-grown fruits and vegetables is different from other juices, and (3) how vegetables for Leicha grown from indoor aquaponic methods are more value-for-money than purchasing them outside.&nbsp;
+With Singapore University of Social Sciences’ prototypes, explore 
+- how aquaponics can contribute to food security, 
+- how a team of students (ABCM)’s formulated juice with home-grown fruits and vegetables is different from other juices, and 
+- how vegetables for Leicha grown from indoor aquaponic methods are more value-for-money than purchasing them outside.&nbsp;
 
 Make a $10 donation before the activity to secure your spot! All proceeds will go towards the SUSS Student Care Fund.
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/workshop-grow-own-food-indoor-tickets-881771852347)">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/workshop-grow-own-food-indoor-tickets-881771852347">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
