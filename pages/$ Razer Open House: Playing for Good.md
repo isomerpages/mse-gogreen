@@ -11,9 +11,9 @@ description: ""
 **Venue:** Razer SEA HQ, 1 one-north Crescent<br>
 **Organiser:** Razer (Asia-Pacific) Pte Ltd
 
-Join Razer for an exclusive behind-the-scenes tour of its Southeast Asia Headquarters! As you explore the facilities, see the progress Razer has made in their #GoGreenWithRazer sustainability manifesto. Hear from Razer on how they are advancing the sustainability agenda to empower gamers worldwide to Play for Good.&nbsp;
+Join Razer for an exclusive behind-the-scenes tour of its Southeast Asia Headquarters! As you explore the facilities, see the progress Razer has made in their #GoGreenWithRazer sustainability manifesto. Hear from Razer on how they are advancing the sustainability agenda to empower gamers worldwide to Play for Good.
 
-Following the tour, join Razer for an engaging forum that dives into how sustainability impacts the way we live, work and play.&nbsp;
+Following the tour, join Razer for an engaging forum that dives into how sustainability impacts the way we live, work and play.
 
 This activity is suitable for participants with mobility issues.
 
