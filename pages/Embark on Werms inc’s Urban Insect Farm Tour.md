@@ -1,5 +1,5 @@
 ---
-title: Embark on Werms inc’s Urban Insect Farm Tour
+title: "Embark on Werms.inc’s Urban Insect Farm Tour"
 permalink: /embark-on-wermtech-asia-s-urban-insect-farm-tour/
 variant: markdown
 description: ""
