@@ -6,9 +6,9 @@ description: ""
 ---
 ![Eco Paddle with OLA](/images/Initiatives/Eco_Paddle_with_OLA.jpg)
 
-**Dates:** <br>
-* 14, 23 June | 10:00 am to 12:00 pm
-* 14 July | 10:00 am to 12:00 pm<br>
+**Date:** <br>
+14 and 23 June, 10:00 am to 12:00 pm<br>
+14 July, 10:00 am to 12:00 pm<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** Ola Beach Club, Sentosa, 46 Siloso Beach Walk<br>
