@@ -129,7 +129,7 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -657,4 +657,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/grow-own-food-indoor/">
+              <img src="/images/Workshop%20&amp;%20Talks/Grow_Own_Food_Indoor.png"></a>
+        <h2>Grow Own Food Indoor
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore how Indoor Vertical Aquaponics - which grows both vegetables and fish at the same time - can contribute to food security.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/grow-own-food-indoor/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
