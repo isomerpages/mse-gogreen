@@ -1177,6 +1177,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>          
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/">
+        <img src="/images/Tours/Air_Quality_Monitoring.jpg"></a>
+        <h2>Visit to Air Quality Monitoring Station at Yishun Neighbourhood Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 25 June; 2, 9 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Good air quality is important in safeguarding public health. Find out how ambient air quality is being monitored in stations across Singapore. Gain insights into the data collection processes that help ensure the well-being of Singapore’s residents.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1222,7 +1251,7 @@ More activities will also be added progressively.</div>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: TuasOne Waste-to-Energy Plant</strong></li>
-          <li><strong>Organiser: National Environment Agency</strong></li>
+          <li><strong>Organiser: National Environment Agency and My Community</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
