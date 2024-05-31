@@ -6,8 +6,8 @@ description: ""
 ---
 ![ALBA](/images/Tours/ALBA_My_Community.jpg)
 
-**Dates:** 5 July, 10:00 am to 12:00 pm<br>
-**Admission:** $22.05 <br>
+**Date:** 5 July, 10:00 am to 12:00 pm<br>
+**Admission:** $22.05/pax <br>
 **Venue:** ALBA E-waste Smart Recycling Pte Ltd, 20 Tuas Loop<br>
 **Organiser:** National Environment Agency and My Community
 
