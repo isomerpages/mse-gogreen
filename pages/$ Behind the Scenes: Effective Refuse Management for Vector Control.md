@@ -13,7 +13,6 @@ description: ""
 * 4 July, 9:00 am to 10:30 am (Telok Blangah)<br>
 
 **Admission:** Free (registration required) <br>
-**Venue:** Various<br>
 **Organiser:** National Environment Agency
 
 *This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).&nbsp;*
