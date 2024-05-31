@@ -14,7 +14,7 @@ description: ""
 **Venue:** Gain City Megastore @ Sungei Kadut, 71 Sungei Kadut Dr, Level 1<br>
 **Organiser:** National Environment Agency
 
-*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).&nbsp;*
+*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
 
 Did you know that more than 90% of air-conditioner parts can be recycled? Join this eco tour at Gain City to witness the process of recycling air-conditioners, and find out more about the sustainable efforts at this megastore.&nbsp;
 
