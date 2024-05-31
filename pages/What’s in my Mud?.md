@@ -6,7 +6,7 @@ description: ""
 ---
 ![Whats in my Mud?](/images/Tours/Whats_in_my_Mud_SBWR.png)
 
-**Dates:** 29 June, 9:30 am – 11:00 am<br>
+**Date:** 29 June, 9:30 am – 11:00 am<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Sungei Buloh Wetland Reserve, Wetland Centre<br>
 **Organiser:** National Parks Board
