@@ -16,7 +16,7 @@ For non-residents:<br>
 * 1 conservatory: $24 for adult | $15 for child (via walk in)<br>
 * Both conservatories: $32 for adult | $18 for child (via online purchase)<br>
 
-**Venue:** Gardens by the Bay, Main Arrival Entrance (Outside McDonalds)<br>
+**Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
 This tour highlights the intricate relationships between plant, animal, and microbial biodiversity, and the ecosystems they compose and inhabit. Participants will be taken on a journey of diverse habitats from around the world and learn how different organisms form special relationships to survive and thrive in very challenging conditions!
