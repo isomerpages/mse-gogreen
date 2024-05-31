@@ -7,9 +7,9 @@ description: ""
 ![Public Cleaning Performance ](/images/Tours/Public_Cleaning_Performance_Audits.jpg)
 
 **Dates:** <br>
-* 14 June, 10:00 am – 11:30 am&nbsp;(Ang Mo Kio)
-* 21 June, 10:00 am – 11:30 am&nbsp;(Telok Kurau)
-* 28 June, 10:00 am – 11:30 am&nbsp;(Downtown City)
+* 14 June, 10:00 am – 11:30 am (Ang Mo Kio)
+* 21 June, 10:00 am – 11:30 am (Telok Kurau)
+* 28 June, 10:00 am – 11:30 am (Downtown City)
 * 3 July, 10:00 am – 11:30 am (Clementi)
 * 10 July, 10:00 am – 11:30 am (Sembawang/ Yishun)<br>
 
@@ -17,7 +17,9 @@ description: ""
 **Venue:** Various<br>
 **Organiser:** National Environment Agency
 
-This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).Find out more about the work that goes on behind-the-scenes to keep public spaces clean, and how NEA leverages technology to do this.&nbsp;&nbsp;
+*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
+
+Find out more about the work that goes on behind-the-scenes to keep public spaces clean, and how NEA leverages technology to do this.&nbsp;&nbsp;
 
 Follow NEA officers on their inspection audits along roads, pavements, parks and other public areas and understand the challenges they face in the course of their work.
 
