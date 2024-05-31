@@ -300,6 +300,34 @@ Check out the activities below!
       </a>
     </div>
   </div>		
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/behind-the-scenes-effective-refuse-management-for-vector-control/">
+				<img src="/images/Tours/Effective_Refuse_Management.jpg"></a>
+        <h2>Behind the Scenes: Effective Refuse Management for Vector Control</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 25 June; 3, 4 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Proper refuse management practices are critical for rat control. Experience and observe how NEA officers conduct surveillance and identify responsible parties.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-effective-refuse-management-for-vector-control/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -358,7 +386,64 @@ Check out the activities below!
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/">
+        <img src="/images/Tours/Air_Quality_Monitoring.jpg"></a>
+        <h2>Visit to Air Quality Monitoring Station at Yishun Neighbourhood Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 25 June; 2, 9 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Good air quality is important in safeguarding public health. Find out how ambient air quality is being monitored in stations across Singapore. Gain insights into the data collection processes that help ensure the well-being of Singapore’s residents.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/behind-the-scenes-littering-enforcement/">
+				<img src="/images/Tours/NEA_Enforcement.jpg"></a>
+        <h2>Behind the Scenes: Littering Enforcement</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Environment Building, 40 Scotts Road</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through this exclusive behind-the-scenes workshop, learn how NEA officers conduct enforcement for littering offences, and the challenges they face in the process.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-littering-enforcement/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/forest-clean-up-at-pulau-ubin/">
