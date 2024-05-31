@@ -6,9 +6,9 @@ description: ""
 ---
 ![Project Blue Wave](/images/Initiatives/Project_Blue_Wave.jpg)
 
-**Dates:** <br>
-* 16, 29, 30 June | 2:00 pm - 5:00 pm 
-* 6, 13 July | 2:00 pm - 5:00 pm<br>
+**Date:** <br>
+16, 29, 30 June, 2:00 pm - 5:00 pm <br>
+6, 13 July, 2:00 pm - 5:00 pm<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** PAssion Wave @ Jurong Lake Gardens, 100 Yuan Ching Road<br>
