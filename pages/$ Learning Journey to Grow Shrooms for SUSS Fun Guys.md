@@ -15,7 +15,7 @@ Explore the fascinating world of mushrooms in this immersive workshop! Delve int
 
 Make a $10 donation before the commencement of the activity to secure your spot! All proceeds will go towards the SUSS Student Care Fund.
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/seed-to-savour-our-susstainability-journey-tickets-881744661017">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/workshop-learning-journey-to-grow-shrooms-for-suss-fun-guys-tickets-881769796197">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
