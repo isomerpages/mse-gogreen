@@ -750,9 +750,9 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-            <a href="/seed-to-savour-our-susstainability-journey/">
-              <img src="/images/Events/Seed_to_Savour_Our_SUSStainability_Journey.png"></a>
-        <h2>Seed to Savour: Our SUSStainability Journey
+            <a href="/you-sip-what-we-sow-craft-delicious-herb-infused-mocktails-from-seed-to-sip/">
+              <img src="/images/Workshop%20&amp;%20Talks/You_Sip_What_We_Sow_Craft_Delicious_Herb_Infused_Mocktails_From_Seed_To_Sip.png"></a>
+        <h2>You Sip What We Sow: Craft Delicious Herb Infused Mocktails From Seed To Sip
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -767,12 +767,12 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Embark on a culinary adventure at this bazaar - the culmination of Singapore University of Social Sciences' Ecopreneur Innovation Programme - where innovation meets eco-consciousness. 
+        <p>Discover the art of crafting refreshing and aromatic mocktails infused with flavours of fresh herbs grown by Singapore University of Social Sciences students. 
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/seed-to-savour-our-susstainability-journey/" class="button-primary">
+      <a href="/you-sip-what-we-sow-craft-delicious-herb-infused-mocktails-from-seed-to-sip/" class="button-primary">
         Find out more
       </a>
     </div>
