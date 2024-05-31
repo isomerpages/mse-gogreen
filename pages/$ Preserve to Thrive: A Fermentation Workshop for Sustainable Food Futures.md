@@ -6,7 +6,7 @@ description: ""
 ---
 ![Preserve to Thrive](/images/Workshop%20&amp;%20Talks/Preserve_to_Thrive_A_Fermentation_Workshop_for_Sustainable_Food_Futures.png)
 
-**Date:** 6 July | 12:30 pm - 1:15 pm, 1:45 pm - 2:30 pm<br>
+**Date:** 6 July, 12:30 pm - 1:15 pm, 1:45 pm - 2:30 pm<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Singapore University of Social Sciences, 463 Clementi Road, Block C, C.5.14 (Level 5 seminar room 14)<br>
 **Organiser:** Singapore University of Social Sciences
