@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024banner_text.png
+      background: /images/GGSG_website_banner_03.png
       title: Go Green, Your Way
       variant: image
       key_highlights:
