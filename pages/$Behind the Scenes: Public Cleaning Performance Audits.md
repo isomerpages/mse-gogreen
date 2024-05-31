@@ -11,7 +11,7 @@ description: ""
 * 21 June, 10:00 am – 11:30 am (Telok Kurau)
 * 28 June, 10:00 am – 11:30 am (Downtown City)
 * 3 July, 10:00 am – 11:30 am (Clementi)
-* 10 July, 10:00 am – 11:30 am (Sembawang/ Yishun)<br>
+* 10 July, 10:00 am – 11:30 am (Sembawang/Yishun)<br>
 
 **Admission:** Free (registration required) <br>
 **Organiser:** National Environment Agency
