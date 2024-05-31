@@ -6,9 +6,9 @@ description: ""
 ---
 ![Participant smiling in front of vegetables](/images/Tours/Circular_Aquaponics_Eco_Farm.jpg)
 
-**Dates:** 
-* 15 June, 29 June, 10:00 am – 11:30 am
-* 6 July, 10:00 am – 11:30 am  <br>
+**Date:** <br>
+15, 29 June, 10:00 am – 11:30 am<br>
+6 July, 10:00 am – 11:30 am  <br>
 
 **Admission:** 
 * Adult: $33 
