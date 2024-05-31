@@ -185,65 +185,6 @@ Check out the activities below!
       </a>
     </div>
   </div>  
-		          <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-            <a href="/explore-with-lens-6-sides-of-eco-wellness/">
-              <img src="/images/Initiatives/rainbow_artisan.jpg"></a>
-        <h2>Explore with Lens: 6 Sides of Eco Wellness
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15 June; 6 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Gardens By The Bay, Singapore Botanic Gardens</strong></li>
-          <li><strong>Organiser: The Rainbow Artisan</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Immerse yourself in nature, capturing moments of beauty while staying physically active at this event. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/explore-with-lens-6-sides-of-eco-wellness/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/sustainability-learning-journey-by-tzu-chi-foundation/">
-        <img src="/images/Sustainability_Learning_Journey_Tzu_Chi_Foundation.jpg"></a>
-        <h2>Sustainability Learning Journey by Tzu Chi Foundation</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15, 22 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Tzu Chi Humanistic Youth Centre</strong></li>
-          <li><strong>Organiser: Buddhist Compassion Relief Tzu-Chi Foundation (Singapore)</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>With real life examples, learn about the environmental costs of our lifestyle on Mother Earth. Pick up sustainable living habits and integrate into them your daily lives towards a sustainable future.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainability-learning-journey-by-tzu-chi-foundation/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	         <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -274,62 +215,6 @@ Check out the activities below!
       </a>
     </div>
   </div>
-			<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-      <a href="/learn-how-to-grow-and-cook-microgreens/">
-	<img src="/images/Workshop%20&amp;%20Talks/Learn_how_to_grow_and_cook_microgreens.jpg"></a>
-        <h2>Learn How to Grow and Cook Microgreens
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li><strong>Dates: 15, 22, 29 June</strong></li>
-          <li><strong>Admission: $20/pax or parent-child pair</strong></li>
-<li><strong>Venue: Bukit Canberra, 21 Canberra Link, Active Health Nutrition and Wellness Studio</strong></li>
-          <li><strong>Organiser: Urban Green Dot Pte Ltd and Active Health</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Learn all about microgreens, growing them and cooking them in this two-hour workshop. Participants get to bring home one free bag of vegetables! 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/learn-how-to-grow-and-cook-microgreens/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>   
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-				<a href="/tour-workshop-at-imh-s-community-and-hydroponic-gardens/">
-				<img src="/images/Tours/Tour___Workshop_at_IMH_s_Community_and_Hydroponic_Gardens.png"></a>
-        <h2>Tour &amp; Workshop at IMH’s Community and Hydroponic Gardens</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 19 June; 1 July</strong>
-          </li>
-          <li><strong>Admission: $20 per pax</strong></li>
-          <li><strong>Venue: Buangkok Green Medical Park</strong></li>
-          <li><strong>Organiser: Institute of Mental Health</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Learn how food waste is converted into plant fertilisers/compost and explore the various species of edible and scented plants at the Community Garden.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/tour-workshop-at-imh-s-community-and-hydroponic-gardens/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>		
 			<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -504,35 +389,6 @@ Check out the activities below!
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/community-visit-to-repair-kopitiam/">
-        <img src="/images/SL2_Impact_Air_Fryer.jpg"></a>
-        <h2>Community Visit to Repair Kopitiam</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 30 June</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Our Tampines Hub</strong></li>
-          <li><strong>Organiser: SL2 Impact Ltd</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Learn how to keep food appliances clean and well-maintained for improved hygiene and performance.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/community-visit-to-repair-kopitiam/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -562,65 +418,6 @@ Check out the activities below!
       </a>
     </div>
 	</div>
-			<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-				<a href="/getting-to-zero-card-game-workshop/">
-				<img src="/images/CASA_Getting_to_Zero_Card_Game.png"></a>
-        <h2>Getting to Zero Card Game Workshop</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 6 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: City Sprouts</strong></li>
-          <li><strong>Organiser: Climate Action SG Alliance and National Institute of Education’s Sustainability Learning Lab</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Through gameplay, you will be introduced to Singapore’s various energy options, their relative impact on carbon emissions, and their economic trade-offs.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/getting-to-zero-card-game-workshop/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>	
-	       <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-            <a href="/singapore-botanic-gardens-healing-garden-tour/">
-              <img src="/images/Tours/SBG_healing_tour.jpg"></a>
-        <h2>Singapore Botanic Gardens Healing Garden Tour
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 6 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore Botanic Gardens (Visitor Services at Nassim Gate)</strong></li>
-          <li><strong>Organiser: National Parks Board</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Visit the Healing Garden, which showcases over 400 varieties of plants with medicinal uses. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/singapore-botanic-gardens-healing-garden-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
