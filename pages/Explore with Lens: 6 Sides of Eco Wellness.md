@@ -17,7 +17,7 @@ The programme is open to everyone. Join The Rainbow Artisan with an open mind an
 
 This event is part of a series held at parks and gardens conveniently  located near MRT stations. Participants are encouraged to walk, cycle or take public transport for a greener future. 
 
-**15 June at Gardens by the Bay**
+**Gardens by the Bay (15 June)**
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/discover-with-lens-6-sides-of-eco-wellness-serene-garden-gbtb-tickets-897869821807?aff=oddtdtcreator">
 	<img src="/images/gogreensg_website-32.png">
@@ -35,7 +35,7 @@ This event is part of a series held at parks and gardens conveniently  located n
 	}
 </style>
 
-**6 July at Singapore Botanic Gardens**
+**Singapore Botanic Gardens (6 July)**
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/discover-with-lens-6-sides-of-eco-wellness-singapore-botanic-gardens-tickets-897878638177?aff=oddtdtcreator">
 	<img src="/images/gogreensg_website-32.png">
