@@ -6,7 +6,7 @@ description: ""
 ---
 ![Public Cleaning Performance ](/images/Tours/Public_Cleaning_Performance_Audits.jpg)
 
-**Dates and Venues:** <br>
+**Date and Venue:** <br>
 * 14 June, 10:00 am – 11:30 am (Ang Mo Kio)
 * 21 June, 10:00 am – 11:30 am (Telok Kurau)
 * 28 June, 10:00 am – 11:30 am (Downtown City)
