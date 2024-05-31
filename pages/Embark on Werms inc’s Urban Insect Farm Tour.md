@@ -8,10 +8,10 @@ description: ""
 
 **Dates:** <br>
 * 15, 16, 22, 23, 29, 30 June <br>
-10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 1:00 pm 
+10:00 am – 11:00 am, 11:00 am – 12:00 pm, 12:00 pm – 1:00 pm 
 
 * 6, 7, 13, 14 July <br>
-10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 1:00 pm<br>
+10:00 am – 11:00 am, 11:00 am – 12:00 pm, 12:00 pm – 1:00 pm<br>
 
 **Admission:** $12.50 (registration required)<br>
 **Venue:** 102E Pasir Panjang Road, Citilink Warehouse Complex, #03-12<br>
@@ -44,4 +44,3 @@ This activity is suitable for individuals with mobility issues.
 <a class="btn-link" target="_blank" href="https://wermsinc.com/product/urban-insect-farming-workshop/">
 	<img src="/images/more-info-btn.png">
 </a>
-
