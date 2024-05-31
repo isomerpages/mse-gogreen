@@ -6,7 +6,7 @@ description: ""
 ---
 ![City Sprouts - Chillin with Chillis](/images/Workshop%20&amp;%20Talks/Chillin_with_Chillis_with_City_Sprouts.jpg)
 
-**Dates:** <br>
+**Date:** <br>
 16 June, 10:00 am – 12:00 pm<br>
 21 June, 5:00 pm – 7:00 pm<br>
 
