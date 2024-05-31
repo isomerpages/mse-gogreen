@@ -13,7 +13,7 @@ description: ""
 
 "Clean the seas with SEAS" is an effort aimed at tackling ocean pollution and promoting environmental sustainability. Participants will come together to clean up a designated area of the beach, removing litter and debris that pose threats to marine life and ecosystems. &nbsp;
 
-In addition to the beach clean\-up, the event will also include a discussion about marine conservation and clean energy technologies as well as booths featuring sustainable products.  &nbsp;
+In addition to the beach clean-up, the event will also include a discussion about marine conservation and clean energy technologies as well as booths featuring sustainable products.
 
 Volunteers can play a part in reducing plastic pollution, safeguarding marine biodiversity, and promoting sustainable living practices. Moreover, participants will have the chance to connect with like-minded individuals and organizations passionate about environmental stewardship.  &nbsp;
 
