@@ -1,0 +1,10 @@
+collections:
+  about-us-old:
+    output: true
+    order:
+      - 2023 Partners page.md
+      - Our History.md
+      - General Information/General Information.md
+      - General Information/Services.md
+      - General Information/.keep
+      - General Information/Information.md

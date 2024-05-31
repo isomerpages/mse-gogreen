@@ -1,0 +1,12 @@
+logo: /images/logo-go-green.png
+links:
+  - title: About
+    collection: about
+  - title: Activities
+    collection: activities
+  - title: Year of Public Hygiene
+    url: /year-of-public-hygiene
+  - title: FAQ
+    url: /faq
+  - title: Contact Us
+    url: /contact
