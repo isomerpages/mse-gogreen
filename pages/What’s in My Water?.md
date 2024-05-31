@@ -7,8 +7,8 @@ description: ""
 ![What's in my Water](/images/Tours/Whats_in_my_Water_SBWR.png)
 
 **Dates:** <br>
-22 June | 9.30am – 11am<br>
-6 July | 9.30am – 11am
+22 June, 9.30am – 11am<br>
+6 July, 9.30am – 11am
 
 **Admission:** Free (registration required) <br>
 **Venue:** Sungei Buloh Wetland Reserve, Visitor Centre<br>
