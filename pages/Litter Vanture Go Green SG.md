@@ -8,7 +8,7 @@ description: ""
 
 **Date:** 29 June, 9:00 am - 10:00 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Blk 4C St. Georges Lane, Linkway Building<br>
+**Venue:** Blk 4C St. George's Lane, Linkway Building<br>
 **Organiser:** Stridy Pte Ltd
 
 Stridy = Stride + Tidy!&nbsp;<br>
