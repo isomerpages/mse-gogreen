@@ -6,7 +6,7 @@ description: ""
 ---
 ![Grow Own Food Indoor ](/images/Workshop%20&amp;%20Talks/Grow_Own_Food_Indoor.png)
 
-**Date:** 6 July | 12:30 pm - 1:15 pm, 1:45 pm - 2:30 pm<br>
+**Date:** 6 July, 12:30 pm - 1:15 pm, 1:45 pm - 2:30 pm<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Singapore University of Social Sciences, 463 Clementi Road, Block C, C.5.11 (Level 5 seminar room 11)<br>
 **Organiser:** Singapore University of Social Sciences
