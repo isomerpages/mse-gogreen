@@ -1179,6 +1179,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-waste-to-energy-plant/">
+        <img src="/images/Tours/TuasOne_WTE_Plant.jpg"></a>
+        <h2>Visit to Waste to Energy Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: TuasOne Waste-to-Energy Plant</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join this exclusive behind-the-scenes tour of the plant and meet the drivers, crane operators, and engineers responsible for its day-to-day operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-waste-to-energy-plant/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
