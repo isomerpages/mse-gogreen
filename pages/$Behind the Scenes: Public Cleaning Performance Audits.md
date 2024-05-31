@@ -6,7 +6,7 @@ description: ""
 ---
 ![Public Cleaning Performance ](/images/Tours/Public_Cleaning_Performance_Audits.jpg)
 
-**Dates:** <br>
+**Dates and Venues:** <br>
 * 14 June, 10:00 am – 11:30 am (Ang Mo Kio)
 * 21 June, 10:00 am – 11:30 am (Telok Kurau)
 * 28 June, 10:00 am – 11:30 am (Downtown City)
@@ -14,7 +14,6 @@ description: ""
 * 10 July, 10:00 am – 11:30 am (Sembawang/ Yishun)<br>
 
 **Admission:** Free (registration required) <br>
-**Venue:** Various<br>
 **Organiser:** National Environment Agency
 
 *This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
