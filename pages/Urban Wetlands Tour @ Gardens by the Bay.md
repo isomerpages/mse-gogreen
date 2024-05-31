@@ -6,8 +6,8 @@ description: ""
 ---
 ![](/images/Tours/GBTB_urbanwetlandstour.jpg)
 
-**Dates:** <br>
-15, 16, 22, 23, 29, 30 June, 9:30 am – 10:30 am  
+**Date:** <br>
+15, 16, 22, 23, 29, 30 June, 9:30 am – 10:30 am  <br>
 6, 7, 13, 14 July, 9:30 am – 10:30 am<br>
 
 **Admission:** Free (registration required)<br>
