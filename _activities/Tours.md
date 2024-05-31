@@ -461,6 +461,35 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+				<a href="/air-conditioner-recycling-tour-at-gain-city-megastore/">
+				<img src="/images/Tours/Gain_City.jpg"></a>
+        <h2>Air Conditioner Recycling Tour at Gain City Megastore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June; 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gain City Megastore @ Sungei Kadut</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Did you know that more than 90% of air-conditioner parts can be recycled? Join this eco tour at Gain City to witness the process of recycling air-conditioners.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/air-conditioner-recycling-tour-at-gain-city-megastore/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/biodiversity-and-ecosystems-tour-gardens-by-the-bay/">
 				<img src="/images/Tours/GBTB_biodiversity_and_ecosystem_tour.jpg"></a>
         <h2>Biodiversity and Ecosystems Tour</h2>
@@ -858,12 +887,41 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/behind-the-scenes-effective-refuse-management-for-vector-control/">
+				<img src="/images/Tours/Effective_Refuse_Management.jpg"></a>
+        <h2>Behind the Scenes: Effective Refuse Management for Vector Control</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 25 June; 3, 4 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gain City Megastore @ Sungei Kadut</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Proper refuse management practices are critical for rat control. Experience and observe how NEA officers conduct surveillance and identify responsible parties.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-effective-refuse-management-for-vector-control/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/">
 				<img src="/images/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine_Aquaponics_Workshop_Poster.jpg"></a>
-        <h2>Aquaponics and Sustainability Workshop</h2>
+        <h2>SingHealth - Duke NUS Biodiversity Medicine Aquaponics and Sustainability Workshop</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
