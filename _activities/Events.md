@@ -267,6 +267,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/seed-to-savour-our-susstainability-journey/">
+              <img src="/images/Events/Seed_to_Savour_Our_SUSStainability_Journey.png"></a>
+        <h2>Seed to Savour: Our SUSStainability Journey
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a culinary adventure at this bazaar - the culmination of Singapore University of Social Sciences' Ecopreneur Innovation Programme - where innovation meets eco-consciousness. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seed-to-savour-our-susstainability-journey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
    <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
