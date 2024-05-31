@@ -806,7 +806,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/journey-into-glass-recycling-with-abraclean/">
+        <img src="/images/Tours/Abraclean.jpg"></a>
+        <h2>Journey into Glass Recycling with Abraclean</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Abraclean (Asia Pacific) Pte Ltd, 46 Pioneer Sector 2</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Can glass be recycled? Learn how Abraclean turns glass waste into useful products such as “Abrablast” and construction materials in this glass recycling journey.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/journey-into-glass-recycling-with-abraclean/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>		
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/young-nautilus-nature-walk-pasir-ris-park-mangroves/">
@@ -833,7 +861,7 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/young-nautilus-marine-scientist-day-camps/">
