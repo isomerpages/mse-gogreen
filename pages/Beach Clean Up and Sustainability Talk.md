@@ -5,7 +5,6 @@ variant: markdown
 description: Beach Clean-up & Sustainability Talk
 ---
 ![Beach Clean Up and Talk with the Maritime Port Authority of Singapore](/images/Initiatives/mpa_beach_clean_up_and_sustainability.jpg)
-**Join the Maritime and Port Authority of Singapore and Jurong Port for a day of action and inspiration!**
 
 **Date:** 15 June, 9:00 am to 1.30pm<br>
 **Admission:** Free (registration required)<br>
