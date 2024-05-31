@@ -377,7 +377,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
-					  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/project-blue-wave-s-litter-picking-on-kayaks/">
+        <img src="/images/Initiatives/Project_Blue_Wave.jpg"></a>
+        <h2>Project Blue Wave’s Litter Picking on Kayaks</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16, 29, 30 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: PAssion Wave @ Jurong Lake Gardens</strong></li>
+          <li><strong>Organiser: National Environment Agency and PAssionWave</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore our beautiful reservoirs on kayaks while picking up litter. Learn how you can play a part in keeping our reservoirs clean and contribute to environmental conservation!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/project-blue-wave-s-litter-picking-on-kayaks/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>				  
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 					<a href="/let-s-write-letters-to-thank-our-seafarers/">
