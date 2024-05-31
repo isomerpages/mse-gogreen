@@ -748,6 +748,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/punggol-waterway-trail-guided-sustainability-tour-in-punggol/">
+        <img src="/images/Tours/HDB_Eco_Trail_Punggol.jpg"></a>
+        <h2>Punggol Waterway Trail: Guided Sustainability Tour in Punggol</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 21 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Punggol Town Square</strong></li>
+          <li><strong>Organiser: Housing &amp; Development Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a guided Punggol Waterway Trail to learn about the evolution of Punggol over the years and the efforts that went into developing Singapore’s first eco town.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/punggol-waterway-trail-guided-sustainability-tour-in-punggol/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1403,6 +1431,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/northshore-trail-guided-sustainability-tour-in-punggol/">
+        <img src="/images/Tours/Punggol_Northshore.jpg"></a>
+        <h2>Northshore Trail: Guided Sustainability Tour in Punggol</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Northshore Plaza l</strong></li>
+          <li><strong>Organiser: Housing &amp; Development Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out more about HDB’s smart, sustainable initiatives that shape the Punggol Northshore district on this guided trail.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/northshore-trail-guided-sustainability-tour-in-punggol/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
