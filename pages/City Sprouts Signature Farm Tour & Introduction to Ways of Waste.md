@@ -26,7 +26,7 @@ Meet the chickens, ducks, and quails of City Sprouts and learn how to deal with 
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
