@@ -2,7 +2,7 @@
 layout: homepage
 title: Go Green SG
 description: Sign up for exclusive Go Green SG activities, programmes and experiences!
-image: /images/fb-link-thumbnail.png
+image: /images/New_FB_link_thumbnail.png
 permalink: /
 notification: ""
 sections:
