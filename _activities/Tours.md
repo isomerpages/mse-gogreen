@@ -901,7 +901,6 @@ More activities will also be added progressively.</div>
               Date: 21, 25 June; 3, 4 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Gain City Megastore @ Sungei Kadut</strong></li>
           <li><strong>Organiser: National Environment Agency</strong></li>
         </ul>
       </div>
