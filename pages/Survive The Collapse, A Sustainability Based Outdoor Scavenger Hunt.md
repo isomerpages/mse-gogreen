@@ -7,7 +7,11 @@ description: ""
 ![](/images/Others/hero_image__Collapse_after__1_.jpg)
 
 **Date:**  15 June, 3:00 pm - 7:00 pm<br>
-**Admission:** Child (below 7 years old): Free | Individual Ticket: $15 | Team ticket (max 5 adults): $60 (registration required) <br>
+**Admission:**<br>
+* Child (below 7 years old): Free
+* Individual Ticket: $15 
+* Team ticket (max 5 adults): $60 (registration required) <br>
+
 **Venue:** Genius Central, 7-13 Amoy Street #01-01 Far East Square<br>
 **Organiser:** OCERA Games
 
