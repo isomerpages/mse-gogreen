@@ -6,10 +6,10 @@ description: ""
 ---
 ![Photo of coasters made at the workshop](/images/Semula_Plastic_Upcycling_Coaster_Making_Workshop.jpg)
 
-**Dates:**<br>
-15, 22, 29 June: 10:00 am – 12:00 pm | 1:00 pm - 3:00 pm<br>
-1 July – 5 July: 10:00 am – 12:00 pm | 1:00 pm - 3:00 pm | 3:00 pm - 5:00 pm<br>
-6 July: 10:00 am – 12:00 pm | 1:00 pm – 3:00 pm
+**Date:**<br>
+15, 22, 29 June: 10:00 am – 12:00 pm, 1:00 pm - 3:00 pm<br>
+1 July – 5 July: 10:00 am – 12:00 pm, 1:00 pm - 3:00 pm,  3:00 pm - 5:00 pm<br>
+6 July: 10:00 am – 12:00 pm,  1:00 pm – 3:00 pm<br>
 
 **Admission:** $10 per parent/child pair <br>
 **Venue:** Jun Jie Industrial Building, 153 Kampong Ampat, #04-02  <br>
