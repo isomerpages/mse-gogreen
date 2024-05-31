@@ -295,7 +295,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
             <a href="/food-circularity-program-by-d2lsg/">
               <img src="/images/Initiatives/Food_Circularity_Program_by_D2L_sg.jpg"></a>
-        <h2>Food Circularity Program by D2Lsg
+        <h2>Food Circularity Program by D2L.sg
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -310,7 +310,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>D2L's Food Circularity Program offers a transformative experience to tackle Singapore's food waste through education, hands-on engagement, and community empowerment. 
+        <p>D2L.sg's Food Circularity Program offers a transformative experience to tackle Singapore's food waste through education, hands-on engagement, and community empowerment. 
         </p>
       </div>
     </div>
