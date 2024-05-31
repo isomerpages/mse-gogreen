@@ -18,7 +18,7 @@ This activity is part of the [Clean and Green Singapore Experiences](https://www
 
 Good air quality is important in safeguarding public health. Find out how ambient air quality is being monitored in stations across Singapore. Gain insights into the data collection processes that help ensure the well-being of Singapore’s residents.
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/a-breath-of-fresh-air-singapores-ambient-air-quality-monitoring-stations-tickets-643525601397)">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/a-breath-of-fresh-air-singapores-ambient-air-quality-monitoring-stations-tickets-643525601397">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
