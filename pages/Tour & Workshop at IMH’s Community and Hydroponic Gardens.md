@@ -6,7 +6,7 @@ description: ""
 ---
 ![Tour and Workshop at IMH Hydroponic Gardens](/images/Tours/Tour___Workshop_at_IMH_s_Community_and_Hydroponic_Gardens.png)
 
-**Dates:** 19 June; 1 July | 9:30 am - 11:30 am<br>
+**Dates:** 19 June and 1 July, 9:30 am - 11:30 am<br>
 **Admission:** $20 per pax<br>
 **Venue:** Buangkok Green Medical Park, 10 Buangkok View<br>
 **Organiser:** Institute of Mental Health
