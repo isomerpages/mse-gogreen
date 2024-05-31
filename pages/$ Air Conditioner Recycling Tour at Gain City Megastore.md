@@ -8,7 +8,7 @@ description: ""
 
 **Dates:** <br>
 * 15 June | 2:00 pm - 3:30 pm, 4:00 pm - 5:30 pm&nbsp;
-* 6 July | 2:00 pm \- 3:30 pm, 4:00 pm \- 5:30 pm<br>
+* 6 July | 2:00 pm - 3:30 pm, 4:00 pm - 5:30 pm<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** Gain City Megastore @ Sungei Kadut, 71 Sungei Kadut Dr, Level 1<br>
