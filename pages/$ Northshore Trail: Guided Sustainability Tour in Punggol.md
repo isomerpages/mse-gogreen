@@ -6,9 +6,9 @@ description: ""
 ---
 ![Drone shot of Northshore district](/images/Tours/Punggol_Northshore.jpg)
 
-**Date:** 
-* 29 June, 9:30 am – 11:00 am
-* 6 July, 9:30 am – 11:00 am <br>
+**Date:** <br>
+29 June, 9:30 am – 11:00 am<br>
+6 July, 9:30 am – 11:00 am <br>
 
 **Admission:** Free (registration required)<br>
 **Venue:** Northshore Plaza l, near Level 2 Samudera LRT Station entrance <br>
