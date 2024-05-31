@@ -687,4 +687,64 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/learning-journey-to-grow-shrooms-for-suss-fun-guys/">
+              <img src="/images/Workshop%20&amp;%20Talks/Learning_Journey_to_Grow_Shrooms_for_SUSS_Fun_Guys.png"></a>
+        <h2>Learning Journey to Grow Shrooms for SUSS Fun Guys
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Delve into the art of cultivating mushrooms with the Singapore University of Social Sciences in this immersive workshop! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/learning-journey-to-grow-shrooms-for-suss-fun-guys/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/preserve-to-thrive-a-fermentation-workshop-for-sustainable-food-futures/">
+              <img src="/images/Workshop%20&amp;%20Talks/Preserve_to_Thrive_A_Fermentation_Workshop_for_Sustainable_Food_Futures.png"></a>
+        <h2>Preserve to Thrive: A Fermentation Workshop for Sustainable Food Futures
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Singapore University of Social Sciences for an interactive workshop on fermentation, where you will learn the ancient art of preserving food while reducing waste.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/preserve-to-thrive-a-fermentation-workshop-for-sustainable-food-futures/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
