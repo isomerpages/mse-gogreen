@@ -1,5 +1,5 @@
 ---
-title: Track Your Carbon Footprint with PlanetSustain
+title: Track Your Carbon Footprint with PlanetSustain App
 permalink: /track-your-carbon-footprint-with-planetsustain/
 variant: markdown
 description: ""

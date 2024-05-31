@@ -6,11 +6,7 @@ description: ""
 ---
 ![Photo of Tzu Chi Foundation's Glow On Gallery](/images/Sustainability_Learning_Journey_Tzu_Chi_Foundation.jpg)
 
-**Date:** 
-* 15 June, 3.00 pm – 5:00 pm
-* 22 June, 3:00 pm – 5:00 pm<br>
-
-
+**Date:** 15 and 22 June, 3.00 pm – 5:00 pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Tzu Chi Humanistic Youth Centre, 30A Yishun Central 1 <br>
 **Organiser:** Buddhist Compassion Relief Tzu-Chi Foundation (Singapore)

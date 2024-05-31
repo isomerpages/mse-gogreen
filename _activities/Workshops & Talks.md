@@ -129,7 +129,7 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -515,7 +515,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/">
 				<img src="/images/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine_Aquaponics_Workshop_Poster.jpg"></a>
-        <h2>Aquaponics and Sustainability Workshop</h2>
+        <h2>SingHealth Duke-NUS Biodiversity Medicine Aquaponics and Sustainability Workshop</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -657,4 +657,124 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/grow-own-food-indoor/">
+              <img src="/images/Workshop%20&amp;%20Talks/Grow_Own_Food_Indoor.png"></a>
+        <h2>Grow Own Food Indoor
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore how Indoor Vertical Aquaponics - which grows both vegetables and fish at the same time - can contribute to food security.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/grow-own-food-indoor/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/learning-journey-to-grow-shrooms-for-suss-fun-guys/">
+              <img src="/images/Workshop%20&amp;%20Talks/Learning_Journey_to_Grow_Shrooms_for_SUSS_Fun_Guys.png"></a>
+        <h2>Learning Journey to Grow Shrooms for SUSS Fun Guys
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Delve into the art of cultivating mushrooms with the Singapore University of Social Sciences in this immersive workshop! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/learning-journey-to-grow-shrooms-for-suss-fun-guys/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/preserve-to-thrive-a-fermentation-workshop-for-sustainable-food-futures/">
+              <img src="/images/Workshop%20&amp;%20Talks/Preserve_to_Thrive_A_Fermentation_Workshop_for_Sustainable_Food_Futures.png"></a>
+        <h2>Preserve to Thrive: A Fermentation Workshop for Sustainable Food Futures
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Singapore University of Social Sciences for an interactive workshop on fermentation, where you will learn the ancient art of preserving food while reducing waste.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/preserve-to-thrive-a-fermentation-workshop-for-sustainable-food-futures/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/you-sip-what-we-sow-craft-delicious-herb-infused-mocktails-from-seed-to-sip/">
+              <img src="/images/Workshop%20&amp;%20Talks/You_Sip_What_We_Sow_Craft_Delicious_Herb_Infused_Mocktails_From_Seed_To_Sip.png"></a>
+        <h2>You Sip What We Sow: Craft Delicious Herb Infused Mocktails From Seed To Sip
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover the art of crafting refreshing and aromatic mocktails infused with flavours of fresh herbs grown by Singapore University of Social Sciences students. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/you-sip-what-we-sow-craft-delicious-herb-infused-mocktails-from-seed-to-sip/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>

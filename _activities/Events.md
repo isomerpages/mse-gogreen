@@ -126,6 +126,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/survive-the-collapse-a-sustainability-based-outdoor-scavenger-hunt/">
+        <img src="/images/Others/hero_image__Collapse_after__1_.jpg"></a>
+        <h2>Survive The Collapse, A Sustainability Based Outdoor Scavenger Hunt</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: $15 (registration required)</strong></li>
+					<li><strong>Venue: Far East Square, Genius Central</strong></li>
+          <li><strong>Organiser: OCERA Games</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Take part in a scavenger hunt game to learn more about climate change.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/survive-the-collapse-a-sustainability-based-outdoor-scavenger-hunt/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>          
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -238,7 +267,65 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-          <div class="programmes__item col is-one-third">
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/seed-to-savour-our-susstainability-journey/">
+              <img src="/images/Events/Seed_to_Savour_Our_SUSStainability_Journey.png"></a>
+        <h2>Seed to Savour: Our SUSStainability Journey
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore University of Social Sciences</strong></li>
+          <li><strong>Organiser: Singapore University of Social Sciences</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a culinary adventure at this bazaar - the culmination of Singapore University of Social Sciences' Ecopreneur Innovation Programme - where innovation meets eco-consciousness. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/seed-to-savour-our-susstainability-journey/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/razer-open-house-playing-for-good/">
+        <img src="/images/Events/Razer_Open_House_Playing_for_Good.png"></a>
+        <h2>Razer Open House: Playing for Good</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Razer SEA HQ, 1 one-north Crescent</strong></li>
+          <li><strong>Organiser: Razer (Asia-Pacific) Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Razer for an exclusive behind-the-scenes tour of its Southeast Asia Headquarters.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/razer-open-house-playing-for-good/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>       
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/green-house-2024/">

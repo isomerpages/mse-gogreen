@@ -7,8 +7,8 @@ description: Discover Singapore’s Urban Transformation
 ![Discover Singapore’s Urban Transformation](/images/Tours/ura_discover_sg_urban_transformation.jpg)
 
 **Dates:**  
-13, 18, 20, 25, 27 June, 2, 4, 9, 11 July:  2.30 pm – 3.30 pm&nbsp;<br>
-22 June, 13 July: 10:00 am – 11:00 am | 11:00 am – 12:00 pm | 12:00 pm – 1:00 pm&nbsp;
+13, 18, 20, 25, 27 June; 2, 4, 9, 11 July:  2.30 pm – 3.30 pm&nbsp;<br>
+22 June, 13 July: 10:00 am – 11:00 am, 11:00 am – 12:00 pm, 12:00 pm – 1:00 pm<br>
 
 *Please note that the session on 13 July 12:00 pm – 1:00pm will be conducted in Mandarin.*
 

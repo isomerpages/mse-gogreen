@@ -9,6 +9,7 @@ description: ""
 **Dates:** <br>
 15, 16, 22, 23, 29, 30 June, 9:30 am – 10:30 am  
 6, 7, 13, 14 July, 9:30 am – 10:30 am<br>
+
 **Admission:** Free (registration required)<br>
 **Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay

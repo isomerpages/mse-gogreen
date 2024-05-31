@@ -182,7 +182,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
       <a href="/track-your-carbon-footprint-with-planetsustain/">
 					<img src="/images/Challenges%20&amp;%20Deals/Track_Your_Carbon_Footprint_with_PlanetSustain.png"></a>
-        <h2>Track Your Carbon Footprint with PlanetSustain
+        <h2>Track Your Carbon Footprint with PlanetSustain App
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -230,6 +230,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/eco-paddle-with-ola/">
+        <img src="/images/Initiatives/Eco_Paddle_with_OLA.jpg"></a>
+        <h2>Eco Paddle with Ola</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 23 June; 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Ola Beach Club, Sentosa</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Litter-picking is fun! Join us on kayaks to conduct a coastal clean-up at Sentosa and nearby islands. Learn more about Singapore’s marine biodiversity and how to protect it.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/eco-paddle-with-ola/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -295,7 +323,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
             <a href="/food-circularity-program-by-d2lsg/">
               <img src="/images/Initiatives/Food_Circularity_Program_by_D2L_sg.jpg"></a>
-        <h2>Food Circularity Program by D2Lsg
+        <h2>Food Circularity Program by D2L.sg
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -310,7 +338,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>D2L's Food Circularity Program offers a transformative experience to tackle Singapore's food waste through education, hands-on engagement, and community empowerment. 
+        <p>D2L.sg's Food Circularity Program offers a transformative experience to tackle Singapore's food waste through education, hands-on engagement, and community empowerment. 
         </p>
       </div>
     </div>
@@ -377,7 +405,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
-					  <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/project-blue-wave-s-litter-picking-on-kayaks/">
+        <img src="/images/Initiatives/Project_Blue_Wave.jpg"></a>
+        <h2>Project Blue Wave’s Litter Picking on Kayaks</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16, 29, 30 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: PAssion Wave @ Jurong Lake Gardens</strong></li>
+          <li><strong>Organiser: National Environment Agency and PAssionWave</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore our beautiful reservoirs on kayaks while picking up litter. Learn how you can play a part in keeping our reservoirs clean and contribute to environmental conservation!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/project-blue-wave-s-litter-picking-on-kayaks/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>				  
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 					<a href="/let-s-write-letters-to-thank-our-seafarers/">
@@ -493,6 +549,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/clean-the-seas-with-seas-clean-the-seas-with-seas/">
+				<img src="/images/Initiatives/hero_Clean_the_seas_with_SEAS_.png"></a>
+        <h2>Clean the seas with SEAS!</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Pasir Ris Park Area 1</strong></li>
+          <li><strong>Organiser: Sustainable Energy Association of Singapore (SEAS)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>"Clean the seas with SEAS" is an effort aimed at tackling ocean pollution and promoting environmental sustainability. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/clean-the-seas-with-seas-clean-the-seas-with-seas/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">

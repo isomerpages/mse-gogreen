@@ -155,7 +155,64 @@ Check out the activities below!
       </a>
     </div>
   </div>
-  			  <div class="programmes__item col is-one-third">
+  		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/behind-the-scenes-public-cleaning-performance-audits/">
+        <img src="/images/Tours/Public_Cleaning_Performance_Audits.jpg"></a>
+        <h2>Behind the Scenes: Public Cleaning Performance Audits</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 June; 3, 10 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out more about the work that goes on behind-the-scenes to keep public spaces clean, and how NEA leverages technology to do this.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-public-cleaning-performance-audits/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/eco-paddle-with-ola/">
+        <img src="/images/Initiatives/Eco_Paddle_with_OLA.jpg"></a>
+        <h2>Eco Paddle with Ola</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 23 June; 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Ola Beach Club, Sentosa</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Litter-picking is fun! Join us on kayaks to conduct a coastal clean-up at Sentosa and nearby islands. Learn more about Singapore’s marine biodiversity and how to protect it.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/eco-paddle-with-ola/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/beach-clean-up-and-sustainability-talk/">
@@ -215,7 +272,63 @@ Check out the activities below!
       </a>
     </div>
   </div>
-			<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/project-blue-wave-s-litter-picking-on-kayaks/">
+        <img src="/images/Initiatives/Project_Blue_Wave.jpg"></a>
+        <h2>Project Blue Wave’s Litter Picking on Kayaks</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16, 29, 30 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: PAssion Wave @ Jurong Lake Gardens</strong></li>
+          <li><strong>Organiser: National Environment Agency and PAssionWave</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore our beautiful reservoirs on kayaks while picking up litter. Learn how you can play a part in keeping our reservoirs clean and contribute to environmental conservation!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/project-blue-wave-s-litter-picking-on-kayaks/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>		
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/behind-the-scenes-effective-refuse-management-for-vector-control/">
+				<img src="/images/Tours/Effective_Refuse_Management.jpg"></a>
+        <h2>Behind the Scenes: Effective Refuse Management for Vector Control</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 25 June; 3, 4 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Proper refuse management practices are critical for rat control. Experience and observe how NEA officers conduct surveillance and identify responsible parties.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-effective-refuse-management-for-vector-control/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/plastic-playday-sort-shred-extrude-and-sculpt/">
@@ -273,7 +386,64 @@ Check out the activities below!
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/">
+        <img src="/images/Tours/Air_Quality_Monitoring.jpg"></a>
+        <h2>Visit to Air Quality Monitoring Station at Yishun Neighbourhood Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 25 June; 2, 9 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Good air quality is important in safeguarding public health. Find out how ambient air quality is being monitored in stations across Singapore. Gain insights into the data collection processes that help ensure the well-being of Singapore’s residents.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/behind-the-scenes-littering-enforcement/">
+				<img src="/images/Tours/NEA_Enforcement.jpg"></a>
+        <h2>Behind the Scenes: Littering Enforcement</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Environment Building, 40 Scotts Road</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through this exclusive behind-the-scenes workshop, learn how NEA officers conduct enforcement for littering offences, and the challenges they face in the process.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-littering-enforcement/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/forest-clean-up-at-pulau-ubin/">

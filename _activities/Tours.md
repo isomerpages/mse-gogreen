@@ -222,36 +222,6 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-				  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
-							<img src="/images/Tours/URA_Explore_Chinatown.jpg"></a>
-        <h2>Explore Chinatown's Built Heritage with Friends of the Museums
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 14, 21, 29 June, 5, 12 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore City Gallery</strong></li>
-          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking tours, each covering a distictive precinct, led by docents from Friends of the Museums.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -277,6 +247,65 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/earth-observatory-of-singapore-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/behind-the-scenes-public-cleaning-performance-audits/">
+        <img src="/images/Tours/Public_Cleaning_Performance_Audits.jpg"></a>
+        <h2>Behind the Scenes: Public Cleaning Performance Audits</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 June; 3, 10 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out more about the work that goes on behind-the-scenes to keep public spaces clean, and how NEA leverages technology to do this.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-public-cleaning-performance-audits/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
+							<img src="/images/Tours/URA_Explore_Chinatown.jpg"></a>
+        <h2>Explore Chinatown's Built Heritage with Friends of the Museums
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 29 June, 5, 12 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore City Gallery</strong></li>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking tours, each covering a distictive precinct, led by docents from Friends of the Museums.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -454,6 +483,64 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/whats-in-my-mangrove/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/circular-aquaponics-eco-farm-tour/">
+				<img src="/images/Tours/Circular_Aquaponics_Eco_Farm.jpg"></a>
+        <h2>Circular Aquaponics Eco Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 15, 29 June; 6 July</strong>
+          </li>
+          <li><strong>Admission: $33 (Adult), $33 (Child), $44 (Parent + Child) </strong></li>
+          <li><strong>Venue: Care Farm @ Ang Mo Kio, Ang Mo Kio Industrial Park 2</strong></li>
+          <li><strong>Organiser: Otolith Enrichment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Spark a love for learning and sustainability in your children with an exciting tour of this Care Farm hidden in Ang Mo Kio! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/circular-aquaponics-eco-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/air-conditioner-recycling-tour-at-gain-city-megastore/">
+				<img src="/images/Tours/Gain_City.jpg"></a>
+        <h2>Air Conditioner Recycling Tour at Gain City Megastore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June; 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Gain City Megastore @ Sungei Kadut</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Did you know that more than 90% of air-conditioner parts can be recycled? Join this eco tour at Gain City to witness the process of recycling air-conditioners.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/air-conditioner-recycling-tour-at-gain-city-megastore/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -661,6 +748,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/punggol-waterway-trail-guided-sustainability-tour-in-punggol/">
+        <img src="/images/Tours/HDB_Eco_Trail_Punggol.jpg"></a>
+        <h2>Punggol Waterway Trail: Guided Sustainability Tour in Punggol</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 21 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Punggol Town Square</strong></li>
+          <li><strong>Organiser: Housing &amp; Development Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a guided Punggol Waterway Trail to learn about the evolution of Punggol over the years and the efforts that went into developing Singapore’s first eco town.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/punggol-waterway-trail-guided-sustainability-tour-in-punggol/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -719,7 +834,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/journey-into-glass-recycling-with-abraclean/">
+        <img src="/images/Tours/Abraclean.jpg"></a>
+        <h2>Journey into Glass Recycling with Abraclean</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Abraclean (Asia Pacific) Pte Ltd, 46 Pioneer Sector 2</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Can glass be recycled? Learn how Abraclean turns glass waste into useful products such as “Abrablast” and construction materials in this glass recycling journey.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/journey-into-glass-recycling-with-abraclean/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>		
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/young-nautilus-nature-walk-pasir-ris-park-mangroves/">
@@ -746,7 +889,7 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/young-nautilus-marine-scientist-day-camps/">
@@ -858,12 +1001,40 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/behind-the-scenes-effective-refuse-management-for-vector-control/">
+				<img src="/images/Tours/Effective_Refuse_Management.jpg"></a>
+        <h2>Behind the Scenes: Effective Refuse Management for Vector Control</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 25 June; 3, 4 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Proper refuse management practices are critical for rat control. Experience and observe how NEA officers conduct surveillance and identify responsible parties.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-effective-refuse-management-for-vector-control/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/">
 				<img src="/images/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine_Aquaponics_Workshop_Poster.jpg"></a>
-        <h2>Aquaponics and Sustainability Workshop</h2>
+        <h2>SingHealth - Duke NUS Biodiversity Medicine Aquaponics and Sustainability Workshop</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1034,7 +1205,63 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	          <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-philips-light-lab/">
+        <img src="/images/Tours/Philips_Light_Lab_Visit.jpg"></a>
+        <h2>Visit to Philips Light Lab</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Philips APAC Centre, 622 Lor 1 Toa Payoh</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out how the Philips Light Lab uses technology to create a more sustainable environment in homes and in the city, and experience first-hand the wonders of ‘future lighting’ to save energy in your smart home.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-philips-light-lab/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>          
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/">
+        <img src="/images/Tours/Air_Quality_Monitoring.jpg"></a>
+        <h2>Visit to Air Quality Monitoring Station at Yishun Neighbourhood Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 25 June; 2, 9 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Yishun Neighbourhood Park</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Good air quality is important in safeguarding public health. Find out how ambient air quality is being monitored in stations across Singapore. Gain insights into the data collection processes that help ensure the well-being of Singapore’s residents.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-air-quality-monitoring-station-at-yishun-neighbourhood-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/chek-jawa-wetlands-tour/">
@@ -1060,6 +1287,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/chek-jawa-wetlands-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-waste-to-energy-plant/">
+        <img src="/images/Tours/TuasOne_WTE_Plant.jpg"></a>
+        <h2>Visit to Waste to Energy Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: TuasOne Waste-to-Energy Plant</strong></li>
+          <li><strong>Organiser: National Environment Agency and My Community</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join this exclusive behind-the-scenes tour of the plant and meet the drivers, crane operators, and engineers responsible for its day-to-day operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-waste-to-energy-plant/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1178,6 +1434,91 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/northshore-trail-guided-sustainability-tour-in-punggol/">
+        <img src="/images/Tours/Punggol_Northshore.jpg"></a>
+        <h2>Northshore Trail: Guided Sustainability Tour in Punggol</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Northshore Plaza l</strong></li>
+          <li><strong>Organiser: Housing &amp; Development Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out more about HDB’s smart, sustainable initiatives that shape the Punggol Northshore district on this guided trail.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/northshore-trail-guided-sustainability-tour-in-punggol/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/behind-the-scenes-littering-enforcement/">
+				<img src="/images/Tours/NEA_Enforcement.jpg"></a>
+        <h2>Behind the Scenes: Littering Enforcement</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Environment Building, 40 Scotts Road</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through this exclusive behind-the-scenes workshop, learn how NEA officers conduct enforcement for littering offences, and the challenges they face in the process.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-littering-enforcement/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-sk-tes-ewaste-recycling-plant/">
+        <img src="/images/Tours/TES.jpg"></a>
+        <h2>Visit to SK TES E-Waste Recycling Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Tes-Amm, 9 Benoi Sector</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit SK TES’s e-waste recycling facility to see how electronic waste is processed using sustainable recycling techniques. Find out how precious metals in e-waste are recovered and how e-waste recycling helps the environment.        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-sk-tes-ewaste-recycling-plant/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/learning-journey-to-changi-water-reclamation-plant/">
         <img src="/images/Tours/Learning_Journey_to_Changi_Water_Reclamation_Plant.png"></a>
         <h2>Learning Journey to Changi Water Reclamation Plant</h2>
@@ -1204,7 +1545,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	       <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-alba-ewaste-logistics-sorting-hub/">
+        <img src="/images/Tours/ALBA_My_Community.jpg"></a>
+        <h2>Visit to ALBA E-Waste Logistics &amp; Sorting Hub</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 5 July</strong>
+          </li>
+          <li><strong>Admission: $22.05/pax (registration required)</strong></li>
+          <li><strong>Venue: ALBA E-waste Smart Recycling Pte Ltd, 20 Tuas Loop</strong></li>
+          <li><strong>Organiser: National Environment Agency and My Community</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Where does our e-waste go to after we dispose of them in the e-waste recycling bins? Follow the journey of our laptops, hard disk drives, refrigerators and more, as they are collected and sorted at ALBA’s e-waste recycling plant.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-alba-ewaste-logistics-sorting-hub/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/singapore-botanic-gardens-gallop-extension-tour/">

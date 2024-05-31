@@ -6,9 +6,10 @@ description: ""
 ---
 ![](/images/Tours/GBTB_seeds_senses_touch_tour.jpg)
 
-**Dates:** <br>
+**Date:** <br>
 15, 16, 22, 23, 29, 30 June, 11:30 am – 12:30 pm  
 6, 7, 13, 14 July, 11:30 am – 12:30 pm<br>
+
 **Admission:** Free (registration required)<br>
 **Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay

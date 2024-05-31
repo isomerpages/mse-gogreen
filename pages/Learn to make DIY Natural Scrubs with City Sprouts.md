@@ -6,9 +6,9 @@ description: ""
 ---
 ![City Sprouts - DIY Natural Scrubs ](/images/Workshop%20&amp;%20Talks/Learn_to_make_DIY_Natural_Scrubs_with_City_Sprouts.jpg)
 
-**Dates:** <br>
-12, 19, 21 June | 6:00 pm – 7:00 pm<br>
-6 July | 3:30 pm – 4:30 pm<br>
+**Date:** <br>
+12, 19, 21 June, 6:00 pm – 7:00 pm<br>
+6 July, 3:30 pm – 4:30 pm<br>
 
 **Admission:** 1 pax: $30, 2 pax: $50 <br>
 **Venue:** City Sprouts, 102 Henderson Road<br>
@@ -18,6 +18,7 @@ Your daily self-care routine may be causing a lot of waste to end up in our land
 
 This activity allows participants to learn how to make self-care alternatives that are more environmentally friendly. Learn how to make your own natural scrubs and hair masks with ingredients easily found in your kitchen.
 
+Registration for the July run opens on 13 June, 10:00 am.
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110">
 	<img src="/images/gogreensg_website-32.png">

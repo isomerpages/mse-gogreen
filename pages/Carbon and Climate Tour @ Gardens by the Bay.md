@@ -7,8 +7,8 @@ description: ""
 ![carbon and climate tour at gardens by the bay](/images/Tours/GBTB_carbonandclimatetour.jpg)
 
 
-**Dates:** <br>
-15, 16, 22, 23, 29, 30 June, 8:30 am – 9:30 am  
+**Date:** <br>
+15, 16, 22, 23, 29, 30 June, 8:30 am – 9:30 am<br>
 6, 7, 13, 14 July, 8:30 am – 9:30 am<br>
 
 **Admission:**<br>
