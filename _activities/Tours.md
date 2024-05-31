@@ -222,36 +222,6 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-				  <div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
-							<img src="/images/Tours/URA_Explore_Chinatown.jpg"></a>
-        <h2>Explore Chinatown's Built Heritage with Friends of the Museums
-</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 14, 21, 29 June, 5, 12 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Singapore City Gallery</strong></li>
-          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking tours, each covering a distictive precinct, led by docents from Friends of the Museums.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -277,6 +247,65 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/earth-observatory-of-singapore-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/behind-the-scenes-public-cleaning-performance-audits/">
+        <img src="/images/Tours/Public_Cleaning_Performance_Audits.jpg"></a>
+        <h2>Behind the Scenes: Public Cleaning Performance Audits</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 June; 3, 10 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out more about the work that goes on behind-the-scenes to keep public spaces clean, and how NEA leverages technology to do this.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-public-cleaning-performance-audits/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
+							<img src="/images/Tours/URA_Explore_Chinatown.jpg"></a>
+        <h2>Explore Chinatown's Built Heritage with Friends of the Museums
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 29 June, 5, 12 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Singapore City Gallery</strong></li>
+          <li><strong>Organiser: Urban Redevelopment Authority</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore the architectural gems in Chinatown and uncover the area's history and stories of people that lived there. Join one of four outdoor walking tours, each covering a distictive precinct, led by docents from Friends of the Museums.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/" class="button-primary">
         Find out more
       </a>
     </div>
