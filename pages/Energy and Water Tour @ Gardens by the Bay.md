@@ -18,7 +18,7 @@ For non-residents:<br>
 * 1 conservatory: $24 for adult | $15 for child (via walk in)<br>
 * Both conservatories: $32 for adult | $18 for child (via online purchase)<br>
 
-**Venue:** Exit B, Bayfront Plaza Shuttle Station<br>
+**Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
 Experience a journey through the two essentials that sustain and underpin life – energy and water. The tour will explore the water-sensitive urban design concepts and sustainable energy cycles in action at Gardens by the Bay, while fostering a deeper appreciation of the global challenges of resource depletion, climate change, and water scarcity that impact delicate ecosystems such as cloud forests.
