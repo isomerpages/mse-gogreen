@@ -267,7 +267,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-          <div class="programmes__item col is-one-third">
+   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/razer-open-house-playing-for-good/">
+        <img src="/images/Events/Razer_Open_House_Playing_for_Good.png"></a>
+        <h2>Razer Open House: Playing for Good</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Razer SEA HQ, 1 one-north Crescent</strong></li>
+          <li><strong>Organiser: Razer (Asia-Pacific) Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Razer for an exclusive behind-the-scenes tour of its Southeast Asia Headquarters! As you explore the facilities, see the progress Razer has made in their #GoGreenWithRazer sustainability manifesto. Hear from Razer on how they are advancing the sustainability agenda to empower gamers worldwide to Play for Good.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/razer-open-house-playing-for-good/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>       
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/green-house-2024/">
