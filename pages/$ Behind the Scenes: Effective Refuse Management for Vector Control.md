@@ -6,7 +6,7 @@ description: ""
 ---
 ![Effective Refuse Management ](/images/Tours/Effective_Refuse_Management.jpg)
 
-**Dates:** <br>
+**Date and Venue:** <br>
 * 21 June, 9:00 am to 10:30 am (Marsiling)
 * 25 June, 9:00 am to 10:30 am (Tampines)
 * 3 July, 9:00 pm to 10:30 pm (Whampoa)
