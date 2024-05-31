@@ -6,9 +6,9 @@ description: ""
 ---
 ![Glass Recycling with Abraclean](/images/Tours/Abraclean.jpg)
 
-**Dates:** <br>
-* 15, 29 June, 10:00 am - 11:30 am
-* 13 July, 10:00 am - 11:30 am<br>
+**Date:** <br>
+15, 29 June, 10:00 am - 11:30 am<br>
+13 July, 10:00 am - 11:30 am<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** Abraclean (Asia Pacific) Pte Ltd, 46 Pioneer Sector 2<br>
