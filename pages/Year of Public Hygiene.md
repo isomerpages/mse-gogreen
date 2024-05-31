@@ -155,7 +155,36 @@ Check out the activities below!
       </a>
     </div>
   </div>
-  			  <div class="programmes__item col is-one-third">
+  		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/behind-the-scenes-public-cleaning-performance-audits/">
+        <img src="/images/Tours/Public_Cleaning_Performance_Audits.jpg"></a>
+        <h2>Behind the Scenes: Public Cleaning Performance Audits</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21, 28 June; 3, 10 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out more about the work that goes on behind-the-scenes to keep public spaces clean, and how NEA leverages technology to do this.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-public-cleaning-performance-audits/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/beach-clean-up-and-sustainability-talk/">
