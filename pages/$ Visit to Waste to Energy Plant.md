@@ -7,7 +7,7 @@ description: ""
 ![Waste to Energy Plant Tuas](/images/Tours/TuasOne_WTE_Plant.jpg)
 
 **Date:** 28 June, 2:00 pm to 4:00 pm<br>
-**Admission:** $22.05 <br>
+**Admission:** $22.05/pax <br>
 **Venue:** TuasOne Waste-to-Energy Plant, 94 Tuas South Avenue 3<br>
 **Organiser:** National Environment Agency and My Community
 
