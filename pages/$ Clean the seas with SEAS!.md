@@ -17,7 +17,7 @@ In addition to the beach clean-up, the event will also include a discussion abou
 
 Volunteers can play a part in reducing plastic pollution, safeguarding marine biodiversity, and promoting sustainable living practices. Moreover, participants will have the chance to connect with like-minded individuals and organizations passionate about environmental stewardship.  &nbsp;
 
-Environmental enthusiasts, families, corporate groups and the general public are all welcome to join and make an impact
+Environmental enthusiasts, families, corporate groups and the general public are all welcome to join and make an impact.
 
 
 <a class="btn-link" target="_blank" href="https://seas.glueup.com/event/clean-the-seas-with-seas-106279/?pk_campaign=widget-event-list">
