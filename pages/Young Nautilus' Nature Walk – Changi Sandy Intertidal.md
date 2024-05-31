@@ -9,7 +9,7 @@ description: ""
 **Date:** 29 June, 10:00 am – 12:00 pm  <br>
 **Admission:** 
 * Adult: $52.20
-* Child: $50.4
+* Child: $50.40
 * 2 x Adult: $100.80
 * Bundle of 4 Pax (Adult or Child): $201.60 <br>
 
