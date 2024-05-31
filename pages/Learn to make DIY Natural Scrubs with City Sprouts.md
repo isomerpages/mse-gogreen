@@ -6,9 +6,9 @@ description: ""
 ---
 ![City Sprouts - DIY Natural Scrubs ](/images/Workshop%20&amp;%20Talks/Learn_to_make_DIY_Natural_Scrubs_with_City_Sprouts.jpg)
 
-**Dates:** <br>
-12, 19, 21 June | 6:00 pm – 7:00 pm<br>
-6 July | 3:30 pm – 4:30 pm<br>
+**Date:** <br>
+12, 19, 21 June, 6:00 pm – 7:00 pm<br>
+6 July, 3:30 pm – 4:30 pm<br>
 
 **Admission:** 1 pax: $30, 2 pax: $50 <br>
 **Venue:** City Sprouts, 102 Henderson Road<br>
