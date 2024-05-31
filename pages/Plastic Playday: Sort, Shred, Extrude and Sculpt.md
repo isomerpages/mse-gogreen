@@ -6,7 +6,7 @@ description: ""
 ---
 ![Plastic Playday](/images/Initiatives/Plastic_Playday___SC.png)
 
-**Date:** 22 and 23 June, 10:30 am – 12:30 pm, 2:30 pm to 4:30 pm<br>
+**Date:** 22 and 23 June, 10:30 am to 12:30 pm, 2:30 pm to 4:30 pm<br>
 **Admission:** Free (no registration required, admission charges to Science Centre applies)<br>
 **Venue:** Science Centre Singapore, Hall E, Tinkering Studio<br>
 **Organiser:** Science Centre Board
@@ -18,5 +18,5 @@ This activity is suitable for all ages. <br>
 While the activity is free, do note that usual Science Centre admission charges apply:<br>
 * Child (ages 3 to 12): $4
 * Adult: $6
-* Senior Citizen (ages 60 and above): $4
+* Senior Citizen (aged 60 and above): $4
 * Existing members of the Science Centre will enjoy complimentary access.
