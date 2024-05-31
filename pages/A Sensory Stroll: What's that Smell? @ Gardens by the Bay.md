@@ -11,7 +11,7 @@ description: ""
 15, 16, 22, 23, 29, 30 June, 10:30 am – 11:30 am  
 6, 7, 13, 14 July, 10:30 am – 11:30 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Gardens by the Bay, Friends of the Gardens Centre, #03-02/03<br>
+**Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
 Here is your chance to stop and smell the flowers, fruits, and leaves! Journey with guides through the World of Plants gardens to meet some of its most aromatic residents.&nbsp;
