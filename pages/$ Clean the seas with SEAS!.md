@@ -20,7 +20,7 @@ Volunteers can play a part in reducing plastic pollution, safeguarding marine bi
 Environmental enthusiasts, families, corporate groups and the general public are all welcome to join and make an impact
 
 
-<a class="btn-link" target="_blank" href="https://seas.glueup.com/event/clean-the-seas-with-seas-106279/?pk_campaign=widget-event-list)">
+<a class="btn-link" target="_blank" href="https://seas.glueup.com/event/clean-the-seas-with-seas-106279/?pk_campaign=widget-event-list">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
