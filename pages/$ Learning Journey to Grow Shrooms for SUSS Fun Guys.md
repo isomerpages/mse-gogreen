@@ -11,7 +11,7 @@ description: ""
 **Venue:** Singapore University of Social Sciences, 463 Clementi Road, Block C, C.5.15 (Level 5 seminar room 15)<br>
 **Organiser:** Singapore University of Social Sciences
 
-Explore the fascinating world of mushrooms in this immersive workshop! Delve into the art of cultivating a variety of mushrooms as Singapore University of Social Sciences (SUSS) shares insights into thegrowth process and benefits of mushrooms. . Discover the sustainable and rewarding journey of growing your own mushrooms, with valuable resources provided for those eager to embark on their own fungal adventures. Cultivate a newfound appreciation for the wonders of mushroom cultivation!&nbsp;
+Explore the fascinating world of mushrooms in this immersive workshop! Delve into the art of cultivating a variety of mushrooms as Singapore University of Social Sciences (SUSS) shares insights into thegrowth process and benefits of mushrooms. Discover the sustainable and rewarding journey of growing your own mushrooms, with valuable resources provided for those eager to embark on their own fungal adventures. Cultivate a newfound appreciation for the wonders of mushroom cultivation!&nbsp;
 
 Make a $10 donation before the commencement of the activity to secure your spot! All proceeds will go towards the SUSS Student Care Fund.
 
@@ -21,7 +21,7 @@ Make a $10 donation before the commencement of the activity to secure your spot!
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
