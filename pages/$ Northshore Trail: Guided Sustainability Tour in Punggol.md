@@ -24,7 +24,7 @@ Learn about HDB’s latest technologies such as Smart Lighting and Smart Parking
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
