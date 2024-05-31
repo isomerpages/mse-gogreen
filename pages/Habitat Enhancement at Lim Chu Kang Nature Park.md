@@ -6,7 +6,7 @@ description: ""
 ---
 ![Lim Chu Kang - Habitat Enhancement](/images/Others/Lim_Chu_Kang_habitat_enhancement_1.jpg)
 
-**Date:** 22 June | 9am – 11am<br>
+**Date:** 22 June, 9am – 11am<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Sungei Buloh Wetland Reserve, Visitor Centre<br>
 **Organiser:** National Parks Board
