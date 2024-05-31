@@ -7,7 +7,7 @@ description: ""
 ![Glass Recycling with Abraclean](/images/Tours/Abraclean.jpg)
 
 **Date:** <br>
-15, 29 June, 10:00 am - 11:30 am<br>
+15 and 29 June, 10:00 am - 11:30 am<br>
 13 July, 10:00 am - 11:30 am<br>
 
 **Admission:** Free (registration required) <br>
