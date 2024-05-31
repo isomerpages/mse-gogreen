@@ -266,8 +266,8 @@ More activities will also be added progressively.</div>
               Date: 14, 21, 28 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Earth Observatory of Singapore, Nanyang Technological University</strong></li>
-          <li><strong>Organiser: Earth Observatory of Singapore</strong></li>
+          <li><strong>Venue: Earth Observatory of Singapore</strong></li>
+          <li><strong>Organiser: Earth Observatory of Singapore, NTU Singapore</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
