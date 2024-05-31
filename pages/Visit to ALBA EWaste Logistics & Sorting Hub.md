@@ -11,6 +11,8 @@ description: ""
 **Venue:** ALBA E-waste Smart Recycling Pte Ltd, 20 Tuas Loop<br>
 **Organiser:** National Environment Agency and My Community
 
+*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
+
 Where does our e-waste go to after we dispose of them in the e-waste recycling bins? Follow the journey of our laptops, hard disk drives, refrigerators and more, as they are collected and sorted at ALBA’s e-waste recycling plant.
 
 This activity is organised by My Community, a non-profit social enterprise partner for Clean &amp; Green Singapore (CGS) Experiences. All proceeds will go to My Community to cover the costs of running the tours.
