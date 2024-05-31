@@ -7,16 +7,16 @@ description: ""
 ![Project Blue Wave](/images/Initiatives/Project_Blue_Wave.jpg)
 
 **Dates:** <br>
-* 16, 29, 30 June | 2:00 pm - 5:00 pm&nbsp;
-* 6, 13 July | 2:00 pm \- 5:00 pm<br>
+* 16, 29, 30 June | 2:00 pm - 5:00 pm 
+* 6, 13 July | 2:00 pm - 5:00 pm<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** PAssion Wave @ Jurong Lake Gardens, 100 Yuan Ching Road<br>
 **Organiser:** National Environment Agency and PAssionWave
 
-This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).&nbsp;
+*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
 
-Join us on kayaks to explore our beautiful reservoirs while picking up litter. Learn how you can play a part in keeping our reservoirs clean and contribute to environmental conservation!
+Explore our beautiful reservoirs on kayaks while picking up litter. Learn how you can play a part in keeping our reservoirs clean and contribute to environmental conservation!
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/project-blue-wave-jurong-lake-gardens-tickets-909407250567">
 	<img src="/images/gogreensg_website-32.png">
