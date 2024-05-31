@@ -1235,6 +1235,35 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+				<a href="/behind-the-scenes-littering-enforcement/">
+				<img src="/images/Tours/NEA_Enforcement.jpg"></a>
+        <h2>Behind the Scenes: Littering Enforcement</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Environment Building, 40 Scotts Road</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through this exclusive behind-the-scenes workshop, learn how NEA officers conduct enforcement for littering offences, and the challenges they face in the process.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/behind-the-scenes-littering-enforcement/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/learning-journey-to-changi-water-reclamation-plant/">
         <img src="/images/Tours/Learning_Journey_to_Changi_Water_Reclamation_Plant.png"></a>
         <h2>Learning Journey to Changi Water Reclamation Plant</h2>
