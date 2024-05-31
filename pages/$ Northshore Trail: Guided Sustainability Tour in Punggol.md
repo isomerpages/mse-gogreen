@@ -7,7 +7,7 @@ description: ""
 ![Drone shot of Northshore district](/images/Tours/Punggol_Northshore.jpg)
 
 **Date:** 
-* 29 June, 9:30 am – 11:00 am&nbsp;
+* 29 June, 9:30 am – 11:00 am
 * 6 July, 9:30 am – 11:00 am <br>
 
 **Admission:** Free (registration required)<br>
