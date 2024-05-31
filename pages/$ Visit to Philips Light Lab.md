@@ -7,8 +7,8 @@ description: ""
 ![Phillips Light Lab](/images/Tours/Philips_Light_Lab_Visit.jpg)
 
 **Dates:** <br>
-* 22 June, 10:00 am to 11:30 am
-* 13 July, 10:00 am to 11:30 am<br>
+22 June, 10:00 am to 11:30 am
+13 July, 10:00 am to 11:30 am<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** Philips APAC Centre, 622 Lor 1 Toa Payoh, Level 1 Light Lab<br>
