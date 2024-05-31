@@ -1149,7 +1149,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	          <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-philips-light-lab/">
+        <img src="/images/Tours/Philips_Light_Lab_Visit.jpg"></a>
+        <h2>Visit to Philips Light Lab</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Philips APAC Centre, 622 Lor 1 Toa Payoh</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out how the Philips Light Lab uses technology to create a more sustainable environment in homes and in the city, and experience first-hand the wonders of ‘future lighting’ to save energy in your smart home.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-philips-light-lab/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>          
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/chek-jawa-wetlands-tour/">
