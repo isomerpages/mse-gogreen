@@ -1,6 +1,6 @@
 ---
-title: "Seeds and Senses: Touch Tour @ Gardens by the Bay"
-permalink: /seeds-and-senses-touch-tour-gardens-by-the-bay/
+title: "A Sensory Stroll: Touch Me if You Dare @ Gardens by the Bay"
+permalink: /a-sensory-stroll-touch-me-if-you-dare-gardens-by-the-bay/
 variant: markdown
 description: ""
 ---
@@ -10,7 +10,7 @@ description: ""
 15, 16, 22, 23, 29, 30 June, 11:30 am – 12:30 pm  
 6, 7, 13, 14 July, 11:30 am – 12:30 pm<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Gardens by the Bay, Friends of the Gardens Centre, #03-02/03<br>
+**Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
 Smooth and sticky, sharp and rough, fluted and furry – feel some examples of different textures that plants have evolved on the surfaces of their trunks, leaves, roots, fruits, and flowers to survive and thrive!&nbsp;

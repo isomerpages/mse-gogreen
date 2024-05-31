@@ -6,9 +6,9 @@ description: ""
 ---
 ![](/images/Tours/ZerotoHero.jpg)
 
-**Dates:**
-* 15, 22, 29 June, 10:00 am - 11:30 am
-* 6, 13 July, 10:00 am – 11:30 am
+**Dates:**<br>
+15, 22, 29 June, 10:00 am - 11:30 am<br>
+6, 13 July, 10:00 am – 11:30 am<br>
 
 **Admission:** 
 * $50/adult, free for children under 12

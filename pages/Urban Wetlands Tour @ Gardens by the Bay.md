@@ -10,7 +10,7 @@ description: ""
 15, 16, 22, 23, 29, 30 June, 9:30 am – 10:30 am  
 6, 7, 13, 14 July, 9:30 am – 10:30 am<br>
 **Admission:** Free (registration required)<br>
-**Venue:** Gardens by the Bay, Satay by the Bay, #01-19<br>
+**Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
 Did you know that Kingfisher Wetlands is one of the most popular sites for bird-watching within Bay South Gardens? Through this outdoor nature walk, get up close to the sights and sounds of these urban wetlands and discover the native flora and fauna within, the sustainable concept behind its design, and the role of urban wetlands in the face of climate change.

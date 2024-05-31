@@ -14,10 +14,10 @@ description: ""
 **Admission:**<br>
 Free for Singapore residents (registration required). <br>
 For non-residents:<br>
-* 1 conservatory: $24 for adult | $15 for child (via walk in)<br>
-* Both conservatories: $32 for adult | $18 for child (via online purchase)<br>
+* 1 conservatory: $24 for adult, $15 for child (via walk in)<br>
+* Both conservatories: $32 for adult, $18 for child (via online purchase)<br>
 
-**Venue:** Gardens by the Bay, Main Arrival Entrance (Outside McDonalds)<br>
+**Venue:** Gardens by the Bay<br>
 **Organiser:** Gardens by the Bay
 
 What is carbon and how are humans affecting it? Learn about the different colours of carbon, carbon sources and sinks as it moves through the environment and what this means for a changing climate, while discovering the secrets to cutting carbon in the Gardens.&nbsp;
