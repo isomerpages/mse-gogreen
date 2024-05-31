@@ -548,9 +548,9 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/seeds-and-senses-smell-tour-gardens-by-the-bay/">
+				<a href="/a-sensory-stroll-whats-that-smell-gardens-by-the-bay/">
 				<img src="/images/Tours/GBTB_smell_tour_key_visual.jpg"></a>
-        <h2>Seeds and Senses: Smell Tour</h2>
+        <h2>A Sensory Stroll: What's that Smell? @ Gardens by the Bay</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -569,7 +569,7 @@ More activities will also be added progressively.</div>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/seeds-and-senses-smell-tour-gardens-by-the-bay/" class="button-primary">
+      <a href="/a-sensory-stroll-whats-that-smell-gardens-by-the-bay/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -577,9 +577,9 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/seeds-and-senses-touch-tour-gardens-by-the-bay/">
+				<a href="/a-sensory-stroll-touch-me-if-you-dare-gardens-by-the-bay/">
 				<img src="/images/Tours/GBTB_seeds_senses_touch_tour.jpg"></a>
-        <h2>Seeds and Senses: Touch Tour</h2>
+        <h2>A Sensory Stroll: Touch Me if You Dare @ Gardens by the Bay</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -598,7 +598,7 @@ More activities will also be added progressively.</div>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/seeds-and-senses-touch-tour-gardens-by-the-bay/" class="button-primary">
+      <a href="/a-sensory-stroll-touch-me-if-you-dare-gardens-by-the-bay/" class="button-primary">
         Find out more
       </a>
     </div>
