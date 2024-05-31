@@ -7,16 +7,16 @@ description: ""
 ![TES Ewaste Recycling](/images/Tours/TES.jpg)
 
 **Dates:** <br>
-* 29 June, 10:00 am to 11:30 am&nbsp;
+* 29 June, 10:00 am to 11:30 am
 * 13 July, 10:00 am to 11:30 am<br>
 
 **Admission:** Free (registration required) <br>
-**Venue:** Tes\-Amm (Singapore) Pte Ltd, 9 Benoi Sector<br>
+**Venue:** Tes-Amm (Singapore) Pte Ltd, 9 Benoi Sector<br>
 **Organiser:** National Environment Agency
 
-This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).&nbsp;
+*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
 
-Visit SK TES’s e-waste recycling facility to see how electronic waste is processed using sustainable recycling techniques. Find out how precious metals in e-waste are recovered and how e-waste recycling helps the environment.&nbsp;
+Visit SK TES’s e-waste recycling facility to see how electronic waste is processed using sustainable recycling techniques. Find out how precious metals in e-waste are recovered and how e-waste recycling helps the environment.
 
 Transport will be provided from Jurong East MRT.
 
