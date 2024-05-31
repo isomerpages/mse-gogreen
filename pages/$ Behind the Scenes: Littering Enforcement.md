@@ -11,7 +11,7 @@ description: ""
 **Venue:** Environment Building, 40 Scotts Road<br>
 **Organiser:** National Environment Agency
 
-This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).&nbsp;
+*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
 
 Keeping public spaces clean is important! Through this exclusive behind-the-scenes workshop, learn how NEA officers conduct enforcement for littering offences, and the challenges they face in the process.
 
