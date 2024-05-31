@@ -7,9 +7,9 @@ description: ""
 ![City Sprouts - Farm Tour](/images/Workshop%20&amp;%20Talks/City_Sprouts_Signature_Farm_Tour___Introduction_to_Ways_of_Waste.jpg)
 
 **Dates:** <br>
-12 June | 10:00 am – 11:30 am<br>
-25 June | 2:30 pm – 4:00 pm<br>
-2, 6 July | 10:00 am – 11:30 am<br>
+12 June, 10:00 am – 11:30 am<br>
+25 June, 2:30 pm – 4:00 pm<br>
+2, 6 July, 10:00 am – 11:30 am<br>
 
 **Admission:** 1 pax: $30, 2 pax: $50 <br>
 **Venue:** City Sprouts, 102 Henderson Road<br>
