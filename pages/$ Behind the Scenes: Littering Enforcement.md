@@ -6,7 +6,7 @@ description: ""
 ---
 ![Littering Enforcement](/images/Tours/NEA_Enforcement.jpg)
 
-**Date:** 29 June and 13 July, 3:00 pm to 4:30 pm<br>
+**Dates:** 29 June and 13 July, 3:00 pm to 4:30 pm<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Environment Building, 40 Scotts Road<br>
 **Organiser:** National Environment Agency
