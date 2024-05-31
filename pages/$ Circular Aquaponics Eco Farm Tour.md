@@ -26,7 +26,7 @@ Spark a love for learning and sustainability in your children with an exciting e
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
