@@ -6,7 +6,7 @@ description: ""
 ---
 ![Air Quality Monitoring ](/images/Tours/Air_Quality_Monitoring.jpg)
 
-**Dates:** <br>
+**Date:** <br>
 25 June, 10:00 am to 11:30 am <br>
 2, 9 July, 10:00 am to 11:30 am<br>
 
