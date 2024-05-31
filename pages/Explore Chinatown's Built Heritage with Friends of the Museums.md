@@ -7,8 +7,8 @@ description: Explore Chinatown's Built Heritage with Friends of the Museums
 ![Explore Chinatown on this walking tour conducted by the Urban Development Authority](/images/Tours/URA_Explore_Chinatown.jpg)
 
 **Date:**  
-14, 21, 29 June: 9:00 am – 11:00 am | 9.30 am – 11.30 am <br>
-5, 12 July: 9:00 am – 11:00 am | 9.30 am – 11.30 am
+14, 21, 29 June, 9:00 am – 11:00 am, 9.30 am – 11.30 am <br>
+5, 12 July, 9:00 am – 11:00 am, 9.30 am – 11.30 am
 
 **Admission:** Free (registration required)<br>
 **Venue:** Singapore City Gallery, 45 Maxwell Road, The URA Centre<br>
