@@ -11,7 +11,13 @@ description: ""
 **Venue:** Singapore University of Social Sciences, 463 Clementi Road, Block C, C.5.14 (Level 5 seminar room 14)<br>
 **Organiser:** Singapore University of Social Sciences
 
-Join Singapore University of Social Sciences (SUSS) for an interactive workshop on fermentation, where you will learn the ancient art of preserving food while reducing waste. Discover how to turn simple ingredients into delicious and nutritious fermented foods, all while contributing to a more sustainable future. Whether you are a beginner or a fermentation enthusiast, this workshop will inspire and empower you to take control of your food preservation journey. Get ready to explore the world of probiotics, flavours, and creativity in this hands-on session aimed at educating and engaging both the young and the young at heart.&nbsp;
+Join Singapore University of Social Sciences (SUSS) for an interactive workshop on fermentation, where you will learn the ancient art of preserving food while reducing waste. 
+
+Discover how to turn simple ingredients into delicious and nutritious fermented foods, all while contributing to a more sustainable future. 
+
+Whether you are a beginner or a fermentation enthusiast, this workshop will inspire and empower you to take control of your food preservation journey. 
+
+Get ready to explore the world of probiotics, flavours, and creativity in this hands-on session aimed at educating and engaging both the young and the young at heart.&nbsp;
 
 Make a $10 donation before the activity to secure your spot! All proceeds will go towards the SUSS Student Care Fund.
 
