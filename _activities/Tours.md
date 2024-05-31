@@ -1474,7 +1474,7 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 5 July</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Admission: $22.05/pax (registration required)</strong></li>
           <li><strong>Venue: ALBA E-waste Smart Recycling Pte Ltd, 20 Tuas Loop</strong></li>
           <li><strong>Organiser: National Environment Agency and My Community</strong></li>
         </ul>
