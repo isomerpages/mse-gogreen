@@ -13,7 +13,7 @@ description: Beach Clean-up & Sustainability Talk
 
 Join the Maritime and Port Authority of Singapore (MPA) for a day of action and inspiration at East Coast Park!&nbsp;
 
-MPA, with support from Jurong Port, invites you to roll up your sleeves and join their beach clean-up effort. Dive into the joy of giving back to nature while connecting with like-minded individuals. A one-way chartered bus will bring the participants to the Singapore Maritime Gallery for a catered lunch and a sustainability talk after the beach clean-up event. Learn from speakers in the sustainability-space and discover how small actions can lead to big changes in preserving our marine environment.&nbsp;
+MPA, with support from Jurong Port, invites you to roll up your sleeves and join their beach clean-up effort. Dive into the joy of giving back to nature while connecting with like-minded individuals. A one-way chartered bus will bring you to the Singapore Maritime Gallery for a catered lunch and a sustainability talk after the beach clean-up event. Learn from speakers in the sustainability-space and discover how small actions can lead to big changes in preserving our marine environment.&nbsp;
 
 This event is for eco-conscious individuals, youths, families and groups looking to make a tangible difference in the community while gaining valuable insights into sustainability practices.
 
