@@ -18,7 +18,6 @@ Most Singaporeans enjoy the delicious taste of chilli, but are you aware of just
 
 You can also try your hand at turning those same chillis into a unique sambal which you can munch on as a family. Wrap up the session by shaking up a cold, refreshing chilli and lime mocktail.
 
-Registration for July runs opens on 13 June, 10:00 am.
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110)33110)">
 	<img src="/images/gogreensg_website-32.png">
