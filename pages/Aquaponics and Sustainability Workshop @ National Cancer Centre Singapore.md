@@ -6,7 +6,10 @@ description: ""
 ---
 ![Participants will learn how to create their own mini aquaponics setup to bring home.](/images/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine_Aquaponics_Workshop_Poster.jpg)
 
-**Date:** 21, 28 June; 5, 12 July, 5:00 pm - 6:30 pm<br>
+**Date:** <br>
+21, 28 June, 5:00 pm - 6:30 pm<br>
+5, 12 July, 5:00 pm - 6:30 pm<br>
+
 **Admission:** Free (registration required)<br>
 **Venue:** National Cancer Centre Singapore, 30 Hospital Boulevard<br>
 **Organiser:** SingHealth - Duke NUS Institute of Biodiversity Medicine
