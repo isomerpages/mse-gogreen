@@ -515,7 +515,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/">
 				<img src="/images/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine_Aquaponics_Workshop_Poster.jpg"></a>
-        <h2>Aquaponics and Sustainability Workshop</h2>
+        <h2>SingHealth Duke-NUS Biodiversity Medicine Aquaponics and Sustainability Workshop</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
