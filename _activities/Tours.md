@@ -1348,6 +1348,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/visit-to-sk-tes-ewaste-recycling-plant/">
+        <img src="/images/Tours/TES.jpg"></a>
+        <h2>Visit to SK TES E-waste Recycling Plant</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June; 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Tes-Amm, 9 Benoi Sector</strong></li>
+          <li><strong>Organiser: National Environment Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit SK TES’s e-waste recycling facility to see how electronic waste is processed using sustainable recycling techniques. Find out how precious metals in e-waste are recovered and how e-waste recycling helps the environment.        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/visit-to-sk-tes-ewaste-recycling-plant/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
