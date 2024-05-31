@@ -11,9 +11,9 @@ description: ""
 **Venue:** TuasOne Waste-to-Energy Plant, 94 Tuas South Avenue 3<br>
 **Organiser:** National Environment Agency and My Community
 
-TuasOne is Singapore’s largest and most energy-efficient waste-to-energy plants. It is capable of incinerating 3,600 tonnes of waste and producing 120 megawatts of electricity daily. Join this exclusive behind-the-scenes tour of the plant and meet the drivers, crane operators, and engineers responsible for its day-to-day operations.&nbsp;
+TuasOne is Singapore’s largest and most energy-efficient waste-to-energy plants. It is capable of incinerating 3,600 tonnes of waste and producing 120 megawatts of electricity daily. Join this exclusive behind-the-scenes tour of the plant and meet the drivers, crane operators, and engineers responsible for its day-to-day operations.
 
-This activity is organised by My Community, a non-profit social enterprise partner for Clean &amp; Green Singapore (CGS) Experiences. All proceeds will go to My Community to cover the costs of running the tours.&nbsp;
+This activity is organised by My Community, a non-profit social enterprise partner for Clean &amp; Green Singapore (CGS) Experiences. All proceeds will go to My Community to cover the costs of running the tours.
 
 Transport will be provided from Tuas Crescent MRT.
 
