@@ -6,7 +6,7 @@ description: ""
 ---
 ![Learning Journey to Grow Shrooms](/images/Workshop%20&amp;%20Talks/Learning_Journey_to_Grow_Shrooms_for_SUSS_Fun_Guys.png)
 
-**Date:** 6 July | 12:30 pm - 1:15 pm,&nbsp;1:45 pm - 2:30 pm<br>
+**Date:** 6 July, 12:30 pm - 1:15 pm,&nbsp;1:45 pm - 2:30 pm<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Singapore University of Social Sciences, 463 Clementi Road, Block C, C.5.15 (Level 5 seminar room 15)<br>
 **Organiser:** Singapore University of Social Sciences
