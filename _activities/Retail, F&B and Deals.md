@@ -100,6 +100,33 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/black-soldier-fly-frass-organic-fertiliser/">
+				<img src="/images/Retail%20FB%20Deals/BSF_Frass.jpg"></a>
+        <h2>Black Soldier Fly Frass – Organic Fertiliser</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 - 14 July</strong>
+          </li>
+          <li><strong>Organiser: Otolith Enrichment</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This organic fertiliser is locally-produced and harvested. Order a packet and start growing fresh and healthy green veggies at home! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/black-soldier-fly-frass-organic-fertiliser/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
