@@ -6,7 +6,7 @@ description: ""
 ---
 ![Phillips Light Lab](/images/Tours/Philips_Light_Lab_Visit.jpg)
 
-**Dates:** <br>
+**Date:** <br>
 22 June, 10:00 am to 11:30 am<br>
 13 July, 10:00 am to 11:30 am<br>
 
