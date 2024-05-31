@@ -6,7 +6,7 @@ description: ""
 ---
 ![Trashion Week](/images/Initiatives/trashion_week.png)
 
-**Dates:** 15 June, 22 June | 3:00 pm – 5:00 pm<br>
+**Dates:** 15, 22 June, 3:00 pm to 5:00 pm<br>
 **Admission:** Free (registration required)<br>
 **Venues:** <br>
 15 June - East Coast Park (Starting point: Marine Cove, Coffee Bean)&nbsp;&nbsp;<br>
