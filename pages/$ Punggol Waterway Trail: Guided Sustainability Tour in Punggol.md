@@ -6,9 +6,9 @@ description: ""
 ---
 ![Group photo of participants](/images/Tours/HDB_Eco_Trail_Punggol.jpg)
 
-**Date:** 
-* 15 June, 9:30 am – 11:00 am 
-* 21 June, 4:00 pm – 5:30 pm <br>
+**Date:** <br>
+15 June, 9:30 am – 11:00 am <br>
+21 June, 4:00 pm – 5:30 pm <br>
 
 **Admission:** Free (registration required)<br>
 **Venue:** Punggol Town Square, 85 Punggol Central <br>
