@@ -7,16 +7,16 @@ description: ""
 ![Glass Recycling with Abraclean](/images/Tours/Abraclean.jpg)
 
 **Dates:** <br>
-* 15, 29 June, 10:00 am - 11:30 am&nbsp;
-* 13 July, 10:00 am \- 11:30 am<br>
+* 15, 29 June, 10:00 am - 11:30 am
+* 13 July, 10:00 am - 11:30 am<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** Abraclean (Asia Pacific) Pte Ltd, 46 Pioneer Sector 2<br>
 **Organiser:** National Environment Agency
 
-This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).&nbsp;
+*This activity is part of the [Clean and Green Singapore Experiences](https://www.cgs.gov.sg/cgs-experiences).*
 
-Can glass be recycled? Learn how Abraclean turns glass waste into useful products such as “Abrablast” and construction materials in this glass recycling journey.&nbsp;&nbsp;
+Can glass be recycled? Learn how Abraclean turns glass waste into useful products such as "Abrablast" and construction materials in this glass recycling journey.
 
 Transport will be provided from Jurong East MRT.
 
