@@ -7,8 +7,8 @@ description: ""
 ![TES Ewaste Recycling](/images/Tours/TES.jpg)
 
 **Dates:** <br>
-* 29 June, 10:00 am to 11:30 am
-* 13 July, 10:00 am to 11:30 am<br>
+29 June, 10:00 am to 11:30 am<br>
+13 July, 10:00 am to 11:30 am<br>
 
 **Admission:** Free (registration required) <br>
 **Venue:** Tes-Amm (Singapore) Pte Ltd, 9 Benoi Sector<br>
