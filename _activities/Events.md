@@ -286,7 +286,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Join Razer for an exclusive behind-the-scenes tour of its Southeast Asia Headquarters! As you explore the facilities, see the progress Razer has made in their #GoGreenWithRazer sustainability manifesto. Hear from Razer on how they are advancing the sustainability agenda to empower gamers worldwide to Play for Good.</p>
+        <p>Join Razer for an exclusive behind-the-scenes tour of its Southeast Asia Headquarters.</p>
       </div>
     </div>
     <div class="programmes__item__actions">
