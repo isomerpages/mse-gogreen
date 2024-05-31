@@ -6,9 +6,9 @@ description: ""
 ---
 ![Group photo of participants at the Black Soldier Fly Eco Farm Tour](/images/Otolith_Enrichment_Black_Soldier_Fly_Eco_Farm_Tour.jpg)
 
-**Date:** 
-* 22 June, 10:00 am – 11:30 am 
-* 13 July, 10:00 am – 11:30 am <br>
+**Date:** <br>
+22 June, 10:00 am – 11:30 am <br>
+13 July, 10:00 am – 11:30 am <br>
 
 **Admission:** 
 * Adult: $33
