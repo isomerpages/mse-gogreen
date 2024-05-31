@@ -13,9 +13,10 @@ description: ""
 
 Explore the fascinating world of mushrooms in this immersive workshop! Delve into the art of cultivating a variety of mushrooms as Singapore University of Social Sciences (SUSS) shares insights into thegrowth process and benefits of mushrooms. . Discover the sustainable and rewarding journey of growing your own mushrooms, with valuable resources provided for those eager to embark on their own fungal adventures. Cultivate a newfound appreciation for the wonders of mushroom cultivation!&nbsp;
 
-Make a $10 donation before the commencement of the activity to secure your spot! All proceeds will go towards the SUSS Student Care Fund.
+Make a $10 donation before the commencement of the activity to secure your spot! All proceeds will go towards the SUSS Student 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/seed-to-savour-our-susstainability-journey-tickets-881744661017">
+
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/seed-t">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
