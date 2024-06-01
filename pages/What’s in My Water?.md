@@ -6,7 +6,7 @@ description: ""
 ---
 ![What's in my Water](/images/Tours/Whats_in_my_Water_SBWR.png)
 
-**Dates:** <br>
+**Date:** <br>
 22 June, 9.30am – 11am<br>
 6 July, 9.30am – 11am
 

@@ -1,12 +1,12 @@
 ---
-title: "Embark on Werms.inc’s Urban Insect Farm Tour"
+title: Embark on Werms.inc’s Urban Insect Farm Tour
 permalink: /embark-on-wermtech-asia-s-urban-insect-farm-tour/
 variant: markdown
 description: ""
 ---
 ![](/images/wermtech_asia_urban_insect_farm_tour.jpg)
 
-**Dates:** <br>
+**Date:** <br>
 * 15, 16, 22, 23, 29, 30 June <br>
 10:00 am – 11:00 am, 11:00 am – 12:00 pm, 12:00 pm – 1:00 pm 
 

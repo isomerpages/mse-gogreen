@@ -6,8 +6,8 @@ description: ""
 ---
 ![Earth Explorers - Play Beyond](/images/Events/Earth_Explorers_Discovering_Sustainability_Through_Fun_and_Games_.png)
 
-**Dates:** 22 June, 1:00 pm – 5:00 pm<br>
-**Admissions**: Free (registration required)<br>
+**Date:** 22 June, 1:00 pm – 5:00 pm<br>
+**Admission**: Free (registration required)<br>
 **Venue:** Sengkang Public Library, 1 Sengkang Square, #03–28 <br>
 **Organiser:** Play Beyond Private Limited
 

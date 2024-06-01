@@ -6,7 +6,7 @@ description: ""
 ---
 ![What's in my Mangrove?](/images/Tours/Whats_in_my_Mangrove_SBWR.png)
 
-**Date:** 15 June | 9.30 am – 11 am<br>
+**Date:** 15 June, 9.30 am – 11 am<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Sungei Buloh Wetland Reserve, Visitor Centre<br>
 **Organiser:** National Parks Board
