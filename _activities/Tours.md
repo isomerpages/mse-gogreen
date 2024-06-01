@@ -1304,7 +1304,7 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 28 June</strong>
           </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Admission: $22.05/pax</strong></li>
           <li><strong>Venue: TuasOne Waste-to-Energy Plant</strong></li>
           <li><strong>Organiser: National Environment Agency and My Community</strong></li>
         </ul>
