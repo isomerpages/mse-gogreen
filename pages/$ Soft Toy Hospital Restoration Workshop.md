@@ -32,34 +32,20 @@ The price excludes GST &amp; Eventbrite booking fee (non-refundable). Price incl
 
  
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/soft-toy-restoration-workshop-paid-tickets-900913997017?aff=oddtdtcreator"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/soft-toy-restoration-workshop-paid-tickets-900913997017?aff=oddtdtcreator"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: none; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
