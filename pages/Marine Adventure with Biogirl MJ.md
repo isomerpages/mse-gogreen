@@ -23,11 +23,7 @@ Explore, spot and discover the amazing biodiversity we have on our very own shor
 Children aged nine and below must be accompanied by an adult.
  
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/intertidal-adventure-with-biogirl-mj-tickets-160224338309?aff=oddtdtcreator"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/intertidal-adventure-with-biogirl-mj-tickets-160224338309?aff=oddtdtcreator"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
