@@ -14,8 +14,8 @@ description: ""
 **Admission:** 
 * Public: $30++/pax
 * Zoo Members: $28++/pax&nbsp;<br>
+* Admission to the Parks is not required for this workshop<br> 
 
-(admission to the Parks is not required for this Workshop)<br> 
 **Venue:** River Wonders Classroom, 80 Mandai Lake Road<br> 
 **Organiser:** Mandai Wildlife Group and Soft Toy Hospital
 
@@ -44,7 +44,7 @@ The price excludes GST &amp; Eventbrite booking fee (non-refundable). Price incl
 
 .btn-link { 
 
-display: inline-block; 
+display: none; 
 
 } 
 
