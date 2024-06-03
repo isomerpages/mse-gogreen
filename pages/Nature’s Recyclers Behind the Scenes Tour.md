@@ -26,34 +26,20 @@ This activity is suitable for participants with mobility issues.
 
  
 
-<a class="btn-link" target="_blank" href="https://estore.mandai.com/education-trail-packages"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://estore.mandai.com/education-trail-packages"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: none; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
