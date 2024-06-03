@@ -4,25 +4,35 @@ permalink: /nature-s-recyclers-behind-the-scenes-tour/
 variant: markdown
 description: ""
 ---
- ![Nature's_Recyclers_BTS_Tour](/images/Tours/Nature_s_Recyclers_Behind_the_Scenes_Tour.jpg)
+![Nature's_Recyclers_BTS_Tour](/images/Tours/Nature_s_Recyclers_Behind_the_Scenes_Tour.jpg)
 
-**Date:** 12 June – 14 July, 10:30 am - 9:30 pm<br> 
+**Dates:** 15 and 23 June<br>
+* 10:00 am - 10:45 am
+* 11:00 am - 11:45 am<br> 
 
-**Admission:** Free (no registration required)<br> 
+**Admission:** $18/pax (admission charges to Singapore Zoo applies)<br> 
 
-**Venue:** Design Orchard, 250 Orchard Road<br> 
+**Venue:** Singapore Zoo<br> 
 
-**Organiser:** Singapore Fashion Council 
-
- 
-
-Customers who bring their own bag during Go Green SG (12 June – 14 July) will enjoy double the points on their purchase when they shop at Design Orchard. 
+**Organiser:** Mandai Wildlife Group
 
  
 
-<a class="btn-link" target="_blank" href="https://www.designorchard.sg/ido-crm"> 
+Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable.&nbsp;
 
-<img src="/images/more-info-btn.png"> 
+Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.&nbsp;&nbsp;
+
+Adults and children can also learn how small steps in our daily lives can lead to a more sustainable future for all.&nbsp;&nbsp;
+
+Separate admission charges to Singapore Zoo applies.&nbsp;
+
+This activity is suitable for participants with mobility issues.
+
+ 
+
+<a class="btn-link" target="_blank" href="https://estore.mandai.com/education-trail-packages"> 
+
+<img src="/images/gogreensg_website-32.png"> 
 
 </a> 
 
