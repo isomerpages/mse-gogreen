@@ -21,11 +21,7 @@ Bring along your adventurous spirit as you embark on a trail among tall rainfore
 
 Please apply the promo code "**GGSG20OF**" before checkout to enjoy a 20% discount!
 
-<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/introduction-to-birdwatching/"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/introduction-to-birdwatching/"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
