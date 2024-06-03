@@ -826,6 +826,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/introduction-to-birdwatching-a-sentosa-special/">
+        <img src="/images/Tours/Introduction_to_Birdwatching_A_Sentosa_Special.jpg"></a>
+        <h2>Introduction to Birdwatching: A Sentosa Special</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $61.69/pax (registration required)</strong></li>
+          <li><strong>Venue: Siloso Point Station, Sentosa</strong></li>
+          <li><strong>Organiser: The Untamed Paths and Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Ever wondered what birds you can find on a small island such as Sentosa? In this tour, learn to identify local avian fauna by their appearance and unique calls.&nbsp;&nbsp;&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/introduction-to-birdwatching-a-sentosa-special/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/zero-to-hero-food-sustainability-tour/">
         <img src="/images/Tours/ZerotoHero.jpg"></a>
         <h2>Zero to Hero Sustainability Food Tour</h2>
@@ -1510,7 +1538,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	          <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/creative-writing-workshop-journey-of-plastic-waste-in-singapore/">
+        <img src="/images/Workshop%20&amp;%20Talks/Creative_Writing_Workshop___Journey_of_Plastic_Waste_in_Singapore.png"></a>
+        <h2>Creative Writing Workshop, Journey of Plastic Waste in Singapore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Heartbeat @ Bedok</strong></li>
+          <li><strong>Organiser: EB Impact and City Developments Limited</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Envision a world where the waste that surrounds us can speak and make friends. Join Poly, a single-use plastic bottle, on her journey and discover who she encounters. If she lands into the sea, what will her fate be?&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/creative-writing-workshop-journey-of-plastic-waste-in-singapore/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/green-house-2024/">
