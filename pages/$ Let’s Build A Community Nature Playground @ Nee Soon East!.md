@@ -7,7 +7,7 @@ description: ""
 ![Lets_Build_A_Community_Nature_Playground_NeeSoonEast](/images/Initiatives/Let_s_Build_A_Community_Nature_Playground___Nee_Soon_East_.png)
 
 **Dates:** 
-* 5, 22, 29 June, 3:30 pm – 6:00 pm&nbsp;
+* 15, 22, 29 June, 3:30 pm – 6:00 pm&nbsp;
 * 6, 13 July, 3:30 pm – 6:00 pm<br> 
 
 **Admission:** Free (no registration required)<br> 
