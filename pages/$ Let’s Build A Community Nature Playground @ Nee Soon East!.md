@@ -4,45 +4,20 @@ permalink: /let-s-build-a-community-nature-playground-nee-soon-east/
 variant: markdown
 description: ""
 ---
-**Date:** 12 June – 14 July, 10:30 am - 9:30 pm<br> 
+![Lets_Build_A_Community_Nature_Playground_NeeSoonEast](/images/Initiatives/Let_s_Build_A_Community_Nature_Playground___Nee_Soon_East_.png)
+
+**Dates:** 
+* 5, 22, 29 June, 3:30 pm – 6:00 pm&nbsp;
+* 6, 13 July, 3:30 pm – 6:00 pm<br> 
+
 **Admission:** Free (no registration required)<br> 
-**Venue:** Design Orchard, 250 Orchard Road<br> 
-**Organiser:** Singapore Fashion Council 
+**Venue:** Field located beside Blk 304 Yishun Central (Greenhouse)<br> 
+**Organiser:** Nee Soon East Community Club Management Committee (People's Association)
 
- 
 
-Customers who bring their own bag during Go Green SG (12 June – 14 July) will enjoy double the points on their purchase when they shop at Design Orchard. 
+In land-scarce Singapore, it is essential to maximise the use of every space.&nbsp;&nbsp;
 
- 
+The Nee Soon East Community Club Management Committee is inviting the public to come together to build a community playground on an unused plot of land in Nee Soon East using recycled materials.&nbsp;&nbsp;
 
-<a class="btn-link" target="_blank" href="https://www.designorchard.sg/ido-crm"> 
+This project aims to show Singaporeans that there is so much more we can do with the waste we produce, and at the same time, allow the community to bond,&nbsp;learn new skills, and to have fun! The playground will be built by the community&nbsp;using recycled materials such as planks,&nbsp;wooden poles from disposed wooden pallets, and tyres.
 
-<img src="/images/more-info-btn.png"> 
-
-</a> 
-
- 
-
-<style> 
-
-.btn-link { 
-
-display: inline-block; 
-
-} 
-
-a.btn-link[target="_blank"]:after { 
-
-display: none; 
-
-} 
-
-.btn-link > img { 
-
-width: 100%; 
-
-} 
-
- 
-
-</style> 
