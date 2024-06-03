@@ -33,25 +33,15 @@ What to expect:&nbsp;
  
 
 <style> 
-
 .btn-link { 
-
-display: inline-block; 
-
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
