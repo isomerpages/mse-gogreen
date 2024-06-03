@@ -7,11 +7,8 @@ description: ""
 ![Upcyling_for_Animal_Enrichment ](/images/Workshop%20&amp;%20Talks/Upcycling_for_Animal_Enrichment.jpg)
 
 **Dates:** 15 and 23 June, 1:30 pm – 2:30 pm<br>
-
 **Admission:** $15/pax (admission charges to Singapore Zoo applies)<br> 
-
 **Venue:** Singapore Zoo<br> 
-
 **Organiser:** Mandai Wildlife Group
 
  
