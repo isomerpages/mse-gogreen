@@ -4,7 +4,7 @@ permalink: /rise-from-waves-of-efforts-to-an-ocean-of-change-at-sentosa/
 variant: markdown
 description: ""
 ---
- ![RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa](/images/Others/RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa.jpg)
+![RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa](/images/Others/RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa.jpg)
  
  **Dates:** 12 June to 14 July<br> 
 **Admission:** Free (no registration required)<br> 
