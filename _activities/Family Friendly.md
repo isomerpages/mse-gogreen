@@ -938,6 +938,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/the-curious-world-of-otters/">
+        <img src="/images/Tours/The_Curious_World_of_Otters.jpg"></a>
+        <h2>The Curious World of Otters</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $75/adult, $42/child</strong></li>
+          <li><strong>Venue: Kallang Riverside</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Love otters? Discover the charismatic and curious world of the Smooth-Coated Otters, right here along urban waterways in Singapore!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-curious-world-of-otters/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/zero-to-hero-food-sustainability-tour/">
         <img src="/images/Tours/ZerotoHero.jpg"></a>
         <h2>Zero to Hero Sustainability Food Tour</h2>
