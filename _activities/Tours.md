@@ -1174,6 +1174,36 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/uncover-singapore-s-hidden-marine-world-an-unforgettable-intertidal-exploration/">
+              <img src="/images/Tours/Uncover_Singapore_s_Hidden_Marine_World_An_Unforgettable_Intertidal_Exploration.jpg"></a>
+        <h2>Uncover Singapore's Hidden Marine World: An Unforgettable Intertidal Exploration
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22-26 June; 4-7 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $73.80, Child (under 12): $36</strong></li>
+          <li><strong>Venue: Carpark 6, Changi Beach</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on an exciting intertidal journey that will ignite your adventurous spirit like never before! This walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/uncover-singapore-s-hidden-marine-world-an-unforgettable-intertidal-exploration/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
