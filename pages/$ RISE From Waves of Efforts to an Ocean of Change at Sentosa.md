@@ -4,21 +4,25 @@ permalink: /rise-from-waves-of-efforts-to-an-ocean-of-change-at-sentosa/
 variant: markdown
 description: ""
 ---
-**Date:** 12 June – 14 July, 10:30 am - 9:30 pm<br> 
-
+ ![RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa](/images/Others/RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa.jpg)
+ 
+ **Dates:** 12 June to 14 July<br> 
 **Admission:** Free (no registration required)<br> 
+**Venue:** Sentosa, Beach Station, 50 Beach View<br>
+**Organiser:** Sentosa Development Corporation
 
-**Venue:** Design Orchard, 250 Orchard Road<br> 
 
-**Organiser:** Singapore Fashion Council 
+As you explore this exhibition at Beach Station, find out how Sentosa can be enjoyed with a lower carbon footprint. 
+
+Discover Sentosa’s sustainable offerings, from farm-to-table dining options and cocktails concocted with eco-spirits to&nbsp;outdoor activities with a lower carbon footprint and hotel stays with less waste. 
+
+Plus, find out what goes behind the scenes to keep Sentosa – the first island destination in Asia to be certified by the Global Sustainable Tourism Council – powered on a reduced carbon and waste footprint. &nbsp;
+
+This activity is suitable for participants with mobility issues.
 
  
 
-Customers who bring their own bag during Go Green SG (12 June – 14 July) will enjoy double the points on their purchase when they shop at Design Orchard. 
-
- 
-
-<a class="btn-link" target="_blank" href="https://www.designorchard.sg/ido-crm"> 
+<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/rise/"> 
 
 <img src="/images/more-info-btn.png"> 
 
@@ -48,4 +52,4 @@ width: 100%;
 
  
 
-</style> 
+</style>
