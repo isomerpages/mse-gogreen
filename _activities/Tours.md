@@ -133,7 +133,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	          <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/marine-adventure-with-biogirl-mj/">
+        <img src="/images/Tours/Marine_Adventure_with_Biogirl_MJ.jpg"></a>
+        <h2>Marine Adventure with Biogirl MJ</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $60/pax</strong></li>
+          <li><strong>Venue: Changi Beach</strong></li>
+          <li><strong>Organiser: Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore, spot and discover the amazing biodiversity we have on our very own shores! Hear from Biogirl MJ as she shares facts and stories about the creatures that live amongst us. Learn how we can conserve and protect our marine wildlife as we collect trash along the way.&nbsp;&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/marine-adventure-with-biogirl-mj/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/city-sprouts-signature-farm-tour-introduction-to-ways-of-waste/">
