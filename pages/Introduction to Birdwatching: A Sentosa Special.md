@@ -33,7 +33,7 @@ Please apply the promo code "**GGSG20OF**" before checkout to enjoy a 20% discou
 
 .btn-link { 
 
-display: inline-block; 
+display: none; 
 
 } 
 
