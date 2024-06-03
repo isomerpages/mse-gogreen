@@ -20,4 +20,3 @@ In land-scarce Singapore, it is essential to maximise the use of every space.&nb
 The Nee Soon East Community Club Management Committee is inviting the public to come together to build a community playground on an unused plot of land in Nee Soon East using recycled materials.&nbsp;&nbsp;
 
 This project aims to show Singaporeans that there is so much more we can do with the waste we produce, and at the same time, allow the community to bond,&nbsp;learn new skills, and to have fun! The playground will be built by the community&nbsp;using recycled materials such as planks,&nbsp;wooden poles from disposed wooden pallets, and tyres.
-
