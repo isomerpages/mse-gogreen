@@ -22,34 +22,20 @@ Along the way, keep your eyes peeled for encounters with other urban wildlife, i
 
 Please apply the promo code "**GOGREEN24**" before checkout to enjoy a 10% discount!
 
-<a class="btn-link" target="_blank" href="https://forms.gle/qcX79bpjggHQmgkn6"> 
-
-<img src="/images/gogreensg_website-32.png">
-
-</a> 
+<a class="btn-link" target="_blank" href="https://forms.gle/qcX79bpjggHQmgkn6"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: none; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
