@@ -879,7 +879,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>On this nature walk, rxplore the hidden mangrove gem of the East, home to many interesting flora and fauna like fiddler crabs, kingfishers, and others! 
+        <p>On this nature walk, explore the hidden mangrove gem of the East, home to many interesting flora and fauna like fiddler crabs, kingfishers, and others! 
         </p>
       </div>
     </div>
