@@ -35,7 +35,7 @@ This activity is suitable for participants aged 6 and above, and participants wi
 
 .btn-link { 
 
-display: inline-block; 
+display: none; 
 
 } 
 
