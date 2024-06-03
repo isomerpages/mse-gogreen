@@ -921,34 +921,6 @@ More activities will also be added progressively.</div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-<a href="/natures-recyclers-behind-the-scenes-tour/">
-        <img src="/images/Tours/Naturalist_Night_Adventure___A_Sentosa_Special.jpg"></a>
-        <h2>Nature’s Recyclers Behind the Scenes Tour</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 15, 23 June</strong>
-          </li>
-          <li><strong>Admission: $18/pax</strong></li>
-          <li><strong>Venue: Singapore Zoo</strong></li>
-          <li><strong>Organiser: Mandai Wildlife Group</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/natures-recyclers-behind-the-scenes-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
 <a href="/journey-into-glass-recycling-with-abraclean/">
         <img src="/images/Tours/Abraclean.jpg"></a>
         <h2>Journey into Glass Recycling with Abraclean</h2>
@@ -997,6 +969,33 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/young-nautilus-nature-walk-pasir-ris-park-mangroves/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/the-southern-islands-eco-paddle-trail/">
+	<img src="/images/Tours/The_Southern_Islands_Eco_Paddle_Trail.png"></a>
+        <h2>The Southern Islands Eco Paddle Trail
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 16, 30 June; 14 July</strong></li>
+          <li><strong>Admission: $70/pax</strong></li>
+<li><strong>Venue: Singapore Island Cruise Counter (Marina South Pier)</strong></li>
+          <li><strong>Organiser: Lazarus Sea Sports Centre</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Southern Islands Eco Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island. Learn about the islands' ecology, conservation efforts, and historical significance!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-southern-islands-eco-paddle-trail/" class="button-primary">
         Find out more
       </a>
     </div>
