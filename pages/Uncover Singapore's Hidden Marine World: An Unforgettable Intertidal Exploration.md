@@ -30,34 +30,20 @@ Learn basic coastal ecology and discover the intricate behaviours of these often
 
 Please apply the promo code "**GOGREEN24**" before checkout to enjoy a 10% discount!
 
-<a class="btn-link" target="_blank" href="https://theuntamedpaths.com/i-e-m/"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://theuntamedpaths.com/i-e-m/"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: none; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
