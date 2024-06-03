@@ -41,7 +41,7 @@ This activity is recommended for participants aged 7 and above.
 
 .btn-link { 
 
-display: inline-block; 
+display: none; 
 
 } 
 
