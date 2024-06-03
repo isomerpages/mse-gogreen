@@ -4,6 +4,8 @@ permalink: /the-curious-world-of-otters/
 variant: markdown
 description: ""
 ---
+![Curious_World_Otters](/images/Tours/The_Curious_World_of_Otters.jpg)
+
 **Dates:** <br> 
 * 15, 22, 29 June, 7:30 am – 9:30 am&nbsp;&nbsp;
 * 6, 13 July, 7:30 am – 9:30 am
@@ -22,7 +24,7 @@ Please apply the promo code "GOGREEN24" before checkout to enjoy a 10% discount!
 
 <a class="btn-link" target="_blank" href="https://forms.gle/qcX79bpjggHQmgkn6"> 
 
-<img src="/images/gogreensg_website-32.png"> 
+<img src="/images/gogreensg_website-32.png">
 
 </a> 
 
