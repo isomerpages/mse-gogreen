@@ -162,6 +162,34 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/marine-adventure-with-biogirl-mj/">
+        <img src="/images/Tours/Marine_Adventure_with_Biogirl_MJ.jpg"></a>
+        <h2>Marine Adventure with Biogirl MJ</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $60/pax</strong></li>
+          <li><strong>Venue: Changi Beach</strong></li>
+          <li><strong>Organiser: Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore, spot and discover the amazing biodiversity we have on our very own shores! Hear from Biogirl MJ as she shares facts and stories about the creatures that live amongst us. Learn how we can conserve and protect our marine wildlife as we collect trash along the way.&nbsp;&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/marine-adventure-with-biogirl-mj/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
       <a href="/invasive-species-management/">
 	<img src="/images/Others/Invasive_Species_Management.jpg"></a>
         <h2>Invasive Species Management
@@ -509,6 +537,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/soft-toy-hospital-restoration-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/Soft_Toy_Hospital_Restoration_Workshop.png"></a>
+        <h2>Soft Toy Hospital Restoration Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: $30/pax</strong></li>
+          <li><strong>Venue: River Wonders Classroom</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group and Soft Toy Hospital</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/soft-toy-hospital-restoration-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/survive-the-collapse-a-sustainability-based-outdoor-scavenger-hunt/">
         <img src="/images/Others/hero_image__Collapse_after__1_.jpg"></a>
         <h2>Survive The Collapse, A Sustainability Based Outdoor Scavenger Hunt</h2>
@@ -826,6 +882,90 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/introduction-to-birdwatching-a-sentosa-special/">
+        <img src="/images/Tours/Introduction_to_Birdwatching_A_Sentosa_Special.jpg"></a>
+        <h2>Introduction to Birdwatching: A Sentosa Special</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $61.69/pax (registration required)</strong></li>
+          <li><strong>Venue: Siloso Point Station, Sentosa</strong></li>
+          <li><strong>Organiser: The Untamed Paths and Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Ever wondered what birds you can find on a small island such as Sentosa? In this tour, learn to identify local avian fauna by their appearance and unique calls.&nbsp;&nbsp;&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/introduction-to-birdwatching-a-sentosa-special/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/lets-build-a-community-nature-playground-nee-soon-east/">
+        <img src="/images/Initiatives/Let_s_Build_A_Community_Nature_Playground___Nee_Soon_East_.png"></a>
+        <h2>Let’s Build A Community Nature Playground @ Nee Soon East!</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Field located beside Blk 304 Yishun Central </strong></li>
+          <li><strong>Organiser: Nee Soon East CC Management Committee</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Nee Soon East Community Club Management Committee is inviting the public to come together to build a community playground on an unused plot of land in Nee Soon East using recycled materials.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/lets-build-a-community-nature-playground-nee-soon-east/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/the-curious-world-of-otters/">
+        <img src="/images/Tours/The_Curious_World_of_Otters.jpg"></a>
+        <h2>The Curious World of Otters</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $75/adult, $42/child</strong></li>
+          <li><strong>Venue: Kallang Riverside</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Love otters? Discover the charismatic and curious world of the Smooth-Coated Otters, right here along urban waterways in Singapore!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-curious-world-of-otters/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/zero-to-hero-food-sustainability-tour/">
         <img src="/images/Tours/ZerotoHero.jpg"></a>
         <h2>Zero to Hero Sustainability Food Tour</h2>
@@ -852,6 +992,61 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/natures-recyclers-behind-the-scenes-tour/">
+        <img src="/images/Tours/Naturalist_Night_Adventure___A_Sentosa_Special.jpg"></a>
+        <h2>Nature’s Recyclers Behind the Scenes Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 23 June</strong>
+          </li>
+          <li><strong>Admission: $18/pax</strong></li>
+          <li><strong>Venue: Singapore Zoo</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/natures-recyclers-behind-the-scenes-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/upcycling-for-animal-enrichment/">
+	<img src="/images/Workshop%20&amp;%20Talks/Upcycling_for_Animal_Enrichment.jpg"></a>
+        <h2>Upcycling for Animal Enrichment
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 15, 23 June</strong></li>
+          <li><strong>Admission: $15/pax (admission charges to Singapore Zoo apply)</strong></li>
+<li><strong>Venue: Singapore Zoo</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Singapore Zoo’s Animal Playground, a play space that was created just for animals out of pre-loved items from around the parks. Help reduce waste by creating new enrichment items for the animals!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/upcycling-for-animal-enrichment/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	          <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1510,7 +1705,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	          <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/creative-writing-workshop-journey-of-plastic-waste-in-singapore/">
+        <img src="/images/Workshop%20&amp;%20Talks/Creative_Writing_Workshop___Journey_of_Plastic_Waste_in_Singapore.png"></a>
+        <h2>Creative Writing Workshop, Journey of Plastic Waste in Singapore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Heartbeat @ Bedok</strong></li>
+          <li><strong>Organiser: EB Impact and City Developments Limited</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Envision a world where the waste that surrounds us can speak and make friends. Join Poly, a single-use plastic bottle, on her journey and discover who she encounters. If she lands into the sea, what will her fate be?&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/creative-writing-workshop-journey-of-plastic-waste-in-singapore/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/green-house-2024/">

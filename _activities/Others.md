@@ -127,6 +127,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/rise-from-waves-of-efforts-to-an-ocean-of-change-at-sentosa/">
+        <img src="/images/Others/RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa.jpg"></a>
+        <h2>RISE From Waves of Efforts to an Ocean of Change at Sentosa</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June to 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Sentosa, Beach Station</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Find out how you can enjoy Sentosa with a lower carbon footprint at this exhibition.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/rise-from-waves-of-efforts-to-an-ocean-of-change-at-sentosa/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
    <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">

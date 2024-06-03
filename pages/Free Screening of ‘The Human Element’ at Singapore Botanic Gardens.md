@@ -9,9 +9,9 @@ description: ""
 **Date:** 29 June, 7:00 pm – 9:30 pm<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Eco Lake Lawn, Singapore Botanic Gardens<br>
-**Organiser:** YTL PowerSeraya
+**Organiser:** YTL PowerSeraya Pte. Limited
 
-To commemorate World Environment Day, join YTL PowerSeraya at the inaugural Singapore screening of The Human Element,&nbsp;an award-winning movie on climate change that explores how humans are a force of nature and how humans have the power to alter the elements of life.&nbsp;
+To commemorate World Environment Day, join YTL PowerSeraya Pte. Limited at the inaugural Singapore screening of The Human Element,&nbsp;an award-winning movie on climate change that explores how humans are a force of nature and how humans have the power to alter the elements of life.&nbsp;
 
 With powerful stories and stunning visuals, this documentary will inspire viewers to reevaluate their relationship with the natural world.&nbsp;
 

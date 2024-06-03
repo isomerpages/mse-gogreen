@@ -340,6 +340,34 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/soft-toy-hospital-restoration-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/Soft_Toy_Hospital_Restoration_Workshop.png"></a>
+        <h2>Soft Toy Hospital Restoration Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: $30/pax</strong></li>
+          <li><strong>Venue: River Wonders Classroom</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group and Soft Toy Hospital</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/soft-toy-hospital-restoration-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
       <a href="/learn-how-to-grow-and-cook-microgreens/">
 	<img src="/images/Workshop%20&amp;%20Talks/Learn_how_to_grow_and_cook_microgreens.jpg"></a>
         <h2>Learn How to Grow and Cook Microgreens
@@ -394,6 +422,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/upcycling-for-animal-enrichment/">
+	<img src="/images/Workshop%20&amp;%20Talks/Upcycling_for_Animal_Enrichment.jpg"></a>
+        <h2>Upcycling for Animal Enrichment
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 15, 23 June</strong></li>
+          <li><strong>Admission: $15/pax (admission charges to Singapore Zoo apply)</strong></li>
+<li><strong>Venue: Singapore Zoo</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Singapore Zoo’s Animal Playground, a play space that was created just for animals out of pre-loved items from around the parks. Help reduce waste by creating new enrichment items for the animals!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/upcycling-for-animal-enrichment/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">

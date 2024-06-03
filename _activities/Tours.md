@@ -133,7 +133,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-	          <div class="programmes__item col is-one-third">
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/marine-adventure-with-biogirl-mj/">
+        <img src="/images/Tours/Marine_Adventure_with_Biogirl_MJ.jpg"></a>
+        <h2>Marine Adventure with Biogirl MJ</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $60/pax</strong></li>
+          <li><strong>Venue: Changi Beach</strong></li>
+          <li><strong>Organiser: Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore, spot and discover the amazing biodiversity we have on our very own shores! Hear from Biogirl MJ as she shares facts and stories about the creatures that live amongst us. Learn how we can conserve and protect our marine wildlife as we collect trash along the way.&nbsp;&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/marine-adventure-with-biogirl-mj/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/city-sprouts-signature-farm-tour-introduction-to-ways-of-waste/">
@@ -222,6 +250,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/naturalist-night-adventure-a-sentosa-special/">
+        <img src="/images/Tours/Naturalist_Night_Adventure___A_Sentosa_Special.jpg"></a>
+        <h2>Naturalist Night Adventure, A Sentosa Special</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 15, 21, 22, 28, 29 June; 5, 6, 12, 13 July</strong>
+          </li>
+          <li><strong>Admission: $69.41/pax</strong></li>
+          <li><strong>Venue: Siloso Point Station, Sentosa</strong></li>
+          <li><strong>Organiser: The Untamed Paths and Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Come dusk, experience the ‘wild side’ on this night adventure that brings you through a rainforest system. During the tour, slow down your footsteps and immerse yourself in the moment. You will be using your senses to pick out quirky creatures in their homes.&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/naturalist-night-adventure-a-sentosa-special/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -805,6 +861,62 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/introduction-to-birdwatching-a-sentosa-special/">
+        <img src="/images/Tours/Introduction_to_Birdwatching_A_Sentosa_Special.jpg"></a>
+        <h2>Introduction to Birdwatching: A Sentosa Special</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $61.69/pax (registration required)</strong></li>
+          <li><strong>Venue: Siloso Point Station, Sentosa</strong></li>
+          <li><strong>Organiser: The Untamed Paths and Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Ever wondered what birds you can find on a small island such as Sentosa? In this tour, learn to identify local avian fauna by their appearance and unique calls.&nbsp;&nbsp;&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/introduction-to-birdwatching-a-sentosa-special/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/the-curious-world-of-otters/">
+        <img src="/images/Tours/The_Curious_World_of_Otters.jpg"></a>
+        <h2>The Curious World of Otters</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $75/adult, $42/child</strong></li>
+          <li><strong>Venue: Kallang Riverside</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Love otters? Discover the charismatic and curious world of the Smooth-Coated Otters, right here along urban waterways in Singapore!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-curious-world-of-otters/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -879,12 +991,39 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>On this nature walk, rxplore the hidden mangrove gem of the East, home to many interesting flora and fauna like fiddler crabs, kingfishers, and others! 
+        <p>On this nature walk, explore the hidden mangrove gem of the East, home to many interesting flora and fauna like fiddler crabs, kingfishers, and others! 
         </p>
       </div>
     </div>
     <div class="programmes__item__actions">
       <a href="/young-nautilus-nature-walk-pasir-ris-park-mangroves/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/the-southern-islands-eco-paddle-trail/">
+	<img src="/images/Tours/The_Southern_Islands_Eco_Paddle_Trail.png"></a>
+        <h2>The Southern Islands Eco Paddle Trail
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 16, 30 June; 14 July</strong></li>
+          <li><strong>Admission: $70/pax</strong></li>
+<li><strong>Venue: Singapore Island Cruise Counter (Marina South Pier)</strong></li>
+          <li><strong>Organiser: Lazarus Sea Sports Centre</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Southern Islands Eco Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island. Learn about the islands' ecology, conservation efforts, and historical significance!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-southern-islands-eco-paddle-trail/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1114,6 +1253,36 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/race-against-time-science-behind-a-botanic-garden-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/uncover-singapore-s-hidden-marine-world-an-unforgettable-intertidal-exploration/">
+              <img src="/images/Tours/Uncover_Singapore_s_Hidden_Marine_World_An_Unforgettable_Intertidal_Exploration.jpg"></a>
+        <h2>Uncover Singapore's Hidden Marine World: An Unforgettable Intertidal Exploration
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22-26 June; 4-7 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $73.80, Child (under 12): $36</strong></li>
+          <li><strong>Venue: Carpark 6, Changi Beach</strong></li>
+          <li><strong>Organiser: The Untamed Paths</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on an exciting intertidal journey that will ignite your adventurous spirit like never before! This walk is a rare opportunity for participants to get up close with marine life that is often overlooked.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/uncover-singapore-s-hidden-marine-world-an-unforgettable-intertidal-exploration/" class="button-primary">
         Find out more
       </a>
     </div>
