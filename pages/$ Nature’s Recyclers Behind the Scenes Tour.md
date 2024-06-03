@@ -38,7 +38,7 @@ This activity is suitable for participants with mobility issues.
 
 .btn-link { 
 
-display: inline-block; 
+display: none; 
 
 } 
 
