@@ -936,6 +936,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+      <a href="/upcycling-for-animal-enrichment/">
+	<img src="/images/Workshop%20&amp;%20Talks/Upcycling_for_Animal_Enrichment.jpg"></a>
+        <h2>Upcycling for Animal Enrichment
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Dates: 15, 23 June</strong></li>
+          <li><strong>Admission: $15/pax (admission charges to Singapore Zoo apply)</strong></li>
+<li><strong>Venue: Singapore Zoo</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Visit the Singapore Zoo’s Animal Playground, a play space that was created just for animals out of pre-loved items from around the parks. Help reduce waste by creating new enrichment items for the animals!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/upcycling-for-animal-enrichment/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>   
 	          <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
