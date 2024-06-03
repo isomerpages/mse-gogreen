@@ -12,13 +12,13 @@ description: ""
 **Organisers:** EB Impact and City Developments Limited
 
  
-This creative writing workshop is for children aged 9 to 13 years old, and it will be hosted by Dorcas Tang, a children’s book illustrator and author. EB Impact Ambassadors will also facilitate this workshop.&nbsp;
+This creative writing workshop is for children aged 9 to 13 years old and it will be hosted by Dorcas Tang, a children’s book illustrator and author. EB Impact Ambassadors will also facilitate this workshop.&nbsp;
 
 Envision a world where the waste that surrounds us can speak and make friends. Join Poly, a single-use plastic bottle, on her journey and discover who she encounters. If she lands into the sea, what will her fate be?&nbsp;&nbsp;
 
 What to expect:&nbsp;
 
-*   Crafting the protagonist: We'll start by crafting the personality and appearance of the protagonist, Poly, together.&nbsp;
+*   Crafting the protagonist: We will start by crafting the personality and appearance of the protagonist, Poly, together.&nbsp;
     
 *   Brainstorming: Let's use our imagination! Where might a plastic bottle travel to in Singapore? What sights might it see? Who might it meet (friendly or not-so-friendly)?&nbsp;
     
@@ -58,4 +58,4 @@ width: 100%;
 
  
 
-</style> 
+</style>
