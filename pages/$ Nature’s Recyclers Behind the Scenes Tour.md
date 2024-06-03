@@ -11,12 +11,8 @@ description: ""
 * 11:00 am - 11:45 am<br> 
 
 **Admission:** $18/pax (admission charges to Singapore Zoo applies)<br> 
-
 **Venue:** Singapore Zoo<br> 
-
 **Organiser:** Mandai Wildlife Group
-
- 
 
 Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable.&nbsp;
 
