@@ -9,14 +9,14 @@ description: ""
 
 **Dates:** <br> 
 * 22 June, 5:00 am – 7:00 am&nbsp;
-* 23 June, 5:30 am \- 7:30 am&nbsp;
-* 24 June, 6:00 am \- 8:00 am&nbsp;
-* 25 June, 6:30 am \- 8:30 am&nbsp;
-* 26 June, 7:00 am \- 9:00 am&nbsp;
-* 4 July, 4:30 am \- 6:30 am
-* 5 July, 5:00 am \- 7:00 am&nbsp;
-* 6 July, 5:30 am \- 7:30 am&nbsp;
-* 7 July, 6:00 am \- 8:00 am
+* 23 June, 5:30 am - 7:30 am&nbsp;
+* 24 June, 6:00 am - 8:00 am&nbsp;
+* 25 June, 6:30 am - 8:30 am&nbsp;
+* 26 June, 7:00 am - 9:00 am&nbsp;
+* 4 July, 4:30 am - 6:30 am
+* 5 July, 5:00 am - 7:00 am&nbsp;
+* 6 July, 5:30 am - 7:30 am&nbsp;
+* 7 July, 6:00 am - 8:00 am
 
 **Admission:** Adult: $73.80, Child (under 12): $36<br> 
 **Venue:** Carpark 6, Changi Beach<br> 
@@ -28,7 +28,7 @@ Discover a hidden world under the sea - as the tide retreats, observe a mesmeris
 
 Learn basic coastal ecology and discover the intricate behaviours of these often–underestimated marine creatures. Following the guided exploration, teams will be led in a short direct action beach cleanup.&nbsp;
 
-Please apply the promo code "GOGREEN24" before checkout to enjoy a 10% discount!
+Please apply the promo code "**GOGREEN24**" before checkout to enjoy a 10% discount!
 
 <a class="btn-link" target="_blank" href="https://theuntamedpaths.com/i-e-m/"> 
 
@@ -42,7 +42,7 @@ Please apply the promo code "GOGREEN24" before checkout to enjoy a 10% discount!
 
 .btn-link { 
 
-display: inline-block; 
+display: none; 
 
 } 
 
