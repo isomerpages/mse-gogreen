@@ -12,13 +12,15 @@ description: ""
 **Venue:** Kallang Riverside (along Kallang MRT)<br> 
 **Organiser:** The Untamed Paths 
 
-Come dusk, experience the ‘wild side’ on this night adventure that brings you through a rainforest system. During the tour, slow down your footsteps and immerse yourself in the moment. You will be using your senses to pick out quirky creatures in their homes.&nbsp;&nbsp;
+Love otters? Discover the charismatic and curious world of the Smooth-Coated Otters, right here along urban waterways in Singapore!&nbsp;
 
-This naturalist night adventure takes place in a secondary rainforest trail on Sentosa, and is great for young adults, seniors and families alike. This immersive experience offers the possibility of encountering delightful surprises such as roosting whip snakes, dwarf bark scorpions, sunda scops owl, common amphibians, and many more!&nbsp;
+Embark on an unforgettable adventure led by renowned wildlife photographer and licensed tour guide, Yong Lin. Observe Smooth-Coated Otters in their natural habitat and gain insight into their behaviour and social dynamics. Uncover spraint spots and learn other markers and signs of otter activity, while exploring the unique spots they have claimed as their homes within the city. Learn how these fascinating creatures have made a comeback in Singapore and how our country is learning to co-exist and embrace their presence.&nbsp;
 
-Please apply the promo code "GGSG20OF" before checkout to enjoy a 20% discount!
+Along the way, keep your eyes peeled for encounters with other urban wildlife, including the majestic water monitors and vibrant hornbills. Whether you are a seasoned photographer or a budding enthusiast, this tour offers the perfect opportunity to hone your wildlife photography skills. This exploration aims to be&nbsp;educational and entertaining for participants of all ages. Gain a deeper appreciation for Singapore's wildlife and the importance of conservation efforts!&nbsp;
 
-<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/sentosa-naturalist-night-adventure/"> 
+Please apply the promo code "GOGREEN24" before checkout to enjoy a 10% discount!
+
+<a class="btn-link" target="_blank" href="https://forms.gle/qcX79bpjggHQmgkn6"> 
 
 <img src="/images/gogreensg_website-32.png"> 
 
