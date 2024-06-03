@@ -4,6 +4,8 @@ permalink: /introduction-to-birdwatching-a-sentosa-special/
 variant: markdown
 description: ""
 ---
+![Intro_to_Bird_Watching_Sentosa_Special](/images/Tours/Introduction_to_Birdwatching_A_Sentosa_Special.jpg)
+
 **Dates:** <br> 
 * 15, 22, 29 June, 7:00 am – 8:30 am&nbsp;&nbsp;
 * 6, 13 July, 7:00 am – 8:30 am
