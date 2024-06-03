@@ -28,11 +28,7 @@ What to expect:&nbsp;
 
  
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/gogreensg-creative-writing-workshop-for-children-with-earthtodorcas-tickets-914431026817"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/gogreensg-creative-writing-workshop-for-children-with-earthtodorcas-tickets-914431026817"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
