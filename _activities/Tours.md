@@ -805,6 +805,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/introduction-to-birdwatching-a-sentosa-special/">
+        <img src="/images/Tours/Introduction_to_Birdwatching_A_Sentosa_Special.jpg"></a>
+        <h2>Introduction to Birdwatching: A Sentosa Special</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $61.69/pax (registration required)</strong></li>
+          <li><strong>Venue: Siloso Point Station, Sentosa</strong></li>
+          <li><strong>Organiser: The Untamed Paths and Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Ever wondered what birds you can find on a small island such as Sentosa? In this tour, learn to identify local avian fauna by their appearance and unique calls.&nbsp;&nbsp;&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/introduction-to-birdwatching-a-sentosa-special/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
