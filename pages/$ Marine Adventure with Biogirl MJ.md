@@ -11,9 +11,7 @@ description: ""
 * 22, 23 June, 5:00 am – 7:00 am<br> 
 
 **Admission:** $60/pax<br> 
-
 **Venue:** Changi Beach<br> 
-
 **Organiser:** Just Keep Thinking
 
  
@@ -34,25 +32,15 @@ Children aged nine and below must be accompanied by an adult.
  
 
 <style> 
-
 .btn-link { 
-
-display: inline-block; 
-
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
