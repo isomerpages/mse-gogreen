@@ -29,34 +29,20 @@ This activity is recommended for participants aged 7 and above.
 
  
 
-<a class="btn-link" target="_blank" href="https://adventure.camelotsg.biz/product/go-green-sg-2024-southern-islands-eco-paddle-trail-lazarus"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://adventure.camelotsg.biz/product/go-green-sg-2024-southern-islands-eco-paddle-trail-lazarus"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: none; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
