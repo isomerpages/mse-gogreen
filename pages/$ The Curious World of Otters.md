@@ -20,7 +20,7 @@ Embark on an unforgettable adventure led by renowned wildlife photographer and l
 
 Along the way, keep your eyes peeled for encounters with other urban wildlife, including the majestic water monitors and vibrant hornbills. Whether you are a seasoned photographer or a budding enthusiast, this tour offers the perfect opportunity to hone your wildlife photography skills. This exploration aims to be&nbsp;educational and entertaining for participants of all ages. Gain a deeper appreciation for Singapore's wildlife and the importance of conservation efforts!&nbsp;
 
-Please apply the promo code "GOGREEN24" before checkout to enjoy a 10% discount!
+Please apply the promo code "**GOGREEN24**" before checkout to enjoy a 10% discount!
 
 <a class="btn-link" target="_blank" href="https://forms.gle/qcX79bpjggHQmgkn6"> 
 
@@ -34,7 +34,7 @@ Please apply the promo code "GOGREEN24" before checkout to enjoy a 10% discount!
 
 .btn-link { 
 
-display: inline-block; 
+display: none; 
 
 } 
 
