@@ -20,34 +20,20 @@ This naturalist night adventure takes place in a secondary rainforest trail on S
 
 Please apply the promo code "**GGSG20OF**" before checkout to enjoy a 20% discount!
 
-<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/sentosa-naturalist-night-adventure/"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/sentosa-naturalist-night-adventure/"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: none; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
