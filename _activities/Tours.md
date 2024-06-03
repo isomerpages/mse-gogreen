@@ -250,6 +250,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/naturalist-night-adventure-a-sentosa-special/">
+        <img src="/images/Tours/Naturalist_Night_Adventure___A_Sentosa_Special.jpg"></a>
+        <h2>Naturalist Night Adventure, A Sentosa Special</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 15, 21, 22, 28, 29 June; 5, 6, 12, 13 July</strong>
+          </li>
+          <li><strong>Admission: $69.41/pax</strong></li>
+          <li><strong>Venue: Siloso Point Station, Sentosa</strong></li>
+          <li><strong>Organiser: The Untamed Paths and Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Come dusk, experience the ‘wild side’ on this night adventure that brings you through a rainforest system. During the tour, slow down your footsteps and immerse yourself in the moment. You will be using your senses to pick out quirky creatures in their homes.&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/naturalist-night-adventure-a-sentosa-special/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
