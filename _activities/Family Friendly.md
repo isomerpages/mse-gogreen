@@ -537,6 +537,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/soft-toy-hospital-restoration-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/Soft_Toy_Hospital_Restoration_Workshop.png"></a>
+        <h2>Soft Toy Hospital Restoration Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: $30/pax</strong></li>
+          <li><strong>Venue: River Wonders Classroom</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group and Soft Toy Hospital</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/soft-toy-hospital-restoration-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/survive-the-collapse-a-sustainability-based-outdoor-scavenger-hunt/">
         <img src="/images/Others/hero_image__Collapse_after__1_.jpg"></a>
         <h2>Survive The Collapse, A Sustainability Based Outdoor Scavenger Hunt</h2>
