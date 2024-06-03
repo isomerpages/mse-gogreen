@@ -16,7 +16,6 @@ description: ""
 * Zoo Members: $28++/pax&nbsp;<br>
 
 (admission to the Parks is not required for this Workshop)<br> 
-
 **Venue:** River Wonders Classroom, 80 Mandai Lake Road<br> 
 **Organiser:** Mandai Wildlife Group and Soft Toy Hospital
 
@@ -33,7 +32,7 @@ The price excludes GST &amp; Eventbrite booking fee (non-refundable). Price incl
 
  
 
-<a class="btn-link" target="_blank" href="https://estore.mandai.com/education-workshop"> 
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/soft-toy-restoration-workshop-paid-tickets-900913997017?aff=oddtdtcreator"> 
 
 <img src="/images/gogreensg_website-32.png"> 
 
