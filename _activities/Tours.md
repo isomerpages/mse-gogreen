@@ -219,7 +219,7 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>
+	</div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1005,7 +1005,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
       <a href="/the-southern-islands-eco-paddle-trail/">
 	<img src="/images/Tours/The_Southern_Islands_Eco_Paddle_Trail.png"></a>
-        <h2>The Southern Islands Eco Paddle Trail
+        <h2>The Southern Islands Paddle Trail
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -1017,7 +1017,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>The Southern Islands Eco Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island. Learn about the islands' ecology, conservation efforts, and historical significance!
+        <p>The Southern Islands Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island. Learn about the islands' ecology, conservation efforts, and historical significance!
         </p>
       </div>
     </div>
