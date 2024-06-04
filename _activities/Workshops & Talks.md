@@ -890,4 +890,33 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/united-nations-global-compact-network-singapore-virtual-open-house-2024/">
+        <img src="/images/Events/GCNS_Virtual_Open_House.png"></a>
+        <h2>United Nations Global Compact Network Singapore – Virtual Open House 2024</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 11 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Virtual session (Zoom)</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Come participate in the Global Compact Network Singapore (GCNS) Virtual Open House 2024!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/united-nations-global-compact-network-singapore-virtual-open-house-2024/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
