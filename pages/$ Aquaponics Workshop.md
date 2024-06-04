@@ -20,7 +20,7 @@ Harvest both fish and plants from the system, and come up with ideas for utilisi
 Discuss the environmental benefits of aquaponics over traditional farming. You will also get to experience a mesmerising dancing fish show and get a delightful serving of spinach ice cream! 
 
 <a class="btn-link" target="_blank" href="https://forms.zohopublic.com/kcaportal/form/SPECIALPROMOAquaphonicsworkshop2223June2024/formperma/zKk8iMB6vwLsd5sqimr2YBK8mfoVrxDpAZwofAgXEtg">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
