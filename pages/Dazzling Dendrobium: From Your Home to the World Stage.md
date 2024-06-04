@@ -19,7 +19,7 @@ Dendrobium orchids produce beautiful and intricate flowers, making them a popula
 
 <style>
 	.btn-link {
-		display:  none;
+		display:  inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
