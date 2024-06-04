@@ -111,7 +111,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 2-15, 17-22, 24-29 June; 1-6, 8-13 July</strong>
+              Date: 12-15, 17-22, 24-29 June; 1-6, 8-13 July</strong>
           </li>
           <li><strong>Admission: Adult: $58 | Child: $38</strong></li>
           <li><strong>Venue: New Bahru, 46 Kim Yam Rd</strong></li>
@@ -185,6 +185,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/city-sprouts-signature-farm-tour-introduction-to-ways-of-waste/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/nature-art-trail-artscience-museum/">
+        <img src="/images/Workshop%20&amp;%20Talks/Nature_Art_Trail___ArtScience_Museum.jpg"></a>
+        <h2>Nature Art Trail @ ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 26 June; 10 July</strong>
+          </li>
+          <li><strong>Admission: $28/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join ArtScience Museum’s Education Specialist and learn the basics of field journaling to develop a deeper sense of appreciation for nature as a naturalist.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-art-trail-artscience-museum/" class="button-primary">
         Find out more
       </a>
     </div>
