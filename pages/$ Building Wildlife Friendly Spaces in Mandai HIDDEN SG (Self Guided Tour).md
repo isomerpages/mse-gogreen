@@ -9,14 +9,14 @@ description: ""
 **Date:** 12 June - 14 July, 8:00 am – 9:00 pm<br> 
 **Admission:** Free (registration required) <br> 
 **Venue:**  Entrance of Bird Paradise, 20 Mandai Lake Road<br> 
-**Organiser:** Mandai Wildlife Group and Hidden SG
+**Organiser:** Mandai Wildlife Group and Hidden.SG
 
 Solve clues in this self-guided adventure within the stunning green spaces of Mandai Wildlife West to discover its sustainable features.
 
 This interactive digital trail is hosted over the messaging app, WhatsApp. Upon registration, participants will need to be at Mandai Wildlife West to solve puzzles, uncover fun facts about its wildlife friendly features, and collect yummy rewards.
 
 Explore new spaces and discover more about Mandai’s efforts in protecting biodiversity and minimising its impact on the environment.
-This Go Green SG exclusive trail is a collaboration between Mandai Wildlife Group and HIDDEN.sg.&nbsp;&nbsp;
+This Go Green SG exclusive trail is a collaboration between Mandai Wildlife Group and Hidden.SG. 
 
 This activity is suitable for people with mobility issues.
 
@@ -24,7 +24,7 @@ This activity is suitable for people with mobility issues.
 
 <style> 
 .btn-link { 
-display: inline-block; 
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
