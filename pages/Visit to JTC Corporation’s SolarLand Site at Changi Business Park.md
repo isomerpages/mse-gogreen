@@ -22,13 +22,11 @@ The highlights of the visit include an up-close showcase of solar panels, a mobi
 Join this educational and inspiring exploration of renewable energy at SolarLand!
 
 
-<a class="btn-link" target="_blank" href="https://form.gov.sg/6646b61e738260e758e3c243">
-	<img src="/images/gogreensg_website-32.png">
-</a>
+<a class="btn-link" target="_blank" href="https://form.gov.sg/6646b61e738260e758e3c243"><img src="/images/gogreensg_website-32.png"></a>
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
