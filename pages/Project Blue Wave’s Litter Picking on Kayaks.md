@@ -24,7 +24,7 @@ Explore our beautiful reservoirs on kayaks while picking up litter. Learn how yo
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
