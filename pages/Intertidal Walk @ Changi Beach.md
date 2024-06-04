@@ -19,7 +19,7 @@ If you are lucky, you might even see the Estuarine Seahorse and Knobbly Sea Star
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 
