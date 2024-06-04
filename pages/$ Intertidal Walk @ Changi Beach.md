@@ -21,8 +21,6 @@ If you are lucky, you might even see the Estuarine Seahorse and Knobbly Sea Star
 
 <img src="/images/gogreensg_website-32.png"></a> 
 
- 
-
 <style> 
 .btn-link { 
 display: inline-block; 
