@@ -21,34 +21,18 @@ Please prepare an extra $8/pax to pay to the boatman directly for a round trip b
 
  
 
-<a class="btn-link" href="https://lorisowl.wordpress.com/ubin-shore-to-hill-walk/"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
-
- 
+<a target="_blank" class="btn-link" href="https://lorisowl.wordpress.com/ubin-shore-to-hill-walk/"><img src="/images/gogreensg_website-32.png"></a> 
 
 <style> 
-
 .btn-link { 
-
 display: inline-block; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
