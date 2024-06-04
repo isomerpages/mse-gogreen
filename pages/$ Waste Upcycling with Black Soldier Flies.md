@@ -19,34 +19,18 @@ This activity is suitable for individuals with mobility issues.
 
  
 
-<a class="btn-link" href="https://forms.zohopublic.com/kcaportal/form/SPECIALPROMOWasteUpcyclingWithBlackSoldierFlieswor/formperma/yxENdBARDGQHKG-UEGgPjR8xR8_MB0aWT3BTULz15Ig"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
-
- 
+<a class="btn-link" href="https://forms.zohopublic.com/kcaportal/form/SPECIALPROMOWasteUpcyclingWithBlackSoldierFlieswor/formperma/yxENdBARDGQHKG-UEGgPjR8xR8_MB0aWT3BTULz15Ig"><img src="/images/gogreensg_website-32.png"> </a> 
 
 <style> 
-
 .btn-link { 
-
 display: inline-block; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
