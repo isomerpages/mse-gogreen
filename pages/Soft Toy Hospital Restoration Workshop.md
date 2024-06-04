@@ -12,8 +12,8 @@ description: ""
 * 3:30 pm – 5:00 pm<br>
 
 **Admission:** 
-* Public: $30++/pax
-* Zoo Members: $28++/pax&nbsp;<br>
+* Public: $60++/pax
+* Zoo Members: $36++/pax&nbsp;<br>
 * Admission to the Parks is not required for this workshop<br> 
 
 **Venue:** River Wonders Classroom, 80 Mandai Lake Road<br> 
