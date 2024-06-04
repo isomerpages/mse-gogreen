@@ -1604,7 +1604,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/intertidal-walk-changi-beach/">
+        <img src="/images/Tours/Intertidal_Walk___Changi_Beach.png"></a>
+        <h2>Intertidal Walk @ Changi Beach</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Changi Beach</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>When the tide goes out, the rich intertidal zone at Changi Beach is unveiled in all its glory.&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/intertidal-walk-changi-beach/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/urban-wilderness-a-foraging-tour-of-city-hall/">
