@@ -25,7 +25,7 @@ Don’t miss out on the chance to join IMH in making a positive impact on de-sti
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
