@@ -15,8 +15,6 @@ When the tide goes out, the rich intertidal zone at Changi Beach is unveiled in 
 
 If you are lucky, you might even see the Estuarine Seahorse and Knobbly Sea Star. Join this intertidal adventure and experience Changi Beach at its best!
 
- 
-
 <a class="btn-link" href="https://lorisowl.wordpress.com/changi-beach/"> 
 
 <img src="/images/gogreensg_website-32.png"></a> 
