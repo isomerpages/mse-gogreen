@@ -6,24 +6,24 @@ description: ""
 ---
 ![NUS_GCNS_Climate_Change_for_Leaders](/images/Workshop%20&amp;%20Talks/NUS_x_GCNS_Climate_Change_for_Leaders_Programme.jpg)
 
-**Date:** 3 – 4 July, 9:30 am \- 6:00 pm <br> 
+**Date:** 3 – 4 July, 9:30 am - 6:00 pm <br> 
 **Admission:**
-*   Non\-Singaporean / PR: $1,700 (before GST)
-*   Subsidised rates for Enterprise Training Support / Singaporeans/PRs above 40 years old: $215.90 (after GST)&nbsp;
+*   Non-Singaporean / PR: $1,700 (before GST)
+*   Subsidised rates for Enterprise Training Support / Singaporeans/PRs above 40 years old: $215.90 (after GST)
 *   Subsidised rates for Singaporeans/PRs below 40 years old: $555.90 (after GST)<br> 
 
 **Venue:** NUS Business School, 15 Kent Ridge Drive, Seminar room 3-3, Mochtar Riady Building  <br> 
 **Organiser:** United Nations Global Compact Network Singapore   
 
-Unlock the power of climate action with Global Compact Network Singapore (GCNS) and NUS Centre for Governance and Sustainability’s new course - Climate Change for Leaders: Risks, Opportunities and Sustainable Finance.&nbsp;&nbsp;
+Unlock the power of climate action with Global Compact Network Singapore (GCNS) and NUS Centre for Governance and Sustainability’s new course - Climate Change for Leaders: Risks, Opportunities and Sustainable Finance.
 
-This course is designed to help business leaders and executives gain an in-depth understanding of the dynamics of climate change, sustainable finance and ESG (Environmental, Social and Governance) topics in the Asia context.&nbsp;&nbsp;
+This course is designed to help business leaders and executives gain an in-depth understanding of the dynamics of climate change, sustainable finance and ESG (Environmental, Social and Governance) topics in the Asia context.
 
-Course outline:&nbsp;&nbsp;<br>&nbsp;
-\- Deepen your knowledge and understanding of climate change from different perspectives&nbsp;<br>&nbsp;
-\- Learn the basics of carbon measurement and management&nbsp;&nbsp;<br>&nbsp;
-\- Enhance capabilities in sustainable finance leadership&nbsp;&nbsp;<br>&nbsp;
-\- Understand the business case of sustainability and carbon management in the Asia context&nbsp;
+Course outline: <br>
+- Deepen your knowledge and understanding of climate change from different perspectives<br>
+- Learn the basics of carbon measurement and management<br>
+- Enhance capabilities in sustainable finance leadership<br>
+- Understand the business case of sustainability and carbon management in the Asia context
 
 This activity is suitable for participants with mobility issues.
 
