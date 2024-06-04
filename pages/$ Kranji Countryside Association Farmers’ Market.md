@@ -31,25 +31,15 @@ Register before 8 June to receive a free door gift!
  
 
 <style> 
-
 .btn-link { 
-
 display: inline-block; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
