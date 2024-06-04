@@ -243,6 +243,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/the-building-blocks-of-sustainability-tactile-display/">
+        <img src="/images/Others/The_Building_Blocks_of_Sustainability_Tactile_Display.jpg"></a>
+        <h2>The Building Blocks of Sustainability Tactile Display</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1-14 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required) </strong></li>
+          <li><strong>Venue: ArtScience Museum, Mezzanine</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This newly launched tactile display at the ArtScience Museum spotlights different materials used to reduce the museum’s carbon footprint.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-building-blocks-of-sustainability-tactile-display/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
