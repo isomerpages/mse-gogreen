@@ -111,7 +111,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 12 - 14 July</strong>
+              Date: 12 June - 14 July</strong>
           </li>
           <li><strong>Organiser: Otolith Enrichment</strong></li>
         </ul>
