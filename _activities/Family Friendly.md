@@ -1477,6 +1477,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/kranji-countryside-association-farmers-market/">
+        <img src="/images/Events/Kranji_Countryside_Association_Farmers__Market.jpg"></a>
+        <h2>Kranji Countryside Association Farmers’ Market</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 and 23 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Nippon Koi Farm</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about the importance of sustainable living and the benefits of supporting local agriculture at the Kranji Countryside Association (KCA) Farmers’ Market.  </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/kranji-countryside-association-farmers-market/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/plastic-playday-sort-shred-extrude-and-sculpt/">
 				<img src="/images/Initiatives/Plastic_Playday___SC.png"></a>
         <h2>Plastic Playday: Sort, Shred, Extrude and Sculpt</h2>
@@ -1675,7 +1703,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-			<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/intertidal-walk-changi-beach/">
+        <img src="/images/Tours/Intertidal_Walk___Changi_Beach.png"></a>
+        <h2>Intertidal Walk @ Changi Beach</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Changi Beach</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>When the tide goes out, the rich intertidal zone at Changi Beach is unveiled in all its glory.&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/intertidal-walk-changi-beach/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>		
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/what-s-in-my-mud/">
