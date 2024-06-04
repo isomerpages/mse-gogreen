@@ -6,9 +6,9 @@ description: ""
 ---
 ![Art_Jam_Nature_Senses_andMe](/images/Workshop%20&amp;%20Talks/Art_Jam_Nature__Senses_and_Me.jpg)
 
-**Dates:** 
-* 14, 21 June, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm
-* 5 July, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm  <br> 
+**Date:** 
+14, 21 June, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm<br> 
+5 July, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm  <br> 
 
 **Admission:** $8 per canvas, inclusive of art materials <br> 
 **Venue:** ArtScience Museum  <br> 
