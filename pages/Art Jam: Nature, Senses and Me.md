@@ -26,7 +26,7 @@ This activity is recommended for families and participants above age 7, and is s
 
 <style> 
 .btn-link { 
-display: inline-block; 
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
