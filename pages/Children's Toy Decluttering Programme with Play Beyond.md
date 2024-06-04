@@ -20,7 +20,7 @@ This programme is suitable for families who want to declutter their homes, reduc
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
