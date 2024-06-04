@@ -6,10 +6,9 @@ description: ""
 ---
 ![The_Southern_Islands_Eco_Paddle_Trail](/images/Tours/The_Southern_Islands_Eco_Paddle_Trail.png)
 
-**Dates:** <br>
-* 16 June, 9:30 am – 12:30 pm &nbsp;<br>
-* 30 June, 9:30 am – 12:30 pm
-* 14 July, 9:30 am – 12:30 pm<br> 
+**Date:** <br>
+16, 30 June, 9:30 am – 12:30 pm &nbsp;<br>
+14 July, 9:30 am – 12:30 pm<br> 
 
 **Admission:** $70/pax (includes 2-way ferry ticket from Marina South Pier)<br> 
 **Venue:** Meeting point: Singapore Island Cruise Counter (Marina South Pier)<br> 
