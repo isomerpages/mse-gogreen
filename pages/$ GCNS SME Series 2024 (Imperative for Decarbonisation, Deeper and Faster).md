@@ -8,13 +8,13 @@ description: ""
 
 **Date:** 27 June, 9:30 am – 11:30 am  <br> 
 **Admission:** <br>
-* Non members: $30/pax&nbsp;
+* Non members: $30/pax
 * GCNS members: $15/pax <br> 
 
 **Venue:** Prudential Tower, 30 Cecil Street #30-01  <br> 
 **Organiser:** United Nations Global Compact Network Singapore   
 
-Small and Medium-sized Enterprises (SMEs) form the backbone of Singapore’s economy, contributing significantly to economic activities. In light of climate change, SMEs play a pivotal role in accelerating the transition to a low-carbon economy. However, navigating the complexities of decarbonisation while managing day-to-day operations can be challenging for SMEs.&nbsp;&nbsp;
+Small and Medium-sized Enterprises (SMEs) form the backbone of Singapore’s economy, contributing significantly to economic activities. In light of climate change, SMEs play a pivotal role in accelerating the transition to a low-carbon economy. However, navigating the complexities of decarbonisation while managing day-to-day operations can be challenging for SMEs.
 
 This session seeks to provide insights to Singapore’s decarbonisation goals and how SMEs can collaborate towards a shared vision of a low-carbon future, in alignment with the Singapore Green Plan 2030. Hear success stories from LowCarbon SG participants and be inspired to take action. This session also serves as a platform for SMEs to voice their views on decarbonisation and network among peers.&nbsp;
 
