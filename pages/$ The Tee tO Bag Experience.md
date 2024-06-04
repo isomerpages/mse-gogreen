@@ -7,7 +7,7 @@ description: ""
 ![Tee_to_Bag_Experience](/images/Workshop%20&amp;%20Talks/The_Tee_tO_Bag_Experience.jpg)
 
 **Dates:** 
-* 2- 15, 17-22, 24-29 June, 11:00 am – 8:00 pm&nbsp;
+* 2- 15, 17-22, 24-29 June, 11:00 am – 8:00 pm
 * 1-6, 8-13 July, 11:00 am – 8:00 pm  <br> 
 
 **Admission:** Adult: $58 | Child: $38 <br> 
@@ -16,9 +16,9 @@ description: ""
 
 Reduce waste through upcycling with the Tee-tO\-Bag Experience.&nbsp;&nbsp;
 
-Bring along and repurpose your outgrown and old tees! Transform them into an all-new Tee Bag which you can carry around daily.&nbsp;&nbsp;
+Bring along and repurpose your outgrown and old tees! Transform them into an all-new Tee Bag which you can carry around daily.
 
-Kids can also take part in the upcycling process by using off-cuts from tees to create little bag charms, and placing cut-out letters onto the bags with help from GINLEE Studio. &nbsp;
+Kids can also take part in the upcycling process by using off-cuts from tees to create little bag charms, and placing cut-out letters onto the bags with help from GINLEE Studio. 
 
 This activity is recommended for those 5 years old and above.
 
