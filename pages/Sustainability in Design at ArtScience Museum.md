@@ -28,7 +28,7 @@ Ticket price includes entry to the Goddess: Brave. Bold. Beautiful. exhibition a
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 
