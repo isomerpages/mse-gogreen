@@ -34,7 +34,7 @@ What to expect:&nbsp;
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 
