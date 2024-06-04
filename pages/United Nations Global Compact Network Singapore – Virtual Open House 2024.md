@@ -29,7 +29,7 @@ Also, hear from GCNS members on how sustainability pillars can work for all orga
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
