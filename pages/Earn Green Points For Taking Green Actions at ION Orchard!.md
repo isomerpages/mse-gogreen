@@ -24,7 +24,7 @@ Each Green Point awarded is equivalent to 1 ION+ Point, and each member can earn
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
