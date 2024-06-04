@@ -9,7 +9,7 @@ description: ""
 **Date:** 12 June to 14 July<br>
 **Admission:** $12 per adult/child pair <br>
 **Venue:** Changi Airport Terminal 3 <br>
-**Organiser:** Changi Airport Group and Hidden SG
+**Organiser:** Changi Airport Group and Hidden.SG
 
 Imagine an airport that’s more than just a transit hub, but also a trailblazer in sustainability! Through Changi Airport’s award-winning immersive real-world adventure game, gain exclusive insights into how green practices are seamlessly integrated into the design of Changi Airport. Explore the airport with the legendary Void Deck Cat, a curious spirit who knows every leafy secret and sustainable story hidden in this architectural marvel. 
 
@@ -21,7 +21,7 @@ This activity is suitable for students, families, tourists, and participants wit
 
 <style>
 	.btn-link {
-		display: inline-block;
+		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
