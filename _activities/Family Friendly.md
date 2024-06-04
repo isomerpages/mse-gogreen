@@ -1363,6 +1363,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/wiggle-works-vermicomposting-workshop-at-changi-airport/">
+        <img src="/images/Workshop%20&amp;%20Talks/Wiggle_Works_Vermicomposting_Workshop_at_Changi_Airport.jpg"></a>
+        <h2>Wiggle Works Vermicomposting Workshop at Changi Airport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $25 per pax (additional $10 per accompanying child)</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2, Hub &amp; Spoke</strong></li>
+          <li><strong>Organiser: Changi Airport Group </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Changi Airport Group and delve into the world of vermicomposting! Understand the role of worms in sustainability and assemble your own home vermicomposting kits.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wiggle-works-vermicomposting-workshop-at-changi-airport/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
