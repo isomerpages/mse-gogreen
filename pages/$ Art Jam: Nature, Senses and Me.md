@@ -7,14 +7,14 @@ description: ""
 ![Art_Jam_Nature_Senses_andMe](/images/Workshop%20&amp;%20Talks/Art_Jam_Nature__Senses_and_Me.jpg)
 
 **Dates:** 
-* 14, 21 June, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm&nbsp;
+* 14, 21 June, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm
 * 5 July, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm  <br> 
 
 **Admission:** $8 per canvas, inclusive of art materials <br> 
 **Venue:** ArtScience Museum  <br> 
 **Organiser:** Marina Bay Sands  
 
-Unleash your creativity and express yourself in an hour\-long Art Jam! Grab a canvas, find a cosy spot, and create an image of the Lily Pond surrounding the museum! Art materials and recycled materials will be provided, and you’ll get to bring home your own masterpiece.&nbsp;&nbsp;
+Unleash your creativity and express yourself in an hour\-long Art Jam! Grab a canvas, find a cosy spot, and create an image of the Lily Pond surrounding the museum! Art materials and recycled materials will be provided, and you’ll get to bring home your own masterpiece.
 
 This activity is recommended for families and participants above age 7, and is suitable for participants with mobility issues.
 
