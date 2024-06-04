@@ -228,7 +228,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>To commemorate World Environment Day, join YTL PowerSeraya at the inaugural Singapore screening of The Human Element, an award-winning movie on climate change.
+        <p>To commemorate World Environment Day, join YTL PowerSeraya Pte. Limited at the inaugural Singapore screening of The Human Element, an award-winning movie on climate change.
         </p>
       </div>
     </div>
