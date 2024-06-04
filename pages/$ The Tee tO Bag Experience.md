@@ -24,34 +24,20 @@ This activity is recommended for those 5 years old and above.
 
  
 
-<a class="btn-link" href="https://www.ginleestudio.com/collections/make-experiences/products/make-o-the-tee-to-bag-experience"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a target="_blank" class="btn-link" href="https://www.ginleestudio.com/collections/make-experiences/products/make-o-the-tee-to-bag-experience"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: inline-block; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
