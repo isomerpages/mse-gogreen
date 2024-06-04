@@ -6,11 +6,14 @@ description: ""
 ---
 ![Naturalist_Night_Adventure_Sentosa_Special](/images/Tours/Naturalist_Night_Adventure___A_Sentosa_Special.jpg)
 
-**Dates:** <br> 
-* 14, 15, 21, 22, 28, 29 June, 7:30 pm – 9:00 pm&nbsp;&nbsp;
-* 5, 6, 12, 13 July, 7:30 pm – 9:00 pm
+**Date:** <br> 
+14, 15, 21, 22, 28, 29 June, 7:30 pm – 9:00 pm <br> 
+5, 6, 12, 13 July, 7:30 pm – 9:00 pm<br> 
 
-**Admission:** $69.41/pax, <br>Family bundle (2 adults and 2 children under 12 years old): $244.94<br> 
+**Admission:** <br> 
+* $69.41/pax <br>
+* Family bundle (2 adults and 2 children under 12 years old): $244.94<br> 
+
 **Venue:** Siloso Point Station, Sentosa<br> 
 **Organiser:** The Untamed Paths and Sentosa Development Corporation
 
