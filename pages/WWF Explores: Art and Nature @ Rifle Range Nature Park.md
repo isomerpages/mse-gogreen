@@ -22,30 +22,14 @@ During the walk, discover creative ways to enjoy nature through drawing, colouri
 This activity is recommended for families with children between the ages of 7 to 16.
 
 
-<a class="btn-link" target="_blank" href="http://www.eventbrite.com/e/wwf-explores-art-and-nature-rifle-range-nature-park-tickets-900979643367?aff=oddtdtcreator">
-	<img src="/images/gogreensg_website-32.png">
-</a>
+<a class="btn-link" target="_blank" href="http://www.eventbrite.com/e/wwf-explores-art-and-nature-rifle-range-nature-park-tickets-900979643367?aff=oddtdtcreator"><img src="/images/gogreensg_website-32.png"></a>
+
+
+<a class="btn-link" target="_blank" href="http://www.wwf.sg/closer-to-home/green-cities"><img src="/images/more-info-btn.png"></a>
 
 <style>
 	.btn-link {
 		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
-
-
-<a class="btn-link" target="_blank" href="http://www.wwf.sg/closer-to-home/green-cities">
-	<img src="/images/more-info-btn.png">
-</a>
-
-<style>
-	.btn-link {
-		display: none;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
