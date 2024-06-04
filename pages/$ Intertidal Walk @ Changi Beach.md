@@ -11,7 +11,7 @@ description: ""
 **Venue:** Changi Beach  <br> 
 **Organiser:** Loris &amp; Owl  
 
-When the tide goes out, the rich intertidal zone at Changi Beach is unveiled in all its glory. Hosting a myriad of life forms from mesmerising Sea Stars (‘Starfish’) to Anemones, Sea Cucumbers, Snapping Shrimps, Crabs, Soft Corals, Whelks, Hermit Crabs, Sea Squirts, Sand Dollars, it is always a delight to explore these shores.&nbsp;&nbsp;
+When the tide goes out, the rich intertidal zone at Changi Beach is unveiled in all its glory. Hosting a myriad of life forms from mesmerising Sea Stars (‘Starfish’) to Anemones, Sea Cucumbers, Snapping Shrimps, Crabs, Soft Corals, Whelks, Hermit Crabs, Sea Squirts, Sand Dollars, it is always a delight to explore these shores.
 
 If you are lucky, you might even see the Estuarine Seahorse and Knobbly Sea Star. Join this intertidal adventure and experience Changi Beach at its best!
 
