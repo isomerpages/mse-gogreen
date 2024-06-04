@@ -546,35 +546,6 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/circular-aquaponics-eco-farm-tour/">
-				<img src="/images/Tours/Circular_Aquaponics_Eco_Farm.jpg"></a>
-        <h2>Circular Aquaponics Eco Farm Tour</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Dates: 15, 29 June; 6 July</strong>
-          </li>
-          <li><strong>Admission: $33 (Adult), $33 (Child), $44 (Parent + Child) </strong></li>
-          <li><strong>Venue: Care Farm @ Ang Mo Kio, Ang Mo Kio Industrial Park 2</strong></li>
-          <li><strong>Organiser: Otolith Enrichment</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Spark a love for learning and sustainability in your children with an exciting tour of this Care Farm hidden in Ang Mo Kio! 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/circular-aquaponics-eco-farm-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
 				<a href="/air-conditioner-recycling-tour-at-gain-city-megastore/">
 				<img src="/images/Tours/Gain_City.jpg"></a>
         <h2>Air Conditioner Recycling Tour at Gain City Megastore</h2>
