@@ -25,7 +25,7 @@ Participants should be at least 18 years old and must be able to climb up and do
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
