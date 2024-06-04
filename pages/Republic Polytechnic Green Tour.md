@@ -28,7 +28,7 @@ This activity is suitable for all ages.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
