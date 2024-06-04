@@ -6,12 +6,14 @@ description: ""
 ---
 ![Intro_to_Bird_Watching_Sentosa_Special](/images/Tours/Introduction_to_Birdwatching_A_Sentosa_Special.jpg)
 
-**Dates:** <br> 
-* 15, 22, 29 June, 7:00 am – 8:30 am&nbsp;&nbsp;
-* 6, 13 July, 7:00 am – 8:30 am
+**Date:** <br> 
+15, 22, 29 June, 7:00 am – 8:30 am <br> 
+6, 13 July, 7:00 am – 8:30 am
 
-**Admission:** $61.69/pax,&nbsp;<br>
-Family bundle (2 adults and 2 children under 12 years old): $217.73<br> 
+**Admission:** 
+* $61.69/pax,&nbsp;<br>
+* Family bundle (2 adults and 2 children under 12 years old): $217.73<br> 
+
 **Venue:** Siloso Point Station, Sentosa<br> 
 **Organiser:** The Untamed Paths and Sentosa Development Corporation
 
