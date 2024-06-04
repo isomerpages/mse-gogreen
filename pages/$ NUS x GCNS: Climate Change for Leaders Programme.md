@@ -7,7 +7,7 @@ description: ""
 ![NUS_GCNS_Climate_Change_for_Leaders](/images/Workshop%20&amp;%20Talks/NUS_x_GCNS_Climate_Change_for_Leaders_Programme.jpg)
 
 **Date:** 3 – 4 July, 9:30 am - 6:00 pm <br> 
-**Admission:**
+**Course Fees:**
 *   Non-Singaporean / PR: $1,700 (before GST)
 *   Subsidised rates for Enterprise Training Support / Singaporeans/PRs above 40 years old: $215.90 (after GST)
 *   Subsidised rates for Singaporeans/PRs below 40 years old: $555.90 (after GST)<br> 
@@ -29,9 +29,7 @@ This activity is suitable for participants with mobility issues.
 
  
 
-<a class="btn-link" href="https://unglobalcompact.sg/activity?id=5cf7e5b6-b7b2-40b8-85b0-e0d747a028d2"> 
-
-<img src="/images/gogreensg_website-32.png"></a> 
+<a target="_blank" class="btn-link" href="https://unglobalcompact.sg/activity?id=5cf7e5b6-b7b2-40b8-85b0-e0d747a028d2"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
