@@ -19,7 +19,7 @@ Join City Sprouts on their Signature Farm Tour to learn about the different ways
 
 Meet the chickens, ducks, and quails of City Sprouts and learn how to deal with numerous types of waste sustainably using various methods. Experience techniques such as composting, utilising worms, people-powered recycling and new biodigester technologies! Each of these methods turn different types of waste into something of value.
 
-Registration for July runs opens on 13 June, 10:00 am.
+**Registration for July runs opens on 13 June, 10:00 am.**
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110">
 	<img src="/images/gogreensg_website-32.png">
@@ -27,7 +27,7 @@ Registration for July runs opens on 13 June, 10:00 am.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
