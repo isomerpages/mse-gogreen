@@ -4,7 +4,7 @@ permalink: /be-the-change-one-action-a-day/
 variant: markdown
 description: ""
 ---
- ![Be_The_Change](/images/Initiatives/BE_THE_CHANGE___One_Action_A_Day.png)
+![Be_The_Change](/images/Initiatives/BE_THE_CHANGE___One_Action_A_Day.png)
  
  **Date:** 12 June to 14 July <br> 
 **Admission:** Free (registration required) <br> 
