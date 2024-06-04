@@ -29,7 +29,7 @@ Children aged nine and below must be accompanied by an adult.
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 
