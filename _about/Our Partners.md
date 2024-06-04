@@ -105,7 +105,16 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Technological_University_Earth_Observatory_Singapore.png">
 		</div>
 	</div>
-	</div>
+	<div class="two-col__item">
+		<div class="two-col__item__body">
+			<p class="two-col__item__title"><strong>Science, Technology, Engineering, and Math via Design Thinking (STEMviaDT) by Dunman Secondary School</strong></p>
+			<p>The STEMviaDT programme allows students to apply STEM knowledge and skills and Design Thinking to come up with innovative solutions to solve real life issues in the community through Values in Action. This signature programme also affords students to be stewards for sustainability development by examining sustainability-related issues in Singapore.</p>
+		</div>
+		<div class="two-col__item__image">
+			<img src="/images/Our_Partners_2024/Educational_Institutions/Dunman_Sec_Logo.png">
+		</div>
+	</div>	
+</div>
 	
 ## Corporates
 <div class="two-col">
@@ -149,4 +158,3 @@ Here are some other ways our partners are Going Green, their way!
 			<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Kwong_Wai_Shiu_Hospital.png">
 </div>
 	</div></div>
-	
