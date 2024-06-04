@@ -29,7 +29,7 @@ This activity is recommended for participants who are above 10 years old.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
