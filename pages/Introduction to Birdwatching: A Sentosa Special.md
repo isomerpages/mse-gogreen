@@ -31,7 +31,7 @@ Please apply the promo code "**GGSG20OFF**" before checkout to enjoy a 20% disco
 
 .btn-link { 
 
-display: none; 
+display: inline-block; 
 
 } 
 
