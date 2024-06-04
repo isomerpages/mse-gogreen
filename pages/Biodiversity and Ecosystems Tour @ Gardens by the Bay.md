@@ -25,7 +25,7 @@ This special tour includes free entry to Flower Dome for Singapore Residents.
 
 This 1-hour activity involves walking in the outdoor gardens. Gardens by the Bay is wheelchair-accessible.
 
-Registration for the July runs opens on 13 June, 10:00 am.
+**Registration for the July runs opens on 13 June, 10:00 am.**
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-biodiversity-and-ecosystems-june-tickets-891473861317?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">
@@ -33,7 +33,7 @@ Registration for the July runs opens on 13 June, 10:00 am.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
