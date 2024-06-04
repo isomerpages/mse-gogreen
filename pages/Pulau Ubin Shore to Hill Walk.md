@@ -25,7 +25,7 @@ Please prepare an extra $8/pax to pay to the boatman directly for a round trip b
 
 <style> 
 .btn-link { 
-display: inline-block; 
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
