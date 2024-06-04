@@ -129,7 +129,7 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-					  <div class="programmes__item col is-one-third">
+						  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
@@ -1642,6 +1642,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/community-visit-to-repair-kopitiam/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/storytelling-session-the-curious-garden/">
+        <img src="/images/Workshop%20&amp;%20Talks/Storytelling_Session_The_Curious_Garden.png"></a>
+        <h2>Storytelling Session: The Curious Garden</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date:  3 July</strong>
+          </li>
+          <li><strong>Admission: $28/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Why are gardens important? In this storytelling session, you will meet Liam, a boy taking care of a struggling garden. Design a garden in Augmented Reality! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/storytelling-session-the-curious-garden/" class="button-primary">
         Find out more
       </a>
     </div>
