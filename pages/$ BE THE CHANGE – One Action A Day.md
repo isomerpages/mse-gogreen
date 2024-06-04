@@ -17,11 +17,8 @@ The activities are suitable for families and individuals, with options catered f
 
  
 
-<a class="btn-link" href="https://bethechangesg.com/"> 
+<a target="_blank" class="btn-link" href="https://bethechangesg.com/"><img src="/images/gogreensg_website-32.png"></a> 
 
-<img src="/images/gogreensg_website-32.png"></a> 
-
- 
 
 <style> 
 .btn-link { 
