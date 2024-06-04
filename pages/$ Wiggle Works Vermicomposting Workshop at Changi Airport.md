@@ -24,9 +24,7 @@ Changi Airport Group will also share real life examples and insights into how ve
 
  
 
-<a class="btn-link" href="https://www.changiairport.com/en/discover/latest-happenings/wiggle-works.html"> 
-
-<img src="/images/gogreensg_website-32.png"></a> 
+<a target="_blank" class="btn-link" href="https://www.changiairport.com/en/discover/latest-happenings/wiggle-works.html"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
@@ -42,4 +40,4 @@ display: none;
 .btn-link > img { 
 width: 100%; 
 } 
-</style> 
+</style>
