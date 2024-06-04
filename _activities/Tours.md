@@ -1171,7 +1171,7 @@ More activities will also be added progressively.</div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-				<a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/">
+				<a href="/singhealth-duke-nus-biodiversity-medicine-aquaponics-and-sustainability-workshop/">
 				<img src="/images/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine_Aquaponics_Workshop_Poster.jpg"></a>
         <h2>SingHealth - Duke NUS Biodiversity Medicine Aquaponics and Sustainability Workshop</h2>
       </div>
@@ -1192,7 +1192,7 @@ More activities will also be added progressively.</div>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/aquaponics-and-sustainability-workshop-national-cancer-centre-singapore/" class="button-primary">
+      <a href="/singhealth-duke-nus-biodiversity-medicine-aquaponics-and-sustainability-workshop/" class="button-primary">
         Find out more
       </a>
     </div>
