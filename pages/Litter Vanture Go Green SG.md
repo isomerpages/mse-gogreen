@@ -23,7 +23,7 @@ Litter-picking equipment will be provided.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
