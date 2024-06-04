@@ -24,7 +24,7 @@ Good air quality is important in safeguarding public health. Find out how ambien
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
