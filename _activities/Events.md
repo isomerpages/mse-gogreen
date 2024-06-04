@@ -224,7 +224,7 @@ More activities will also be added progressively.</div>
           <li><strong>Dates: 29 June</strong></li>
           <li><strong>Admission: Free (Registration is required)</strong></li>
 <li><strong>Venue: Eco Lake Lawn, Singapore Botanic Gardens</strong></li>
-          <li><strong>Organiser: YTL PowerSeraya</strong></li>
+          <li><strong>Organiser: YTL PowerSeraya Pte. Limited</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
