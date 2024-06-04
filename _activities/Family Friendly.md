@@ -276,6 +276,34 @@ More activities will also be added progressively.</div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/">
+        <img src="/images/Tours/Building_Wildlife_Friendly_Spaces_in_Mandai_HIDDEN_sg_Self_Guided_Tour__2_.jpg"></a>
+        <h2>Building Wildlife Friendly Spaces in Mandai</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Entrance of Bird Paradise</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group and Hidden.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Solve clues in this self-guided adventure within the stunning green spaces of Mandai Wildlife West to discover its sustainable features.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/co-nut-ink-ecosystem-program/">
 					<img src="/images/Workshop%20Talks/CNI_1.jpg"></a>
         <h2>Co⁺Nut⁺ink Ecosystem Program
