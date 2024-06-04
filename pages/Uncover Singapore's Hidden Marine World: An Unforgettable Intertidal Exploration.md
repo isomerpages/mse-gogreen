@@ -36,7 +36,7 @@ Please apply the promo code "**GOGREEN24**" before checkout to enjoy a 10% disco
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 
