@@ -23,19 +23,7 @@ Join the Sustainability School and become a sustainability ambassador among your
 <a class="btn-link" target="_blank" href="https://www.se.com/sg/en/work/solutions/sustainability/school-training-and-online-courses.jsp">
 	<img src="/images/gogreensg_website-32.png">
 </a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
-
+<br>
 
 <a class="btn-link" target="_blank" href="https://www.youtube.com/watch?v=zGkljg-PDhQ">
 	<img src="/images/more-info-btn.png">
@@ -43,7 +31,7 @@ Join the Sustainability School and become a sustainability ambassador among your
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
