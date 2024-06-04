@@ -22,7 +22,7 @@ The activities are suitable for families and individuals, with options catered f
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 
