@@ -11,7 +11,7 @@ description: ""
 * 4, 11, 18, 25 July, 4:00 pm - 5:00 pm  <br> 
 
 **Admission:** $20/pax <br> 
-**Venue:** ArtScience Museum  <br> 
+**Venue:** ArtScience Museum<br> 
 **Organiser:** Marina Bay Sands  
 
 Join Marina Bay Sands on a tour to learn more about the design and sustainability features integrated within ArtScience Museum. Learn about its architectural design elements, and behind-the-scenes processes on its exhibition-build, programme planning, and museum operations. &nbsp;
@@ -28,7 +28,7 @@ Ticket price includes entry to the Goddess: Brave. Bold. Beautiful. exhibition a
 
 <style> 
 .btn-link { 
-display: inline-block; 
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
