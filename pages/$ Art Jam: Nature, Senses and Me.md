@@ -6,7 +6,7 @@ description: ""
 ---
 ![Art_Jam_Nature_Senses_andMe](/images/Workshop%20&amp;%20Talks/Art_Jam_Nature__Senses_and_Me.jpg)
 
-**Date:** 
+**Date:** <br> 
 14, 21 June, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm<br> 
 5 July, 11:00 am – 1:00 pm, 3:00 pm – 5:00 pm  <br> 
 
