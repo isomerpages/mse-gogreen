@@ -14,7 +14,7 @@ description: ""
 **Venue:** New Bahru, 46 Kim Yam Rd, #02-10  <br> 
 **Organiser:** GINLEE Studio 
 
-Reduce waste through upcycling with the Tee-tO\-Bag Experience.&nbsp;&nbsp;
+Reduce waste through upcycling with the Tee-tO-Bag Experience.
 
 Bring along and repurpose your outgrown and old tees! Transform them into an all-new Tee Bag which you can carry around daily.
 
@@ -30,7 +30,7 @@ This activity is recommended for those 5 years old and above.
 
 <style> 
 .btn-link { 
-display: inline-block; 
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
