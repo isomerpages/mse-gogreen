@@ -27,7 +27,7 @@ Use the promo code “OTOLGGSG” to purchase  the organic fertiliser at a speci
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
