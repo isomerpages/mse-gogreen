@@ -11,11 +11,11 @@ description: ""
 **Venue:** Thomson Nature Park <br> 
 **Organiser:** Loris &amp; Owl  
 
-Thomson Nature Park and its environs host a stellar cast of fabulous forest denizens. The star attraction here is the rare Raffles’ Banded Langur, a leaf-chomping primate that regularly makes acrobatic leaps between trees.&nbsp;&nbsp;
+Thomson Nature Park and its environs host a stellar cast of fabulous forest denizens. The star attraction here is the rare Raffles’ Banded Langur, a leaf-chomping primate that regularly makes acrobatic leaps between trees.
 
-Other resident mammals include cheeky Long-tailed Macaques, Wild Pigs, as well as cute Slender and Plantain Squirrels.&nbsp;&nbsp;
+Other resident mammals include cheeky Long-tailed Macaques, Wild Pigs, as well as cute Slender and Plantain Squirrels.
 
-Attractive forest birds such as the Greater Racquet-tailed Drongo with its dramatic tail feathers, Crimson Sunbird, Emerald Dove, Red-crowned Barbet, as well as various species of parakeets and woodpeckers may be seen. Reptiles are mostly well-hidden and it takes a keen eye to spot them. These include the Clouded Monitor Lizard, Green-crested Lizard, Sumatran Draco (flying dragon) and elusive forest snakes such as the Wagler’s Pit Viper, Twin-barred Tree Snake and Gold-ringed Cat Snake.&nbsp;&nbsp;
+Attractive forest birds such as the Greater Racquet-tailed Drongo with its dramatic tail feathers, Crimson Sunbird, Emerald Dove, Red-crowned Barbet, as well as various species of parakeets and woodpeckers may be seen. Reptiles are mostly well-hidden and it takes a keen eye to spot them. These include the Clouded Monitor Lizard, Green-crested Lizard, Sumatran Draco (flying dragon) and elusive forest snakes such as the Wagler’s Pit Viper, Twin-barred Tree Snake and Gold-ringed Cat Snake.
 
 As a bonus, you will pass through the ruins of the former Hainan Village for a feel of rural life in the 1960s. Join an exciting morning walk to seek out these forest treasures!
 
