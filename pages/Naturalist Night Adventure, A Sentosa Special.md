@@ -18,7 +18,7 @@ Come dusk, experience the ‘wild side’ on this night adventure that brings yo
 
 This naturalist night adventure takes place in a secondary rainforest trail on Sentosa, and is great for young adults, seniors and families alike. This immersive experience offers the possibility of encountering delightful surprises such as roosting whip snakes, dwarf bark scorpions, sunda scops owl, common amphibians, and many more!&nbsp;
 
-Please apply the promo code "**GGSG20OF**" before checkout to enjoy a 20% discount!
+Please apply the promo code "**GGSG20OFF**" before checkout to enjoy a 20% discount!
 
 <a class="btn-link" target="_blank" href="https://www.sentosa.com.sg/en/things-to-do/events/sentosa-naturalist-night-adventure/"><img src="/images/gogreensg_website-32.png"></a> 
 
