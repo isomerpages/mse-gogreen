@@ -27,7 +27,7 @@ Registration is required by 9.45am at the Tanglin Visitor Services Desk. Limited
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
