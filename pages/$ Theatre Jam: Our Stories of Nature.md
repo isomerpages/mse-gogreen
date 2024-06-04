@@ -43,7 +43,7 @@ The session on 22 June is recommended for children between the ages of 7 and 9.
 
 <style> 
 .btn-link { 
-display: inline-block; 
+display: none; 
 } 
 
 a.btn-link[target="_blank"]:after { 
