@@ -22,11 +22,7 @@ This activity is suitable for participants with mobility issues.
 
  
 
-<a class="btn-link" href="https://summit.unglobalcompact.sg/2024-sme-series1/"> 
-
-<img src="/images/gogreensg_website-32.png"></a> 
-
- 
+<a target="_blank" class="btn-link" href="https://summit.unglobalcompact.sg/2024-sme-series1/"><img src="/images/gogreensg_website-32.png"></a> 
 
 <style> 
 .btn-link { 
