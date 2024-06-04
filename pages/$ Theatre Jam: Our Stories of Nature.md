@@ -33,31 +33,12 @@ The session on 22 June is recommended for children between the ages of 7 and 9.
 
  
 
-<a class="btn-link" href="https://ticket.marinabaysands.com/mbs/booking/ArtScienceWorkshops"> 
+<a target="_blank" class="btn-link" href="https://ticket.marinabaysands.com/mbs/booking/ArtScienceWorkshops"><img src="/images/gogreensg_website-32.png"></a> 
 
-<img src="/images/gogreensg_website-32.png"></a> 
 
- 
+<a target="_blank" class="btn-link" href="https://www.marinabaysands.com/museum/events/creative-recharge-holiday-programmes-jun-2024.html"><img src="/images/more-info-btn.png"></a> 
 
-<style> 
-.btn-link { 
-display: inline-block; 
-} 
 
-a.btn-link[target="_blank"]:after { 
-display: none; 
-} 
-
-.btn-link > img { 
-width: 100%; 
-} 
-</style> 
-
-<a class="btn-link" href="https://www.marinabaysands.com/museum/events/creative-recharge-holiday-programmes-jun-2024.html"> 
-
-<img src="/images/more-info-btn.png"></a> 
-
- 
 
 <style> 
 .btn-link { 
