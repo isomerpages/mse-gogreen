@@ -20,29 +20,11 @@ AR is a computer technology that shows digital images on top of the current real
 This activity is recommended for families and participants above age 7 and is suitable for participants with mobility issues.
  
 
-<a class="btn-link" href="https://ticket.marinabaysands.com/mbs/booking/ArtScienceWorkshops"> 
+<a target="_blank" class="btn-link" href="https://ticket.marinabaysands.com/mbs/booking/ArtScienceWorkshops"><img src="/images/gogreensg_website-32.png"></a> 
 
-<img src="/images/gogreensg_website-32.png"></a> 
 
- 
 
-<style> 
-.btn-link { 
-display: inline-block; 
-} 
-
-a.btn-link[target="_blank"]:after { 
-display: none; 
-} 
-
-.btn-link > img { 
-width: 100%; 
-} 
-</style> 
-
-<a class="btn-link" href="https://www.marinabaysands.com/museum/events/creative-recharge-holiday-programmes-jun-2024.html"> 
-
-<img src="/images/more-info-btn.png"></a> 
+<a target="_blank" class="btn-link" href="https://www.marinabaysands.com/museum/events/creative-recharge-holiday-programmes-jun-2024.html"><img src="/images/more-info-btn.png"></a> 
 
  
 
