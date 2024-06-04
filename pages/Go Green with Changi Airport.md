@@ -21,7 +21,7 @@ This activity is suitable for students, families, tourists, and participants wit
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
