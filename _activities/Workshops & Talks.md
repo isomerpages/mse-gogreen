@@ -310,6 +310,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/art-jam-nature-senses-and-me/">
+        <img src="/images/Workshop%20&amp;%20Talks/Art_Jam_Nature__Senses_and_Me.jpg"></a>
+        <h2>Art Jam: Nature, Senses and Me</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21 June; 5 July</strong>
+          </li>
+          <li><strong>Admission: $8/canvas</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unleash your creativity and express yourself in an hour-long Art Jam! Grab a canvas, find a cosy spot, and create an image of the Lily Pond surrounding the museum!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/art-jam-nature-senses-and-me/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/dazzling-dendrobium-from-your-home-to-the-world-stage/">
         <img src="/images/Workshop%20&amp;%20Talks/Dazzling_Dendrobium_HortPark_workshop.jpg"></a>
         <h2>Dazzling Dendrobium: From Your Home to the World Stage</h2>
