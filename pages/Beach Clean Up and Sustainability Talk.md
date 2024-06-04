@@ -24,7 +24,7 @@ This event is for eco-conscious individuals, youths, families and groups looking
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
