@@ -22,11 +22,7 @@ Also, get some exercise while you shop! As part of the event, KCA invites cyclin
 Register before 8 June to receive a free door gift! 
  
 
-<a class="btn-link" href="https://zfrmz.com/gOXwLswfxv2QwADeGkhb"> 
-
-<img src="/images/more-info-btn.png"> 
-
-</a> 
+<a class="btn-link" href="https://zfrmz.com/gOXwLswfxv2QwADeGkhb"> <img src="/images/more-info-btn.png"> </a> 
 
  
 
