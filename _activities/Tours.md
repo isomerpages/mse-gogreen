@@ -1429,7 +1429,36 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>          
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/pulau-ubin-shore-to-hill-walk/">
+        <img src="/images/Tours/Pulau_Ubin_Shore_to_Hill_Walk.png"></a>
+        <h2>Pulau Ubin Shore to Hill Walk</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 23 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Pulau Ubin</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join a jaunt to Pulau Ubin to explore the island from its lowest to highest point in this Shore to Hill Walk. Ubin’s rocky shore is home to Purple Climber Crabs, Mudskippers, Hermit Crabs and more.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/pulau-ubin-shore-to-hill-walk/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
