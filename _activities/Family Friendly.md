@@ -278,7 +278,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
 <a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/">
         <img src="/images/Tours/Building_Wildlife_Friendly_Spaces_in_Mandai_HIDDEN_sg_Self_Guided_Tour__2_.jpg"></a>
-        <h2>Building Wildlife Friendly Spaces in Mandai</h2>
+        <h2>Building Wildlife Friendly Spaces in Mandai (Self Guided Tour by Hidden.SG)</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
