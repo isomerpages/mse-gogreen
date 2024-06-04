@@ -25,7 +25,7 @@ By participating in this workshop, children and their parents can gain a deeper 
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
