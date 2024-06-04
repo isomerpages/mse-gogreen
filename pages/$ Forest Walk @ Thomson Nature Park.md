@@ -21,34 +21,20 @@ As a bonus, you will pass through the ruins of the former Hainan Village for a f
 
  
 
-<a class="btn-link" href="https://lorisowl.wordpress.com/forest-walk-thomson-nature-park/"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a target="_blank" class="btn-link" href="https://lorisowl.wordpress.com/forest-walk-thomson-nature-park/"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
 <style> 
-
 .btn-link { 
-
 display: inline-block; 
-
 } 
 
 a.btn-link[target="_blank"]:after { 
-
 display: none; 
-
 } 
 
 .btn-link > img { 
-
 width: 100%; 
-
 } 
-
- 
-
 </style>
