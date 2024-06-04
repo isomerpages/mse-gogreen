@@ -19,7 +19,7 @@ Do your part to reduce e-waste by selling your old electronics devices on Reebel
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
