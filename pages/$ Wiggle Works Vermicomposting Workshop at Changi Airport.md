@@ -10,7 +10,7 @@ description: ""
 * 22, 29 June, 10:00 am – 11:30 am&nbsp;&nbsp;
 * 6, 13 July, 10:00 am – 11:30 am  <br> 
 
-**Admission:**$25 per pax (additional $10 per accompany child) <br> 
+**Admission:**$25 per pax (additional $10 per accompanying child) <br> 
 **Venue:** Changi Airport Terminal 2, Hub &amp; Spoke, 60 Airport Boulevard #01-T2S-02  <br> 
 **Organiser:** Changi Airport Group   
 
