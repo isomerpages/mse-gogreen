@@ -17,9 +17,7 @@ This virtual game requires no dedicated app as it can be played over WhatsApp. Y
 
 This activity is suitable for students, families, tourists, and participants with mobility issues.
 
-<a class="btn-link" target="_blank" href="https://hidden.sg/products/go-green-with-changi-airport">
-	<img src="/images/gogreensg_website-32.png">
-</a>
+<a class="btn-link" target="_blank" href="https://hidden.sg/products/go-green-with-changi-airport"><img src="/images/gogreensg_website-32.png"></a>
 
 <style>
 	.btn-link {
