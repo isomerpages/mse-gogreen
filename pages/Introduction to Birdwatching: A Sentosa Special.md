@@ -11,7 +11,7 @@ description: ""
 6, 13 July, 7:00 am – 8:30 am
 
 **Admission:** 
-* $61.69/pax,&nbsp;<br>
+* $61.69/pax<br>
 * Family bundle (2 adults and 2 children under 12 years old): $217.73<br> 
 
 **Venue:** Siloso Point Station, Sentosa<br> 
