@@ -20,11 +20,7 @@ This Go Green SG exclusive trail is a collaboration between Mandai Wildlife Grou
 
 This activity is suitable for people with mobility issues.
 
-<a class="btn-link" href="https://my.hidden.sg/ggsg2024-mww/signup"> 
-
-<img src="/images/gogreensg_website-32.png"></a> 
-
- 
+<a target="_blank" class="btn-link" href="https://my.hidden.sg/ggsg2024-mww/signup"><img src="/images/gogreensg_website-32.png"></a> 
 
 <style> 
 .btn-link { 
