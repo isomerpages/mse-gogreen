@@ -365,6 +365,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/theatre-jam-our-stories-of-nature/">
+        <img src="/images/Workshop%20&amp;%20Talks/Theatre_Jam_Our_Stories_of_Nature.jpg"></a>
+        <h2>Theatre Jam: Our Stories of Nature</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Step away from digital screens and into rooms full of imagination with Theatre Jams! This edition invites young participants to come together to create stories in response to nature-based stimuli.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/theatre-jam-our-stories-of-nature/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
