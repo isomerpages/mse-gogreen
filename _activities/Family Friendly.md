@@ -1334,7 +1334,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
 	</div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/aquaponics-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/KCA_Aquaponics.png"></a>
+        <h2>Aquaponics Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $8/pax</strong></li>
+          <li><strong>Venue: Nippon Koi Farm</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about aquaponic systems, the nitrogen cycle, symbiotic relationships between fish and plants, as well as system design.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquaponics-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/plastic-playday-sort-shred-extrude-and-sculpt/">
