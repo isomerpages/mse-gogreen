@@ -23,7 +23,7 @@ Every purchase contributes to the SUSS Student Care Fund.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
