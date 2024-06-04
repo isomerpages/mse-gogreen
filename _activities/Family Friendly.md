@@ -100,7 +100,36 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">
-					  <div class="programmes__item col is-one-third">
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/the-tee-to-bag-experience/">
+        <img src="/images/Workshop%20&amp;%20Talks/The_Tee_tO_Bag_Experience.jpg"></a>
+        <h2>The Tee tO Bag Experience</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12-15, 17-22, 24-29 June; 1-6, 8-13 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $58 | Child: $38</strong></li>
+          <li><strong>Venue: New Bahru, 46 Kim Yam Rd</strong></li>
+          <li><strong>Organiser: GINLEE Studio  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Reduce waste through upcycling with the Tee-tO-Bag Experience. Transform old clothes into an all-new Tee Bag!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-tee-to-bag-experience/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+						  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
@@ -247,6 +276,34 @@ More activities will also be added progressively.</div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/">
+        <img src="/images/Tours/Building_Wildlife_Friendly_Spaces_in_Mandai_HIDDEN_sg_Self_Guided_Tour__2_.jpg"></a>
+        <h2>Building Wildlife Friendly Spaces in Mandai (Self Guided Tour by Hidden.SG)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Entrance of Bird Paradise</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group and Hidden.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Solve clues in this self-guided adventure within the stunning green spaces of Mandai Wildlife West to discover its sustainable features.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/co-nut-ink-ecosystem-program/">
 					<img src="/images/Workshop%20Talks/CNI_1.jpg"></a>
         <h2>Co⁺Nut⁺ink Ecosystem Program
@@ -274,6 +331,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div> 
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/go-green-with-changi-airport/">
+        <img src="/images/Initiatives/Changi_Airport_Group_Go_Green.jpg"></a>
+        <h2>Go Green with Changi Airport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Admission: $12 per adult/child pair</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 3</strong></li>
+          <li><strong>Organiser: Changi Airport Group and Hidden.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through Changi Airport’s award-winning immersive real-world adventure game, gain exclusive insights into how green practices are seamlessly integrated into the design of Changi Airport.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/go-green-with-changi-airport/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -363,6 +448,34 @@ More activities will also be added progressively.</div>
     </div>
   </div>
 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/art-jam-nature-senses-and-me/">
+        <img src="/images/Workshop%20&amp;%20Talks/Art_Jam_Nature__Senses_and_Me.jpg"></a>
+        <h2>Art Jam: Nature, Senses and Me</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21 June; 5 July</strong>
+          </li>
+          <li><strong>Admission: $8/canvas</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unleash your creativity and express yourself in an hour-long Art Jam! Grab a canvas, find a cosy spot, and create an image of the Lily Pond surrounding the museum!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/art-jam-nature-senses-and-me/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/beach-clean-up-and-sustainability-talk/">
@@ -533,8 +646,7 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>
-	<div class="programmes__item col is-one-third">
+  </div>		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/soft-toy-hospital-restoration-workshop/">
@@ -547,13 +659,13 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 15 June</strong>
           </li>
-          <li><strong>Admission: $30/pax</strong></li>
+          <li><strong>Admission: $60/pax (public), $36/pax (Zoo Members)</strong></li>
           <li><strong>Venue: River Wonders Classroom</strong></li>
           <li><strong>Organiser: Mandai Wildlife Group and Soft Toy Hospital</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+        <p>It’s not the end for your old soft toys! Join this workshop to pick up the skills to repair and refresh your soft toys so that you can continue to enjoy them. </p>
       </div>
     </div>
     <div class="programmes__item__actions">
@@ -996,7 +1108,7 @@ More activities will also be added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/natures-recyclers-behind-the-scenes-tour/">
-        <img src="/images/Tours/Naturalist_Night_Adventure___A_Sentosa_Special.jpg"></a>
+        <img src="/images/Tours/Nature_s_Recyclers_Behind_the_Scenes_Tour.jpg"></a>
         <h2>Nature’s Recyclers Behind the Scenes Tour</h2>
       </div>
       <div class="programmes__item__detail">
@@ -1047,7 +1159,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
-	          <div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/forest-walk-thomson-nature-park/">
+        <img src="/images/Tours/Forest_Walk___Thomson_Nature_Park.png"></a>
+        <h2>Forest Walk @ Thomson Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Thomson Nature Park</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Thomson Nature Park and its environs host a stellar cast of fabulous forest denizens. The star attraction here is the rare Raffles’ Banded Langur, a leaf-chomping primate that regularly makes acrobatic leaps between trees.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-walk-thomson-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>          
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
             <a href="/chillin-with-chillis-with-city-sprouts/">
@@ -1306,7 +1446,63 @@ More activities will also be added progressively.</div>
       </a>
     </div>
 	</div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/aquaponics-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/KCA_Aquaponics.png"></a>
+        <h2>Aquaponics Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $8/pax</strong></li>
+          <li><strong>Venue: Nippon Koi Farm</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about aquaponic systems, the nitrogen cycle, symbiotic relationships between fish and plants, as well as system design.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquaponics-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/kranji-countryside-association-farmers-market/">
+        <img src="/images/Events/Kranji_Countryside_Association_Farmers__Market.jpg"></a>
+        <h2>Kranji Countryside Association Farmers’ Market</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 and 23 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Nippon Koi Farm</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about the importance of sustainable living and the benefits of supporting local agriculture at the Kranji Countryside Association (KCA) Farmers’ Market.  </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/kranji-countryside-association-farmers-market/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/plastic-playday-sort-shred-extrude-and-sculpt/">
@@ -1360,6 +1556,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/abc-waters-trail-kallang-river-bishan-braddell-road/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/wiggle-works-vermicomposting-workshop-at-changi-airport/">
+        <img src="/images/Workshop%20&amp;%20Talks/Wiggle_Works_Vermicomposting_Workshop_at_Changi_Airport.jpg"></a>
+        <h2>Wiggle Works Vermicomposting Workshop at Changi Airport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $25 per pax (additional $10 per accompanying child)</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2, Hub &amp; Spoke</strong></li>
+          <li><strong>Organiser: Changi Airport Group </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Changi Airport Group and delve into the world of vermicomposting! Understand the role of worms in sustainability and assemble your own home vermicomposting kits.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wiggle-works-vermicomposting-workshop-at-changi-airport/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1478,7 +1703,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-			<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/intertidal-walk-changi-beach/">
+        <img src="/images/Tours/Intertidal_Walk___Changi_Beach.png"></a>
+        <h2>Intertidal Walk @ Changi Beach</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Changi Beach</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>When the tide goes out, the rich intertidal zone at Changi Beach is unveiled in all its glory.&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/intertidal-walk-changi-beach/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>		
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/what-s-in-my-mud/">
@@ -1585,6 +1838,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/community-visit-to-repair-kopitiam/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/storytelling-session-the-curious-garden/">
+        <img src="/images/Workshop%20&amp;%20Talks/Storytelling_Session_The_Curious_Garden.png"></a>
+        <h2>Storytelling Session: The Curious Garden</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date:  3 July</strong>
+          </li>
+          <li><strong>Admission: $28/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Why are gardens important? In this storytelling session, you will meet Liam, a boy taking care of a struggling garden. Design a garden in Augmented Reality! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/storytelling-session-the-curious-garden/" class="button-primary">
         Find out more
       </a>
     </div>

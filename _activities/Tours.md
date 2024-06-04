@@ -104,6 +104,35 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustainability-in-design-at-artscience-museum/">
+        <img src="/images/Tours/Sustainability_in_Design_at_ArtScience_Museum.png"></a>
+        <h2>Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6, 13, 20, 27 June; 4, 11, 18, 25 July</strong>
+          </li>
+          <li><strong>Admission: $20/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Marina Bay Sands on a tour to learn more about the design and sustainability features integrated within ArtScience Museum. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -219,7 +248,7 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>
+	</div>
 			  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -917,6 +946,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/natures-recyclers-behind-the-scenes-tour/">
+        <img src="/images/Tours/Nature_s_Recyclers_Behind_the_Scenes_Tour.jpg"></a>
+        <h2>Nature’s Recyclers Behind the Scenes Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 23 June</strong>
+          </li>
+          <li><strong>Admission: $18/pax</strong></li>
+          <li><strong>Venue: Singapore Zoo</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/natures-recyclers-behind-the-scenes-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -945,6 +1002,34 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>		
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/forest-walk-thomson-nature-park/">
+        <img src="/images/Tours/Forest_Walk___Thomson_Nature_Park.png"></a>
+        <h2>Forest Walk @ Thomson Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Thomson Nature Park</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Thomson Nature Park and its environs host a stellar cast of fabulous forest denizens. The star attraction here is the rare Raffles’ Banded Langur, a leaf-chomping primate that regularly makes acrobatic leaps between trees.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-walk-thomson-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -977,7 +1062,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
       <a href="/the-southern-islands-eco-paddle-trail/">
 	<img src="/images/Tours/The_Southern_Islands_Eco_Paddle_Trail.png"></a>
-        <h2>The Southern Islands Eco Paddle Trail
+        <h2>The Southern Islands Paddle Trail
 </h2>
       </div>
       <div class="programmes__item__detail">
@@ -989,7 +1074,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>The Southern Islands Eco Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island. Learn about the islands' ecology, conservation efforts, and historical significance!
+        <p>The Southern Islands Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island. Learn about the islands' ecology, conservation efforts, and historical significance!
         </p>
       </div>
     </div>
@@ -1372,7 +1457,36 @@ More activities will also be added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>          
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/pulau-ubin-shore-to-hill-walk/">
+        <img src="/images/Tours/Pulau_Ubin_Shore_to_Hill_Walk.png"></a>
+        <h2>Pulau Ubin Shore to Hill Walk</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 23 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Pulau Ubin</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join a jaunt to Pulau Ubin to explore the island from its lowest to highest point in this Shore to Hill Walk. Ubin’s rocky shore is home to Purple Climber Crabs, Mudskippers, Hermit Crabs and more.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/pulau-ubin-shore-to-hill-walk/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1490,7 +1604,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/intertidal-walk-changi-beach/">
+        <img src="/images/Tours/Intertidal_Walk___Changi_Beach.png"></a>
+        <h2>Intertidal Walk @ Changi Beach</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Changi Beach</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>When the tide goes out, the rich intertidal zone at Changi Beach is unveiled in all its glory.&nbsp;</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/intertidal-walk-changi-beach/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/urban-wilderness-a-foraging-tour-of-city-hall/">

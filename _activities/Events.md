@@ -211,7 +211,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>	
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/kranji-countryside-association-farmers-market/">
+        <img src="/images/Events/Kranji_Countryside_Association_Farmers__Market.jpg"></a>
+        <h2>Kranji Countryside Association Farmers’ Market</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 and 23 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Nippon Koi Farm</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about the importance of sustainable living and the benefits of supporting local agriculture at the Kranji Countryside Association (KCA) Farmers’ Market.  </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/kranji-countryside-association-farmers-market/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/free-screening-of-the-human-element-at-singapore-botanic-gardens/">
@@ -228,7 +256,7 @@ More activities will also be added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>To commemorate World Environment Day, join YTL PowerSeraya at the inaugural Singapore screening of The Human Element, an award-winning movie on climate change.
+        <p>To commemorate World Environment Day, join YTL PowerSeraya Pte. Limited at the inaugural Singapore screening of The Human Element, an award-winning movie on climate change.
         </p>
       </div>
     </div>

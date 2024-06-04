@@ -130,6 +130,34 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/">
+        <img src="/images/Tours/Building_Wildlife_Friendly_Spaces_in_Mandai_HIDDEN_sg_Self_Guided_Tour__2_.jpg"></a>
+        <h2>Building Wildlife Friendly Spaces in Mandai</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Entrance of Bird Paradise</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group and Hidden.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Solve clues in this self-guided adventure within the stunning green spaces of Mandai Wildlife West to discover its sustainable features.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/rise-from-waves-of-efforts-to-an-ocean-of-change-at-sentosa/">
         <img src="/images/Others/RISE_From_Waves_of_Efforts_to_an_Ocean_of_Change_at_Sentosa.jpg"></a>
         <h2>RISE From Waves of Efforts to an Ocean of Change at Sentosa</h2>
@@ -138,7 +166,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 12 June to 14 July</strong>
+              Date: 12 June - 14 July</strong>
           </li>
           <li><strong>Admission: Free (no registration required)</strong></li>
           <li><strong>Venue: Sentosa, Beach Station</strong></li>
@@ -239,6 +267,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/habitat-enhancement-at-lim-chu-kang-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/the-building-blocks-of-sustainability-tactile-display/">
+        <img src="/images/Others/The_Building_Blocks_of_Sustainability_Tactile_Display.jpg"></a>
+        <h2>The Building Blocks of Sustainability Tactile Display</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1-14 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required) </strong></li>
+          <li><strong>Venue: ArtScience Museum, Mezzanine</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This newly launched tactile display at the ArtScience Museum spotlights different materials used to reduce the museum’s carbon footprint.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-building-blocks-of-sustainability-tactile-display/" class="button-primary">
         Find out more
       </a>
     </div>

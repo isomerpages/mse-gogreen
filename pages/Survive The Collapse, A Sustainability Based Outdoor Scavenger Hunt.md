@@ -23,7 +23,7 @@ After the game, meet the other teams and debrief strategies over some well-deser
 
 Children under age 14 must be accompanied by a paying adult.
 
-<a class="btn-link" target="_blank" href="https://survive-the-collapse.com/">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/survive-the-collapse-2024-amazing-race-experience-15th-of-june-tickets-881290863697">
   <img src="/images/gogreensg_website-32.png">
 </a>
 

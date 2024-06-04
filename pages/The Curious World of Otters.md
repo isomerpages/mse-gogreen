@@ -6,9 +6,9 @@ description: ""
 ---
 ![Curious_World_Otters](/images/Tours/The_Curious_World_of_Otters.jpg)
 
-**Dates:** <br> 
-* 15, 22, 29 June, 7:30 am – 9:30 am&nbsp;&nbsp;
-* 6, 13 July, 7:30 am – 9:30 am
+**Date:** <br> 
+15, 22, 29 June, 7:30 am – 9:30 am<br> 
+6, 13 July, 7:30 am – 9:30 am<br> 
 
 **Admission:** Adult: $75, Child (under 12): $42<br> 
 **Venue:** Kallang Riverside (along Kallang MRT)<br> 

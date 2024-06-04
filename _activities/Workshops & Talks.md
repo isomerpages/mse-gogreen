@@ -100,6 +100,35 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/the-tee-to-bag-experience/">
+        <img src="/images/Workshop%20&amp;%20Talks/The_Tee_tO_Bag_Experience.jpg"></a>
+        <h2>The Tee tO Bag Experience</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12-15, 17-22, 24-29 June; 1-6, 8-13 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $58 | Child: $38</strong></li>
+          <li><strong>Venue: New Bahru, 46 Kim Yam Rd</strong></li>
+          <li><strong>Organiser: GINLEE Studio  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Reduce waste through upcycling with the Tee-tO-Bag Experience. Transform old clothes into an all-new Tee Bag!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-tee-to-bag-experience/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -156,6 +185,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/city-sprouts-signature-farm-tour-introduction-to-ways-of-waste/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/nature-art-trail-artscience-museum/">
+        <img src="/images/Workshop%20&amp;%20Talks/Nature_Art_Trail___ArtScience_Museum.jpg"></a>
+        <h2>Nature Art Trail @ ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 26 June; 10 July</strong>
+          </li>
+          <li><strong>Admission: $28/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join ArtScience Museum’s Education Specialist and learn the basics of field journaling to develop a deeper sense of appreciation for nature as a naturalist.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-art-trail-artscience-museum/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -245,6 +303,34 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/upcycled-sunnies-workshop-minitrashlab/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/art-jam-nature-senses-and-me/">
+        <img src="/images/Workshop%20&amp;%20Talks/Art_Jam_Nature__Senses_and_Me.jpg"></a>
+        <h2>Art Jam: Nature, Senses and Me</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14, 21 June; 5 July</strong>
+          </li>
+          <li><strong>Admission: $8/canvas</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unleash your creativity and express yourself in an hour-long Art Jam! Grab a canvas, find a cosy spot, and create an image of the Lily Pond surrounding the museum!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/art-jam-nature-senses-and-me/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -350,17 +436,46 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 15 June</strong>
           </li>
-          <li><strong>Admission: $30/pax</strong></li>
+          <li><strong>Admission: $60/pax (public), $36/pax (Zoo Members)</strong></li>
           <li><strong>Venue: River Wonders Classroom</strong></li>
           <li><strong>Organiser: Mandai Wildlife Group and Soft Toy Hospital</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+        <p>It’s not the end for your old soft toys! Join this workshop to pick up the skills to repair and refresh your soft toys so that you can continue to enjoy them. </p>
       </div>
     </div>
     <div class="programmes__item__actions">
       <a href="/soft-toy-hospital-restoration-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/theatre-jam-our-stories-of-nature/">
+        <img src="/images/Workshop%20&amp;%20Talks/Theatre_Jam_Our_Stories_of_Nature.jpg"></a>
+        <h2>Theatre Jam: Our Stories of Nature</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 22 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Step away from digital screens and into rooms full of imagination with Theatre Jams! This edition invites young participants to come together to create stories in response to nature-based stimuli.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/theatre-jam-our-stories-of-nature/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -654,7 +769,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
 	</div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/aquaponics-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/KCA_Aquaponics.png"></a>
+        <h2>Aquaponics Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $8/pax</strong></li>
+          <li><strong>Venue: Nippon Koi Farm</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about aquaponic systems, the nitrogen cycle, symbiotic relationships between fish and plants, as well as system design.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/aquaponics-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/plastic-playday-sort-shred-extrude-and-sculpt/">
@@ -679,6 +822,150 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/plastic-playday-sort-shred-extrude-and-sculpt/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/waste-upcycling-with-black-soldier-flies/">
+        <img src="/images/Workshop%20&amp;%20Talks/Waste_Upcycling_with_Black_Soldier_Flies_.jpg"></a>
+        <h2>Waste Upcycling with Black Soldier Flies</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $8/pax </strong></li>
+          <li><strong>Venue: Nippon Koi Farm, 51 Jalan Lekar</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about the black soldier fly and its role in waste management and nutrient recycling.  This workshop includes hands-on activities and demonstrations
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/waste-upcycling-with-black-soldier-flies/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/wiggle-works-vermicomposting-workshop-at-changi-airport/">
+        <img src="/images/Workshop%20&amp;%20Talks/Wiggle_Works_Vermicomposting_Workshop_at_Changi_Airport.jpg"></a>
+        <h2>Wiggle Works Vermicomposting Workshop at Changi Airport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 29 June; 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $25 per pax (additional $10 per accompanying child)</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 2, Hub &amp; Spoke</strong></li>
+          <li><strong>Organiser: Changi Airport Group </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Changi Airport Group and delve into the world of vermicomposting! Understand the role of worms in sustainability and assemble your own home vermicomposting kits.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wiggle-works-vermicomposting-workshop-at-changi-airport/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/gcns-sme-series-2024-imperative-for-decarbonisation-deeper-and-faster/">
+        <img src="/images/Workshop%20&amp;%20Talks/GCNS_SME_Series_2024___Imperative_for_Decarbonisation___Deeper_and_Faster.jpg"></a>
+        <h2>GCNS SME Series 2024 (Imperative for Decarbonisation, Deeper and Faster)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 27 June</strong>
+          </li>
+          <li><strong>Admission: $15/pax</strong></li>
+          <li><strong>Venue: Prudential Tower</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This session seeks to provide insights to Singapore’s decarbonisation goals and how SMEs can collaborate towards a shared vision of a low-carbon future, in alignment with the Singapore Green Plan 2030.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/gcns-sme-series-2024-imperative-for-decarbonisation-deeper-and-faster/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/storytelling-session-the-curious-garden/">
+        <img src="/images/Workshop%20&amp;%20Talks/Storytelling_Session_The_Curious_Garden.png"></a>
+        <h2>Storytelling Session: The Curious Garden</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date:  3 July</strong>
+          </li>
+          <li><strong>Admission: $28/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Why are gardens important? In this storytelling session, you will meet Liam, a boy taking care of a struggling garden. Design a garden in Augmented Reality! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/storytelling-session-the-curious-garden/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/nature-art-trail-artscience-museum/">
+        <img src="/images/Workshop%20&amp;%20Talks/NUS_x_GCNS_Climate_Change_for_Leaders_Programme.jpg"></a>
+        <h2>NUS x GCNS: Climate Change for Leaders Programme</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3, 4 July</strong>
+          </li>
+          <li><strong>Course fees: See within listing</strong></li>
+          <li><strong>Venue: NUS Business School, 15 Kent Ridge Drive</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unlock the power of climate action with Global Compact Network Singapore (GCNS) and NUS Centre for Governance and Sustainability’s new course - Climate Change for Leaders: Risks, Opportunities and Sustainable Finance.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-art-trail-artscience-museum/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -828,6 +1115,35 @@ More activities will also be added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/you-sip-what-we-sow-craft-delicious-herb-infused-mocktails-from-seed-to-sip/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/united-nations-global-compact-network-singapore-virtual-open-house-2024/">
+        <img src="/images/Events/GCNS_Virtual_Open_House.png"></a>
+        <h2>United Nations Global Compact Network Singapore – Virtual Open House 2024</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 11 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Virtual session (Zoom)</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Come participate in the Global Compact Network Singapore (GCNS) Virtual Open House 2024!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/united-nations-global-compact-network-singapore-virtual-open-house-2024/" class="button-primary">
         Find out more
       </a>
     </div>

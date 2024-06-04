@@ -100,7 +100,35 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">  
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/be-the-change-one-action-a-day/">
+        <img src="/images/Initiatives/BE_THE_CHANGE___One_Action_A_Day.png"></a>
+        <h2>BE THE CHANGE – One Action A Day</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Online</strong></li>
+          <li><strong>Organiser: Canla Club</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>BE the CHANGE is a digitally conducted multi-day challenge to engage communities in tangible actions towards achieving Sustainable Development Goals (SDGs) and increase their understanding of the Singapore Green Plan 2030.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/be-the-change-one-action-a-day/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/children-toy-decluttering-programme-with-play-beyond/">
@@ -125,7 +153,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>   
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/go-green-with-changi-airport/">
+        <img src="/images/Initiatives/Changi_Airport_Group_Go_Green.jpg"></a>
+        <h2>Go Green with Changi Airport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Admission: $12 per adult/child pair</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 3</strong></li>
+          <li><strong>Organiser: Changi Airport Group and Hidden.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through Changi Airport’s award-winning immersive real-world adventure game, gain exclusive insights into how green practices are seamlessly integrated into the design of Changi Airport.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/go-green-with-changi-airport/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
       <a href="/sustainable-takeaway-at-ion-orchard/">

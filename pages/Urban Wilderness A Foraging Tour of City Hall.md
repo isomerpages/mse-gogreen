@@ -6,7 +6,10 @@ description: ""
 ---
 ![Urban Wilderness - Foraging Tour of City Hall](/images/Tours/Urban_Wilderness_A_Foraging_Tour_of_City_Hall.jpg)
 
-**Date:** 29 June, 8:30 am – 11:00 am<br>
+**Date:** 
+* 29 June, 8:30 am – 11:00 am
+* 6 July,  8:30 am – 11:00 am<br>
+
 **Admission:** $60/pax <br>
 **Venue:** Meeting Point: Raffles City Shopping Centre, Ending Point: Funan<br>
 **Organiser:** Edible Garden City
