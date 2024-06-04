@@ -19,7 +19,7 @@ Excite your taste buds as you discover the various edibles that can be grown in 
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
