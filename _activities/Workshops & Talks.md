@@ -860,6 +860,35 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/nature-art-trail-artscience-museum/">
+        <img src="/images/Workshop%20&amp;%20Talks/NUS_x_GCNS_Climate_Change_for_Leaders_Programme.jpg"></a>
+        <h2>NUS x GCNS: Climate Change for Leaders Programme</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 3, 4 July</strong>
+          </li>
+          <li><strong>Course fees: See within listing</strong></li>
+          <li><strong>Venue: NUS Business School, 15 Kent Ridge Drive</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unlock the power of climate action with Global Compact Network Singapore (GCNS) and NUS Centre for Governance and Sustainability’s new course - Climate Change for Leaders: Risks, Opportunities and Sustainable Finance.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nature-art-trail-artscience-museum/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 				<a href="/getting-to-zero-card-game-workshop/">
 				<img src="/images/CASA_Getting_to_Zero_Card_Game.png"></a>
         <h2>Getting to Zero Card Game Workshop</h2>
