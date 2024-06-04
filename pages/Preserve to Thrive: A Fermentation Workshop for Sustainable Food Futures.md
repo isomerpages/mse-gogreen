@@ -27,7 +27,7 @@ Make a $10 donation before the activity to secure your spot! All proceeds will g
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
