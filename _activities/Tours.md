@@ -1642,7 +1642,7 @@ More activities will also be added progressively.</div>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 29 June</strong></li>
+          <li><strong>Date: 29 June, 6 July</strong></li>
           <li><strong>Admission: $60/pax</strong></li>
 <li><strong>Venue: Raffles City Shopping Centre, Funan</strong></li>
           <li><strong>Organiser: Edible Garden City</strong></li>
