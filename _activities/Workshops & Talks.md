@@ -350,13 +350,13 @@ More activities will also be added progressively.</div>
             <strong>
               Date: 15 June</strong>
           </li>
-          <li><strong>Admission: $30/pax</strong></li>
+          <li><strong>Admission: $60/pax (public), $36/pax (Zoo Members)</strong></li>
           <li><strong>Venue: River Wonders Classroom</strong></li>
           <li><strong>Organiser: Mandai Wildlife Group and Soft Toy Hospital</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+        <p>It’s not the end for your old soft toys! Join this workshop to pick up the skills to repair and refresh your soft toys so that you can continue to enjoy them. </p>
       </div>
     </div>
     <div class="programmes__item__actions">
