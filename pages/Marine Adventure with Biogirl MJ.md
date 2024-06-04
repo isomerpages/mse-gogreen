@@ -7,8 +7,8 @@ description: ""
 ![Marine Adventure with Biogirl MJ ](/images/Tours/Marine_Adventure_with_Biogirl_MJ.jpg)
 
 **Date:**<br>
-* 12 June, 7:45 am – 9:45 am&nbsp;&nbsp;
-* 22, 23 June, 5:00 am – 7:00 am<br> 
+12 June, 7:45 am – 9:45 am <br> 
+22, 23 June, 5:00 am – 7:00 am<br> 
 
 **Admission:** $60/pax<br> 
 **Venue:** Changi Beach<br> 
