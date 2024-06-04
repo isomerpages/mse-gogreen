@@ -22,14 +22,13 @@ Find out more about the work that goes on behind-the-scenes to keep public space
 
 Follow NEA officers on their inspection audits along roads, pavements, parks and other public areas and understand the challenges they face in the course of their work.
 
-**Online registration will progressively open for booking from 5 June 2024, 10.00 am**
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/behind-the-scenes-public-cleaning-performance-audits-tickets-909436588317">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
