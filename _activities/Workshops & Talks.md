@@ -100,6 +100,35 @@ Come back on 5 June when registration links go live at 10am, to sign up for your
 More activities will also be added progressively.</div>
 
 <div class="row row_custom">
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/the-tee-to-bag-experience/">
+        <img src="/images/Workshop%20&amp;%20Talks/The_Tee_tO_Bag_Experience.jpg"></a>
+        <h2>The Tee tO Bag Experience</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 2-15, 17-22, 24-29 June; 1-6, 8-13 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $58 | Child: $38</strong></li>
+          <li><strong>Venue: New Bahru, 46 Kim Yam Rd</strong></li>
+          <li><strong>Organiser: GINLEE Studio  </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Reduce waste through upcycling with the Tee-tO-Bag Experience. Transform old clothes into an all-new Tee Bag!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-tee-to-bag-experience/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
