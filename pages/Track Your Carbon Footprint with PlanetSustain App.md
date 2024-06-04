@@ -25,7 +25,7 @@ Join Invosystems Solutions on the journey towards a healthier planet and a brigh
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
