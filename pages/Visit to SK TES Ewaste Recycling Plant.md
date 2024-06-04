@@ -26,7 +26,7 @@ Transport will be provided from Jurong East MRT.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
