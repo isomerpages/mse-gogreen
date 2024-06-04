@@ -19,7 +19,7 @@ The app is available on a free trial basis for one month during Go Green SG 2024
 Join Invosystems Solutions on the journey towards a healthier planet and a brighter future for current and future generations.
 
 
-<a class="btn-link" target="_blank" href="https://invosystems.com/PlanetSustain/](https://invosystems.com/PlanetSustain/)">
+<a class="btn-link" target="_blank" href="https://invosystems.com/PlanetSustain/">
 	<img src="/images/more-info-btn.png">
 </a>
 
