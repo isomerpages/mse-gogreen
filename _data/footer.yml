@@ -1,5 +1,4 @@
-show_reach: true
+show_reach: false
 faq: /faq/
 social_media: {}
-feedback: "#"
 contact_us: /contact
