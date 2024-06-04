@@ -334,6 +334,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/go-green-with-changi-airport/">
+        <img src="/images/Initiatives/Changi_Airport_Group_Go_Green.jpg"></a>
+        <h2>Go Green with Changi Airport</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Admission: $12 per adult/child pair</strong></li>
+          <li><strong>Venue: Changi Airport Terminal 3</strong></li>
+          <li><strong>Organiser: Changi Airport Group and Hidden.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through Changi Airport’s award-winning immersive real-world adventure game, gain exclusive insights into how green practices are seamlessly integrated into the design of Changi Airport.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/go-green-with-changi-airport/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
         <img src="/images/Tour_Image.jpg"></a>
         <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to Inspire Better Health</h2>
