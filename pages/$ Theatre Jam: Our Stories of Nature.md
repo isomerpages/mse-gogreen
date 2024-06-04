@@ -17,18 +17,12 @@ Conducted by professional theatre practitioners, Theatre Jam is an informal thea
 
 This edition of Theatre Jam invites young participants to come together to create stories in response to nature-based stimuli, in a safe and playful environment together!&nbsp;
 
-Programme Outline:&nbsp;
-
-1\. Jam preparation - prepare "ingredients"&nbsp;
-
-With your sense of sight, smell, hearing, and touch, explore and embody the elements of nature&nbsp;
-
-2\. Put "ingredients" together to make jam&nbsp;
-
-With the movement and sounds gathered, create and tell your stories.&nbsp;
-
-3\. Pack jam into jars&nbsp;
-
+Programme Outline:&nbsp;<br>
+1. Jam preparation - prepare "ingredients"&nbsp;<br>
+With your sense of sight, smell, hearing, and touch, explore and embody the elements of nature.
+2. Put "ingredients" together to make jam&nbsp; <br>
+With the movement and sounds gathered, create and tell your stories.
+3. Pack jam into jars&nbsp;<br>
 Recollect and notate the stories through drawings or writings.&nbsp;&nbsp;
 
 These notes and sketches will be slipped into jam jars and made into jam recipes for the participants.&nbsp;
