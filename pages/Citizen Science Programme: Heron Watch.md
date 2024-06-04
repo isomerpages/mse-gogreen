@@ -26,7 +26,7 @@ This programme is suitable for participants aged 12 and above.&nbsp;
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
