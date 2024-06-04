@@ -16,7 +16,7 @@ description: ""
 
  
 
-The Southern Islands Eco Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island.&nbsp;&nbsp;
+The Southern Islands Paddle Trail begins from St. John's Island Pier and encompasses 10 stops from St. John's Island to Lazarus Island.&nbsp;&nbsp;
 
 Participants will get a chance to kayak along the calm waters of Eagle Bay at the final stop, guided by experienced staff who will provide insights into the islands' ecology, conservation efforts, and historical significance.&nbsp;&nbsp;
 
@@ -28,7 +28,7 @@ This activity is recommended for participants aged 7 and above.
 
  
 
-<a class="btn-link" target="_blank" href="https://adventure.camelotsg.biz/product/go-green-sg-2024-southern-islands-eco-paddle-trail-lazarus"><img src="/images/gogreensg_website-32.png"></a> 
+<a class="btn-link" target="_blank" href="https://adventure.camelotsg.biz/product/go-green-sg-2024-southern-islands-paddle-trail-lazarus/"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
