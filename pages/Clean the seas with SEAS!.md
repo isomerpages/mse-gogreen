@@ -26,7 +26,7 @@ Environmental enthusiasts, families, corporate groups and the general public are
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
