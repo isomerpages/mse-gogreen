@@ -884,7 +884,35 @@ More activities will also be added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/gcns-sme-series-2024-imperative-for-decarbonisation-deeper-and-faster/">
+        <img src="/images/Workshop%20&amp;%20Talks/GCNS_SME_Series_2024___Imperative_for_Decarbonisation___Deeper_and_Faster.jpg"></a>
+        <h2>GCNS SME Series 2024 (Imperative for Decarbonisation, Deeper and Faster)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 27 June</strong>
+          </li>
+          <li><strong>Admission: $15/pax</strong></li>
+          <li><strong>Venue: Prudential Tower</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This session seeks to provide insights to Singapore’s decarbonisation goals and how SMEs can collaborate towards a shared vision of a low-carbon future, in alignment with the Singapore Green Plan 2030.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/gcns-sme-series-2024-imperative-for-decarbonisation-deeper-and-faster/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/storytelling-session-the-curious-garden/">
