@@ -686,6 +686,35 @@ More activities will also be added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/waste-upcycling-with-black-soldier-flies/">
+        <img src="/images/Workshop%20&amp;%20Talks/Waste_Upcycling_with_Black_Soldier_Flies_.jpg"></a>
+        <h2>Waste Upcycling with Black Soldier Flies</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22, 23 June</strong>
+          </li>
+          <li><strong>Admission: $8/pax </strong></li>
+          <li><strong>Venue: Nippon Koi Farm, 51 Jalan Lekar</strong></li>
+          <li><strong>Organiser: Kranji Countryside Association </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about the black soldier fly and its role in waste management and nutrient recycling.  This workshop includes hands-on activities and demonstrations
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/waste-upcycling-with-black-soldier-flies/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/wiggle-works-vermicomposting-workshop-at-changi-airport/">
         <img src="/images/Workshop%20&amp;%20Talks/Wiggle_Works_Vermicomposting_Workshop_at_Changi_Airport.jpg"></a>
         <h2>Wiggle Works Vermicomposting Workshop at Changi Airport</h2>
