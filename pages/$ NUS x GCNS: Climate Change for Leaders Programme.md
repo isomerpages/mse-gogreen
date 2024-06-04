@@ -47,4 +47,4 @@ display: none;
 .btn-link > img { 
 width: 100%; 
 } 
-</style> 
+</style>
