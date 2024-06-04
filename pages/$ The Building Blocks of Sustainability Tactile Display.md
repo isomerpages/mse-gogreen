@@ -13,4 +13,4 @@ description: ""
 
 This newly launched tactile display at the ArtScience Museum spotlights different materials used to reduce the museum’s carbon footprint.&nbsp;
 
-Learn how material science and design can come together for sustainable innovatio
+Learn how material science and design can come together for sustainable innovation!
