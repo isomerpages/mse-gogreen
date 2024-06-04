@@ -1005,6 +1005,34 @@ More activities will also be added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/forest-walk-thomson-nature-park/">
+        <img src="/images/Tours/Forest_Walk___Thomson_Nature_Park.png"></a>
+        <h2>Forest Walk @ Thomson Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Thomson Nature Park</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Thomson Nature Park and its environs host a stellar cast of fabulous forest denizens. The star attraction here is the rare Raffles’ Banded Langur, a leaf-chomping primate that regularly makes acrobatic leaps between trees.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/forest-walk-thomson-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
       <a href="/young-nautilus-nature-walk-pasir-ris-park-mangroves/">
 	<img src="/images/Tours/Young_Nautilus_Pasir_Ris_Park_Mangroves.png"></a>
         <h2>Young Nautilus’ Nature Walk – Pasir Ris Park Mangroves
