@@ -10,11 +10,13 @@ description: ""
 **Admission:** Free (registration required)<br>
 **Organiser:** Invosystems Solutions Pte Ltd
 
-The PlanetSustain app empowers users to embrace responsible consumption and adopt sustainable practices in their daily lives. With easy-to-use tools and personalised recommendations, the app guides users towards a greener lifestyle while contributing to the global fight against climate change.  &nbsp;
+The PlanetSustain app empowers users to track their carbon footprint, embracing responsible consumption and sustainable practices in their daily lives.
 
-By making changes to your consumption habits, you can make a tangible difference in reducing greenhouse gas emissions.&nbsp;&nbsp;
+The app provides a carbon footprint dashboard for users to adopt a greener lifestyle and make changes to their consumption habits while contributing to the global fight against climate change.
 
-Whether you are a conscientious consumer, an eco-conscious student, or a sustainability-minded professional, PlanetSustain offers practical solutions tailored to your lifestyle. Join Invosystems Solutions on the journey towards a healthier planet and a brighter future for all.
+The app is available on a free trial basis for one month during Go Green SG 2024. Subsequent subscriptions are charged at $12 for a yearly subscription.
+
+Join Invosystems Solutions on the journey towards a healthier planet and a brighter future for current and future generations.
 
 
 <a class="btn-link" target="_blank" href="https://invosystems.com/PlanetSustain/](https://invosystems.com/PlanetSustain/)">
