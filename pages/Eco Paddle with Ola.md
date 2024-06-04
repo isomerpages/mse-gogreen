@@ -24,7 +24,7 @@ Litter-picking is fun! Join us on kayaks to conduct a coastal clean-up at Sentos
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
