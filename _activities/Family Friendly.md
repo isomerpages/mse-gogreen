@@ -111,7 +111,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 2-15, 17-22, 24-29 June; 1-6, 8-13 July</strong>
+              Date: 12-15, 17-22, 24-29 June; 1-6, 8-13 July</strong>
           </li>
           <li><strong>Admission: Adult: $58 | Child: $38</strong></li>
           <li><strong>Venue: New Bahru, 46 Kim Yam Rd</strong></li>
