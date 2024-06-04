@@ -26,7 +26,7 @@ This tour is suitable for individuals with mobility issues.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
