@@ -23,7 +23,7 @@ Discuss the environmental benefits of aquaponics over traditional farming. You w
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
