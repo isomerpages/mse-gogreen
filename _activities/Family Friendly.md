@@ -996,7 +996,7 @@ More activities will also be added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/natures-recyclers-behind-the-scenes-tour/">
-        <img src="/images/Tours/Naturalist_Night_Adventure___A_Sentosa_Special.jpg"></a>
+        <img src="/images/Tours/Nature_s_Recyclers_Behind_the_Scenes_Tour.jpg"></a>
         <h2>Nature’s Recyclers Behind the Scenes Tour</h2>
       </div>
       <div class="programmes__item__detail">
