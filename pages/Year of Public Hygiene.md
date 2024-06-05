@@ -443,6 +443,35 @@ Check out the activities below!
       </a>
     </div>
   </div>	
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/clean-the-seas-with-seas-clean-the-seas-with-seas/">
+				<img src="/images/Initiatives/hero_Clean_the_seas_with_SEAS_.png"></a>
+        <h2>Clean the seas with SEAS!</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Pasir Ris Park Area 1</strong></li>
+          <li><strong>Organiser: Sustainable Energy Association of Singapore (SEAS)</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>"Clean the seas with SEAS" is an effort aimed at tackling ocean pollution and promoting environmental sustainability. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/clean-the-seas-with-seas-clean-the-seas-with-seas/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
