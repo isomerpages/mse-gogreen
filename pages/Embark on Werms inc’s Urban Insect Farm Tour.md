@@ -40,4 +40,3 @@ This activity is suitable for individuals with mobility issues.
 		width: 100%;
 	}
 </style>
-
