@@ -20,6 +20,8 @@ Visit SK TES’s e-waste recycling facility to see how electronic waste is proce
 
 Transport will be provided from Jurong East MRT.
 
+Online registration will progressively open for booking from 5 June, 10:00 am.
+
 <b><font color="red">Fully booked - join the waitlist below:</font></b><br>
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/tes-factory-tour-on-e-waste-recycling-tickets-643550716517">
 	<img src="/images/gogreensg_website-32.png">
