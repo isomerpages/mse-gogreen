@@ -17,7 +17,7 @@ The programme is open to everyone. Join The Rainbow Artisan with an open mind an
 
 This event is part of a series held at parks and gardens conveniently  located near MRT stations. Participants are encouraged to walk, cycle or take public transport for a greener future. 
 
-**Gardens by the Bay (15 June)**
+**Gardens by the Bay (15 June)** <b><font color="red">[FULLY BOOKED]</font></b>
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/discover-with-lens-6-sides-of-eco-wellness-serene-garden-gbtb-tickets-897869821807?aff=oddtdtcreator">
 	<img src="/images/gogreensg_website-32.png">
