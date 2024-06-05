@@ -724,7 +724,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/mangrove-clean-up-at-sungei-pang-sua/">
         <img src="/images/Initiatives/Mangrove_cleanup_sungei_pang_sua.jpg"></a>
-        <h2>Mangrove Clean Up at Sungei Pang Sua</h2>
+        <h2>River Clean Up at Sungei Pang Sua</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>

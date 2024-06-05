@@ -23,7 +23,7 @@ Transport will be provided from Jurong East MRT station.
 
 Participants must be 18 years old and above and wear covered shoes for the visit. Please note that this is a bus tour, and participants will only disembark at designated locations.
 
-**Morning Session (9:30 am - 12:30 pm)**<br>
+**Morning Session (9:30 am - 12:30 pm)** <b><font color="red">[FULLY BOOKED]</font></b><br>
 <a class="btn-link" target="_blank" href="https://form.gov.sg/663b3a8ab765429d55502d7f">
 	<img src="/images/gogreensg_website-32.png">
 </a>
@@ -40,7 +40,7 @@ Participants must be 18 years old and above and wear covered shoes for the visit
 	}
 </style>
 
-**Afternoon Session (2:30 pm - 5:30 pm)**<br>
+**Afternoon Session (2:30 pm - 5:30 pm)** <b><font color="red">[FULLY BOOKED]</font></b><br>
 <a class="btn-link" target="_blank" href="https://form.gov.sg/663b47927653098a206f8dbe">
 	<img src="/images/gogreensg_website-32.png">
 </a>

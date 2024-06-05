@@ -103,35 +103,6 @@ variant: markdown
 More activities are being added progressively.</div>
 
 <div class="row row_custom">
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/sustainability-in-design-at-artscience-museum/">
-        <img src="/images/Tours/Sustainability_in_Design_at_ArtScience_Museum.png"></a>
-        <h2>Sustainability in Design at ArtScience Museum</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 6, 13, 20, 27 June; 4, 11, 18, 25 July</strong>
-          </li>
-          <li><strong>Admission: $20/pax</strong></li>
-          <li><strong>Venue: ArtScience Museum</strong></li>
-          <li><strong>Organiser: Marina Bay Sands </strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Join Marina Bay Sands on a tour to learn more about the design and sustainability features integrated within ArtScience Museum. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -260,7 +231,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 13, 18, 20, 22, 25, 27 June, 2, 4, 9, 11, 13 July</strong>
+              Date: 13, 18, 20, 22, 25, 27 June; 2, 4, 9, 11, 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore City Gallery</strong></li>
@@ -274,6 +245,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustainability-in-design-at-artscience-museum/">
+        <img src="/images/Tours/Sustainability_in_Design_at_ArtScience_Museum.png"></a>
+        <h2>Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 20, 27 June; 4, 11, 18, 25 July</strong>
+          </li>
+          <li><strong>Admission: $20/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Marina Bay Sands on a tour to learn more about the design and sustainability features integrated within ArtScience Museum. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1519,8 +1519,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
             <a href="/chek-jawa-wetlands-tour/">
               <img src="/images/Tours/Chek_jawa_tour_nparks.jpg"></a>
-        <h2>Chek Jawa Wetlands Tour
-</h2>
+				<h2>Chek Jawa Wetlands Tour</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1540,6 +1539,32 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/chek-jawa-wetlands-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/site-tour-to-sustainable-tropical-data-centre-testbed-stdct-at-nus/">
+				<img src="/images/Tours/Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed__STDCT__at_NUS.png"></a>
+        <h2>Site Tour to Sustainable Tropical Data Centre Testbed (STDCT) at NUS</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 28 June</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: STDCT, 2 Estate Office Drive</strong></li>
+          <li><strong>Organiser: National University of Singapore   </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>On this site tour, you will witness various cooling solutions incorporated in the infrastructure of the Sustainable Tropical Data Centre Testbed and learn about the sustainable practices in data centre operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/site-tour-to-sustainable-tropical-data-centre-testbed-stdct-at-nus/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1802,7 +1827,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/learning-journey-to-changi-water-reclamation-plant/">
         <img src="/images/Tours/Learning_Journey_to_Changi_Water_Reclamation_Plant.png"></a>
-        <h2>Learning Journey to Changi Water Reclamation Plant</h2>
+        <h2>Learning Journey to Changi Water Reclamation Plant</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -2004,7 +2029,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
         <img src="/images/Tours/Sewer_Choke_Demonstration_and_Visit_to_Ulu_Pandan_Reclamation_Plant.png"></a>
-        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
+        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>

@@ -18,7 +18,7 @@ You will be involved in the rewilding activity, which includes manual clearance 
 Participants need to be physically fit (e.g., be able to lift at least 10kg and withstand the hot sun outdoors) and be well on the event day. NSS reserves the right to turn away participants who are unwell on the day.
 
 
-<a class="btn-link" target="_blank" href="https://nss.org.sg/events.aspx?id=sjHCnMvkBTc%3d&amp;group_id=rpJu9aQ7MUk%3d">
+<a class="btn-link" target="_blank" href="https://tinyurl.com/NSSRewildingProject24">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 

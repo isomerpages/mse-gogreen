@@ -15,7 +15,7 @@ Learn about the importance of sustainable living and the benefits of supporting 
 
 Nippon Koi, Qianhu Fish Farm, Chengtai Nursery, Kok Fah Technology will also be opening their premises for tours. Free bus tours to all four premises will be available on both days from 9:30 am to 3:30 pm. Buses start at Keat Hong Community Club.  
 
-Two educational workshops, ‘Waste Upcycling with Black Soldier Flies’, and ‘Aquaponics Workshop on Sustainable Gardening’ will take place during the event.  
+Two educational workshops on [waste upcycling with black soldier flies](/waste-upcycling-with-black-soldier-flies/) and [aquaponics](/aquaponics-workshop/) will take place during the event.  
 
 Also, get some exercise while you shop! As part of the event, KCA invites cycling fans and those living nearby the farmers’ market to visit on bicycles.  
 

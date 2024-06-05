@@ -25,7 +25,7 @@ All attendees will be able to bring home a vermicomposting kit.
 
 This activity is suitable for individuals with mobility issues.
 
-<a class="btn-link" target="_blank" href="https://wermsinc.com/product/urban-insect-farming-workshop/">
+<a class="btn-link" target="_blank" href="https://wermsinc.com/urban-insect-farming-workshop/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -40,7 +40,3 @@ This activity is suitable for individuals with mobility issues.
 		width: 100%;
 	}
 </style>
-
-<a class="btn-link" target="_blank" href="https://wermsinc.com/product/urban-insect-farming-workshop/">
-	<img src="/images/more-info-btn.png">
-</a>
