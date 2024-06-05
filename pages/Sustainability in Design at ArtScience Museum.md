@@ -7,7 +7,7 @@ description: ""
 ![Sustainability_in_Design_at_ASM](/images/Tours/Sustainability_in_Design_at_ArtScience_Museum.png)
 
 **Dates:** 
-* 6, 13, 20, 27 June, 4:00 pm – 5:00 pm&nbsp;
+* 13, 20, 27 June, 4:00 pm – 5:00 pm&nbsp;
 * 4, 11, 18, 25 July, 4:00 pm - 5:00 pm  <br> 
 
 **Admission:** $20/pax <br> 
