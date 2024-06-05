@@ -19,6 +19,8 @@ description: ""
 
 Proper refuse management practices are critical for an effective rat control programme. In this activity, you will get to experience and observe how NEA officers conduct surveillance on refuse management practices and identify responsible parties. You will also get gain a deeper appreciation for the hard work and efforts that goes behind maintaining a "cleaned" living environment for everyone.
 
+Online registration will progressively open for booking from 5 June, 10:00 am 
+
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/behind-the-scenes-effective-refuse-management-for-vector-control-tickets-909436146997">
 	<img src="/images/gogreensg_website-32.png">
 </a>
