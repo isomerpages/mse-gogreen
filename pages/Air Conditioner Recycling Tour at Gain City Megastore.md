@@ -20,6 +20,8 @@ Did you know that more than 90% of air-conditioner parts can be recycled? Join t
 
 This tour is suitable for individuals with mobility issues.
 
+Online registration will progressively open for booking from 5 June, 10:00 am.
+
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/discover-sustainability-in-action-at-gain-city-mega-store-tickets-909407130207">
 	<img src="/images/gogreensg_website-32.png">
 </a>
