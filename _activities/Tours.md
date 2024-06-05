@@ -1434,12 +1434,11 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/visit-to-philips-light-lab/">
         <img src="/images/Tours/Philips_Light_Lab_Visit.jpg"></a>
-        <h2>Visit to Philips Light Lab</h2>
+        <h2>Visit to Philips Light Lab</h2><sup><b>FULLY BOOKED - waitlist available</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li>
-            <strong>
+          <li><strong>
               Date: 22 June; 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
@@ -1799,7 +1798,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/visit-to-sk-tes-ewaste-recycling-plant/">
         <img src="/images/Tours/TES.jpg"></a>
-        <h2>Visit to SK TES E-Waste Recycling Plant</h2>
+        <h2>Visit to SK TES E-Waste Recycling Plant</h2><sup><b>FULLY BOOKED - waitlist available</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
