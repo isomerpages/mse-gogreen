@@ -19,13 +19,7 @@ The Sustainable Tropical Data Centre Testbed (STDCT) is the first data centre te
 
 This activity is recommended for participants above the age of 15 years old.
 
- 
-
-<a class="btn-link" href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gt9yMNbiTzFBqGiXfcpmdDRUMkI0SldKSjhRMVkxTDk2OFRTT04yRzhKRC4u"> 
-
-<img src="/images/gogreensg_website-32.png"></a> 
-
- 
+ <a target="_blank" class="btn-link" href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gt9yMNbiTzFBqGiXfcpmdDRUMkI0SldKSjhRMVkxTDk2OFRTT04yRzhKRC4u"><img src="/images/gogreensg_website-32.png"></a> 
 
 <style> 
 .btn-link { 
@@ -41,7 +35,7 @@ width: 100%;
 } 
 </style>
 
-<a class="btn-link" href="https://cde.nus.edu.sg/research/research-centres/stdct/"> 
+<a target="_blank" class="btn-link" href="https://cde.nus.edu.sg/research/research-centres/stdct/"> 
 
 <img src="/images/more-info-btn.png"></a> 
 
