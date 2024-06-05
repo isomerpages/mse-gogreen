@@ -96,7 +96,7 @@ description: ""
 </style>
 
 <div style="margin-bottom:30px;" class="text-center-color">Check out the activities we have in store during Go Green SG!<br>
-More activities are also being added progressively.</div>
+More activities are being added progressively.</div>
 
 <div class="row row_custom">
 	<div class="programmes__item col is-one-third">
