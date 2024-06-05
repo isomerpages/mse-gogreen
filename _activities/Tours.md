@@ -1543,6 +1543,32 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/site-tour-to-sustainable-tropical-data-centre-testbed-stdct-at-nus/">
+				<img src="/images/Tours/Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed__STDCT__at_NUS.png"></a>
+        <h2>Site Tour to Sustainable Tropical Data Centre Testbed (STDCT) at NUS</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Date: 28 June</strong></li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: STDCT, 2 Estate Office Drive</strong></li>
+          <li><strong>Organiser: National University of Singapore   </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>On this site tour, you will witness various cooling solutions incorporated in the infrastructure of the Sustainable Tropical Data Centre Testbed and learn about the sustainable practices in data centre operations.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/site-tour-to-sustainable-tropical-data-centre-testbed-stdct-at-nus/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
