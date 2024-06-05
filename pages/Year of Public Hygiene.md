@@ -14,7 +14,7 @@ With 2024 designated as the Year of Public Hygiene, this year's Go Green SG will
 
 Check out the activities below! 
 
-**Registration links will go live on 5 Jun, 10am. Come back to sign up for your favourite activities!  More activities will also be added progressively.**
+**More activities are being added progressively.**
 
 <style>
   .row_custom {
