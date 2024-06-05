@@ -1827,7 +1827,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/learning-journey-to-changi-water-reclamation-plant/">
         <img src="/images/Tours/Learning_Journey_to_Changi_Water_Reclamation_Plant.png"></a>
-        <h2>Learning Journey to Changi Water Reclamation Plant</h2>
+        <h2>Learning Journey to Changi Water Reclamation Plant</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -2029,7 +2029,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
         <img src="/images/Tours/Sewer_Choke_Demonstration_and_Visit_to_Ulu_Pandan_Reclamation_Plant.png"></a>
-        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
+        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
