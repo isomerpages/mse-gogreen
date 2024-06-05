@@ -17,7 +17,7 @@ Transport will be provided from Environment Building (40 Scotts Road).
 
 Participants must be 18 years old and above and wear covered shoes for the visit. Please note that this is a bus tour, and participants will only disembark at designated locations.
 
-**Morning Session (9:30 am – 1:00 pm)**<br>
+**Morning Session (9:30 am – 1:00 pm)** <b><font color="red">[FULLY BOOKED]</font></b><br>
 <a class="btn-link" target="_blank" href="https://form.gov.sg/6630f1cad6f38c203c207d3c">
 	<img src="/images/gogreensg_website-32.png">
 </a>
@@ -34,7 +34,7 @@ Participants must be 18 years old and above and wear covered shoes for the visit
 	}
 </style>
 
-**Afternoon Session (2:30 pm – 6:00 pm)**<br>
+**Afternoon Session (2:30 pm – 6:00 pm)** <b><font color="red">[FULLY BOOKED]</font></b><br>
 <a class="btn-link" target="_blank" href="https://form.gov.sg/6639d1b09fd4e14b56fe02cd">
 	<img src="/images/gogreensg_website-32.png">
 </a>
