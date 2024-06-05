@@ -53,7 +53,7 @@ This activity is suitable for individuals with mobility issues.
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-**Telok Ayer route**<br>
+**Telok Ayer route**  <b><font color="red"> [FULLY BOOKED]</font></b><br>
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/chinatown-heritage-walks-telok-ayer-tickets-779198582937?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">
 </a>
