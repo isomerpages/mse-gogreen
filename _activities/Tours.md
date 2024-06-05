@@ -103,35 +103,6 @@ variant: markdown
 More activities are being added progressively.</div>
 
 <div class="row row_custom">
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/sustainability-in-design-at-artscience-museum/">
-        <img src="/images/Tours/Sustainability_in_Design_at_ArtScience_Museum.png"></a>
-        <h2>Sustainability in Design at ArtScience Museum</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 6, 13, 20, 27 June; 4, 11, 18, 25 July</strong>
-          </li>
-          <li><strong>Admission: $20/pax</strong></li>
-          <li><strong>Venue: ArtScience Museum</strong></li>
-          <li><strong>Organiser: Marina Bay Sands </strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Join Marina Bay Sands on a tour to learn more about the design and sustainability features integrated within ArtScience Museum. 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 					  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -260,7 +231,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 13, 18, 20, 22, 25, 27 June, 2, 4, 9, 11, 13 July</strong>
+              Date: 13, 18, 20, 22, 25, 27 June; 2, 4, 9, 11, 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Singapore City Gallery</strong></li>
@@ -274,6 +245,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/discover-singapore-s-urban-transformation/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustainability-in-design-at-artscience-museum/">
+        <img src="/images/Tours/Sustainability_in_Design_at_ArtScience_Museum.png"></a>
+        <h2>Sustainability in Design at ArtScience Museum</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 20, 27 June; 4, 11, 18, 25 July</strong>
+          </li>
+          <li><strong>Admission: $20/pax</strong></li>
+          <li><strong>Venue: ArtScience Museum</strong></li>
+          <li><strong>Organiser: Marina Bay Sands </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Marina Bay Sands on a tour to learn more about the design and sustainability features integrated within ArtScience Museum. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-design-at-artscience-museum/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1519,8 +1519,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
             <a href="/chek-jawa-wetlands-tour/">
               <img src="/images/Tours/Chek_jawa_tour_nparks.jpg"></a>
-        <h2>Chek Jawa Wetlands Tour
-</h2>
+				<h2>Chek Jawa Wetlands Tour</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
