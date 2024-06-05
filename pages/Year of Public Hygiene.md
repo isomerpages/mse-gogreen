@@ -648,7 +648,16 @@ Check out the activities below!
   </div>
 </div>
 
+
 <hr> 
+
+#### Go Green SG Jingle
+Get into the groove with this brand new Go Green SG jingle, produced in collaboration with local artists Annette Lee and Glenn Yong. 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jKVtIQkIgo4?si=T2Qtfet54FqFhIeu" height="500" width="100%"></iframe>
+
+<hr>
+
 
 ####  Year of Public Hygiene Profile Frame
 
