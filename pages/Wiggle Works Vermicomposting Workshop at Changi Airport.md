@@ -20,7 +20,9 @@ Changi Airport Group will also share real life examples and insights into how ve
 
 *   Admission fee of $25 includes a vermicomposting kit and 1 drink.&nbsp;
     
-*   Admission fee of $10 (for each accompanying child) includes 1 drink.&nbsp;&nbsp;This activity is suitable for participants with mobility issues.
+*   Admission fee of $10 (for each accompanying child) includes 1 drink.&nbsp;&nbsp;
+
+This activity is suitable for participants with mobility issues.
 
  
 
