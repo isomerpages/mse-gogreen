@@ -27,7 +27,7 @@ The workshop and tour is open to participants aged 18 and above and to seniors a
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

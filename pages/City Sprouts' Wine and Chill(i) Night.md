@@ -19,7 +19,7 @@ No, your eyes aren't playing tricks on you! During this event, you will be serve
 
 You can even make your own sambal blend and pair it with bruschetta toasts.
 
-Registration for the July run opens on 13 June, 10:00 am.
+**Registration for the July run opens on 13 June, 10:00 am.**
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110)">
 	<img src="/images/gogreensg_website-32.png">
@@ -27,7 +27,7 @@ Registration for the July run opens on 13 June, 10:00 am.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

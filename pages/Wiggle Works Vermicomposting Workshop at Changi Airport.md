@@ -30,7 +30,7 @@ Changi Airport Group will also share real life examples and insights into how ve
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 

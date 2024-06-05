@@ -25,7 +25,7 @@ Sungei Buloh is home to many animals and plants. There are different types of aq
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

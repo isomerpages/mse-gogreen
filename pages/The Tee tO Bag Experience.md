@@ -30,7 +30,7 @@ This activity is recommended for those 5 years old and above.
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 

@@ -1,5 +1,5 @@
 ---
-title: Go Green SG Videos
+title: Videos
 permalink: /videos/
 variant: markdown
 description: ""

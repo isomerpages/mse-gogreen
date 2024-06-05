@@ -27,7 +27,7 @@ As a bonus, you will pass through the ruins of the former Hainan Village for a f
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 

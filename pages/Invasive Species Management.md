@@ -57,7 +57,7 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

@@ -100,8 +100,7 @@ variant: markdown
 </style>
 
 <div style="margin-bottom:30px;" class="text-center-color">Check out the activities we have in store during Go Green SG!<br>
-Come back on 5 June when registration links go live at 10am, to sign up for your favourite activities!<br>
-More activities will also be added progressively.</div>
+More activities are being added progressively.</div>
 
 <div class="row row_custom">
 		<div class="programmes__item col is-one-third">
@@ -1642,7 +1641,7 @@ More activities will also be added progressively.</div>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Date: 29 June</strong></li>
+          <li><strong>Date: 29 June, 6 July</strong></li>
           <li><strong>Admission: $60/pax</strong></li>
 <li><strong>Venue: Raffles City Shopping Centre, Funan</strong></li>
           <li><strong>Organiser: Edible Garden City</strong></li>
@@ -2005,7 +2004,7 @@ More activities will also be added progressively.</div>
       <div class="programmes__item__header">
 <a href="/sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
         <img src="/images/Tours/Sewer_Choke_Demonstration_and_Visit_to_Ulu_Pandan_Reclamation_Plant.png"></a>
-        <h2>Sewer Choke Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
+        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>

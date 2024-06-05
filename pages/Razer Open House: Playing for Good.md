@@ -25,7 +25,7 @@ This activity is suitable for participants with mobility issues.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

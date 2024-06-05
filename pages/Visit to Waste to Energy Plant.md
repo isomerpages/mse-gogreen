@@ -25,7 +25,7 @@ Transport will be provided from Tuas Crescent MRT.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

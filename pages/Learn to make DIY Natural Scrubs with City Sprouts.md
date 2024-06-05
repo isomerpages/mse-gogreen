@@ -18,7 +18,7 @@ Your daily self-care routine may be causing a lot of waste to end up in our land
 
 This activity allows participants to learn how to make self-care alternatives that are more environmentally friendly. Learn how to make your own natural scrubs and hair masks with ingredients easily found in your kitchen.
 
-Registration for the July run opens on 13 June, 10:00 am.
+**Registration for the July run opens on 13 June, 10:00 am.**
 
 <a class="btn-link" target="_blank" href="https://citysprouts.com.sg/products/go-green-sg-2024?variant=46501520933110">
 	<img src="/images/gogreensg_website-32.png">
@@ -26,7 +26,7 @@ Registration for the July run opens on 13 June, 10:00 am.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

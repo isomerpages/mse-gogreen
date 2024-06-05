@@ -24,7 +24,7 @@ Things to bring: Water, umbrella and mosquito repellent. Do wear comfortable clo
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

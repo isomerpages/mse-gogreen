@@ -22,7 +22,7 @@ Join this guided walk featuring our lesser-known creatures of the mudflats in Su
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

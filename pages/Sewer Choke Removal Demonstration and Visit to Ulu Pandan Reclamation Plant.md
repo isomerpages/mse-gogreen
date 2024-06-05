@@ -1,5 +1,5 @@
 ---
-title: Sewer Choke Demonstration and Visit to Ulu Pandan Reclamation Plant
+title: Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant
 permalink: /sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/
 variant: markdown
 description: ""
@@ -30,7 +30,7 @@ Participants must be 18 years old and above and wear covered shoes for the visit
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

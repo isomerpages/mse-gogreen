@@ -38,7 +38,7 @@ The price excludes GST &amp; Eventbrite booking fee (non-refundable). Price incl
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 

@@ -25,7 +25,7 @@ The event provides a good opportunity for participants to learn and be inspired 
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

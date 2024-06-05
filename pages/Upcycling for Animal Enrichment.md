@@ -29,7 +29,7 @@ This activity is suitable for participants aged 6 and above, and participants wi
 
 <style> 
 .btn-link { 
-display: none; 
+display: inline-block; 
 } 
 
 a.btn-link[target="_blank"]:after { 

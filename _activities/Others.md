@@ -96,8 +96,7 @@ variant: markdown
 </style>
 
 <div style="margin-bottom:30px;" class="text-center-color">Check out the activities we have in store during Go Green SG!<br>
-Come back on 5 June when registration links go live at 10am, to sign up for your favourite activities!<br>
-More activities will also be added progressively.</div>
+More activities are being added progressively.</div>
 
 <div class="row row_custom"> 
 		<div class="programmes__item col is-one-third">
@@ -282,7 +281,7 @@ More activities will also be added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 1-14 July</strong>
+              Date: 1 - 14 July</strong>
           </li>
           <li><strong>Admission: Free (no registration required) </strong></li>
           <li><strong>Venue: ArtScience Museum, Mezzanine</strong></li>

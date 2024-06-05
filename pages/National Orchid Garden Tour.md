@@ -25,7 +25,7 @@ Registration is required by 8.45am at the Ticketing Counter of National Orchid G
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

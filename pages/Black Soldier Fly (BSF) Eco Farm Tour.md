@@ -29,7 +29,7 @@ The eco farm tour is designed for both adults and children. Children aged 6 and 
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

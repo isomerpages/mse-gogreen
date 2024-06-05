@@ -19,25 +19,7 @@ Parents and children can learn to embrace sustainable living habits together and
 
 This activity is recommended for participants aged 10 and above.
 
-
-
-<a class="btn-link" target="_blank" href="https://bit.ly/1604GOG">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
-
-
+<a class="btn-link" target="_blank" href="https://bit.ly/1604GOG"><img src="/images/gogreensg_website-32.png"></a>
 
 <a class="btn-link" target="_blank" href="https://bit.ly/2206GOG">
 	<img src="/images/gogreensg_website-32.png">
@@ -45,7 +27,7 @@ This activity is recommended for participants aged 10 and above.
 
 <style>
 	.btn-link {
-		display:none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;

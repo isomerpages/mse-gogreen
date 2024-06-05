@@ -22,7 +22,7 @@ Learn about the importance of a circular economy and recycling and discover how 
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
