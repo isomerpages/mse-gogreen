@@ -4,7 +4,7 @@ permalink: /site-tour-to-sustainable-tropical-data-centre-testbed-stdct-at-nus/
 variant: markdown
 description: ""
 ---
- ![Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed(STDCT)_at_NUS](/images/Tours/Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed__STDCT__at_NUS.png)
+![Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed(STDCT)_at_NUS](/images/Tours/Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed__STDCT__at_NUS.png)
  
  **Date:** 28 June
 * 1:30 pm – 2:30 pm
@@ -21,7 +21,7 @@ This activity is recommended for participants above the age of 15 years old.
 
  
 
-<a class="btn-link" href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc\_rDTR-gt9yMNbiTzFBqGiXfcpmdDRUMkI0SldKSjhRMVkxTDk2OFRTT04yRzhKRC4u"> 
+<a class="btn-link" href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gt9yMNbiTzFBqGiXfcpmdDRUMkI0SldKSjhRMVkxTDk2OFRTT04yRzhKRC4u"> 
 
 <img src="/images/gogreensg_website-32.png"></a> 
 
@@ -60,4 +60,3 @@ display: none;
 width: 100%; 
 } 
 </style>
-
