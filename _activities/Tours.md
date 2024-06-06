@@ -190,6 +190,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/">
+        <img src="/images/Tours/Building_Wildlife_Friendly_Spaces_in_Mandai_HIDDEN_sg_Self_Guided_Tour__2_.jpg"></a>
+        <h2>Building Wildlife Friendly Spaces in Mandai (Self Guided Tour by Hidden SG)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Entrance of Bird Paradise, 20 Mandai Lake Road</strong></li>
+          <li><strong>Organiser: Mandai Wildlife Group and Hidden.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Solve clues in this self-guided adventure within the stunning green spaces of Mandai Wildlife West to discover its sustainable features.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/building-wildlife-friendly-spaces-in-mandai-hidden-sg-self-guided-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1542,6 +1571,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/night-walk-rail-corridor/">
+        <img src="/images/Tours/night_walk_rail_corridor.png"></a>
+        <h2>Night Walk @ Rail Corridor</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Rail Corridor</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>See the iconic Rail Corridor in a new light at night as it comes alive with charming nocturnal creatures. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-walk-rail-corridor/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1850,6 +1908,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/learning-journey-at-singapore-food-agency-s-national-centre-for-food-science/">
+        <img src="/images/Tours/SFA_NCFS.jpg"></a>
+        <h2>Learning Journey at Singapore Food Agency's National Centre for Food Science</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 5 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 7 International Business Park</strong></li>
+          <li><strong>Organiser: Singapore Food Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>On this learning journey, get a glimpse of Singapore Food Agency (SFA)’s National Centre for Food Science (NCFS) laboratories and how SFA scientists manage threats to food safety.  
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/learning-journey-at-singapore-food-agency-s-national-centre-for-food-science/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -2023,6 +2110,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/fish-farm-of-the-future-lesser-space-lesser-water-lesser-transportation/">
+        <img src="/images/Tours/BOAT_Fish_Farm.jpg"></a>
+        <h2>Fish Farm of the Future: Lesser Space, Lesser Water, Lesser Transportation</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $20++/pax</strong></li>
+          <li><strong>Venue: 1 Tuas South Ave 6, The Westcom</strong></li>
+          <li><strong>Organiser: Blue Ocean Aquaculture Technology Pte Ltd </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Blue Ocean Aquaculture Technology Pte Ltd to learn how their state-of-the-art Nano-Tech Vertical Indoor Re-Circulating Aquaculture System saves space and water in the Singapore farming industry.  
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/fish-farm-of-the-future-lesser-space-lesser-water-lesser-transportation/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">

@@ -99,6 +99,34 @@ description: Retail, F&B and Deals
 More activities are being added progressively.</div>
 
 <div class="row row_custom">
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/farm-to-plate-with-shangri-la-singapore-s-refreshed-rooted-in-nature-dishes/">
+        <img src="/images/Retail%20FB%20Deals/Shangri_La_Singapore_Farm_to_Plate.jpg"></a>
+        <h2>Farm to Plate with Shangri La Singapore’s Refreshed Rooted in Nature Dishes</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 - 30 June</strong>
+          </li>
+          <li><strong>Venue: Shangri-La Singapore</strong></li>
+          <li><strong>Organiser: Shangri-La Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Shangri-La Singapore to celebrate its chefs’ creative renditions of Rooted in Nature dishes which features local and ethically sourced ingredients. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/farm-to-plate-with-shangri-la-singapore-s-refreshed-rooted-in-nature-dishes/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -131,7 +159,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/byo-bag-and-get-2x-points-at-design-orchard/">
 				<img src="/images/Retail%20FB%20Deals/singapore_fashion_council_design_orchard.png"></a>
-        <h2>BYO Bag and Get 2X Points at Design Orchard</h2>
+        <h2>BYO Bag and Get Bonus Reward Points at Design Orchard</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -294,6 +322,32 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/say-no-to-plastic-with-shangri-la-singapore/">
+        <img src="/images/Retail%20FB%20Deals/Shangri_La_Singapore_No_Plastic.jpg"></a>
+        <h2>Say “NO” to plastic with Shangri La Singapore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>            <strong>
+              Date: 3 - 14 July</strong></li>
+          <li><strong>Venue: Shophouse by Shangri-La, Tower Wing</strong></li>
+          <li><strong>Organiser: Shangri-La Singapore </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In conjunction with International Plastic Bag Free Day on 3 July, Shophouse by Shangri-La will be inviting guests to reduce single-use packaging.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/say-no-to-plastic-with-shangri-la-singapore/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
