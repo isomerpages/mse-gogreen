@@ -893,4 +893,33 @@ More activities are being added progressively.</div>
       </a>
     </div>
 	</div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/habitat-restoration-at-sungei-buloh-wetland-reserve-and-lim-chu-kang-nature-park/">
+        <img src="/images/Initiatives/nustoddycats_reforesting_lck.jpg"></a>
+        <h2>Habitat Restoration at Sungei Buloh Wetland Reserve and Lim Chu Kang Nature Park</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 60 Kranji Way</strong></li>
+          <li><strong>Organiser: NUS Toddycats </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join NUS Toddycats in a meaningful exercise to plant native trees suitable to the Lim Chu Kang Nature Park. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/habitat-restoration-at-sungei-buloh-wetland-reserve-and-lim-chu-kang-nature-park/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 </div>
