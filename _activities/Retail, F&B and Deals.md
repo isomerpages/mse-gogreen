@@ -131,7 +131,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/byo-bag-and-get-2x-points-at-design-orchard/">
 				<img src="/images/Retail%20FB%20Deals/singapore_fashion_council_design_orchard.png"></a>
-        <h2>BYO Bag and Get 2X Points at Design Orchard</h2>
+        <h2>BYO Bag and Get Bonus Reward Points at Design Orchard</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
