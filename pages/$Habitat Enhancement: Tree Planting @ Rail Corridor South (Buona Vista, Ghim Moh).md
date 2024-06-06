@@ -7,7 +7,7 @@ description: ""
 ---
 ![A group of volunteers learning how to plant a tree](/images/Initiatives/nustoddycats_habitat_enhancement_tree_planting.jpg)
 
-**Date:** 22June, 8:00 am - 10:30 am <br>
+**Date:** 22 June, 8:00 am - 10:30 am <br>
 **Admission:** Free (registration required)<br>
 **Venue:** Resting Hut (Rail Corridor - North  Buona Vista) <br>
 **Organiser:** NUS Toddycats
