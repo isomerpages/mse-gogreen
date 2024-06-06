@@ -6,7 +6,7 @@ description: ""
 ---
 ![Hidden_SG_Mandai_Self_Guided_Tour](/images/Tours/Building_Wildlife_Friendly_Spaces_in_Mandai_HIDDEN_sg_Self_Guided_Tour__2_.jpg)
 
-**Date:** 12 June - 14 July, 8:00 am – 9:00 pm<br> 
+**Date:** 12 June - 14 July, 9:00 am – 6:30 pm<br> 
 **Admission:** Free (registration required) <br> 
 **Venue:**  Entrance of Bird Paradise, 20 Mandai Lake Road<br> 
 **Organiser:** Mandai Wildlife Group and Hidden.SG
