@@ -2110,6 +2110,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/fish-farm-of-the-future-lesser-space-lesser-water-lesser-transportation/">
+        <img src="/images/Tours/BOAT_Fish_Farm.jpg"></a>
+        <h2>Fish Farm of the Future: Lesser Space, Lesser Water, Lesser Transportation</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: $20++/pax</strong></li>
+          <li><strong>Venue: 1 Tuas South Ave 6, The Westcom</strong></li>
+          <li><strong>Organiser: Blue Ocean Aquaculture Technology Pte Ltd </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Blue Ocean Aquaculture Technology Pte Ltd to learn how their state-of-the-art Nano-Tech Vertical Indoor Re-Circulating Aquaculture System saves space and water in the Singapore farming industry.  
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/fish-farm-of-the-future-lesser-space-lesser-water-lesser-transportation/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
