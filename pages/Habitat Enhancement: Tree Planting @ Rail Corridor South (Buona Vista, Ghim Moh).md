@@ -5,7 +5,7 @@ permalink: /habitat-enhancement-tree-planting-rail-corridor-south-buona-vista-gh
 variant: markdown
 description: ""
 ---
-![A group of volunteers learning how to plant a tree](/images/Initiatives/Act_1_Habitat_Enhancement_Tree_Planting.jpg)
+![A group of volunteers learning how to plant a tree](/images/Initiatives/nustoddycats_habitat_enhancement_tree_planting.jpg)
 
 **Date:** 22June, 8:00 am - 10:30 am <br>
 **Admission:** Free (registration required)<br>
