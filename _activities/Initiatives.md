@@ -835,4 +835,33 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/habitat-enhancement-spa-rail-corridor-south-buona-vista-ghim-moh/">
+        <img src="/images/Initiatives/nustoddycats_habitat_enhancement_sap.jpg"></a>
+        <h2>Habitat Enhancement: Sapling Protection Action @ Rail Corridor South (Buona Vista, Ghim Moh)</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Resting Hut (Rail Corridor - North  Buona Vista)</strong></li>
+          <li><strong>Organiser: NUS Toddycats</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join NUS Toddycats to undertake sapling protection works along the Rail Corridor, a unique green space that serves as a haven for diverse flora and fauna.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/habitat-enhancement-spa-rail-corridor-south-buona-vista-ghim-moh/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 </div>
