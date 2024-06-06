@@ -20,7 +20,7 @@ This modern farm-to-food solution reduces water used in farming while reducing c
 Children below 11 years old must be accompanied by an adult.  
 
 <a class="btn-link" target="_blank" href="https://www.finbyboat.com.sg/products/farm-tour/farm-tour-package-">
-	<img src="/images/gogreensg_website-32 .png"> 
+	<img src="/images/gogreensg_website-32.png"> 
 </a>
 
 <style>
