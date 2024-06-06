@@ -322,6 +322,32 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/say-no-to-plastic-with-shangri-la-singapore/">
+        <img src="/images/Retail%20FB%20Deals/Shangri_La_Singapore_No_Plastic.jpg"></a>
+        <h2>Say “NO” to plastic with Shangri La Singapore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>            <strong>
+              Date: 3 - 14 July</strong></li>
+          <li><strong>Venue: Shophouse by Shangri-La, Tower Wing</strong></li>
+          <li><strong>Organiser: Shangri-La Singapore </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In conjunction with International Plastic Bag Free Day on 3 July, Shophouse by Shangri-La will be inviting guests to reduce single-use packaging.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/say-no-to-plastic-with-shangri-la-singapore/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
