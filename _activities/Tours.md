@@ -1908,6 +1908,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/learning-journey-at-singapore-food-agency-s-national-centre-for-food-science/">
+        <img src="/images/Tours/SFA_NCFS.jpg"></a>
+        <h2>Learning Journey at Singapore Food Agency's National Centre for Food Science</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 5 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 7 International Business Park</strong></li>
+          <li><strong>Organiser: Singapore Food Agency</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>On this learning journey, get a glimpse of Singapore Food Agency (SFA)’s National Centre for Food Science (NCFS) laboratories and how SFA scientists manage threats to food safety.  
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/learning-journey-at-singapore-food-agency-s-national-centre-for-food-science/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
