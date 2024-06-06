@@ -1571,6 +1571,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/night-walk-rail-corridor/">
+        <img src="/images/Tours/night_walk_rail_corridor.png"></a>
+        <h2>Night Walk @ Rail Corridor</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Rail Corridor</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>See the iconic Rail Corridor in a new light at night as it comes alive with charming nocturnal creatures. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-walk-rail-corridor/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
