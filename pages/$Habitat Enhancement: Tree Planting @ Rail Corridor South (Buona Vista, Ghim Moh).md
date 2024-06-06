@@ -16,7 +16,7 @@ The Rail Corridor is a unique green space that serves as a haven for diverse flo
 
 This connectivity is essential for genetic diversity and the long-term survival of species. Efforts to reintroduce native plant species and create suitable environments are underway.
 
-To augment the habitat enhancement works along the Rail Corridor South, join the NUS Toddycats  to prepare the soil  and plant trees suitable for the habitat.
+To augment the habitat enhancement works along the Rail Corridor South, join the NUS Toddycats  to prepare the soil and plant trees suitable for the habitat.
 
 
 <a class="btn-link" target="_blank" href="https://tinyurl.com/toddycats-omt-22jun2024">
