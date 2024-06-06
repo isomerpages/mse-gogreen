@@ -99,6 +99,34 @@ description: Retail, F&B and Deals
 More activities are being added progressively.</div>
 
 <div class="row row_custom">
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/farm-to-plate-with-shangri-la-singapore-s-refreshed-rooted-in-nature-dishes/">
+        <img src="/images/Retail%20FB%20Deals/Shangri_La_Singapore_Farm_to_Plate.jpg"></a>
+        <h2>Farm to Plate with Shangri La Singapore’s Refreshed Rooted in Nature Dishes</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 - 30 June</strong>
+          </li>
+          <li><strong>Venue: Shangri-La Singapore</strong></li>
+          <li><strong>Organiser: Shangri-La Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Shangri-La Singapore to celebrate its chefs’ creative renditions of Rooted in Nature dishes which features local and ethically sourced ingredients. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/farm-to-plate-with-shangri-la-singapore-s-refreshed-rooted-in-nature-dishes/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
