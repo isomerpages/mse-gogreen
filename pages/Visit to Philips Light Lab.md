@@ -18,6 +18,8 @@ This activity is part of the [Clean and Green Singapore Experiences](https://www
 
 Find out how the Philips Light Lab uses technology to create a more sustainable environment in homes and in the city, and experience first-hand the wonders of ‘future lighting’ to save energy in your smart home.
 
+Online registration will progressively open for booking from 5 June, 10:00 am.
+
 <b><font color="red">Fully booked - join the waitlist below:</font></b><br>
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/visit-to-philips-light-lab-tickets-909407350867">
 	<img src="/images/gogreensg_website-32.png">

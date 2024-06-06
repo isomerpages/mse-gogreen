@@ -18,6 +18,8 @@ description: ""
 
 Explore our beautiful reservoirs on kayaks while picking up litter. Learn how you can play a part in keeping our reservoirs clean and contribute to environmental conservation!
 
+Online registration will progressively open for booking from 5 June, 10:00 am.
+
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/project-blue-wave-jurong-lake-gardens-tickets-909407250567">
 	<img src="/images/gogreensg_website-32.png">
 </a>

@@ -20,6 +20,8 @@ Can glass be recycled? Learn how Abraclean turns glass waste into useful product
 
 Transport will be provided from Jurong East MRT.
 
+Online registration will progressively open for booking from 5 June, 10:00 am.
+
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/journey-into-glass-recycling-with-abraclean-tickets-643505952627">
 	<img src="/images/gogreensg_website-32.png">
 </a>

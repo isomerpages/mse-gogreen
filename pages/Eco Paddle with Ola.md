@@ -18,6 +18,8 @@ description: ""
 
 Litter-picking is fun! Join us on kayaks to conduct a coastal clean-up at Sentosa and nearby islands. Learn more about Singapore’s marine biodiversity and how to protect it.
 
+Online registration will progressively open for booking from 5 June, 10:00 am.
+
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/eco-paddle-with-ola-ocean-clean-up-tickets-909441402717">
 	<img src="/images/gogreensg_website-32.png">
 </a>

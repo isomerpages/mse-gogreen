@@ -11,9 +11,9 @@ description: ""
 **Venue:** Rifle Range Nature Park (Visitor Pavilion)<br>
 **Organiser:** World Wide Fund for Nature (WWF) Singapore
 
-This guided programme aims to develop participants’ appreciation for our natural environment, and serve as source of inspiration for the arts. 
+This guided programme aims to develop participants’ appreciation for our natural environment, and how it serves as a source of inspiration for the arts. 
 
-Together with the World Wide Fund for Nature Singapore, explore the roles of colours, shapes, and textures at Rifle Range Nature Park, with a focus on the physical adaptations of local flora and fauna. 
+Together with the World Wide Fund for Nature Singapore, explore the roles of colours, shapes, and textures in nature at Rifle Range Nature Park, with a focus on the physical adaptations of local flora and fauna. 
 
 Gain insights into Singapore’s green spaces, and how certain features are put in place to facilitate animal movement. 
 

@@ -1129,7 +1129,7 @@ More activities are being added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Explore the roles of colours, shapes, and textures at Rifle Range Nature Park, with a focus on the physical adaptations of local flora and fauna. 
+        <p>Explore the roles of colours, shapes, and textures in nature at Rifle Range Nature Park, with a focus on the physical adaptations of local flora and fauna. 
         </p>
       </div>
     </div>
