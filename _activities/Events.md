@@ -241,6 +241,34 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/wasted-screening-a-trivia-about-waste-in-asia/">
+        <img src="/images/Events/Wasted_Screening.png"></a>
+        <h2>Wasted Screening &amp; A Trivia about Waste in Asia</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: $12.50</strong></li>
+          <li><strong>Venue: City Sprouts @ West Coast </strong></li>
+          <li><strong>Organiser: EB Impact and City Sprouts</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>This film screening will open your eyes to the simple truth: What is thrown away, doesn’t go away.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wasted-screening-a-trivia-about-waste-in-asia/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
       <a href="/free-screening-of-the-human-element-at-singapore-botanic-gardens/">
 	<img src="/images/Events/Free_Screening_of__The_Human_Element__at_Singapore_Botanic_Gardens.jpg"></a>
         <h2>Free Screening of ‘The Human Element’ at Singapore Botanic Gardens
