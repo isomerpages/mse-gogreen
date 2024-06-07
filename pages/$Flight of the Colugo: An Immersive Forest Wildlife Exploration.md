@@ -11,7 +11,7 @@ description: ""
 * 3, 5, 10, 12 July, 8:00 pm – 10:00 pm <br>
 
 **Admission:** Adult: $73.80, Child (under 12): $36 <br>
-**Venue:** Bukit Batok Nature Park <br>
+**Venue:** Bukit Batok Nature Park Carpark <br>
 **Organiser:** The Untamed Paths
 
 Embark on an unforgettable night adventure suitable for all ages, with the enchanting native Malayan Colugos stealing the show.
