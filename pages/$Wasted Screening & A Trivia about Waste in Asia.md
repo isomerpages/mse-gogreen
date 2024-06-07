@@ -8,7 +8,7 @@ description: ""
 
 **Date:** 28 June, 7:30 pm – 9:00 pm <br>
 **Admission:** 
-* Early bird tickets (6-14 June) - $12.50
+* Early bird tickets (6-13 June) - $12.50
 * Normal tickets (14-28 June) - $16
 * Prices exclude Eventbrite fees
 
