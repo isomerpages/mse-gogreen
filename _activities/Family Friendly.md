@@ -538,7 +538,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 					<a href="/design-a-photo-frame-for-your-superhero-dad/">
 						<img src="/images/Workshop%20&amp;%20Talks/Design_a_Photo_Frame_for_Your_Superhero_Dad.jpg"></a>
-        <h2>Design a Photo Frame for Your Superhero Dad</h2>
+        <h2>Design a Photo Frame for Your Superhero Dad</h2><font color="red"><sup><b>FULLY BOOKED</b></sup></font>
       </div>
       <div class="programmes__item__detail">
         <ul>
