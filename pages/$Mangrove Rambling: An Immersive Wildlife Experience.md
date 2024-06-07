@@ -10,7 +10,7 @@ description: ""
 * 13, 14, 18, 20, 21, 25, 27, 28 June, 7:30 pm – 9:00 pm  <br>
 * 2, 4, 5, 9, 11 July, 7:30 pm – 9:00 pm  <br>
 
-**Admission:** Adult: $73.80, Child (under 12): $36.  <br>
+**Admission:** Adult: $73.80, Child (under 12): $36<br>
 **Venue:** Carpark C, Pasir Ris Park <br>
 **Organiser:** The Untamed Paths
 
