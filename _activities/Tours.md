@@ -1203,7 +1203,7 @@ More activities are being added progressively.</div>
       <a href="/visit-to-jtc-corporation-s-solarland-site-at-changi-business-park/">
 	<img src="/images/Tours/Visit_to_JTC_Corporation_s_SolarLand_Site_at_Changi_Business_Park.jpg"></a>
         <h2>Visit to JTC Corporation’s SolarLand Site at Changi Business Park
-</h2>
+</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
