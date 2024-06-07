@@ -26,22 +26,7 @@ This activity is suitable for people with mobility issues.
 
 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/gogreensg-wasted-film-screening-tickets-914431628617">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style> <br>
+<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/gogreensg-wasted-film-screening-tickets-914431628617"><img src="/images/gogreensg_website-32.png"></a>
 
 <a class="btn-link" target="_blank" href="https://www.wasted.film/">
 	<img src="/images/more-info-btn.png">
