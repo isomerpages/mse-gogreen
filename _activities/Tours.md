@@ -2031,7 +2031,7 @@ More activities are being added progressively.</div>
       <a href="/tour-of-jurong-innovation-district-jtc-corporation-s-next-gen-industrial-estate/">
 	<img src="/images/Tours/Tour_of_Jurong_Innovation_District__JTC_Corporation_s_Next_Gen_Industrial_Estate.jpg"></a>
         <h2>Tour of Jurong Innovation District
-</h2>
+</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
