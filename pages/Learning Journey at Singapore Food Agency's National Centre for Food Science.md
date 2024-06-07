@@ -19,7 +19,7 @@ It also provides testing services to support the investigation of foodborne dise
 
 During this tour, participants will be able to view some of the NCFS facilities used by SFA’s scientists, and come away with a better understanding of how it upholds the food safety in Singapore. 
 
-**Registration opens on 13 July, 10:00 am.**
+**Registration opens on 13 June, 10:00 am.**
 
 <a class="btn-link" target="_blank" href="https://form.gov.sg/6625b421cd2185d32e86c7f2">
 	<img src="/images/gogreensg_website-32.png"> 
