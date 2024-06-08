@@ -103,7 +103,35 @@ variant: markdown
 More activities are being added progressively.</div>
 
 <div class="row row_custom">
-					  <div class="programmes__item col is-one-third">
+					<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/flight-of-the-colugo-an-immersive-forest-wildlife-exploration/">
+        <img src="/images/Tours/flight_of_the_colugo.png"></a>
+        <h2>Flight of the Colugo: An Immersive Forest Wildlife Exploration</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12, 14, 19, 21, 26, 28 June; 3, 5, 10, 12 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $73.80, Child (under 12): $36 </strong></li>
+          <li><strong>Venue: Bukit Batok Nature Park Carpark</strong></li>
+          <li><strong>Organiser: The Untamed Paths </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In the field with The Untamed Paths' wildlife guides, peek into the secretive lives of the nocturnal creatures found in Singapore's green spaces. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/flight-of-the-colugo-an-immersive-forest-wildlife-exploration/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>  
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
@@ -249,6 +277,34 @@ More activities are being added progressively.</div>
     </div>
 	</div>
 			  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/mangrove-rambling-an-immersive-wildlife-experience/">
+        <img src="/images/Tours/Mangrove_Rambling_An_Immersive_Wildlife_Experience.png"></a>
+        <h2>Mangrove Rambling: An Immersive Wildlife Experience</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 14, 18, 20, 21, 25, 27, 28 June; 2, 4, 5, 9, 11 July</strong>
+          </li>
+          <li><strong>Admission: Adult: $73.80, Child (under 12): $36 </strong></li>
+          <li><strong>Venue: Pasir Ris Park</strong></li>
+          <li><strong>Organiser: The Untamed Paths </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Unleash your adventurous spirit with a nocturnal exploration through one of Singapore’s last remaining mangrove systems. Witness the wild side of nature coming alive as you venture onto a boardwalk full of life. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/mangrove-rambling-an-immersive-wildlife-experience/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 					<a href="/discover-singapore-s-urban-transformation/">
@@ -1203,7 +1259,7 @@ More activities are being added progressively.</div>
       <a href="/visit-to-jtc-corporation-s-solarland-site-at-changi-business-park/">
 	<img src="/images/Tours/Visit_to_JTC_Corporation_s_SolarLand_Site_at_Changi_Business_Park.jpg"></a>
         <h2>Visit to JTC Corporation’s SolarLand Site at Changi Business Park
-</h2>
+</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1567,6 +1623,34 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/chek-jawa-wetlands-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/night-walk-rail-corridor/">
+        <img src="/images/Tours/night_walk_rail_corridor.png"></a>
+        <h2>Night Walk @ Rail Corridor</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Rail Corridor</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>See the iconic Rail Corridor in a new light at night as it comes alive with charming nocturnal creatures. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-walk-rail-corridor/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -2031,7 +2115,7 @@ More activities are being added progressively.</div>
       <a href="/tour-of-jurong-innovation-district-jtc-corporation-s-next-gen-industrial-estate/">
 	<img src="/images/Tours/Tour_of_Jurong_Innovation_District__JTC_Corporation_s_Next_Gen_Industrial_Estate.jpg"></a>
         <h2>Tour of Jurong Innovation District
-</h2>
+</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -2168,5 +2252,32 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
-
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/night-walk-pasir-ris-mangroves/">
+        <img src="/images/Tours/Mangrove_Rambling_An_Immersive_Wildlife_Experience.png"></a>
+        <h2>Night Walk @ Pasir Ris Mangroves</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 July</strong>
+          </li>
+          <li><strong>Admission: $38/pax</strong></li>
+          <li><strong>Venue: Pasir Ris Mangroves</strong></li>
+          <li><strong>Organiser: Loris &amp; Owl </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join this unforgettable night walk to Pasir Ris Mangroves &amp; Park to experience the exciting wildlife that begin their day when others sleep.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/night-walk-pasir-ris-mangroves/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
