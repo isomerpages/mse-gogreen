@@ -23,6 +23,8 @@ Learn how the docile Black Soldier Fly (BSF) uses its magic to turn trash into t
 
 The eco farm tour is designed for both adults and children. Children aged 6 and below must be accompanied by parents.  (Accompanying adults would require an admission ticket as well.)
 
+Registration for the 13 July session opens from end-June to mid-July.
+
 <a class="btn-link" target="_blank" href="http://tiny.cc/BSFEcoFarmTour">
 	<img src="/images/gogreensg_website-32.png">
 </a>
