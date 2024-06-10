@@ -247,35 +247,6 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
-        <img src="/images/Tour_Image.jpg"></a>
-        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to Inspire Better Health</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 12 June – 14 July (excluding weekends and public holidays)</strong>
-          </li>
-          <li><strong>Admission: $50/pax</strong></li>
-          <li><strong>Venue: Admirax, 8 Admiralty Street</strong></li>
-          <li><strong>Organiser: Sustenir</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -330,6 +301,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/art-jam-nature-senses-and-me/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/">
+        <img src="/images/Tour_Image.jpg"></a>
+        <h2>Sustenir Supercities Farm Tour &amp; Talk on Gaba to Inspire Better Health</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 14 June – 13 July</strong>
+          </li>
+          <li><strong>Admission: $50/pax</strong></li>
+          <li><strong>Venue: Admirax, 8 Admiralty Street</strong></li>
+          <li><strong>Organiser: Sustenir</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>In this behind-the-scenes vertical farm tour, understand the constraints land-scarce Singapore faces in the agriculture sector, and its strategies for sustainability.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustenir-supercities-farm-tour-talk-on-gaba-to-inspire-better-health/" class="button-primary">
         Find out more
       </a>
     </div>
