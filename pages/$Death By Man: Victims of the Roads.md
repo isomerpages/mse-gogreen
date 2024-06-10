@@ -4,7 +4,7 @@ permalink: /death-by-man-victims-of-the-roads/
 variant: markdown
 description: ""
 ---
-![Event details for Death By Man: Victims of the Roads](/images/Others/NLB_Death_By_Man.jpg)
+![Photo of event details, alongside speaker's photo](/images/Workshop%20&amp;%20Talks/NLB_Death_By_Man.jpg)
 
 **Date:** 29 June, 3:00 pm – 3:30 pm  <br>
 **Admission:** Free (register with mylibrary username)<br>
