@@ -591,6 +591,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>   
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/wild-rescues-in-singapore-what-can-you-do-to-help-wild-animals-in-distress/">
+        <img src="/images/Workshop%20&amp;%20Talks/NLB_Wild_Animals_In_Distress.jpg"></a>
+        <h2>Wild Rescues in Singapore: What Can You Do to Help Wild Animals in Distress</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Jurong Regional Library</strong></li>
+          <li><strong>Organiser: National Library Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Spot a grounded baby bird or a snake in your neighbourhood? Join Kalai Vanan, ACRES Co-CEO and Wildlife Rescue Officer, to find out what you can do.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wild-rescues-in-singapore-what-can-you-do-to-help-wild-animals-in-distress/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
