@@ -6,7 +6,7 @@ description: ""
 ---
 ![Family looking at biodiversity booth](/images/Others/NLB_Children_Biodiversity_Library.jpg)
 
-**Venue:**&nbsp;Children’s Biodiversity Library by S.E.A. Aquarium, at the Central Public Library <br> 
+**Venue:**&amp;Children’s Biodiversity Library by S.E.A. Aquarium, at the Central Public Library <br> 
 **Organiser:**&nbsp;National Library Board
 
 The Children’s Biodiversity Library by S.E.A. Aquarium is a partnership between the National Library Board, Singapore (NLB) and Resorts World Sentosa (RWS). It is the first marine-biodiversity themed learning space for children in a public library in Singapore, with the aim of inspiring love and action for marine biodiversity in children.
