@@ -6,7 +6,7 @@ description: ""
 ---
 ![Theatre_Jam_Our_Stories_of_Nature](/images/Workshop%20&amp;%20Talks/Theatre_Jam_Our_Stories_of_Nature.jpg)
 
-**Dates:** 15 and 22 June, 2:00 pm – 3:00 pm <br> 
+**Dates:** 15 and 22 June, 2:00 pm – 3:30 pm <br> 
 **Admission:** $38/pax <br> 
 **Venue:** ArtScience Museum  <br> 
 **Organiser:** Marina Bay Sands  

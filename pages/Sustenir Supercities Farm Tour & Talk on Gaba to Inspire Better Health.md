@@ -7,7 +7,7 @@ description: ""
 ![](/images/Tour_Image.jpg)
 
 **Date:** 
-* 14, 20, 21, 27, 28 June, 2:00 pm – 4.00pm
+* 14, 20, 21, 27, 28 June, 2:00 pm – 4:00pm
 * 15 June, 10:00 am - 12:00 pm
 * 4, 5, 8, 12 July, 2:00 pm – 4:00 pm 
 *  13 July, 10:00 am – 12:00 pm  <br>

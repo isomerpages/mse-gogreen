@@ -217,6 +217,34 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/">
+        <img src="/images/Workshop%20&amp;%20Talks/OCBC_Rebag.jpg"></a>
+        <h2>ReBag Workshop: Bring a Shirt, Take Home a Bag</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 12 - 20, 28-30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: OCBC Wisma Atria</strong></li>
+          <li><strong>Organiser: OCBC</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Bring your old, used t-shirts and learn creative upcycling techniques to transform them into usable bags. You will also get to personalise your creation with fabric paints, stamps, and other decorations!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -563,6 +591,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>   
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/wild-rescues-in-singapore-what-can-you-do-to-help-wild-animals-in-distress/">
+        <img src="/images/Workshop%20&amp;%20Talks/NLB_Wild_Animals_In_Distress.jpg"></a>
+        <h2>Wild Rescues in Singapore: What Can You Do to Help Wild Animals in Distress</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 16 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Jurong Regional Library</strong></li>
+          <li><strong>Organiser: National Library Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Spot a grounded baby bird or a snake in your neighbourhood? Join Kalai Vanan, ACRES Co-CEO and Wildlife Rescue Officer, to find out what you can do.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/wild-rescues-in-singapore-what-can-you-do-to-help-wild-animals-in-distress/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -911,6 +968,62 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/death-by-man-victims-of-the-roads/">
+        <img src="/images/Workshop%20&amp;%20Talks/NLB_Death_By_Man.jpg"></a>
+        <h2>Death By Man: Victims of the Roads</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Central Public Library, Programme Zone 3</strong></li>
+          <li><strong>Organiser: National Library Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join lens-based artist, Jasvic Lye, as she takes you through her journey of documenting the plight of Singapore's wildlife through photography and evocative stories in her years-long project entitled “Death by Man”.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/death-by-man-victims-of-the-roads/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/nocturnal-neighbours-beyond-the-feasts-the-poo-the-fuss-near-you/">
+        <img src="/images/Workshop%20&amp;%20Talks/NLB_Nocturnal_Neighbours.jpg"></a>
+        <h2>Nocturnal Neighbours – Beyond the Feasts, the Poo, the Fuss Near You</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Central Public Library, Submarine Room</strong></li>
+          <li><strong>Organiser: National Library Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover the animal night shift, where animals such as bats, civets, and snakes emerge to maintain the natural balance in your neighbourhood. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nocturnal-neighbours-beyond-the-feasts-the-poo-the-fuss-near-you/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
