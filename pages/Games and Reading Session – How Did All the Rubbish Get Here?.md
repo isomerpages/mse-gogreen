@@ -13,13 +13,13 @@ description: ""
 
 Join the author of children’s book series “Champs for Our Environment”, Maggie Lee, for an interactive book reading session for children on environmental values.
 
-One of the&nbsp;central concepts of environmental issues caused by humans is “the Tragedy of the Commons”, which describes what happens when people exploit shared common spaces without thinking of the consequences.
+One of the central concepts of environmental issues caused by humans is "the Tragedy of the Commons", which describes what happens when people exploit shared common spaces without thinking of the consequences.
 
-In “How Did All the Rubbish Get Here?”, residents of a village lived happily until one person started to dispose of rubbish carelessly. Over time, the rubbish affects the surrounding environment and living beings in it. What will the people do now? This inspirational story highlights the need for everyone to protect natural spaces for current and future generations.
+In "How Did All the Rubbish Get Here?", residents of a village lived happily until one person started to dispose of rubbish carelessly. Over time, the rubbish affects the surrounding environment and living beings in it. What will the people do now? This inspirational story highlights the need for everyone to protect natural spaces for current and future generations.
 
 Participating children will:
 
--Learn about “the Tragedy of the Commons” and ways to prevent it <br>
+-Learn about "the Tragedy of the Commons" and ways to prevent it <br>
 -Be immersed in the conundrum faced by the book’s characters through a fun game for children aged 4 and over<br>
 -Discover what environmental stewardship means when it comes to common spaces<br>
 -Understand the power of communities in effectively managing their open spaces<br>
