@@ -13,7 +13,7 @@ description: ""
 
 Discover the animal night shift, where animals such as bats, civets, and snakes emerge to maintain the natural balance in your neighbourhood. Understand the unique role of your wildlife neighbours, as well as some safe and humane measures that you can adopt to keep them focused on reducing the population of insects and rodents that frequent trash bin buffets, on spreading plant seeds, and on other natural behaviours that do not involve human interaction. 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/nocturnal-neighbours-beyond-the-feasts-the-poo-the-fuss-near-you-tickets-893598857237">
+<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/nocturnal-neighbours-beyond-the-feasts-the-poo-the-fuss-near-you-tickets-893598857237?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=ebdsshcopyur">
 	<img src="/images/gogreensg_website-32.png"> 
 </a>
 
