@@ -99,6 +99,29 @@ variant: markdown
 More activities are being added progressively.</div>
 
 <div class="row row_custom"> 
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/nlb-s-sustainability-themed-spaces-choa-chu-kang-public-library/">
+        <img src="/images/Others/NLB_CCK_Library.jpg"></a>
+        <h2>NLB’s Sustainability–themed Spaces: Choa Chu Kang Public Library</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li><strong>Venue: Choa Chu Kang Public Library</strong></li>
+          <li><strong>Organiser: National Library Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Inspired by the nearby farms in Choa Chu Kang, Lim Chu Kang and Kranji, the design of the library steers towards the theme of nature and greenery. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nlb-s-sustainability-themed-spaces-choa-chu-kang-public-library/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
