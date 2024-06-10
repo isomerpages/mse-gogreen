@@ -352,6 +352,34 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/games-and-reading-session-how-did-all-the-rubbish-get-here/">
+        <img src="/images/Events/nlb_champs_environment_reading_session.jpg"></a>
+        <h2>Games and Reading Session – How Did All the Rubbish Get Here?</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 6, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Various</strong></li>
+          <li><strong>Organiser: Champs for our Environment, National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join the author of children’s book series “Champs for Our Environment”, Maggie Lee, for an interactive book reading session for children on environmental values.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/games-and-reading-session-how-did-all-the-rubbish-get-here/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
    <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
