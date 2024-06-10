@@ -217,6 +217,34 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/">
+        <img src="/images/Workshop%20&amp;%20Talks/OCBC_Rebag.jpg"></a>
+        <h2>ReBag Workshop: Bring a Shirt, Take Home a Bag</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 12 - 20, 28-30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: OCBC Wisma Atria</strong></li>
+          <li><strong>Organiser: OCBC</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Bring your old, used t-shirts and learn creative upcycling techniques to transform them into usable bags. You will also get to personalise your creation with fabric paints, stamps, and other decorations!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
