@@ -942,6 +942,34 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/nocturnal-neighbours-beyond-the-feasts-the-poo-the-fuss-near-you/">
+        <img src="/images/Workshop%20&amp;%20Talks/NLB_Nocturnal_Neighbours.jpg"></a>
+        <h2>Nocturnal Neighbours – Beyond the Feasts, the Poo, the Fuss Near You</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Central Public Library, Submarine Room</strong></li>
+          <li><strong>Organiser: National Library Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover the animal night shift, where animals such as bats, civets, and snakes emerge to maintain the natural balance in your neighbourhood. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nocturnal-neighbours-beyond-the-feasts-the-poo-the-fuss-near-you/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/storytelling-session-the-curious-garden/">
         <img src="/images/Workshop%20&amp;%20Talks/Storytelling_Session_The_Curious_Garden.png"></a>
         <h2>Storytelling Session: The Curious Garden</h2>
