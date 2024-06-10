@@ -461,7 +461,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 14 June – 13 July (excluding weekends and public holidays)</strong>
+              Date: 14 June – 13 July</strong>
           </li>
           <li><strong>Admission: $50/pax</strong></li>
           <li><strong>Venue: Admirax, 8 Admiralty Street</strong></li>
