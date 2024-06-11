@@ -37,18 +37,18 @@ This activity is suitable for participants with mobility issues.
 	<img src="/images/more-info-btn.png">
 </a>
 
-**Choa Chu Kang Public Library (6 July, 2.00 pm – 3.00 pm session)**<br>
+**Choa Chu Kang Public Library (6 July, 2:00 pm – 3:00 pm)**<br>
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/caring-for-our-environment-how-did-all-the-rubbish-get-here-tickets-918796995547?aff=ebdssbdestsearch">
 	<img src="/images/more-info-btn.png">
 </a>
 
-**Clementi Public Library  (13 July, 11.30 am – 12.30 pm session)**<br>
+**Clementi Public Library  (13 July, 11:30 am – 12:30 pm)**<br>
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/caring-for-our-environment-how-did-all-the-rubbish-get-here-tickets-918799643467?aff=ebdssbdestsearch">
 	<img src="/images/more-info-btn.png">
 </a>
 
-**Clementi Public Library  (13 July, 2.00 pm – 3.00 pm session)**<br>
+**Clementi Public Library  (13 July, 2:00 pm – 3:00 pm)**<br>
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/caring-for-our-environment-how-did-all-the-rubbish-get-here-tickets-918798409777?aff=ebdssbdestsearch">
 	<img src="/images/more-info-btn.png">
 </a>
