@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 ---
 
+![Poster publicising a climate fresk and panel discussion organised by The Transmutation Principle](/images/Workshop%20&amp;%20Talks/TransmutationPrinciple_CFxCIVIC.jpg)
+
 
 **Date:** 6 July, 10:00 am - 1:00 pm<br>
 **Admission:** Free (registration required)<br>
@@ -21,10 +23,10 @@ About the PanelTopic: Climate Change and how it affects our elderly and the elde
 
 
 Panel Speakers:
-•	Ms Fauzia Amalia, Red Cross Singapore,
-•	Adam Reutens-Tan, The Community Foundation of Singapore
-•	Ms. Karen Wee, Lions Befrienders Singapore
-•	Moderated by Akbar Makani, Ismaili CIVIC
+* Ms Fauzia Amalia, Red Cross Singapore,
+*	Adam Reutens-Tan, The Community Foundation of Singapore
+*	Ms. Karen Wee, Lions Befrienders Singapore
+*	Moderated by Akbar Makani, Ismaili CIVIC
 
 About Climate Fresk: 
 The Climate Fresk  is a science-based workshop that aims to educate and raise awareness about climate change worldwide. Based on IPCC reports, the game explains how and why the climate changes at the current pace and the consequences of this disruption. 
