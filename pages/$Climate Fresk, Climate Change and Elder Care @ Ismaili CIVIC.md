@@ -4,7 +4,6 @@ permalink: /climate-fresk-climate-change-and-elder-care-ismaili-civic/
 variant: markdown
 description: ""
 ---
-
 ![Poster publicising a climate fresk and panel discussion organised by The Transmutation Principle](/images/Workshop%20&amp;%20Talks/TransmutationPrinciple_CFxCIVIC.jpg)
 
 
@@ -36,7 +35,7 @@ About the panel:
 After the workshop, attend the panel discussion with eldercare experts and community leaders to gain insights on climate change affects elderly and the caretakers in the eldercare industry. Topics centre around issues such as inclusivity of elderly in the climate conversation, and how to build community support for elders, a vulnerable population especially due to the health-related risks of a changing climate. Besides the fight towards alleviating the effects of climate change, it is also crucial to include the elderly into the climate conversation. 
 Panellists: 
 	Adam Reuters-Tan, Principle Consultant at Community Foundation of Singapore.
-This activity is recommended for caregivers, professionals in healthcare and/or elderly-related industries, and family members.This activity is recommended for caregivers, workers in elderly-related industries, and family members. This activity is also suitable for participants with mobility issues.
+This activity is recommended for caregivers, professionals in healthcare and/or elderly-related industries, and family members.This activity is recommended for caregivers, workers in elderly-related industries, and family members. This activity is also suitable for participants with mobility issues. 
 
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.co.uk/e/883187787447?aff=oddtdtcreator">
