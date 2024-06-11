@@ -619,7 +619,6 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>	          
-
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1056,7 +1055,7 @@ More activities are being added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-<a href="/nature-art-trail-artscience-museum/">
+<a href="/nus-x-gcns-climate-change-for-leaders-programme/">
         <img src="/images/Workshop%20&amp;%20Talks/NUS_x_GCNS_Climate_Change_for_Leaders_Programme.jpg"></a>
         <h2>NUS x GCNS: Climate Change for Leaders Programme</h2>
       </div>
@@ -1077,7 +1076,7 @@ More activities are being added progressively.</div>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/nature-art-trail-artscience-museum/" class="button-primary">
+      <a href="/nus-x-gcns-climate-change-for-leaders-programme/" class="button-primary">
         Find out more
       </a>
     </div>
