@@ -4,7 +4,7 @@ permalink: /biodiversity-collage-fireside-chat/
 variant: markdown
 description: ""
 ---
-
+![Poster publicising a biodiversity collage and fireside chat organised by The Transmutation Principle](/images/Workshop%20&amp;%20Talks/TransmutationPrinciple_BC___FC.jpg)
 
 **Date:** 27 June, 6:30 pm - 9:30 pm<br>
 **Admission:** Free (registration required)<br>
