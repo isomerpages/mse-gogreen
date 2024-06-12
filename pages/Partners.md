@@ -294,6 +294,10 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Public_Agencies/National_Library_Board.png">
+</div>
+	
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/National_Water_Agency_PUB.png">
 </div>
 
@@ -563,6 +567,10 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Corporates/Verizon_Communications_Singapore_Pte_Ltd.jpg">
 </div>
 
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/Vidacity.png">
+</div>
+	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Vintagewknd.png">
 </div>
