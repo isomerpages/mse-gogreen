@@ -472,7 +472,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 15, 22, 29 June; 6, 13 July</strong>
+              Date: 15, 22 June; 6, 13 July</strong>
           </li>
           <li><strong>Admission: Free (no registration required)</strong></li>
           <li><strong>Venue: Field located beside Blk 304 Yishun Central </strong></li>
