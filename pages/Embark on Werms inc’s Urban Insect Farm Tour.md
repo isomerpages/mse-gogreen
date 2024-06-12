@@ -25,6 +25,8 @@ All attendees will be able to bring home a vermicomposting kit.
 
 This activity is suitable for individuals with mobility issues.
 
+Registration for the 14 July session opens from end-June.
+
 <a class="btn-link" target="_blank" href="https://wermsinc.com/urban-insect-farming-workshop/">
 	<img src="/images/gogreensg_website-32.png">
 </a>
