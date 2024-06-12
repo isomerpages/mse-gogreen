@@ -1034,8 +1034,8 @@ More activities are being added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/natures-recyclers-behind-the-scenes-tour/">
-        <img src="/images/Tours/Nature_s_Recyclers_Behind_the_Scenes_Tour.jpg"></a>
-        <h2>Nature’s Recyclers Behind the Scenes Tour</h2>
+        <img src="/images/Tours/Mandai_NaturesRecyclers.png"></a>
+        <h2>Nature’s Recyclers Tour</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1049,7 +1049,7 @@ More activities are being added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
+        <p>Sign up for this exclusive tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable. Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.</p>
       </div>
     </div>
     <div class="programmes__item__actions">
@@ -2228,7 +2228,7 @@ More activities are being added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/night-walk-pasir-ris-mangroves/">
-        <img src="/images/Tours/Mangrove_Rambling_An_Immersive_Wildlife_Experience.png"></a>
+        <img src="/images/Tours/night_walk_pasir_ris_mangroves.png"></a>
         <h2>Night Walk @ Pasir Ris Mangroves</h2>
       </div>
       <div class="programmes__item__detail">
