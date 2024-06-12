@@ -388,7 +388,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Ecosami.png">
+<img src="/images/Our_Partners_2024/Corporates/Ecosami.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -424,7 +424,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/InvoSystems_Solutions_Pte_Ltd.png">
+<img src="/images/Our_Partners_2024/Corporates/invosystems_solutions_pte_ltd.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -460,7 +460,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Mount_Faber_Leisure_Group_Pte_Ltd.png">
+<img src="/images/Our_Partners_2024/Corporates/Mount_Faber_Leisure_Group_Pte_Ltd.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -492,7 +492,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Rebeelo_Singapore.png">
+<img src="/images/Our_Partners_2024/Corporates/Reebelo_Singapore.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -520,10 +520,6 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Shimizu_Corporation.jpg">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/susGain.png">
 </div>
 
@@ -536,7 +532,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/The_Circular_Classroom.png">
+<img src="/images/Our_Partners_2024/Corporates/The_Circular_Classroom.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -556,7 +552,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Tribe.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Tribe_Pte_Ltd.jpg">
 </div>
 
 <div class="col is-one-quarter">
