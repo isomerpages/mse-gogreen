@@ -4,7 +4,7 @@ permalink: /natures-recyclers-behind-the-scenes-tour/
 variant: markdown
 description: ""
 ---
-![Nature's_Recyclers_BTS_Tour](/images/Tours/Nature_s_Recyclers_Behind_the_Scenes_Tour.jpg)
+![Insect breaking down food waste](/images/Tours/Mandai_NaturesRecyclers.png)
 
 **Dates:** 15 and 23 June<br>
 * 10:00 am - 10:45 am
@@ -14,7 +14,7 @@ description: ""
 **Venue:** Singapore Zoo<br> 
 **Organiser:** Mandai Wildlife Group
 
-Sign up for this exclusive behind-the scenes tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable.&nbsp;
+Sign up for this exclusive tour at Singapore Zoo’s Fragile Forest, where you will meet a variety of invertebrates that play unique roles in helping us be more sustainable.&nbsp;
 
 Gain a deeper appreciate of these tiny recycling heroes that help close the food loop at the Mandai Wildlife Reserve.&nbsp;&nbsp;
 
