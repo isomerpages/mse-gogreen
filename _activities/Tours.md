@@ -2228,7 +2228,7 @@ More activities are being added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/night-walk-pasir-ris-mangroves/">
-        <img src="/images/Tours/Mangrove_Rambling_An_Immersive_Wildlife_Experience.png"></a>
+        <img src="/images/Tours/night_walk_pasir_ris_mangroves.png"></a>
         <h2>Night Walk @ Pasir Ris Mangroves</h2>
       </div>
       <div class="programmes__item__detail">
