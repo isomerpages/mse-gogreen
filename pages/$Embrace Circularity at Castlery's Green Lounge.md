@@ -17,7 +17,7 @@ Also, keep a look out for the showroom’s art exhibit on natural dyes and produ
 
 
 <a class="btn-link" target="_blank" href="https://castlery.com/sg/go-green">
-	<img src="/images/gogreensg_website-32.png">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
