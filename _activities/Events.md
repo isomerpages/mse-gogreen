@@ -293,6 +293,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>   
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/embrace-circularity-at-castlery-s-green-lounge/">
+        <img src="/images/Events/Castlery_GreenLounge.png"></a>
+        <h2>Embrace Circularity at Castlery's Green Lounge</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1 - 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Castlery Flagship Store, Liat Towers</strong></li>
+          <li><strong>Organiser: Castlery</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Castlery will be hosting a showcase of partners who champion circularity in the home and living space. Meet local artists, sustainable service providers as well as sustainable product retailers!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/embrace-circularity-at-castlery-s-green-lounge/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
    <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
