@@ -1995,34 +1995,6 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-<a href="/visit-to-alba-ewaste-logistics-sorting-hub/">
-        <img src="/images/Tours/ALBA_My_Community.jpg"></a>
-        <h2>Visit to ALBA E-Waste Logistics &amp; Sorting Hub</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 5 July</strong>
-          </li>
-          <li><strong>Admission: $22.05/pax (registration required)</strong></li>
-          <li><strong>Venue: ALBA E-waste Smart Recycling Pte Ltd, 20 Tuas Loop</strong></li>
-          <li><strong>Organiser: National Environment Agency and My Community</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Where does our e-waste go to after we dispose of them in the e-waste recycling bins? Follow the journey of our laptops, hard disk drives, refrigerators and more, as they are collected and sorted at ALBA’s e-waste recycling plant.</p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/visit-to-alba-ewaste-logistics-sorting-hub/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
-	<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
             <a href="/singapore-botanic-gardens-gallop-extension-tour/">
               <img src="/images/Tours/SBG_gallop_tour.jpg"></a>
         <h2>Singapore Botanic Gardens Gallop Extension Tour
