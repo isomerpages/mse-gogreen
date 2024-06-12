@@ -314,7 +314,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/Singapore_Food_Agency.png">
+<img src="/images/Our_Partners_2024/Public_Agencies/Singapore_Food_Agency.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -322,7 +322,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/Urban_Redevelopment_Authority.png">
+<img src="/images/Our_Partners_2024/Public_Agencies/Urban_Redevelopment_Authority.jpg">
 </div>
 </div>
 </div>
@@ -590,7 +590,7 @@ transform: rotate(0);
 <h3 class="bp-accordion-header">
 <a class="bp-accordion-button">
 <div class="bp-accordion-button-wrapper">
-<span>Corporate Partners:</span>
+<span>Educational Institutions:</span>
 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g id="feArrowDown0" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="feArrowDown1" fill="currentColor"><path id="feArrowDown2" d="m6 7l6 6l6-6l2 2l-8 8l-8-8z"></path></g></g></svg>
 </div>
 </a>
