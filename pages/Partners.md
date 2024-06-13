@@ -994,15 +994,14 @@ transform: rotate(0);
 </div>
 	
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Tanjong_Pagar_Town_Council.png">
-</div>
-	
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Tampines_Central_CC.png">
 </div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/TAMPINES_CENTRAL_CC_IAEC.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Tanjong_Pagar_Town_Council.png">
 </div>
 </div>
 </div>

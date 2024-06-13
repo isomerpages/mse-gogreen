@@ -136,7 +136,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Tours/lta_singapore_mobility_gallery.jpg"></a>
-        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>

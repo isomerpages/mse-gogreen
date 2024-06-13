@@ -250,7 +250,7 @@ More activities are being added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/">
-        <img src="/images/Workshop%20&amp;%20Talks/OCBC_Rebag.jpg"></a>
+        <img src="/images/Workshop%20&amp;%20Talks/Upcycle_OCBCsite_banner.jpg"></a>
         <h2>ReBag Workshop: Bring a Shirt, Take Home a Bag</h2>
       </div>
       <div class="programmes__item__detail">
@@ -261,7 +261,7 @@ More activities are being added progressively.</div>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: OCBC Wisma Atria</strong></li>
-          <li><strong>Organiser: OCBC</strong></li>
+          <li><strong>Organiser: OCBC Bank</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">

@@ -133,7 +133,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Tours/lta_singapore_mobility_gallery.jpg"></a>
-        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2><sup><font color="red"><b>FULLY BOOKED</b></font></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -358,6 +358,34 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/">
+        <img src="/images/Workshop%20&amp;%20Talks/Upcycle_OCBCsite_banner.jpg"></a>
+        <h2>ReBag Workshop: Bring a Shirt, Take Home a Bag</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Dates: 12 - 20, 28-30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: OCBC Wisma Atria</strong></li>
+          <li><strong>Organiser: OCBC Bank</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Bring your old, used t-shirts and learn creative upcycling techniques to transform them into usable bags. You will also get to personalise your creation with fabric paints, stamps, and other decorations!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -508,8 +536,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/beach-clean-up-and-sustainability-talk/">
 					<img src="/images/Initiatives/mpa_beach_clean_up_and_sustainability.jpg"></a>
-        <h2>Beach Clean Up and Sustainability Talk
-</h2>
+        <h2>Beach Clean Up and Sustainability Talk</h2><font color="red"><sup><b>FULLY BOOKED</b></sup></font>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1736,7 +1763,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/maritime-evolution-trail/">
 					<img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg"></a>
-        <h2>Maritime Evolution Trail</h2>
+        <h2>Maritime Evolution Trail</h2><sup><font color="red"><b>FULLY BOOKED</b></font></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
