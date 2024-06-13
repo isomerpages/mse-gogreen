@@ -1349,6 +1349,35 @@ More activities are being added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/nurturing-the-next-sustainable-thinkers-and-actors/">
+        <img src="/images/Workshop%20&amp;%20Talks/2_SustThinkers.png"></a>
+        <h2>Nurturing the Next Sustainable Thinkers and Actors</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 11 July</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Online (Zoom)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>What are the sustainability competencies that will prepare our next generation of youths to be future/work-ready for a world fraught with sustainability concerns? Join Dr Corrine Ong in this talk to explore!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nurturing-the-next-sustainable-thinkers-and-actors/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/united-nations-global-compact-network-singapore-virtual-open-house-2024/">
         <img src="/images/Events/GCNS_Virtual_Open_House.png"></a>
         <h2>United Nations Global Compact Network Singapore – Virtual Open House 2024</h2>
