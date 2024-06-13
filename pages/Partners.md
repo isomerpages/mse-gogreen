@@ -517,6 +517,10 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Shangri_la_Singapore.png">
 </div>
+	
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/Shimizu_Corporation.png">
+</div>	
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Soft_Toy_Hospital.png">
