@@ -1902,6 +1902,36 @@ More activities are being added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/macaques-in-our-estate-storytelling-and-crafts-on-30-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/10_Macaques_30June.jpg"></a>
+        <h2>Macaques in Our Estate: Storytelling and Crafts on 30 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Central Public Library, Submarine Room at the Children Biodiversity Library by S.E.A. Aquarium</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Kai and Mei are surprised to see so many macaques in their estate.
+Can the twins find a way to discourage the macaques from visiting their neighbourhood? Join NParks in their storytelling session to learn more about these curious primates!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/macaques-in-our-estate-storytelling-and-crafts-on-30-june/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/storytelling-session-the-curious-garden/">
         <img src="/images/Workshop%20&amp;%20Talks/Storytelling_Session_The_Curious_Garden.png"></a>
         <h2>Storytelling Session: The Curious Garden</h2>
