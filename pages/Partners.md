@@ -914,100 +914,86 @@ transform: rotate(0);
 <div class="bp-accordion-body">
 <div class="row">
 
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Tampines_Central_CC.png">
-</div>
 
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Canla_Club.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Champs_for_Our_Environment.png">
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine.png">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Clementi_Nature_Kakis.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Climate_Action_SG_Alliance.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Crane.png">
+</div>
+
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Friends_of_Chestnut_Nature_Park.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Henderson_Dawson_CCC.png">
+</div>
+
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Ismaili_CIVIC.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Just_Keep_Thinking.png">
 </div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/LepakInSG.png">
 </div>
 
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Henderson_Dawson_CCC.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Climate_Action_SG_Alliance.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SMU_Verts_Environmental_Club.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SIT_Action_for_Environmental_Conservation.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Residents_Network.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Punggol_Coast_Nature_Kakis.jpg">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Nee_Soon_Link_Youth_Network.jpg">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/nparks_nature_kakis.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/punggol_coast_green_action_committee.jpg">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/TAMPINES_CENTRAL_CC_IAEC.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Clementi_Nature_Kakis.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Canla_Club.png">
-</div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Loris_and_Owl.png">
 </div>
 
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Friends_of_Chestnut_Nature_Park.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Just_Keep_Thinking.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Nee_Soon_East_Community_Club_Management_Committee.png">
-</div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/National_University_of_Singapore_Toddycats.png">
 </div>
 
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Nee_Soon_East_Community_Club_Management_Committee.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Nee_Soon_Link_Youth_Network.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/nparks_nature_kakis.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/punggol_coast_green_action_committee.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Punggol_Coast_Nature_Kakis.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine.png">
+</div>
+
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SIT_Action_for_Environmental_Conservation.png">
+</div>
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SL2_Impact.png">
 </div>
-
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Crane.png">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SMU_Verts_Environmental_Club.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Tampines_Central_CC.png">
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Ismaili_CIVIC.png">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/TAMPINES_CENTRAL_CC_IAEC.png">
 </div>
 </div>
 </div>
