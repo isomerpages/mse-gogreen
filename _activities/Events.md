@@ -510,7 +510,7 @@ More activities are being added progressively.</div>
               Date: 13, 14 July</strong>
           </li>
           <li><strong>Admission: Free (no registration required)</strong></li>
-          <li><strong>Venue: New Bahru, 46 &amp; 58 Kim Yam Road</strong></li>
+          <li><strong>Venue: 46 Kim Yam Road, New Bahru</strong></li>
           <li><strong>Organiser: Castlery</strong></li>
         </ul>
       </div>
