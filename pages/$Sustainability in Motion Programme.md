@@ -4,19 +4,23 @@ permalink: /sustainability-in-motion-programme/
 variant: markdown
 description: ""
 ---
-![Poster publicising the talk to get to know our wild neighbours on 30 June](/images/Workshop%20&amp;%20Talks/9_WildNeighbours_30June.jpg)
+![Family and tour guide at S.E.A. Aquarium](/images/Tours/RWS_SustMotionProg.jpg)
 
 **Date:** 12 June - 14 July<br>
 **Admission:** 
 * Children (age 12 and below): $33/pax
-* Adults: $40/pax
-**Venue:** S.E.A. Aquarium
+* Adults: $40/pax<br>
+
+**Venue:** S.E.A. Aquarium<br>
 **Organiser:** Resorts World Sentosa
 
-Have you ever chanced upon a troop of macaques in your estate or heard the iconic "uwu!" calls of the koel? Get yourself acquainted with Our Wild Neighbours and learn the dos and don'ts during a wildlife encounter. Get practical tips on how you can coexist with the animals that share our island home and what role each animal plays in keeping our city in nature green and healthy.
+Through the lens of the UN Sustainable Development Goals (SDGs), learn about the importance of marine conservation through this tour at S.E.A. Aquarium. Learn how the S.E.A Aquarium’s conservation efforts contribute towards broader sustainability goals and strategy at Resorts World Sentosa. Explore the multifaceted concept of ‘sustainability’ and RWS-led efforts through the various habitats.
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/getting-to-know-our-wild-neighbours-tickets-899104003277?utm-campaign=social&amp;utm-content=attendeeshare&amp;utm-medium=discovery&amp;utm-term=listing&amp;utm-source=cp&amp;aff=ebdsshcopyurl">
-	<img src="/images/gogreensg_website-32.png">
+Please write in to education@rwsentosa.com for booking.
+
+
+<a class="btn-link" target="_blank" href="https://www.rwsentosa.com/en/attractions/sea-aquarium/education-programmes/school-tours-and-programmes/secondary-and-post-secondary-school-tours-and-programmes">
+	<img src="/images/more-info-btn.png">
 </a>
 
 <style>
