@@ -482,6 +482,35 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/getting-to-know-our-wild-neighbours-on-15-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/5_WildNeighbours_15June.jpg"></a>
+        <h2>Getting to Know Our Wild Neighbours on 15 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Jurong Regional Library, Level 1, Programme Zone</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Have you ever chanced upon a troop of macaques in your estate or heard the iconic "uwu!" calls of the koel? Get yourself acquainted with Our Wild Neighbours and learn the dos and don'ts during a wildlife encounter. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/getting-to-know-our-wild-neighbours-on-15-june/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/macaques-in-our-estate-storytelling-on-15-june/">
         <img src="/images/Workshop%20&amp;%20Talks/4_Macaques_15June.jpg"></a>
         <h2>Macaques in Our Estate: Storytelling on 15 June</h2>
