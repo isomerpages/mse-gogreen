@@ -27,7 +27,7 @@ During this tour, participants will be able to view some of the NCFS facilities 
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
