@@ -927,7 +927,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 15, 22 June</strong>
+              Date: 15, 22 June; 6, 13 July </strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Tzu Chi Humanistic Youth Centre</strong></li>
