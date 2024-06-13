@@ -19,6 +19,8 @@ Please arrive 10 minutes prior to the session. Latecomers will be turned away. A
 
 This activity is recommended for children between 5 and 10 years old.
 
+<font color="red"><b>[Fully Booked]</b></font><br>
+
 <a class="btn-link" target="_blank" href="https://www.fullertonhotels.com/fullerton-hotel-singapore/offers/fullerton-experiences/design-a-frame-for-your-superhero-dad">
 	<img src="/images/gogreensg_website-32.png">
 </a>
