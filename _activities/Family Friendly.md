@@ -133,7 +133,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/all-aboard-singapore-mobility-gallery-visits-seletar-bus-depot/">
 				<img src="/images/Tours/lta_singapore_mobility_gallery.jpg"></a>
-        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2>
+        <h2>All Aboard! Singapore Mobility Gallery Visits Seletar Bus Depot</h2><sup><font color="red"><b>FULLY BOOKED</b></font></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -1736,7 +1736,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/maritime-evolution-trail/">
 					<img src="/images/Tours/MPA_Maritime_Evolution_Trail.jpg"></a>
-        <h2>Maritime Evolution Trail</h2>
+        <h2>Maritime Evolution Trail</h2><sup><font color="red"><b>FULLY BOOKED</b></font></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
