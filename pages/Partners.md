@@ -795,6 +795,10 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/Tampines_Meridian_JC.png">
+</div>	
+	
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Telok_Kurau_Primary_School.png">
 </div>
 
