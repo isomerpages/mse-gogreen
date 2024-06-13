@@ -261,7 +261,7 @@ More activities are being added progressively.</div>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: OCBC Wisma Atria</strong></li>
-          <li><strong>Organiser: OCBC</strong></li>
+          <li><strong>Organiser: OCBC Bank</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
