@@ -4,7 +4,6 @@ permalink: /the-surprises-of-marine-life-in-singapore-and-the-threat-of-marine-t
 variant: markdown
 description: ""
 ---
-
 ![Poster on the talk on marine trash](/images/Workshop%20&amp;%20Talks/1_MarineTrash.png)
 
 **Date:** 12 June, 7:30 pm - 8:30 pm<br>
