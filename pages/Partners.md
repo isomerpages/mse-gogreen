@@ -384,7 +384,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/D2Lsg.jpg">
+<img src="/images/Our_Partners_2024/Corporates/D2Lsg.png">
 </div>
 
 <div class="col is-one-quarter">
