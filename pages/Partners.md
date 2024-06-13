@@ -684,6 +684,10 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/My_First_Skool_Ang_Mo_Kio.png">
 </div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/My_First_Skool_Bishan.png">
+</div>
+
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/MY_World_Preschool.png">
@@ -837,40 +841,12 @@ transform: rotate(0);
 <div class="bp-accordion-body">
 <div class="row">
 
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Stridy.png">
-</div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/My_Community.png">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Buddhist_Compassion_Relief_Tzu_Chi_Foundation_Singapore.png">
 </div>
-
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Halogen_Foundation_Singapore.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Tzu_Chi_Humanistic_Youth_Centre.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Sustainable_Energy_Association_of_Singapore.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Singapore_Fashion_Council.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Nature_Society_Singapore.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Kranji_Countryside_Association.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Fridge_Restock_Community_SG.jpg">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Conservation_International.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -878,24 +854,50 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Buddhist_Compassion_Relief_Tzu_Chi_Foundation_Singapore.png">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Fridge_Restock_Community_SG.png">
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/World_Wide_Fund_for_Nature_Singapore.jpg">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Halogen_Foundation_Singapore.png">
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/United_Nations_Global_Compact_Network_Singapore.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Conservation_International.png">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Kranji_Countryside_Association.png">
 </div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/NGOs_and_NPOs/Kwong_Wai_Shiu_Hospital.png">
 </div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/My_Community.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Nature_Society_Singapore.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Singapore_Fashion_Council.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Stridy.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Sustainable_Energy_Association_of_Singapore.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Tzu_Chi_Humanistic_Youth_Centre.png">
+</div>
+
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/United_Nations_Global_Compact_Network_Singapore.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/World_Wide_Fund_for_Nature_Singapore.jpg">
+</div>
+
+
+
+
+
 
 </div>
 </div>
