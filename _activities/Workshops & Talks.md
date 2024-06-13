@@ -939,6 +939,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/putting-words-into-climate-action-ushering-in-corporate-transition-plan/">
+        <img src="/images/Workshop%20&amp;%20Talks/UNGCNS_ClimateAction_TLD.png"></a>
+        <h2>Putting Words into (Climate) Action: Ushering in Corporate Transition Plan</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 26 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: SBF Center, 160 Robinson Road (Level 6, Seminar Room 1, 2 &amp; 3)</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Asia-Pacific Centre for Environmental Law (APCEL) and the UN Global Compact Network Singapore (GCNS) presents a comprehensive guide aimed at ushering in corporate transition plans towards a sustainable future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/putting-words-into-climate-action-ushering-in-corporate-transition-plan/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
