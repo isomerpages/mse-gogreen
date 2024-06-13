@@ -99,6 +99,35 @@ variant: markdown
 More activities are being added progressively.</div>
 
 <div class="row row_custom">
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/the-surprises-of-marine-life-in-singapore-and-the-threat-of-marine-trash/">
+              <img src="/images/Workshop%20&amp;%20Talks/1_MarineTrash.png"></a>
+        <h2>The Surprises of Marine Life in Singapore and the Threat of Marine Trash</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June</strong>
+          </li>
+          <li><strong>Admission:  Free (register with mylibrary username) </strong></li>
+          <li><strong>Venue: Online (Zoom)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Attend this online talk by speaker Sivasothi N, NUS Senior Lecturer and Fellow, as he shares stories about our precious marine life, and how plastic marine trash threatens them.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-surprises-of-marine-life-in-singapore-and-the-threat-of-marine-trash/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
