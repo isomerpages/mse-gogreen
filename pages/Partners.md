@@ -282,7 +282,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/Land_Transport_Authority.jpg">
+<img src="/images/Our_Partners_2024/Public_Agencies/Land_Transport_Authority.png">
 </div>
 
 <div class="col is-one-quarter">
