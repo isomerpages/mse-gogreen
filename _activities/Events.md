@@ -498,8 +498,8 @@ More activities are being added progressively.</div>
  <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-            <a href="/green-house-2024/">
-              <img src="/images/Events/GREEN_HOUSE_2024.jpg"></a>
+            <a href="/green-house-2024-castlery-s-preloved-sale/">
+              <img src="/images/Events/Castlery_PrelovedSale.png"></a>
         <h2>GREEN-HOUSE 2024: Castlery's Preloved Sale
 </h2>
       </div>
