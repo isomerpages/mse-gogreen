@@ -508,8 +508,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/beach-clean-up-and-sustainability-talk/">
 					<img src="/images/Initiatives/mpa_beach_clean_up_and_sustainability.jpg"></a>
-        <h2>Beach Clean Up and Sustainability Talk
-</h2>
+        <h2>Beach Clean Up and Sustainability Talk</h2><font color="red"><sup><b>FULLY BOOKED</b></sup></font>
       </div>
       <div class="programmes__item__detail">
         <ul>
