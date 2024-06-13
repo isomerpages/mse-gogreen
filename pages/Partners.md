@@ -434,6 +434,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/ION_Orchard.png">
 </div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/Jurong_Port.png">
+</div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Lazarus_Sea_Sports_Centre.png">
@@ -936,6 +939,9 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Friends_of_Chestnut_Nature_Park.png">
 </div>
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Friends_of_the_Museums.png">
+</div>
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Henderson_Dawson_CCC.png">
 </div>
 
@@ -974,6 +980,9 @@ transform: rotate(0);
 </div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Punggol_Coast_Nature_Kakis.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Residents_Network.png">
 </div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine.png">
