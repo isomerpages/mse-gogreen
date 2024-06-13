@@ -18,6 +18,7 @@ MPA, with support from Jurong Port, invites you to roll up your sleeves and join
 This event is for eco-conscious individuals, youths, families and groups looking to make a tangible difference in the community while gaining valuable insights into sustainability practices.
 
 <font color="red"><b>[Fully Booked]</b></font><br>
+
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/beach-clean-up-and-sustainability-talk-tickets-906155313937">
 	<img src="/images/gogreensg_website-32.png">
 </a>
