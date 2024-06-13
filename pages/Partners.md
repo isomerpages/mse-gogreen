@@ -616,10 +616,6 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational_Institutions/CHIJ_St_Josephs_Convent.png">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Deyi_Secondary_School.png">
 </div>
 
@@ -769,7 +765,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational Institutions/Singapore_University_of_Social_Sciences.png">
+<img src="/images/Our_Partners_2024/Educational_Institutions/Singapore_University_of_Social_Sciences.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -815,7 +811,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational Institutions/West_Spring_Primary_School.png">
+<img src="/images/Our_Partners_2024/Educational_Institutions/West_Spring_Primary_School.png">
 </div>
 
 <div class="col is-one-quarter">
