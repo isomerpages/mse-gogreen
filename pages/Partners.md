@@ -660,7 +660,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational_Institutions/Hwa_Chong_International_School.jpg">
+<img src="/images/Our_Partners_2024/Educational_Institutions/Hwa_Chong_International_School.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -753,7 +753,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational_Institutions/River_Valley_Primary_School.jpg">
+<img src="/images/Our_Partners_2024/Educational_Institutions/River_Valley_Primary_School.png">
 </div>
 
 <div class="col is-one-quarter">
