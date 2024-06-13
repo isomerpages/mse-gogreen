@@ -318,7 +318,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/Singapore_Food_Agency.jpg">
+<img src="/images/Our_Partners_2024/Public_Agencies/Singapore_Food_Agency.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -326,7 +326,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/Urban_Redevelopment_Authority.jpg">
+<img src="/images/Our_Partners_2024/Public_Agencies/Urban_Redevelopment_Authority.png">
 </div>
 </div>
 </div>
