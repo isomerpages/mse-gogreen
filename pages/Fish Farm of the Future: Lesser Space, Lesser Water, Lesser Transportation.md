@@ -26,7 +26,7 @@ Children below 11 years old must be accompanied by an adult.
 
 <style>
 	.btn-link {
-		display: none;
+		display: inline-block;
 	}
 	a.btn-link[target="_blank"]:after {
 	display: none;
