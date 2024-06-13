@@ -322,10 +322,6 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/Tanjong_Pagar_Town_Council.png">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/Urban_Redevelopment_Authority.png">
 </div>
 </div>
@@ -459,10 +455,6 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Metta_Welfare_Association.png">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Micron_Semiconductor_Asia_Pte_Ltd.png">
 </div>
 
@@ -527,11 +519,11 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/susGain.png">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Soft_Toy_Hospital.png">
+</div>
+	
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/susGain.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -696,13 +688,8 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Educational_Institutions/MY_World_Preschool.png">
 </div>
 
-
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Girls_High_School.png">
-</div>
-
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Polytechnic_Geo_Council.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -774,7 +761,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Singapore_University_of_Social_Sciences.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Skool4kidz_Pte_Ltd.png">
 </div>
@@ -871,6 +860,11 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/NGOs_and_NPOs/Kwong_Wai_Shiu_Hospital.png">
 </div>
+
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/Metta_Welfare_Association.png">
+</div>
+	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/NGOs_and_NPOs/My_Community.png">
 </div>
@@ -954,7 +948,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Loris_and_Owl.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Nanyang_Polytechnic_Geo_Council.png">
+</div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/National_University_of_Singapore_Toddycats.png">
@@ -978,9 +974,6 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Residents_Network.png">
 </div>
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SingHealth_Duke_NUS_Institute_of_Biodiversity_Medicine.png">
-</div>
 
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SIT_Action_for_Environmental_Conservation.png">
@@ -991,6 +984,11 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SMU_Verts_Environmental_Club.png">
 </div>
+	
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Tanjong_Pagar_Town_Council.png">
+</div>
+	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Tampines_Central_CC.png">
 </div>
