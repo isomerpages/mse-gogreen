@@ -16,6 +16,8 @@ Embark on a captivating journey of transformation with MPA’s Maritime Evolutio
 
 Discover the progress of Singapore’s modern maritime industry as you travel from Labrador Park to St James Power Station in an electric bus! Along the way, explore the dynamic Keppel Harbour, the strategic St James Power Station, hear stories of how we have built our port infrastructure and learn about how we are building a smarter and greener Tuas Port. This is an opportunity to reflect on the dedication of the maritime community, appreciate our remarkable achievements, and celebrate the inspiring story of Maritime Singapore. Join us and be part of this journey of discovery and celebration!
 
+<font color="red"><b>[All Dates Fully Booked]</b></font><br>
+
 <a class="btn-link" target="_blank" href="https://www.mpa.gov.sg/events-careers/events/event-details/maritime-evolution-trail">
 	<img src="/images/gogreensg_website-32.png">
 </a>
