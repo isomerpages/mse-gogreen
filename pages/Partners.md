@@ -282,7 +282,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/Land_Transport_Authority.jpg">
+<img src="/images/Our_Partners_2024/Public_Agencies/Land_Transport_Authority.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -293,6 +293,10 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Public_Agencies/National_Environment_Agency.png">
 </div>
 
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Public_Agencies/National_Library_Board.png">
+</div>
+	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/National_Water_Agency_PUB.png">
 </div>
@@ -388,7 +392,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Ecosami.png">
+<img src="/images/Our_Partners_2024/Corporates/Ecosami.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -424,7 +428,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/InvoSystems_Solutions_Pte_Ltd.png">
+<img src="/images/Our_Partners_2024/Corporates/invosystems_solutions_pte_ltd.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -460,7 +464,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Mount_Faber_Leisure_Group_Pte_Ltd.png">
+<img src="/images/Our_Partners_2024/Corporates/Mount_Faber_Leisure_Group_Pte_Ltd.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -492,7 +496,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Rebeelo_Singapore.png">
+<img src="/images/Our_Partners_2024/Corporates/Reebelo_Singapore.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -520,10 +524,6 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Shimizu_Corporation.jpg">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/susGain.png">
 </div>
 
@@ -536,7 +536,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/The_Circular_Classroom.png">
+<img src="/images/Our_Partners_2024/Corporates/The_Circular_Classroom.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -556,7 +556,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Tribe.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Tribe_Pte_Ltd.jpg">
 </div>
 
 <div class="col is-one-quarter">
@@ -567,6 +567,10 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Corporates/Verizon_Communications_Singapore_Pte_Ltd.jpg">
 </div>
 
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/Vidacity.png">
+</div>
+	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Vintagewknd.png">
 </div>
@@ -590,7 +594,7 @@ transform: rotate(0);
 <h3 class="bp-accordion-header">
 <a class="bp-accordion-button">
 <div class="bp-accordion-button-wrapper">
-<span>Corporate Partners:</span>
+<span>Educational Institutions:</span>
 <svg class="arrow-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g id="feArrowDown0" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="feArrowDown1" fill="currentColor"><path id="feArrowDown2" d="m6 7l6 6l6-6l2 2l-8 8l-8-8z"></path></g></g></svg>
 </div>
 </a>
@@ -940,7 +944,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Punggol_Coast_Nature_Kaki.jpg">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Punggol_Coast_Nature_Kakis.jpg">
 </div>
 
 <div class="col is-one-quarter">
