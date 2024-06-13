@@ -367,7 +367,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/earth-observatory-of-singapore-tour/">
         <img src="/images/Tours/eos_elysium_epic_exhibition.jpg"></a>
-        <h2>Earth Observatory of Singapore Tour</h2>
+        <h2>Earth Observatory of Singapore Tour</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
