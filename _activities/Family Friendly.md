@@ -620,6 +620,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/macaques-in-our-estate-storytelling-on-15-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/4_Macaques_15June.jpg"></a>
+        <h2>Macaques in Our Estate: Storytelling on 15 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Jurong Regional Library (Basement 1, Children’s Zone)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join the Jane Goodall Institute (Singapore) as they share the story of a pair of twins, Kai and Mei, who are surprised to find many macaques in their estate.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/macaques-in-our-estate-storytelling-on-15-june/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
