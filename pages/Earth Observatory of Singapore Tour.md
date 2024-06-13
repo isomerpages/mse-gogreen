@@ -20,7 +20,7 @@ Participants will also get to think about sustainability in a broader perspectiv
 
 Registration for this tour is on a first come, first served basis. The tour is suitable for secondary school students and adults (including individuals with mobility issues).
 
-<font color="red"><b>[14, 28 June Fully Booked]</b></font><br>
+<font color="red"><b>[All Dates Fully Booked]</b></font><br>
 <a class="btn-link" target="_blank" href="https://forms.office.com/r/mZWtTK3BxC">
 	<img src="/images/gogreensg_website-32.png">
 </a>
