@@ -393,7 +393,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/earth-observatory-of-singapore-tour/">
         <img src="/images/Tours/eos_elysium_epic_exhibition.jpg"></a>
-        <h2>Earth Observatory of Singapore Tour</h2>
+				<h2>Earth Observatory of Singapore Tour</h2><sup><font color="red"><b>FULLY BOOKED</b></font></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -972,7 +972,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 15, 22 June</strong>
+              Date: 15, 22 June; 6, 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Tzu Chi Humanistic Youth Centre</strong></li>

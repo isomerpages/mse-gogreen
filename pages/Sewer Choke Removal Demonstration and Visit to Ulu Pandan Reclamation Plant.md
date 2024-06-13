@@ -40,7 +40,7 @@ Participants must be 18 years old and above and wear covered shoes for the visit
 	}
 </style>
 
-**Afternoon Session (2:30 pm - 5:30 pm)** <b><font color="red">[FULLY BOOKED]</font></b><br>
+**Afternoon Session (2:30 pm - 5:30 pm)** <br>
 <a class="btn-link" target="_blank" href="https://form.gov.sg/663b47927653098a206f8dbe">
 	<img src="/images/gogreensg_website-32.png">
 </a>

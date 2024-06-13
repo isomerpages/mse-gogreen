@@ -27,7 +27,7 @@ This special tour includes free entry to Cloud Forest for Singapore residents.
 
 This 1-hour activity involves walking in the outdoor gardens and Gardens by the Bay is wheelchair-accessible.
 
-<b><font color="red">June dates fully booked! </font><br>Registration for the July runs opens on 13 June, 10:00 am.</b>
+<b><font color="red">June dates fully booked! </font></b>
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/nature-and-sustainability-tour-energy-and-water-june-tickets-891471875377?aff=ebdsoporgprofile">
 	<img src="/images/gogreensg_website-32.png">

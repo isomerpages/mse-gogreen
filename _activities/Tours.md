@@ -367,7 +367,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/earth-observatory-of-singapore-tour/">
         <img src="/images/Tours/eos_elysium_epic_exhibition.jpg"></a>
-        <h2>Earth Observatory of Singapore Tour</h2>
+        <h2>Earth Observatory of Singapore Tour</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -927,7 +927,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 15, 22 June</strong>
+              Date: 15, 22 June; 6, 13 July </strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Tzu Chi Humanistic Youth Centre</strong></li>
@@ -2171,7 +2171,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
         <img src="/images/Tours/Sewer_Choke_Demonstration_and_Visit_to_Ulu_Pandan_Reclamation_Plant.png"></a>
-        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2><sup><b>FULLY BOOKED</b></sup>
+        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>

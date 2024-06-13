@@ -298,10 +298,6 @@ transform: rotate(0);
 </div>
 	
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Public_Agencies/National_Water_Agency_PUB.png">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/NParks.png">
 </div>
 
@@ -309,6 +305,10 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Public_Agencies/Peoples_Association.png">
 </div>
 
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Public_Agencies/National_Water_Agency_PUB.png">
+</div>
+	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/Science_Centre_Board.png">
 </div>
@@ -384,7 +384,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/D2Lsg.jpg">
+<img src="/images/Our_Partners_2024/Corporates/D2Lsg.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -392,7 +392,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Ecosami.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Ecosami.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -412,7 +412,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Green_In_Future.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Green_In_Future.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -440,7 +440,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Life_Architech_Pte_Ltd.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Life_Architech_Pte_Ltd.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -464,7 +464,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Mount_Faber_Leisure_Group_Pte_Ltd.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Mount_Faber_Leisure_Group_Pte_Ltd.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -520,7 +520,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Shangri_la_Singapore.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Shangri_la_Singapore.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -528,7 +528,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Soft_Toy_Hospital.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Soft_Toy_Hospital.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -536,7 +536,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/The_Circular_Classroom.jpg">
+<img src="/images/Our_Partners_2024/Corporates/The_Circular_Classroom.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -556,7 +556,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Tribe_Pte_Ltd.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Tribe_Pte_Ltd.png">
 </div>
 
 <div class="col is-one-quarter">
@@ -564,7 +564,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Verizon_Communications_Singapore_Pte_Ltd.jpg">
+<img src="/images/Our_Partners_2024/Corporates/Verizon_Communications_Singapore_Pte_Ltd.png">
 </div>
 
 <div class="col is-one-quarter">
