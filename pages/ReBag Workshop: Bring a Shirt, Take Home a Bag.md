@@ -4,7 +4,7 @@ permalink: /rebag-workshop-bring-a-shirt-take-home-a-bag/
 variant: markdown
 description: ""
 ---
-![Stock photo of hands holding onto city landscape](/images/Workshop%20&amp;%20Talks/OCBC_Rebag.jpg)
+![Poster depicting that shirts can be upcycled into bags](/images/Workshop%20&amp;%20Talks/Upcycle_OCBCsite_banner.jpg)
 
 **Date:** 
 * 12 - 20 June, 28 June, 30 June <br>11:30 am – 12:00 pm | 12:30 pm – 1:00 pm | 4:00 pm – 4:30 pm | 5:00 pm – 5:30 pm 
@@ -12,7 +12,7 @@ description: ""
 
 **Admission:** Free (registration required)<br>
 **Venue:** OCBC Wisma Atria <br>
-**Organiser:** OCBC 
+**Organiser:** OCBC Bank
 
 Bring your old, used t-shirts and learn creative upcycling techniques to transform them into usable bags. You will also get to personalise your creation with fabric paints, stamps, and other decorations. Not only will you leave with a unique handmade bag for grocery shopping, but you will also be a part of the larger movement to reduce plastic waste and safeguard the environment. 
 
