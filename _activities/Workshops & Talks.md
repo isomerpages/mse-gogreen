@@ -99,6 +99,35 @@ variant: markdown
 More activities are being added progressively.</div>
 
 <div class="row row_custom">
+	 <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/the-surprises-of-marine-life-in-singapore-and-the-threat-of-marine-trash/">
+              <img src="/images/Workshop%20&amp;%20Talks/1_MarineTrash.png"></a>
+        <h2>The Surprises of Marine Life in Singapore and the Threat of Marine Trash</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June</strong>
+          </li>
+          <li><strong>Admission:  Free (register with mylibrary username) </strong></li>
+          <li><strong>Venue: Online (Zoom)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Attend this online talk by speaker Sivasothi N, NUS Senior Lecturer and Fellow, as he shares stories about our precious marine life, and how plastic marine trash threatens them.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/the-surprises-of-marine-life-in-singapore-and-the-threat-of-marine-trash/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -446,6 +475,64 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/garden-therapy-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/getting-to-know-our-wild-neighbours-on-15-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/5_WildNeighbours_15June.jpg"></a>
+        <h2>Getting to Know Our Wild Neighbours on 15 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Jurong Regional Library, Level 1, Programme Zone</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Have you ever chanced upon a troop of macaques in your estate or heard the iconic "uwu!" calls of the koel? Get yourself acquainted with Our Wild Neighbours and learn the dos and don'ts during a wildlife encounter. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/getting-to-know-our-wild-neighbours-on-15-june/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/macaques-in-our-estate-storytelling-on-15-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/4_Macaques_15June.jpg"></a>
+        <h2>Macaques in Our Estate: Storytelling on 15 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Jurong Regional Library (Basement 1, Children’s Zone)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join the Jane Goodall Institute (Singapore) as they share the story of a pair of twins, Kai and Mei, who are surprised to find many macaques in their estate.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/macaques-in-our-estate-storytelling-on-15-june/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -939,6 +1026,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	   <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/putting-words-into-climate-action-ushering-in-corporate-transition-plan/">
+        <img src="/images/Workshop%20&amp;%20Talks/UNGCNS_ClimateAction_TLD.png"></a>
+        <h2>Putting Words into (Climate) Action: Ushering in Corporate Transition Plan</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 26 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: SBF Center, 160 Robinson Road (Level 6, Seminar Room 1, 2 &amp; 3)</strong></li>
+          <li><strong>Organiser: United Nations Global Compact Network Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Asia-Pacific Centre for Environmental Law (APCEL) and the UN Global Compact Network Singapore (GCNS) presents a comprehensive guide aimed at ushering in corporate transition plans towards a sustainable future.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/putting-words-into-climate-action-ushering-in-corporate-transition-plan/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 			<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1051,7 +1167,66 @@ More activities are being added progressively.</div>
         Find out more
       </a>
     </div>
-  </div>	          
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/getting-to-know-our-wild-neighbours-on-30-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/9_WildNeighbours_30June.jpg"></a>
+        <h2>Getting to Know Our Wild Neighbours on 30 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Central Public Library, Programme Room 2</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Have you ever chanced upon a troop of macaques in your estate or heard the iconic "uwu!" calls of the koel? Get yourself acquainted with Our Wild Neighbours and learn the dos and don'ts during a wildlife encounter. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/getting-to-know-our-wild-neighbours-on-30-june/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/macaques-in-our-estate-storytelling-and-crafts-on-30-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/10_Macaques_30June.jpg"></a>
+        <h2>Macaques in Our Estate: Storytelling and Crafts on 30 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Central Public Library, Submarine Room at the Children Biodiversity Library by S.E.A. Aquarium</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Kai and Mei are surprised to see so many macaques in their estate.
+Can the twins find a way to discourage the macaques from visiting their neighbourhood? Join NParks in their storytelling session to learn more about these curious primates!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/macaques-in-our-estate-storytelling-and-crafts-on-30-june/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1284,6 +1459,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/you-sip-what-we-sow-craft-delicious-herb-infused-mocktails-from-seed-to-sip/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/nurturing-the-next-sustainable-thinkers-and-actors/">
+        <img src="/images/Workshop%20&amp;%20Talks/2_SustThinkers.png"></a>
+        <h2>Nurturing the Next Sustainable Thinkers and Actors</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 11 July</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Online (Zoom)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>What are the sustainability competencies that will prepare our next generation of youths to be future/work-ready for a world fraught with sustainability concerns? Join Dr Corrine Ong in this talk to explore!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/nurturing-the-next-sustainable-thinkers-and-actors/" class="button-primary">
         Find out more
       </a>
     </div>

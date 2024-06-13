@@ -358,6 +358,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/sustainability-in-motion-programme/">
+        <img src="/images/Tours/RWS_SustMotionProg.jpg"></a>
+        <h2>Sustainability in Motion Programme</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June – 14 July</strong>
+          </li>
+          <li><strong>Admission: Children: $33/pax, Adults: $40/pax</strong></li>
+          <li><strong>Venue: S.E.A. Aquarium</strong></li>
+          <li><strong>Organiser: Resorts World Sentosa</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through the lens of the UN Sustainable Development Goals (SDGs), learn about the importance of marine conservation through this tour at S.E.A. Aquarium.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-in-motion-programme/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -587,6 +616,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/edibles-discovery-tour-at-the-hortpark/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/macaques-in-our-estate-storytelling-on-15-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/4_Macaques_15June.jpg"></a>
+        <h2>Macaques in Our Estate: Storytelling on 15 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Jurong Regional Library (Basement 1, Children’s Zone)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join the Jane Goodall Institute (Singapore) as they share the story of a pair of twins, Kai and Mei, who are surprised to find many macaques in their estate.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/macaques-in-our-estate-storytelling-on-15-june/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1844,6 +1902,36 @@ More activities are being added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/macaques-in-our-estate-storytelling-and-crafts-on-30-june/">
+        <img src="/images/Workshop%20&amp;%20Talks/10_Macaques_30June.jpg"></a>
+        <h2>Macaques in Our Estate: Storytelling and Crafts on 30 June</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Central Public Library, Submarine Room at the Children Biodiversity Library by S.E.A. Aquarium</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Kai and Mei are surprised to see so many macaques in their estate.
+Can the twins find a way to discourage the macaques from visiting their neighbourhood? Join NParks in their storytelling session to learn more about these curious primates!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/macaques-in-our-estate-storytelling-and-crafts-on-30-june/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/storytelling-session-the-curious-garden/">
         <img src="/images/Workshop%20&amp;%20Talks/Storytelling_Session_The_Curious_Garden.png"></a>
         <h2>Storytelling Session: The Curious Garden</h2>
@@ -2068,6 +2156,36 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/green-house-2024/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/green-house-2024-castlery-s-preloved-sale/">
+              <img src="/images/Events/Castlery_PrelovedSale.png"></a>
+        <h2>GREEN-HOUSE 2024: Castlery's Preloved Sale
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: 46 Kim Yam Road, New Bahru</strong></li>
+          <li><strong>Organiser: Castlery</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Rehome preloved Castlery items with up to 60% off the original retail price.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/green-house-2024-castlery-s-preloved-sale/" class="button-primary">
         Find out more
       </a>
     </div>
