@@ -894,14 +894,8 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/NGOs_and_NPOs/United_Nations_Global_Compact_Network_Singapore.png">
 </div>
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/NGOs_and_NPOs/World_Wide_Fund_for_Nature_Singapore.jpg">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/World_Wide_Fund_for_Nature_Singapore.png">
 </div>
-
-
-
-
-
-
 </div>
 </div>
 </div>
