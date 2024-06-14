@@ -104,7 +104,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/farm-to-plate-with-shangri-la-singapore-s-refreshed-rooted-in-nature-dishes/">
         <img src="/images/Retail%20FB%20Deals/Shangri_La_Singapore_Farm_to_Plate.jpg"></a>
-        <h2>Farm to Plate with Shangri La Singapore’s Refreshed Rooted in Nature Dishes</h2>
+        <h2>Farm to Plate with Shangri-La Singapore’s Refreshed Rooted in Nature Dishes</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -327,7 +327,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/say-no-to-plastic-with-shangri-la-singapore/">
         <img src="/images/Retail%20FB%20Deals/Shangri_La_Singapore_No_Plastic.jpg"></a>
-        <h2>Say “NO” to plastic with Shangri La Singapore</h2>
+        <h2>Say “NO” to plastic with Shangri-La Singapore</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
