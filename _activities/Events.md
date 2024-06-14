@@ -304,7 +304,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 1 - 14 July</strong>
+              Date: From 1 July</strong>
           </li>
           <li><strong>Admission: Free (no registration required)</strong></li>
           <li><strong>Venue: Castlery Flagship Store, Liat Towers</strong></li>
