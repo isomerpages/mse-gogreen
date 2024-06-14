@@ -4,7 +4,7 @@ permalink: /invasive-species-management/
 variant: markdown
 description: ""
 ---
-![Invasive Species Management](/images/Others/Invasive_Species_Management.jpg)
+![Invasive Species Management](/images/Others/Invasive_Species_Management___Windsor_Nature_Park_1.jpg)
 
 **Admission:** Free (registration required) <br>
 **Date:** Various<br>

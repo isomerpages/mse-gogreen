@@ -6,7 +6,7 @@ description: ""
 ---
 ![Poster publicising Green Lounge organsied by Castlery](/images/Events/Castlery_GreenLounge.png)
 
-**Date:** 1 - 14 July, 10:00 am - 9:00 pm <br>
+**Date:** From 1 July, 10:00 am - 9:00 pm <br>
 **Admission:** Free (no registration required)<br>
 **Venue:** Castlery Flagship Store, Liat Towers, 541 Orchard Road<br>
 **Organiser:** Castlery

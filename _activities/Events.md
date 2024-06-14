@@ -293,7 +293,7 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>   
-			<div class="programmes__item col is-one-third">
+		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/embrace-circularity-at-castlery-s-green-lounge/">
@@ -304,7 +304,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 1 - 14 July</strong>
+              Date: From 1 July</strong>
           </li>
           <li><strong>Admission: Free (no registration required)</strong></li>
           <li><strong>Venue: Castlery Flagship Store, Liat Towers</strong></li>
