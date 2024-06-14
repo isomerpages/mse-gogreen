@@ -16,8 +16,8 @@ sections:
           url: year-of-public-hygiene
   - infobar:
       title: Go Green SG 2024 is under way!
-      description: Go Green SG is back for 2024 from 12 June to 14 July. Take a look
-        at the activities we've lined up for you!
+      description: Go Green SG is back from 12 June to 14 July 2024. Take a look at
+        the activities we've lined up for you!
       url: /2024/tours/
       button: Explore events listing
   - infopic:
