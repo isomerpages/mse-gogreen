@@ -1997,7 +1997,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/learning-journey-at-singapore-food-agency-s-national-centre-for-food-science/">
         <img src="/images/Tours/SFA_NCFS.jpg"></a>
-        <h2>Learning Journey at Singapore Food Agency's National Centre for Food Science</h2>
+        <h2>Learning Journey at Singapore Food Agency's National Centre for Food Science</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
