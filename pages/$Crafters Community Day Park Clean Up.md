@@ -11,14 +11,14 @@ description: ""
 **Venue:** Bishan-Ang Mo Kio Park<br>
 **Organiser:** The Rainbow Artisan
 
-The Rainbow Artisan invites participants in their first clean-up activity in Bishan-Ang Mo Kio Park, in support of ground-up environment efforts to improve cleanliness and create a positive living environment. 
+The Rainbow Artisan invites participants to their first clean-up activity in Bishan-Ang Mo Kio Park, in support of ground-up efforts to improve cleanliness and create a positive living environment. 
 
-Participants can borrow free litter-picking tools from the [CleanPod](https://www.publichygienecouncil.sg/resources/cleanpod) and will not need to bring their own equipment. This is a good activity for all to network and connect with each other and the environment.
+Participants can borrow free litter-picking tools from the [CleanPod](https://www.publichygienecouncil.sg/resources/cleanpod) and so will not need to bring their own equipment. This is a good activity for all to network and connect with each other and the environment.
 
 Participants are recommended to bring along the following items for the activity:
 - Hat/Cap
 - Gloves
-- Water bottle (Keep yourself hydrated)
+- Water bottle (To keep yourself hydrated)
 - Mask
 - Hand sanitiser
 - Umbrella/Poncho (in case of light rain)
