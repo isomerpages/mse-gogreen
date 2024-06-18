@@ -154,6 +154,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>          
+	  <div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/free-documentary-screening-of-melting-greenland/">
+        <img src="/images/Others/hero_image__Collapse_after__1_.jpg"></a>
+        <h2>Free Documentary Screening of ‘Melting Greenland’</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 15, 23, 29 June; 7, 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+					<li><strong>Venue: 71 Bukit Batok Crescent #05-12</strong></li>
+          <li><strong>Organiser: O'right SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Melting Greenland is a documentary that reveals how climate change has affected Greenland’s society, economy, and livelihood.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/free-documentary-screening-of-melting-greenland/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>       
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
