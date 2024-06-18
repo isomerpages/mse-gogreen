@@ -921,7 +921,7 @@ transform: rotate(0);
 <div class="row">
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Bishan_East_Sin_Ming_East_Green_Chapter.jpg">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Bishan_East_Sin_Ming_Green_Chapter.jpg">
 </div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Canla_Club.png">
