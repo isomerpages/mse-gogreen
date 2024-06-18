@@ -6,7 +6,7 @@ description: ""
 ---
 ![Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed(STDCT)_at_NUS](/images/Tours/Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed__STDCT__at_NUS.png)
  
- **Date:** 28 June
+ **Date:** 28 June <b><font color="red">[FULLY BOOKED]</font></b>
 * 1:30 pm – 2:30 pm
 * 3:00 pm – 4:00 pm
 * 4:30 pm - 5:30 pm <br> 
@@ -19,6 +19,7 @@ The Sustainable Tropical Data Centre Testbed (STDCT) is the first data centre te
 
 This activity is recommended for participants above the age of 15 years old.
 
+<b><font color="red">FULLY BOOKED</font></b><br>
  <a target="_blank" class="btn-link" href="https://forms.office.com/pages/responsepage.aspx?id=Xu-lWwkxd06Fvc_rDTR-gt9yMNbiTzFBqGiXfcpmdDRUMkI0SldKSjhRMVkxTDk2OFRTT04yRzhKRC4u"><img src="/images/gogreensg_website-32.png"></a> 
 
 <style> 
@@ -35,6 +36,4 @@ width: 100%;
 } 
 </style>
 
-<a target="_blank" class="btn-link" href="https://cde.nus.edu.sg/research/research-centres/stdct/"><img src="/images/more-info-btn.png"></a> 
-
- 
+<a target="_blank" class="btn-link" href="https://cde.nus.edu.sg/research/research-centres/stdct/"><img src="/images/more-info-btn.png"></a>
