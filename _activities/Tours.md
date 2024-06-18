@@ -1689,7 +1689,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 				<a href="/site-tour-to-sustainable-tropical-data-centre-testbed-stdct-at-nus/">
 				<img src="/images/Tours/Site_Tour_to_Sustainable_Tropical_Data_Centre_Testbed__STDCT__at_NUS.png"></a>
-        <h2>Site Tour to Sustainable Tropical Data Centre Testbed (STDCT) at NUS</h2>
+        <h2>Site Tour to Sustainable Tropical Data Centre Testbed (STDCT) at NUS</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
