@@ -10,7 +10,7 @@ description: ""
 **Venue:** The Shoppes at Marina Bay Sands <br>
 **Organiser:** Marina Bay Sands
 
-From sustainably sourced menus to tours and workshops, learn about Marina Bay Sands’ sustainability efforts during Go Green SG 2024! Participate in an array of eco-friendly retail initiatives that champion sustainable materials, recycling of preloved items and many more to receive exclusive benefits at The Shoppes.
+From sustainably-sourced menus to tours and workshops, learn about Marina Bay Sands’ sustainability efforts during Go Green SG 2024! Participate in an array of eco-friendly retail initiatives that champion sustainable materials, recycling of preloved items and many more to receive exclusive benefits at The Shoppes.
 
 <a class="btn-link" target="_blank" href="https://www.marinabaysands.com/sustainability/go-green-2024.html">
 	<img src="/images/more-info-btn.png">
