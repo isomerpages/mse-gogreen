@@ -324,7 +324,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 14, 23 June; 14 July</strong>
+              Date: 14 June; 14 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Ola Beach Club, Sentosa</strong></li>
@@ -699,7 +699,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Dates: 29 June</strong>
+              Date: 29 June</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Pasir Ris Park Area 1</strong></li>
@@ -713,6 +713,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/clean-the-seas-with-seas-clean-the-seas-with-seas/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/crafters-community-day-park-clean-up/">
+				<img src="/images/Initiatives/RainbowArtisan_Cleanup.png"></a>
+        <h2>Crafters Community Day Park Clean Up</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Bishan-Ang Mo Kio Park</strong></li>
+          <li><strong>Organiser: The Rainbow Artisan</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Rainbow Artisan invites participants to their first clean-up activity in Bishan-Ang Mo Kio Park, in support of efforts to create a positive living environment. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/crafters-community-day-park-clean-up/" class="button-primary">
         Find out more
       </a>
     </div>
