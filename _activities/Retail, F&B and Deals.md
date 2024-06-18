@@ -262,6 +262,35 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	
+<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/sustainability-at-the-shoppes/">
+				<img src="/images/Retail%20FB%20Deals/7_Shopppes.jpg"></a>
+        <h2>Sustainability at the Shoppes</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 June - 14 July</strong>
+          </li>
+          <li><strong>Venue: The Shoppes at Marina Bay Sands</strong></li>
+          <li><strong>Organiser: Marina Bay Sands</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>From sustainably-sourced menus to tours and workshops, learn about Marina Bay Sands’ sustainability efforts during Go Green SG 2024! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainability-at-the-shoppes/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 		          <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
