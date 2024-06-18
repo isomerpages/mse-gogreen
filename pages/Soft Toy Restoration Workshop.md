@@ -1,5 +1,5 @@
 ---
-title: Soft Toy Hospital Restoration Workshop
+title: Soft Toy Restoration Workshop
 permalink: /soft-toy-hospital-restoration-workshop/
 variant: markdown
 description: ""

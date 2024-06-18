@@ -735,7 +735,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/soft-toy-hospital-restoration-workshop/">
         <img src="/images/Workshop%20&amp;%20Talks/Soft_Toy_Hospital_Restoration_Workshop.png"></a>
-        <h2>Soft Toy Hospital Restoration Workshop</h2>
+        <h2>Soft Toy Restoration Workshop</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
