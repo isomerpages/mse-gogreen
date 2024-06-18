@@ -324,7 +324,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 14, 23 June; 14 July</strong>
+              Date: 14 June; 14 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
           <li><strong>Venue: Ola Beach Club, Sentosa</strong></li>
