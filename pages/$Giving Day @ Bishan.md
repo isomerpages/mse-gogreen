@@ -13,8 +13,8 @@ description: ""
 
 Giving Day @ Bishan is an initiative by GoodHood.SG in collaboration with Bishan Community Club. It is a community decluttering-for-good event to allow people to donate good quality pre-loved items, and beneficiaries to have priority in collecting them. Giving Day @ Bishan celebrates the spirit of giving and sustainability to give preloved items a second life. 
 
-**For more information:**
-<a class="btn-link" target="_blank" href="bit.ly/GHBishanGivingDayInfo">
+**For more information:**<br>
+<a class="btn-link" target="_blank" href="http://www.bit.ly/GHBishanGivingDayInfo">
 	<img src="/images/more-info-btn.png">
 </a>
 
@@ -31,8 +31,8 @@ Giving Day @ Bishan is an initiative by GoodHood.SG in collaboration with Bishan
 	
 </style>
 
-**Join as a volunteer:**
-<a class="btn-link" target="_blank" href="bit.ly/GHBishanGivingDayInfo">
+**Join as a volunteer:**<br>
+<a class="btn-link" target="_blank" href="http://www.bit.ly/GHBishanGivingDayInfo">
 	<img src="/images/more-info-btn.png">
 </a>
 
