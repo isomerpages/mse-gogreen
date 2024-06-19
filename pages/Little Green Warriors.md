@@ -7,8 +7,8 @@ description: ""
 ![Poster of Little Green Warriors on 22 June](/images/Workshop%20&amp;%20Talks/Little_Green_Warriors.png)
 
 **Date:** 22 June, 10:00 am - 11:00 am<br>
-**Admission:** Varies (registration required)<br>
-**Venue:** Looqal, Tanglin Mall<br>
+**Admission:** $25++ (registration required)<br>
+**Venue:** LOOQAL, Tanglin Mall<br>
 **Organiser:** DinoStaury, LOOQAL, UNPLASTIK, Doodle Dat, IKKIKIDZ
 
 Join Dinostaury for a storytelling session of the book “Dina Helps Uncle Tree”, which will teach children about air pollution and the role of trees in protecting the environment. Following this will be a session for kids to put together their very own succulent plant where they can begin their little plant journeys!
