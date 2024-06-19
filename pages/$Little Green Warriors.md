@@ -7,7 +7,7 @@ description: ""
 ![Poster of Little Green Warriors on 22 June](/images/Workshop%20&amp;%20Talks/Little_Green_Warriors.png)
 
 **Date:** 22 June, 10:00 am - 11:00 am<br>
-**Admission:** Various (registration required)<br>
+**Admission:** Varies (registration required)<br>
 **Venue:** Looqal, Tanglin Mall<br>
 **Organiser:** DinoStaury, LOOQAL, UNPLASTIK, Doodle Dat, IKKIKIDZ
 
