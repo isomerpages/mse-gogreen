@@ -1503,6 +1503,34 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/giving-day-bishan/">
+        <img src="/images/Events/GivingDay_Bishan.jpg"></a>
+        <h2>Giving Day @ Bishan</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Bishan Community Club</strong></li>
+          <li><strong>Organiser: Bishan East-Sin Ming Nature Kakis and GoodHood.SG</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Giving Day @ Bishan is a community decluttering-for-good initiative to allow people to donate good quality pre-loved items, and beneficiaries to have priority in collecting them. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/giving-day-bishan/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 					<a href="/let-s-write-letters-to-thank-our-seafarers/">
 						<img src="/images/Tours/MPA_Lets_Write_Letters_to_Thank_Our_Seafarers.png"></a>
         <h2>Let’s Write Letters to Thank Our Seafarers!
