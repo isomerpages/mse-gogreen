@@ -16,6 +16,4 @@ Visitors can expect discounts and promotions on local produce harvested on the s
 
 The first 1,000 visitors every day will receive SG Farmers’ Market (SGFM) shopping vouchers (T&amp;Cs apply). Other highlights include a lucky draw to win farm-to-table dining vouchers, cooking demonstrations featuring dishes made with local produce and more. Join Bishan East-Sin Ming Nature Kakis to experience the freshest local produce straight from the farms!
  
-This activity is suitable for participants with mobility issues. 
-
-
+This activity is suitable for participants with mobility issues.
