@@ -421,7 +421,7 @@ More activities are being added progressively.</div>
 				<a href="/upcycled-sunnies-workshop-minitrashlab/">
 					<img src="/images/Workshop%20&amp;%20Talks/upcycled_sunnies_workshop.jpg"></a>
         <h2>Upcycled Sunnies Workshop @ miniTrashlab
-</h2>
+</h2><sup><font color="red"><b>TEMPORARILY UNAVAILABLE</b></font></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
