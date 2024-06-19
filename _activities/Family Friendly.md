@@ -1571,8 +1571,8 @@ More activities are being added progressively.</div>
             <strong>
               Date: 22 June</strong>
           </li>
-          <li><strong>Admission: Varies (registration required)</strong></li>
-          <li><strong>Venue: Looqal, Tanglin Mall</strong></li>
+          <li><strong>Admission: $25++ (registration required)</strong></li>
+          <li><strong>Venue: LOOQAL, Tanglin Mall</strong></li>
           <li><strong>Organiser: DinoStaury, LOOQAL, UNPLASTIK, Doodle Dat, IKKIKIDZ</strong></li>
         </ul>
       </div>
