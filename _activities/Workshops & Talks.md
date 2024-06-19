@@ -914,6 +914,34 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/little-green-warriors/">
+        <img src="/images/Workshop%20&amp;%20Talks/Little_Green_Warriors.png"></a>
+        <h2>Little Green Warriors</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 22 June</strong>
+          </li>
+          <li><strong>Admission: Varies (registration required)</strong></li>
+          <li><strong>Venue: Looqal, Tanglin Mall</strong></li>
+          <li><strong>Organiser: DinoStaury, LOOQAL, UNPLASTIK, Doodle Dat, IKKIKIDZ</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join Dinostaury for a storytelling session of the book “Dina Helps Uncle Tree”, which will teach children about air pollution and the role of trees in protecting the environment. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/little-green-warriors/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/aquaponics-workshop/">
         <img src="/images/Workshop%20&amp;%20Talks/KCA_Aquaponics.png"></a>
         <h2>Aquaponics Workshop</h2>
