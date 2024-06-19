@@ -18,7 +18,7 @@ Litter-picking equipment will be provided.
 
 
 <a class="btn-link" target="_blank" href="https://stridy.com/events/litter-vanture-go-green-sg">
-	<img src="/images/more-info-btn.png">
+	<img src="/images/gogreensg_website-32.png">
 </a>
 
 <style>

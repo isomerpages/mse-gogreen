@@ -351,6 +351,34 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/farmer-s-market-at-bishan-community-club/">
+        <img src="/images/Events/BESM_SAFEF_Farmers_Market.png"></a>
+        <h2>Farmer’s Market at Bishan Community Club</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29, 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Bishan Community Club</strong></li>
+          <li><strong>Organiser: Bishan East-Sin Ming Nature Kakis and SAFEF</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The SG Farmers’ Market at Bishan Community Club will feature fresh local produce from 20 local farms. Visitors can expect discounts and promotions on local produce harvested on the same morning and try out food samples from participating farms. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/farmer-s-market-at-bishan-community-club/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">

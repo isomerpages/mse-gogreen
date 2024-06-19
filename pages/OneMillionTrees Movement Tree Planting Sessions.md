@@ -44,15 +44,6 @@ For more information about the OneMillionTrees movement, visit: [https://www.npa
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
-
-**JALAN KAYU (12 July, 9.00 am - 11.00 am) - Registration opens in mid-June**
-
-<a class="btn-link" target="_blank" href="https://form.gov.sg/65f91f154a44f5816c63a84f">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-
-
 **UPPER SERANGOON CRESCENT (12 July, 9.30 am - 11.00 am) - Registration opens in mid-June**
 
 <a class="btn-link" target="_blank" href="https://form.gov.sg/65f8f6611b0f02af60ca5a44">
