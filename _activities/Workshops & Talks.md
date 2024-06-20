@@ -1215,7 +1215,7 @@ More activities are being added progressively.</div>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Embark on a fascinating journey into the world of pollination at the Air Bee n Bee workshop, where you’ll learn how to create a haven for bees in the urban landscape and discover their vital role in our ecosystem.</p>
+        <p>Learn how to create a haven for bees in the urban landscape and discover their vital role in our ecosystem.</p>
       </div>
     </div>
     <div class="programmes__item__actions">
