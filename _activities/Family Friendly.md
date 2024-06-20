@@ -160,6 +160,35 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+            <a href="/build-it-with-nature-shade-them-nature/">
+              <img src="/images/Others/SDC_SHADEthemNature.jpg"></a>
+        <h2>Build It with Nature: SHADE them Nature</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 - 25 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Sentosa Nature Discovery, 51 Imbiah Road</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover the diverse array of plants on Sentosa island and the vibrant natural pigments they yield. Using these pigments, create your own enduring, personalised, work of art!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/build-it-with-nature-shade-them-nature/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
             <a href="/learn-to-make-diy-natural-scrubs-with-city-sprouts/">
               <img src="/images/Workshop%20&amp;%20Talks/Learn_to_make_DIY_Natural_Scrubs_with_City_Sprouts.jpg"></a>
         <h2>Learn to make DIY Natural Scrubs with City Sprouts
