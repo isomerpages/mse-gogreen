@@ -418,6 +418,35 @@ More activities are being added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+				<a href="/sustainably-yours-sustainable-hotel-building-tour-at-parkroyal-collection-marina-bay-singapore/">
+				<img src="/images/Tours/Sustainably_yours.jpg"></a>
+        <h2>“Sustainably Yours” Sustainable Hotel Building Tour at PARKROYAL COLLECTION Marina Bay, Singapore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 28 June; 5, 12 July</strong>
+          </li>
+          <li><strong>Admission: From $88++/pax</strong></li>
+					<li><strong>Venue: PARKROYAL COLLECTION Marina Bay, 6 Raffles Boulevard</strong></li>
+          <li><strong>Organiser: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a guided tour, and discover the hotel’s sustainability initiatives from behind-the-scenes. With various tour experiences available, discover how sustainability is practiced across all operations at the hotel.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainably-yours-sustainable-hotel-building-tour-at-parkroyal-collection-marina-bay-singapore/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/sustainability-in-motion-programme/">
         <img src="/images/Tours/RWS_SustMotionProg.jpg"></a>
         <h2>Sustainability in Motion Programme</h2>
