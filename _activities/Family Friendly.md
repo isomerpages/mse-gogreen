@@ -160,6 +160,35 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+            <a href="/build-it-with-nature-shade-them-nature/">
+              <img src="/images/Others/SDC_SHADEthemNature.jpg"></a>
+        <h2>Build It with Nature: SHADE them Nature</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 - 25 June</strong>
+          </li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Venue: Sentosa Nature Discovery, 51 Imbiah Road</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover the diverse array of plants on Sentosa island and the vibrant natural pigments they yield. Using these pigments, create your own enduring, personalised, work of art!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/build-it-with-nature-shade-them-nature/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
             <a href="/learn-to-make-diy-natural-scrubs-with-city-sprouts/">
               <img src="/images/Workshop%20&amp;%20Talks/Learn_to_make_DIY_Natural_Scrubs_with_City_Sprouts.jpg"></a>
         <h2>Learn to make DIY Natural Scrubs with City Sprouts
@@ -382,6 +411,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/rebag-workshop-bring-a-shirt-take-home-a-bag/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+				<a href="/sustainably-yours-sustainable-hotel-building-tour-at-parkroyal-collection-marina-bay-singapore/">
+				<img src="/images/Tours/Sustainably_yours.jpg"></a>
+        <h2>“Sustainably Yours” Sustainable Hotel Building Tour at PARKROYAL COLLECTION Marina Bay, Singapore</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 21, 28 June; 5, 12 July</strong>
+          </li>
+          <li><strong>Admission: From $88++/pax</strong></li>
+					<li><strong>Venue: PARKROYAL COLLECTION Marina Bay, 6 Raffles Boulevard</strong></li>
+          <li><strong>Organiser: PARKROYAL COLLECTION Marina Bay, Singapore</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a guided tour, and discover the hotel’s sustainability initiatives from behind-the-scenes. With various tour experiences available, discover how sustainability is practiced across all operations at the hotel.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/sustainably-yours-sustainable-hotel-building-tour-at-parkroyal-collection-marina-bay-singapore/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1949,6 +2007,62 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/northshore-trail-guided-sustainability-tour-in-punggol/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/build-it-with-nature-air-bee-n-bee-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/SDC_AirBeeNBee.jpg"></a>
+        <h2>Build It with Nature: Air Bee n Bee Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sentosa Nature Discovery, 51 Imbiah Road</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how to create a haven for bees in the urban landscape and discover their vital role in our ecosystem.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/build-it-with-nature-air-bee-n-bee-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/coastal-clean-up-and-marine-discovery-session-with-biogirl-mj/">
+        <img src="/images/Initiatives/BiogirlMJ_CoastalCleanUp_MarineDiscovery_jpg.jpg"></a>
+        <h2>Coastal Clean Up and Marine Discovery Session with Biogirl MJ</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Pasir Ris Beach (in front of Georges restaurant, 133 Pasir Ris Road) </strong></li>
+          <li><strong>Organiser: Just Keep Thinking</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn about our incredible marine biodiversity while playing your part to protect our beautiful coastline. Participants will also receive a little surprise from Georges restaurant. </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/coastal-clean-up-and-marine-discovery-session-with-biogirl-mj/" class="button-primary">
         Find out more
       </a>
     </div>
