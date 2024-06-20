@@ -1956,6 +1956,34 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/build-it-with-nature-air-bee-n-bee-workshop/">
+        <img src="/images/Workshop%20&amp;%20Talks/SDC_AirBeeNBee.jpg"></a>
+        <h2>Build It with Nature: Air Bee n Bee Workshop</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 30 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sentosa Nature Discovery, 51 Imbiah Road</strong></li>
+          <li><strong>Organiser: Sentosa Development Corporation</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how to create a haven for bees in the urban landscape and discover their vital role in our ecosystem.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/build-it-with-nature-air-bee-n-bee-workshop/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/community-visit-to-repair-kopitiam/">
         <img src="/images/SL2_Impact_Air_Fryer.jpg"></a>
         <h2>Community Visit to Repair Kopitiam</h2>
