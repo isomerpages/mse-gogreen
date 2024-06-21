@@ -22,6 +22,8 @@ As we will be exploring the park via hiking trails, the event is not suitable fo
 
 This volunteer-run activity is a Friends of Chestnut Nature Park initiative supported by NParks.
 
+<font color="red"><b>FULLY BOOKED</b></font><br>
+
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/walk-with-your-neighbours-chestnut-nature-park-tickets-874658064817">
 	<img src="/images/gogreensg_website-32.png">
 </a>
