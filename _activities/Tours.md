@@ -1680,7 +1680,36 @@ More activities are being added progressively.</div>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/chek-jawa-wetlands-tour/" class="button-primary">
+      <a href="/exploring-sustainable-spaces-with-capitaland-development/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/night-walk-rail-corridor/">
+        <img src="/images/Tours/CapitaLand_CapitaSpringGreenOasis.jpg"></a>
+        <h2>Exploring Sustainable Spaces with CapitaLand Development</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: CapitaSpring, 88 Market Street</strong></li>
+          <li><strong>Organiser: CapitaLand Development </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a guided journey through CapitaSpring to explore how CapitaLand integrates sustainable practices in its developments. 
+</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/exploring-sustainable-spaces-with-capitaland-development/" class="button-primary">
         Find out more
       </a>
     </div>
