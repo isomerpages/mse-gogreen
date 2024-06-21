@@ -308,7 +308,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/National_Water_Agency_PUB.png">
 </div>
-	
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Public_Agencies/sbs_transit.png">
+</div>	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/Science_Centre_Board.png">
 </div>
