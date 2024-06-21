@@ -1680,7 +1680,7 @@ More activities are being added progressively.</div>
       </div>
     </div>
     <div class="programmes__item__actions">
-      <a href="/exploring-sustainable-spaces-with-capitaland-development/" class="button-primary">
+      <a href="/chek-jawa-wetlands-tour/" class="button-primary">
         Find out more
       </a>
     </div>
@@ -1688,7 +1688,7 @@ More activities are being added progressively.</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-<a href="/night-walk-rail-corridor/">
+<a href="/exploring-sustainable-spaces-with-capitaland-development/">
         <img src="/images/Tours/CapitaLand_CapitaSpringGreenOasis.jpg"></a>
         <h2>Exploring Sustainable Spaces with CapitaLand Development</h2>
       </div>
