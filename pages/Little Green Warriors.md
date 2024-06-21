@@ -4,7 +4,7 @@ permalink: /little-green-warriors/
 variant: markdown
 description: ""
 ---
-![Poster of Little Green Warriors on 22 June](/images/Workshop%20&amp;%20Talks/Little_Green_Warriors.png)
+![Little Green Warriors poster for the 22nd of June](/images/Workshop%20&amp;%20Talks/Little_Green_Warriors1.jpg)
 
 **Date:** 22 June, 10:00 am - 11:00 am<br>
 **Admission:** $25++ (registration required)<br>
