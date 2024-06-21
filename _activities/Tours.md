@@ -2171,7 +2171,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/walk-with-your-neighbours-chestnut-nature-park/">
         <img src="/images/Tours/friends_chestnut_nature_park.jpg"></a>
-        <h2>Walk With Your Neighbours @ Chestnut Nature Park</h2>
+        <h2>Walk With Your Neighbours @ Chestnut Nature Park</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
