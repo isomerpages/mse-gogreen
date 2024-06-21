@@ -425,8 +425,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 						<a href="/explore-chinatown-s-built-heritage-with-friends-of-the-museums/">
 							<img src="/images/Tours/URA_Explore_Chinatown.jpg"></a>
-        <h2>Explore Chinatown's Built Heritage with Friends of the Museums
-</h2>
+        <h2>Explore Chinatown's Built Heritage with Friends of the Museums</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
