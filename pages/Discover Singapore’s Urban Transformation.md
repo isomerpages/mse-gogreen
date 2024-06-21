@@ -24,7 +24,7 @@ Led by URA volunteers, participants will gain a better appreciation of the chall
 
 This activity is suitable for individuals with mobility issues.
 
-<font color="red"><b>27 June session: FULLY BOOKED</b></font><br>
+<font color="red"><b>27th June session: FULLY BOOKED</b></font><br>
 
 <a class="btn-link" target="_blank" href="https://www.eventbrite.sg/e/join-a-guided-tour-of-the-singapore-city-gallery-tickets-237389076117?aff=oddtdtcreator">
 	<img src="/images/gogreensg_website-32.png">
