@@ -444,35 +444,6 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
-		<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/sustainability-in-motion-programme/">
-        <img src="/images/Tours/RWS_SustMotionProg.jpg"></a>
-        <h2>Sustainability in Motion Programme</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 12 June – 14 July</strong>
-          </li>
-          <li><strong>Admission: Children: $33/pax, Adults: $40/pax</strong></li>
-          <li><strong>Venue: S.E.A. Aquarium</strong></li>
-          <li><strong>Organiser: Resorts World Sentosa</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Through the lens of the UN Sustainable Development Goals (SDGs), learn about the importance of marine conservation through this tour at S.E.A. Aquarium.
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/sustainability-in-motion-programme/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-	</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1841,6 +1812,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/black-soldier-fly-bsf-eco-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/exploring-sustainable-spaces-with-capitaland-development/">
+        <img src="/images/Tours/CapitaLand_CapitaSpringGreenOasis.jpg"></a>
+        <h2>Exploring Sustainable Spaces with CapitaLand Development</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 28 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: CapitaSpring, 88 Market Street</strong></li>
+          <li><strong>Organiser: CapitaLand Development </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a guided journey through CapitaSpring to explore how CapitaLand integrates sustainable practices in its developments. 
+</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/exploring-sustainable-spaces-with-capitaland-development/" class="button-primary">
         Find out more
       </a>
     </div>
