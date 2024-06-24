@@ -7,7 +7,7 @@ description: ""
 ![Tee_to_Bag_Experience](/images/Workshop%20&amp;%20Talks/The_Tee_tO_Bag_Experience.jpg)
 
 **Dates:** 
-* 2- 15, 17-22, 24-29 June, 11:00 am – 8:00 pm
+* 12-15, 17-22, 24-29 June, 11:00 am – 8:00 pm
 * 1-6, 8-13 July, 11:00 am – 8:00 pm  <br> 
 
 **Admission:** Adult: $58 | Child: $38 <br> 
