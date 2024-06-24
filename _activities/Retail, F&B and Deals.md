@@ -351,6 +351,32 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/make-secondhand-your-first-choice-with-carousell/">
+        <img src="/images/Retail%20FB%20Deals/make_secondhand_your_first_choice.png"></a>
+        <h2>Make Secondhand Your First Choice with Carousell</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 24 June - 14 July</strong>
+          </li>
+          <li><strong>Organiser: Carousell Pte Ltd</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Transform the way you buy and sell with these green initiatives by Carousell, one eco-friendly transaction at a time!</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/make-secondhand-your-first-choice-with-carousell/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>	          
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
