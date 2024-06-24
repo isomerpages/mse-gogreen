@@ -18,7 +18,7 @@ Every click, every purchase, every decision matters. Foster a culture of environ
 
 Unlock eco-friendly savings and enjoy $3 off a minimum spend of $5 when you choose to transact through the 'Buy' button on selected categories such as Women's Fashion, Men's Fashion. Hobbies &amp; Toys and Beauty &amp; Personal Care. Simply apply promo code 'GOGREEN24' at checkout. 
 
-**Sell to Carousell:** Say goodbye to your old device responsibly by disposing it through Sell to Carousell Mobiles. Choose Carousell’s free doorstep pickup or drop-off at its partner stores to earn instant payouts. 
+**Sell to Carousell:** Say goodbye to your old device responsibly through Sell to Carousell. Choose Carousell’s free doorstep pickup or drop-off at its partner stores to earn instant payouts. 
 
 Make Secondhand your First Choice.    
 
