@@ -7,9 +7,9 @@ description: ""
 ![Poster depicting that shirts can be upcycled into bags](/images/Workshop%20&amp;%20Talks/Upcycle_OCBCsite_banner.jpg)
 
 **Date:** 
-* 12 - 20 June, 28 June, 30 June <br>
+* 12 - 20 June, 28 June, 30 June: 
 11:30 am – 12:00 pm | 12:30 pm – 1:00 pm | 4:00 pm – 4:30 pm | 5:00 pm – 5:30 pm 
-* 29 June <br> 
+* 29 June: 
 11:30 am – 12:00 pm | 12:30 pm – 1:00 pm | 4:30 pm – 5:00 pm | 5:30 pm – 6:00 pm <br>
 
 **Admission:** Free (registration required)<br>
