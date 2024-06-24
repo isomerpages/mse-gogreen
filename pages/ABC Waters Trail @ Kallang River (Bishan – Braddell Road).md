@@ -27,7 +27,7 @@ Note: In the case of heavy rain, the walk will be cancelled.
 </a>
 
 
-<b>29th June</b><br>
+<b>29th June <font color="red">[FULLY BOOKED]</font></b><br>
 <a class="btn-link" target="_blank" href="https://form.gov.sg/6639de929b862f4c473b8fdb">
 	<img src="/images/gogreensg_website-32.png">
 </a>
