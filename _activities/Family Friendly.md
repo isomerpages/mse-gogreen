@@ -2359,6 +2359,34 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/coco-friends-programme/">
+        <img src="/images/Tours/Coco_2.jpg"></a>
+        <h2>Coco &amp; Friends Programme</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: Child $10 | Accompanying parent(s): Free</strong></li>
+          <li><strong>Venue: Bukit Timah Nature Reserve</strong></li>
+          <li><strong>Organiser: National Parks Board </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Through the eyes of Coco, the Malayan Colugo, children will embark on a nature adventure to learn about Coco and his forest friends, and the plants that are useful to both man and animals.</p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/coco-friends-programme/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
             <a href="/green-house-2024/">
               <img src="/images/Events/GREEN_HOUSE_2024.jpg"></a>
         <h2>GREEN-HOUSE 2024
