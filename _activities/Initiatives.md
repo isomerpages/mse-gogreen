@@ -807,6 +807,35 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/reforesting-kent-ridge-with-nus-toddycats/">
+        <img src="/images/Initiatives/NUSToddycats_ReforestingKR.jpg"></a>
+        <h2>Reforesting Kent Ridge with NUS Toddycats</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 29 June</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: 6 Kent Ridge Road</strong></li>
+          <li><strong>Organiser: NUS Toddycats</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join NUS Toddycats to restore the green forest spine along Kent Ridge, and help plant a mix of early to late successional native tree species. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/reforesting-kent-ridge-with-nus-toddycats/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
 <a href="/mangrove-clean-up-at-sungei-pang-sua/">
         <img src="/images/Initiatives/Mangrove_cleanup_sungei_pang_sua.jpg"></a>
         <h2>River Clean Up at Sungei Pang Sua</h2>
