@@ -352,7 +352,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/CapitaLand_Development.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/carousell.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Castlery_Pte_Ltd.png">
 </div>
@@ -414,7 +416,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Gojek.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/goodhood.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Green_In_Future.png">
 </div>
@@ -685,11 +689,15 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Jurong_Primary_School.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/kiddi_winkie_schoolhouse.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Learning_Vision_at_Work_Ptd_Ltd.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/little_footprints_preschool.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Marsiling_Primary_School.png">
 </div>
