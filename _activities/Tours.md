@@ -2143,8 +2143,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
       <a href="/tour-of-jurong-innovation-district-jtc-corporation-s-next-gen-industrial-estate/">
 	<img src="/images/Tours/Tour_of_Jurong_Innovation_District__JTC_Corporation_s_Next_Gen_Industrial_Estate.jpg"></a>
-        <h2>Tour of Jurong Innovation District
-</h2><sup><b>FULLY BOOKED</b></sup>
+        <h2>Tour of Jurong Innovation District</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -2228,7 +2227,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/sewer-choke-demonstration-and-visit-to-ulu-pandan-reclamation-plant/">
         <img src="/images/Tours/Sewer_Choke_Demonstration_and_Visit_to_Ulu_Pandan_Reclamation_Plant.png"></a>
-        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2>
+        <h2>Sewer Choke Removal Demonstration and Visit to Ulu Pandan Reclamation Plant</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
