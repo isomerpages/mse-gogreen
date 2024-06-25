@@ -55,6 +55,11 @@ Participants are required to wear covered shoes and prepare their own pair of ga
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
+**RIFLE RANGE NATURE PARK (13 July, 9:30 am – 11:30 am)** 
+
+<a class="btn-link" target="_blank" href="https://go.gov.sg/ismcommunity">
+	<img src="/images/gogreensg_website-32.png">
+</a>
 <style>
 	.btn-link {
 		display: inline-block;
