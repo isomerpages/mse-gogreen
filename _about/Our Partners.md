@@ -688,7 +688,7 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Educational_Institutions/Jurong_Primary_School.png">
 </div>
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational_Institutions/kiddie_winkie_schoolhouse.png">
+<img src="/images/Our_Partners_2024/Educational_Institutions/kiddi_winkie_schoolhouse.png">
 </div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Learning_Vision_at_Work_Ptd_Ltd.png">
