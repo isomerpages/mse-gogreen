@@ -352,7 +352,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/CapitaLand_Development.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/carousell.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Castlery_Pte_Ltd.png">
 </div>
