@@ -6,7 +6,7 @@ description: ""
 ---
 ![Storytelling_Session_The_Curious_Garden](/images/Workshop%20&amp;%20Talks/Storytelling_Session_The_Curious_Garden.png)
 
-**Dates:** 5 June and 3 July, 10:30 am – 12:00 pm  <br> 
+**Dates:** 3 July, 10:30 am – 12:00 pm  <br> 
 **Admission:** $28/pax <br> 
 **Venue:** ArtScience Museum  <br> 
 **Organiser:** Marina Bay Sands  
