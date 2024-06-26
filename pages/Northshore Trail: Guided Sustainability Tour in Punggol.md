@@ -18,6 +18,7 @@ Find out more about HDB’s smart, sustainable initiatives that shape the Punggo
 
 Learn about HDB’s latest technologies such as Smart Lighting and Smart Parking. Discover the innovative blend of environmental and social sustainability efforts, such as the community pods and dragonfly pavilion.
 
+<b><font color="red">[FULLY BOOKED]</font></b><br>
 <a class="btn-link" target="_blank" href="https://www.hdb.gov.sg/community/practising-ecoliving/eco-trails">
 	<img src="/images/gogreensg_website-32.png">
 </a>

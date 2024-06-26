@@ -9,6 +9,8 @@ description: ""
 **Date:**<br>
 12 June, 7:45 am – 9:45 am <br> 
 22, 23 June, 5:00 am – 7:00 am<br> 
+6 July, 5:00 am - 7:00 am<br>
+7 July, 5:30 am - 7:30 am
 
 **Admission:** $60/pax<br> 
 **Venue:** Changi Beach<br> 
