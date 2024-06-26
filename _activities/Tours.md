@@ -171,7 +171,7 @@ More activities are being added progressively.</div>
         <ul>
           <li>
             <strong>
-              Date: 12, 22, 23 June</strong>
+              Date: 12, 22, 23 June; 6, 7 July</strong>
           </li>
           <li><strong>Admission: $60/pax</strong></li>
           <li><strong>Venue: Changi Beach</strong></li>
