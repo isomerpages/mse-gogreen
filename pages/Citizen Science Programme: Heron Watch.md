@@ -6,7 +6,7 @@ description: ""
 ---
 ![Heron Watch ](/images/Others/Heron_Watch_169.jpg)
 
-**Date:** 13 - 21 July<br>
+**Date:** 13 - 14 July<br>
 **Admission:** Free (registration required) <br>
 **Venue:** Various <br>
 **Organiser:** National Parks Board
