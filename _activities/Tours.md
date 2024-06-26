@@ -1911,7 +1911,7 @@ More activities are being added progressively.</div>
       <div class="programmes__item__header">
 <a href="/northshore-trail-guided-sustainability-tour-in-punggol/">
         <img src="/images/Tours/Punggol_Northshore.jpg"></a>
-        <h2>Northshore Trail: Guided Sustainability Tour in Punggol</h2>
+        <h2>Northshore Trail: Guided Sustainability Tour in Punggol</h2><sup><b>FULLY BOOKED</b></sup>
       </div>
       <div class="programmes__item__detail">
         <ul>
