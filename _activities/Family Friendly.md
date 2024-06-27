@@ -2387,6 +2387,35 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/recycling-right-workshop-by-the-sustainability-project/">
+        <img src="/images/Workshop%20&amp;%20Talks/Recycling_Right_The_Sustainability_Project.png"></a>
+        <h2>Recycling Right Workshop by The Sustainability Project</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: $8</strong></li>
+          <li><strong>Venue: Crane @ Wisma Atria, 435 Orchard Road</strong></li>
+          <li><strong>Organiser: The Sustainability Project</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Not too sure how to start your recycling journey, or wish to learn more about how to recycle right and better? Learn how to through this workshop!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/recycling-right-workshop-by-the-sustainability-project/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
             <a href="/green-house-2024/">
               <img src="/images/Events/GREEN_HOUSE_2024.jpg"></a>
         <h2>GREEN-HOUSE 2024
