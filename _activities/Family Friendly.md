@@ -2387,6 +2387,64 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
+<a href="/kindred-community-sembawang-beach-cleanup/">
+        <img src="/images/Initiatives/Kindred_Community_Beach_Clean_Up.jpg"></a>
+        <h2>Kindred Community Sembawang Beach Cleanup</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Sembawang Park Car Park 1 </strong></li>
+          <li><strong>Organiser: Kindred Community and Public Hygiene Council</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Take part in this beach cleanup at Sembawang Park beach and do your part to maintain a clean, healthy and thriving environment for our community!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/kindred-community-sembawang-beach-cleanup/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/recycling-right-workshop-by-the-sustainability-project/">
+        <img src="/images/Workshop%20&amp;%20Talks/Recycling_Right_The_Sustainability_Project.png"></a>
+        <h2>Recycling Right Workshop by The Sustainability Project</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: $8</strong></li>
+          <li><strong>Venue: Crane @ Wisma Atria, 435 Orchard Road</strong></li>
+          <li><strong>Organiser: The Sustainability Project</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Not too sure how to start your recycling journey, or wish to learn more about how to recycle right and better? Learn how to through this workshop!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/recycling-right-workshop-by-the-sustainability-project/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
             <a href="/green-house-2024/">
               <img src="/images/Events/GREEN_HOUSE_2024.jpg"></a>
         <h2>GREEN-HOUSE 2024
