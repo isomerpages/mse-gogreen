@@ -397,7 +397,7 @@ More activities are being added progressively.</div>
       </div>
       <div class="programmes__item__detail">
         <ul>
-          <li><strong>Dates: 13 - 21 July</strong></li>
+          <li><strong>Dates: 13, 14 July</strong></li>
           <li><strong>Admission: Free (registration required)</strong></li>
 <li><strong>Venue: Various</strong></li>
           <li><strong>Organiser: National Parks Board</strong></li>
