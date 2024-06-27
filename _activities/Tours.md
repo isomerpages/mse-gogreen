@@ -1990,6 +1990,35 @@ More activities are being added progressively.</div>
         Find out more
       </a>
     </div>
+  </div>	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/vertivegies-indoor-farm-tour-and-experiential-session/">
+        <img src="/images/Tours/Vertivegies_indoor_farm_tour.jpg"></a>
+        <h2>VertiVegies’ Indoor Farm Tour and Experiential Session</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 1, 10 July</strong>
+          </li>
+          <li><strong>Admission: $40</strong></li>
+          <li><strong>Venue: 85 Science Park Drive #02-05</strong></li>
+          <li><strong>Organiser: VertiVegies </strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Embark on a learning journey inside VertiVegies’ R&amp;D Centre of Excellence! Participants can observe  several different plant varieties – including field crops, soft fruits, vegetables and herbs – up close. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/vertivegies-indoor-farm-tour-and-experiential-session/" class="button-primary">
+        Find out more
+      </a>
+    </div>
   </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
