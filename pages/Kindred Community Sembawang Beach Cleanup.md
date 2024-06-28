@@ -21,11 +21,7 @@ This activity is not suitable for individuals with mobility issues.
 
  
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/sembawang-beach-cleanup-tickets-931779516617?aff=oddtdtcreator"> 
-
-<img src="/images/gogreensg_website-32.png"> 
-
-</a> 
+<a class="btn-link" target="_blank" href="https://www.eventbrite.com/e/sembawang-beach-cleanup-tickets-931779516617?aff=oddtdtcreator"><img src="/images/gogreensg_website-32.png"></a> 
 
  
 
