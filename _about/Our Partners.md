@@ -986,7 +986,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Just_Keep_Thinking.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/kindred_community.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/LepakInSG.png">
 </div>
