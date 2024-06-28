@@ -914,6 +914,9 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/NGOs_and_NPOs/Nature_Society_Singapore.png">
 </div>
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/NGOs_and_NPOs/public_hygiene_council.png">
+</div>
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/NGOs_and_NPOs/SAFEF.jpg">
 </div>
 <div class="col is-one-quarter">
