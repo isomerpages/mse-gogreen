@@ -1283,6 +1283,36 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
       </a>
     </div>
   </div>
+	
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/designing-for-nature-ecologically-engineering-singapore-s-coastal-defences/">
+        <img src="/images/Workshop%20&amp;%20Talks/3_EcologicalCoastalDefences.png"></a>
+        <h2>Designing for Nature: Ecologically Engineering Singapore’s Coastal Defences</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date:  2 July</strong>
+          </li>
+          <li><strong>Admission: Free (register with mylibrary username)</strong></li>
+          <li><strong>Venue: Online (Zoom)</strong></li>
+          <li><strong>Organiser: National Library Board</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Sign up now and hear from speaker Peter Todd on how to use ecological engineering to design coastal defences, and what the additional benefits are.
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/designing-for-nature-ecologically-engineering-singapore-s-coastal-defences/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
