@@ -405,6 +405,32 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>	          
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/children-s-toys-promotion-from-play-beyond/">
+        <img src="/images/Retail%20FB%20Deals/Play_Beyond_Promotion.png"></a>
+        <h2>Children’s Toys Promotion from Play Beyond</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>            <strong>
+              Date: 1 - 14 July</strong></li>
+          <li><strong>Admission: Free (no registration required)</strong></li>
+          <li><strong>Organiser: Play Beyond Private Limited</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Discover the joy of curated preloved toys with Play Beyond! Preloved toys not only save you money, but also help reduce waste by giving toys a second life. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/children-s-toys-promotion-from-play-beyond/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+	</div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
