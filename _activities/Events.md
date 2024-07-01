@@ -158,7 +158,7 @@ More activities are being added progressively.</div>
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
 <a href="/free-documentary-screening-of-melting-greenland/">
-        <img src="/images/Others/hero_image__Collapse_after__1_.jpg"></a>
+        <img src="/images/Events/LifeArchitect_MeltingGreenland.png"></a>
         <h2>Free Documentary Screening of ‘Melting Greenland’</h2>
       </div>
       <div class="programmes__item__detail">
