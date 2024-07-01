@@ -2389,7 +2389,7 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
       <div class="programmes__item__header">
 <a href="/kindred-community-sembawang-beach-cleanup/">
         <img src="/images/Initiatives/Kindred_Community_Beach_Clean_Up.jpg"></a>
-        <h2>Kindred Community Sembawang Beach Cleanup</h2>
+        <h2>Kindred Community East Coast Park Cleanup</h2>
       </div>
       <div class="programmes__item__detail">
         <ul>
@@ -2398,12 +2398,12 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
               Date: 13 July</strong>
           </li>
           <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Sembawang Park Car Park 1 </strong></li>
+          <li><strong>Venue: East Coast Park </strong></li>
           <li><strong>Organiser: Kindred Community and Public Hygiene Council</strong></li>
         </ul>
       </div>
       <div class="programmes__item__body">
-        <p>Take part in this beach cleanup at Sembawang Park beach and do your part to maintain a clean, healthy and thriving environment for our community!
+        <p>Take part in this beach cleanup at East Coast Park and do your part to maintain a clean, healthy and thriving environment for our community!
         </p>
       </div>
     </div>
