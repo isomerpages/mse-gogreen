@@ -61,7 +61,7 @@ This activity is suitable for participants with mobility issues.
 
 
 **13 July, 3:00 pm – 4:30 pm, EB Impact Creative Writing Workshop<br>**
-<a class="btn-link" target="_blank">
+<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdDlRuAEAVYDtokTRBAMkxnqGzuHXpWM3rbIL70yb88TC4zvg/viewform">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
@@ -97,7 +97,7 @@ This activity is suitable for participants with mobility issues.
 </style>
 
 **14 July, 3:00 pm – 4:30 pm, Tembusu CSR<br>**
-<a class="btn-link" target="_blank">
+<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSd03sjT37c4JdjUWaKu6cUAWhUc8KIP2ybPZCtZGDLkEZmyww/viewform">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
