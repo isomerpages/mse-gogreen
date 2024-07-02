@@ -24,7 +24,7 @@ This activity is suitable for participants with mobility issues.
 
 
 **13 July, 10:00 am – 12:00 pm, Stridy Urban Clean Up<br>**
-<a class="btn-link" target="_blank">
+<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSeDiQCk9tbY9HEAiczEQ7tv6G9aDy6uA4yRxm_bFVRmd-ggjQ/viewform">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 
