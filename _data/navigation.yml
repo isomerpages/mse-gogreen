@@ -12,7 +12,5 @@ links:
     url: /faq
   - title: Contact Us
     url: /contact
-  - title: News & Media
-    resource_room: true
   - title: Blog
     url: /resources/blog/
