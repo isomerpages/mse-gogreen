@@ -14,3 +14,5 @@ links:
     url: /contact
   - title: News & Media
     resource_room: true
+  - title: Blog
+    url: /resources/blog/
