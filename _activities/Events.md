@@ -554,4 +554,34 @@ More activities are being added progressively.</div>
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/youth4climate-festival-2024/">
+              <img src="/images/Events/Youth_climate_festival.png"></a>
+        <h2>Youth4Climate Festival 2024
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required for selected activities)</strong></li>
+          <li><strong>Venue: Heartbeat@Bedok</strong></li>
+          <li><strong>Organiser: City Developments Limited, People’s Association</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Youth4Climate festival is a platform for Singapore’s youth to express their passion for the environment through musical performances and other exciting fringe activities! Look forward to free workshops, an eco-marketplace, and more. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/youth4climate-festival-2024/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 </div>
