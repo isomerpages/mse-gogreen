@@ -16,7 +16,7 @@ Join this park cleanup in support of Go Green SG and the Year of Public Hygiene!
 
 Enjoy the cool morning breeze as you soak in the sights, sounds and smells of East Coast Park for this cleanup. See you there!  
 
-This activity is not suitable for individuals with mobility issues.
+
 
 
  
