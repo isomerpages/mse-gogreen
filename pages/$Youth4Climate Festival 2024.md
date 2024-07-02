@@ -7,7 +7,7 @@ description: ""
 ![poster of youth4climate festival 2024](/images/Events/Youth_climate_festival.png)
 
 
-**Date:** 13 and July, 10:00 am - 8:00 pm <br>
+**Date:** 13 and 14 July, 10:00 am - 8:00 pm <br>
 **Admission:** Free (registration required for selected activities)<br>
 **Venue:** Heartbeat@Bedok, 11 Bedok North Street 1<br>
 **Organiser:** City Developments Limited, People’s Association<br>
