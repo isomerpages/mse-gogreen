@@ -2384,6 +2384,36 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
       </a>
     </div>
   </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/greenparade-wake-up-and-swap/">
+              <img src="/images/Events/GreenParade.png"></a>
+        <h2>GreenParade: Wake Up and Swap
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Hong Lim Park</strong></li>
+          <li><strong>Organiser: Greenspace</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join GreenSpace+ for GreenParade, a fun-filled event promoting sustainability and eco-friendly living, with activities such as talks on climate action, interactive workshops and a live concert. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/greenparade-wake-up-and-swap/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -2498,6 +2528,36 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
     </div>
     <div class="programmes__item__actions">
       <a href="/green-house-2024-castlery-s-preloved-sale/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+		<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+            <a href="/youth4climate-festival-2024/">
+              <img src="/images/Events/Youth_climate_festival.png"></a>
+        <h2>Youth4Climate Festival 2024
+</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required for selected activities)</strong></li>
+          <li><strong>Venue: Heartbeat@Bedok</strong></li>
+          <li><strong>Organiser: City Developments Limited, People’s Association</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>The Youth4Climate festival is a platform for Singapore’s youth to express their passion for the environment through musical performances and other exciting fringe activities! Look forward to free workshops, an eco-marketplace, and more. 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/youth4climate-festival-2024/" class="button-primary">
         Find out more
       </a>
     </div>
