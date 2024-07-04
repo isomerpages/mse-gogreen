@@ -15,7 +15,7 @@ Biodiversity Collage is a fun, collaborative, and accessible workshop to underst
 
 Through a card-based game, learn about the importance of biodiversity in supporting our human societies, health systems and the underlying interactions in Singapore’s nature ecosystems.
 
-In the fireside chat that takes place after the game, hear from Rachael Goh, a youth biodiversity enthusiast. Rachel is interested in land-use planning in Singapore and volunteers actively with LepakInSG. As a guide with Friends of Chestnut Nature Park and NTU Earthlink, she strives to spread her love for nature with others. She was also previously involved in other groups like the Biodiversity Friends Forum, which aims to develop an appreciation for local flora and fauna in youths.
+In the fireside chat that takes place after the game, hear from Rachael Goh, a youth biodiversity enthusiast. Rachael is interested in land-use planning in Singapore and volunteers actively with LepakInSG. As a guide with Friends of Chestnut Nature Park and NTU Earthlink, she strives to spread her love for nature with others. She was also previously involved in other groups like the Biodiversity Friends Forum, which aims to develop an appreciation for local flora and fauna in youths.
 
 This activity is recommended for secondary and tertiary students and is suitable for participants with mobility issues.
 
