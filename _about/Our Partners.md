@@ -290,6 +290,9 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Public_Agencies/Ministry_Of_Education.png">
+</div>
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Public_Agencies/National_Environment_Agency.png">
 </div>
 
@@ -728,6 +731,9 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Girls_High_School.png">
 </div>
 
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Polytechnic.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Nanyang_Technological_University_Earth_Observatory_Singapore.png">
 </div>
