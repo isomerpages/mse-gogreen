@@ -2278,6 +2278,34 @@ More activities are being added progressively.</div>
         Find out more
       </a>
     </div>
+  </div><div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/vege-magic-indoor-farm-tour/">
+        <img src="/images/Tours/Vege_magic_farm_tour.jpg"></a>
+        <h2>Vege Magic Indoor Farm Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 9, 10, 11, 13, 14 July</strong>
+          </li>
+          <li><strong>Admission: $15/pax</strong></li>
+          <li><strong>Venue: 6 Pioneer Walk, GKE logistics Hub Level 1</strong></li>
+          <li><strong>Organiser: Vege Magic, GKE Agritech</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Learn how local produce can be grown using solar energy and other interesting agricultural methods. You can receive a gift to bring home, too!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/vege-magic-indoor-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
   </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
