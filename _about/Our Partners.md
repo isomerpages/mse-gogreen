@@ -417,6 +417,9 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/GKE_Agritech_Pte_Ltd.png">
+</div>
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Gojek.png">
 </div>
 <div class="col is-one-quarter">
@@ -588,7 +591,9 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Urban_Green_Dot_Pte_Ltd.png">
 </div>
-
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Corporates/vege_magic.png">
+</div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Verizon_Communications_Singapore_Pte_Ltd.png">
 </div>
@@ -984,6 +989,9 @@ transform: rotate(0);
 </div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Friends_of_the_Museums.png">
+</div>
+<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/GreenSpace.png">
 </div>
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/Henderson_Dawson_CCC.png">
