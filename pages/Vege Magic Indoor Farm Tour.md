@@ -19,13 +19,7 @@ A minimum of 5 participants are required for the tour to proceed.
 
 Please click below to enquire through email. 
 
- 
-
-<a class="btn-link" target="_blank" href="mailto:jiangyun@gkegroup.com.sg"> 
-
-<img src="/images/more-info-btn.png"> 
-
-</a> 
+ <a class="btn-link" target="_blank" href="mailto:jiangyun@gkegroup.com.sg"><img src="/images/more-info-btn.png"></a> 
 
  
 
