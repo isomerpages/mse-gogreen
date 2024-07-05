@@ -13,12 +13,22 @@ For instance, non-profit organization Conservation International organised a sto
 
 
 
+
 Conservation International’s environmental educator, Mr. Saravanan Sinniah, emphasised the important role that storytelling has in furthering environmental messaging, where “storytelling is not just storytelling, but it is about creating and nurturing a love [for the environment] in young minds”. 
+
+
+
 
 “We have to break [down] the complex science of the environment. The scope is really big, people are talking about the climate, about the forest, about the ocean, [and] we just want to make sure that the students are able to have a simplified version of it, so that they can understand it, and capture their attention and interest from a young age,” Mr. Saravanan shared. 
 
 This Go Green SG-exclusive workshop focused on the issues of waste and the 4Rs – Reduce, Reuse, Recycle and Recover. Students engaged in interactive presentations and activities, where they were tasked to think about their favourite animal and create a story of the environmental issues the animal might face due to poor waste management habits by humans. To conclude the fun workshop, students shared their creative artworks with the class.
 
+
+
+
 In addition to deepening the students' individual understanding of the importance of ecosystem protection, the workshop gave them the opportunity to collectively discuss such issues, and encourage positive eco habits. 
+
+
+
 
 By going green, we learn how to take collective action and build a more sustainable, eco-friendly, and climate-adaptive Singapore.
