@@ -23,8 +23,8 @@ Conservation International’s environmental educator, Mr. Saravanan Sinniah, em
 
 This Go Green SG-exclusive workshop focused on the issues of waste and the 4Rs – Reduce, Reuse, Recycle and Recover. Students engaged in interactive presentations and activities, where they were tasked to think about their favourite animal and create a story of the environmental issues the animal might face due to poor waste management habits by humans. To conclude the fun workshop, students shared their creative artworks with the class.
 
-
-
+![Drawing of a turtle](/images/Blog/Conservation%20International/conservation_international_turtledrawing.png)
+<div style="text-align:center">A student drawing fish as part of his artwork.</div>
 
 In addition to deepening the students' individual understanding of the importance of ecosystem protection, the workshop gave them the opportunity to collectively discuss such issues, and encourage positive eco habits. 
 
