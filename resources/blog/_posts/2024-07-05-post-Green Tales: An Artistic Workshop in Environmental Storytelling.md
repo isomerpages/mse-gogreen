@@ -29,6 +29,6 @@ This Go Green SG-exclusive workshop focused on the issues of waste and the 4Rs â
 In addition to deepening the students' individual understanding of the importance of ecosystem protection, the workshop gave them the opportunity to collectively discuss such issues, and encourage positive eco habits. 
 
 
-
+<div style="text-align:center">Students engaging in conversation.</div>
 
 By going green, we learn how to take collective action and build a more sustainable, eco-friendly, and climate-adaptive Singapore.
