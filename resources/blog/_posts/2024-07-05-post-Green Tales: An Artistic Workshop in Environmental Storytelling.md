@@ -16,7 +16,7 @@ For instance, non-profit organization Conservation International organised a sto
 
 Conservation International’s environmental educator, Mr. Saravanan Sinniah, emphasised the important role that storytelling has in furthering environmental messaging, where “storytelling is not just storytelling, but it is about creating and nurturing a love [for the environment] in young minds”. 
 
-![students having a discussion on the artworks](/images/Blog/Conservation%20International/conservation_international_teacher.png)
+![Educator and students having a discussion](/images/Blog/Conservation%20International/conservation_international_teacher.png)
 <div style="text-align:center">Mr. Saravanan guiding the students on creating their own stories.</div>
 
 “We have to break [down] the complex science of the environment. The scope is really big, people are talking about the climate, about the forest, about the ocean, [and] we just want to make sure that the students are able to have a simplified version of it, so that they can understand it, and capture their attention and interest from a young age,” Mr. Saravanan shared. 
