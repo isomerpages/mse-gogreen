@@ -11,8 +11,8 @@ With the support of 180 partners, this year’s Go Green SG 2024 features more t
 
 For instance, non-profit organization Conservation International organised a storytelling workshop for 31 students on 19 and 27 June 2024. The 2-day workshop brought together students from Big Heart Student Care at Chongzheng Primary School to learn how to tell stories of environmental protection through visual mediums such as poster designs and artworks. 
 
-
-
+![Students displaying their artworks](/images/Blog/Conservation%20International/conservation_international_artworks.png)
+<div style="text-align:center">Group photo of Mr. Saravanan Sinniah and the students.</div>
 
 Conservation International’s environmental educator, Mr. Saravanan Sinniah, emphasised the important role that storytelling has in furthering environmental messaging, where “storytelling is not just storytelling, but it is about creating and nurturing a love [for the environment] in young minds”. 
 
