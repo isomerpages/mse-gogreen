@@ -4,10 +4,10 @@ permalink: /climate-fresk-climate-change-and-elder-care-ismaili-civic/
 variant: markdown
 description: ""
 ---
-![Poster publicising a climate fresk and panel discussion organised by The Transmutation Principle](/images/Workshop%20&amp;%20Talks/TransmutationPrinciple_CFxCIVIC.jpg)
+![Climate Fresk and Panel Discussion with Transmutation Principle](/images/Events/updated_ClimateFresk.jpg)
 
 
-**Date:** 6 July, 10:00 am - 1:00 pm<br>
+**Date:** 12 July, 10:00 am - 1:00 pm<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Ismaili CIVIC, Putian Building, 25 Lorong 33 Geylang<br>
 **Organiser:** The Transmutation Principle, Ismaili CIVIC
@@ -30,7 +30,7 @@ Panel Speakers:
 This activity is recommended for caregivers, professionals in healthcare and/or elderly-related industries, and family members. This activity is also suitable for participants with mobility issues.
 
 
-<a class="btn-link" target="_blank" href="https://www.eventbrite.co.uk/e/883187787447?aff=oddtdtcreator">
+<a class="btn-link" target="_blank" href="https://bit.ly/CF_IsmailiCIVIC_10">
 	<img src="/images/gogreensg_website-32.png">
 </a>
 

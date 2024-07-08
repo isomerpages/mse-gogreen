@@ -1371,35 +1371,6 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
       </a>
     </div>
   </div>
-			<div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
-<a href="/climate-fresk-climate-change-and-elder-care-ismaili-civic/">
-        <img src="/images/Workshop%20&amp;%20Talks/TransmutationPrinciple_CFxCIVIC.jpg"></a>
-        <h2>Climate Fresk, Climate Change and Elder Care @ Ismaili CIVIC</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 6 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Ismaili CIVIC, Putian Building</strong></li>
-          <li><strong>Organiser: The Transmutation Principle, Ismaili CIVIC</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Join The Transmutation Principle in this two-part event to learn about climate change and how it impacts the elderly! 
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/climate-fresk-climate-change-and-elder-care-ismaili-civic/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div>
 		<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
@@ -1607,7 +1578,35 @@ Can the twins find a way to discourage the macaques from visiting their neighbou
       </a>
     </div>
   </div>
-	   
+			<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/climate-fresk-climate-change-and-elder-care-ismaili-civic/">
+        <img src="/images/Workshop%20&amp;%20Talks/TransmutationPrinciple_CFxCIVIC.jpg"></a>
+        <h2>Climate Fresk, Climate Change and Elder Care @ Ismaili CIVIC</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 12 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Ismaili CIVIC, Putian Building</strong></li>
+          <li><strong>Organiser: The Transmutation Principle, Ismaili CIVIC</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Join The Transmutation Principle in this two-part event to learn about climate change and how it impacts the elderly! 
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/climate-fresk-climate-change-and-elder-care-ismaili-civic/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
 <div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
