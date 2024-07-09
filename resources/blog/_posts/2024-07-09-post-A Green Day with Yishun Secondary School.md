@@ -32,4 +32,3 @@ YSS is also expanding its efforts to adopt green living practices on a school-wi
 ![Reverse vending machine that serves as a recycling tool for Yishun Secondary School students](/images/Blog/YSS_3.jpg)<div style="text-align:center">Recycle N Save your plastic bottles and metal cans.</div>
 
 YSS Green Day @ Zone H and its whole-school assembly sharing are important platforms for students to continue advocating for environmental sustainability issues, bringing us one step closer to making the environment clean, green, and sustainable for future generations.
-
