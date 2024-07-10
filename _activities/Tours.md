@@ -2253,34 +2253,6 @@ More activities are being added progressively.</div>
 	<div class="programmes__item col is-one-third">
     <div class="programmes__item__wrapper">
       <div class="programmes__item__header">
-<a href="/republic-polytechnic-green-tour/">
-        <img src="/images/Tours/republic_polytechnic_main.png"></a>
-        <h2>Republic Polytechnic Green Tour</h2>
-      </div>
-      <div class="programmes__item__detail">
-        <ul>
-          <li>
-            <strong>
-              Date: 9, 11 July</strong>
-          </li>
-          <li><strong>Admission: Free (registration required)</strong></li>
-          <li><strong>Venue: Republic Polytechnic Centre, 9 Woodlands Avenue 9</strong></li>
-          <li><strong>Organiser: Republic Polytechnic</strong></li>
-        </ul>
-      </div>
-      <div class="programmes__item__body">
-        <p>Explore how environmentally sustainable initiatives and practices are integrated into the Republic Polytechnic’s campus. Come visit this campus in a park!
-        </p>
-      </div>
-    </div>
-    <div class="programmes__item__actions">
-      <a href="/republic-polytechnic-green-tour/" class="button-primary">
-        Find out more
-      </a>
-    </div>
-  </div><div class="programmes__item col is-one-third">
-    <div class="programmes__item__wrapper">
-      <div class="programmes__item__header">
 <a href="/vege-magic-indoor-farm-tour/">
         <img src="/images/Tours/Vege_magic_farm_tour.jpg"></a>
         <h2>Vege Magic Indoor Farm Tour</h2>
@@ -2303,6 +2275,35 @@ More activities are being added progressively.</div>
     </div>
     <div class="programmes__item__actions">
       <a href="/vege-magic-indoor-farm-tour/" class="button-primary">
+        Find out more
+      </a>
+    </div>
+  </div>
+	<div class="programmes__item col is-one-third">
+    <div class="programmes__item__wrapper">
+      <div class="programmes__item__header">
+<a href="/republic-polytechnic-green-tour/">
+        <img src="/images/Tours/republic_polytechnic_main.png"></a>
+        <h2>Republic Polytechnic Green Tour</h2>
+      </div>
+      <div class="programmes__item__detail">
+        <ul>
+          <li>
+            <strong>
+              Date: 11 July</strong>
+          </li>
+          <li><strong>Admission: Free (registration required)</strong></li>
+          <li><strong>Venue: Republic Polytechnic Centre, 9 Woodlands Avenue 9</strong></li>
+          <li><strong>Organiser: Republic Polytechnic</strong></li>
+        </ul>
+      </div>
+      <div class="programmes__item__body">
+        <p>Explore how environmentally sustainable initiatives and practices are integrated into the Republic Polytechnic’s campus. Come visit this campus in a park!
+        </p>
+      </div>
+    </div>
+    <div class="programmes__item__actions">
+      <a href="/republic-polytechnic-green-tour/" class="button-primary">
         Find out more
       </a>
     </div>
