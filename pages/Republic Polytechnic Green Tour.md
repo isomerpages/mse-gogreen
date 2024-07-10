@@ -7,7 +7,7 @@ image: /images/Tours/republic_polytechnic_main.png
 ---
 ![](/images/Tours/republic_polytechnic_main.png)
 
-**Date:** 9 July, 4:00 pm – 5:00 pm, 11 July, 9:00 am – 10:00 am<br>
+**Date:** 11 July, 9:00 am – 10:00 am<br>
 **Admission:** Free (registration required)<br>
 **Venue:** Republic Polytechnic Centre, 9 Woodlands Avenue 9<br>
 **Organiser:** Republic Polytechnic
