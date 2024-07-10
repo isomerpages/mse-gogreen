@@ -15,9 +15,9 @@ During the event, residents picked out freshly-harvested vegetables from a commu
 
 Wen Yi and Xin En, Green Champions of Class 3 Strive, shared their reflections on YSS Green Day to more than 1,200 schoolmates at a schoolwide assembly sharing on 27 June 2024. They shared about the collaborative efforts among the stakeholders in the community, as well as their reflections of the community-driven environmental initiative. Their presentation concluded with a short video showcasing the day’s activities and expressing appreciation to the students and staff who organised and attended the event.
 
-![Yishun Secondary School students Xin En and Wen Yi presenting to the school on their initiative](/images/Blog/YSS_1.jpg)<br><center><i>Xin En (left) and Wen Yi (right) sharing their experience with their schoolmates.</i></center>
+![Yishun Secondary School students Xin En and Wen Yi presenting to the school on their initiative](/images/Blog/YSS_1.jpg)<center><i>Xin En (left) and Wen Yi (right) sharing their experience with their schoolmates.</i></center>
 
-![Yishun Secondary School students listening in their school morning assembly](/images/Blog/YSS_2.jpg)<br><center><i>Learning more from fellow schoolmates on the school’s sustainability efforts.</i></center>
+![Yishun Secondary School students listening in their school morning assembly](/images/Blog/YSS_2.jpg)<center><i>Learning more from fellow schoolmates on the school’s sustainability efforts.</i></center>
 
 Xin En felt it was important for sustainability-related initiatives to achieve long-term goals, sharing that she was keen to raise awareness on recycling right and having a clean environment.
 
