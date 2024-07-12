@@ -18,9 +18,7 @@ Beyond public activities, organisations such as PCF Sparkletots have also
 organised internal-facing activities to engage their own stakeholders on
 the importance of keeping Singapore clean and green.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="a kindergarden class with their family in the park" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_1.png">
-</div>
+<p>pic 1</p>
 <p>&lt;center&gt;&lt;i&gt;Walking to Northshore Straitsview Playground to
 clean up some litter!&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
@@ -30,7 +28,56 @@ picking activity and how to sort the litter into recyclables and non-recyclables
 Straitsview Playground, picking up litter such as tissue paper and food
 packaging.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="young girl picks up litter with gloves" src="/images/Blog/PCF Punggol Coast 402/pcfpunggolcoast402_2.jpg">
-</div>
+<p>pic 2</p>
+<p>&lt;center&gt;&lt;i&gt;Preschoolers learn about environmental cleanliness
+through a litter-picking activity.&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
+<p>pic 3</p>
+<p>pic 4</p>
+<p>&lt;center&gt;&lt;i&gt;Identifying recyclables and non-recyclables is
+part of building environmental awareness.&lt;/i&gt;&lt;/center&gt;</p>
+<p></p>
+<p>To pique the preschoolers’ curiousity about the natural environment, the
+preschoolers did some detective work in the next activity, I SPY, where
+they were handed pictures of flora and fauna to identify around the area.</p>
+<p>Keeping with the theme of environmental protection, the importance of
+upcycling was reinforced through an arts and crafts activity.</p>
+<p></p>
+<p>pic 5</p>
+<p>pic 6</p>
+<p>&lt;center&gt;&lt;i&gt;Tapping into artistic expression to show care for
+the environment. Recycled materials were used in the craft.&lt;/i&gt;&lt;/center&gt;</p>
+<p></p>
+<p>To conclude the event, parents and children were invited to contribute
+pledges to protect the environment, which were pasted onto a pledge tree.</p>
+<p></p>
+<p>pic 7</p>
+<p>&lt;center&gt;&lt;i&gt; Everyone can play their part for the environment
+through their actions.&lt;/i&gt;&lt;/center&gt;</p>
+<p></p>
+<p>pic 8</p>
+<p>&lt;center&gt;&lt;i&gt;Ms Corum (far left) assisting Omar (middle) during
+the litter picking activity. Omar participated in the event with his mother,
+Ms Ayu (far right).&lt;/i&gt;&lt;/center&gt;</p>
+<p></p>
+<p>Ms Kate Corum, the teacher behind this outreach event, expressed hope
+that the children would learn to show respect for the environment through
+their actions and grow up to become responsible citizens.</p>
+<p>Believing that children should learn through hands-on activities, Ms Corum
+shared that litter picking was a good activity to engage preschoolers as
+it was interactive and educational. It would also make learning about environmental
+protection memorable.</p>
+<p>Ms Ayu, mother of three-year-old preschooler Omar, felt that the litter
+picking activity was meaningful as parents and their children could work
+together to keep the environment clean. She expressed hope that Omar would
+learn to be environmentally responsible and not to litter.</p>
+<p></p>
+<p>pic 9</p>
+<p>&lt;center&gt;&lt;i&gt;Big smiles after a rewarding event.&lt;/i&gt;&lt;/center&gt;</p>
+<p></p>
+<p>“Tiny Hands, Big Hearts” was an initiative in inspiring young children
+to be champions for environmental cleanliness at an early age. With everyone’s
+effort, our future generations can continue to grow and thrive in a clean
+and green Singapore.</p>
+<p>Want to learn about other Go Green SG activities which you can do with
+your children? Click <a href="https://www.gogreen.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">here</a> to find out more!</p>
