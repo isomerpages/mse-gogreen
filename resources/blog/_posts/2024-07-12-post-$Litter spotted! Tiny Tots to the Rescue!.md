@@ -23,3 +23,14 @@ the importance of keeping Singapore clean and green.</p>
 </div>
 <p>&lt;center&gt;&lt;i&gt;Walking to Northshore Straitsview Playground to
 clean up some litter!&lt;/i&gt;&lt;/center&gt;</p>
+<p></p>
+<p>The teachers briefed the preschoolers and their parents about the litter
+picking activity and how to sort the litter into recyclables and non-recyclables.</p>
+<p>Under the adults’ supervision, the preschoolers helped clean up the Northshore
+Straitsview Playground, picking up litter such as tissue paper and food
+packaging.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="young girl picks up litter with gloves" src="/images/Blog/PCF Punggol Coast 402/pcfpunggolcoast402_2.jpg">
+</div>
+<p></p>
