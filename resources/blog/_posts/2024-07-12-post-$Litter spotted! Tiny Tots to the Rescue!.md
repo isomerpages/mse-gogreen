@@ -18,7 +18,9 @@ Beyond public activities, organisations such as PCF Sparkletots have also
 organised internal-facing activities to engage their own stakeholders on
 the importance of keeping Singapore clean and green.</p>
 <p></p>
-<p>pic 1</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="kindergardeners and their family at a park" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_1.png">
+</div>
 <p>&lt;center&gt;&lt;i&gt;Walking to Northshore Straitsview Playground to
 clean up some litter!&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
@@ -28,12 +30,21 @@ picking activity and how to sort the litter into recyclables and non-recyclables
 Straitsview Playground, picking up litter such as tissue paper and food
 packaging.</p>
 <p></p>
-<p>pic 2</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="young girl picks up litter with a glove" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_2.png">
+</div>
 <p>&lt;center&gt;&lt;i&gt;Preschoolers learn about environmental cleanliness
 through a litter-picking activity.&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
-<p>pic 3</p>
-<p>pic 4</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="young children place recyclables in a customised recyclable box" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="young girl puts trash into a box labelled non recyclable" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_4.png">
+</div>
 <p>&lt;center&gt;&lt;i&gt;Identifying recyclables and non-recyclables is
 part of building environmental awareness.&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
@@ -43,19 +54,31 @@ they were handed pictures of flora and fauna to identify around the area.</p>
 <p>Keeping with the theme of environmental protection, the importance of
 upcycling was reinforced through an arts and crafts activity.</p>
 <p></p>
-<p>pic 5</p>
-<p>pic 6</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="young children engaged in a arts and craft session with paper plates" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="creative creations made from paper plates" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_6.png">
+</div>
 <p>&lt;center&gt;&lt;i&gt;Tapping into artistic expression to show care for
 the environment. Recycled materials were used in the craft.&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
 <p>To conclude the event, parents and children were invited to contribute
 pledges to protect the environment, which were pasted onto a pledge tree.</p>
 <p></p>
-<p>pic 7</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="a paper tree filled with pledges to protect the environment by children and their parents" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_7.png">
+</div>
 <p>&lt;center&gt;&lt;i&gt; Everyone can play their part for the environment
 through their actions.&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
 <p>pic 8</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Omar and his mother throwing litter into a plastic bag held by teacher Ms Corum" src="/images/Blog/PCF Punggol Coast 402/PCFPunggolCoast402_8.png">
+</div>
 <p>&lt;center&gt;&lt;i&gt;Ms Corum (far left) assisting Omar (middle) during
 the litter picking activity. Omar participated in the event with his mother,
 Ms Ayu (far right).&lt;/i&gt;&lt;/center&gt;</p>
@@ -72,7 +95,10 @@ picking activity was meaningful as parents and their children could work
 together to keep the environment clean. She expressed hope that Omar would
 learn to be environmentally responsible and not to litter.</p>
 <p></p>
-<p>pic 9</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="group picture with kindergardeners from PCF Sparkletots with their parents and children" src="/images/Blog/PCF Punggol Coast 402/pcfpunggolcoast402_9.png">
+</div>
 <p>&lt;center&gt;&lt;i&gt;Big smiles after a rewarding event.&lt;/i&gt;&lt;/center&gt;</p>
 <p></p>
 <p>“Tiny Hands, Big Hearts” was an initiative in inspiring young children
