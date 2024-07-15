@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+Written by Kevan Singh, MSE Intern
+
 With the support of 180 partners, this year’s Go Green SG 2024 features more than 360 activities for all to learn about the ways we can build a cleaner, greener and more climate-resilient Singapore. In addition to activities for the public to take part in, some partners also organised internal-facing activities to engage their own communities and other stakeholders. 
 
 For instance, non-profit organization Conservation International organised a storytelling workshop for 31 students on 19 and 27 June 2024. The 2-day workshop brought together students from Big Heart Student Care at Chongzheng Primary School to learn how to tell stories of environmental protection through visual mediums such as poster designs and artworks. 
