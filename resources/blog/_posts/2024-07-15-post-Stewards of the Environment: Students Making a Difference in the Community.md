@@ -11,7 +11,6 @@ The second week of Go Green SG 2024 capped off with the “Adopt a Block” init
 
 Launched by Second Minister for Education, Dr Maliki Osman, at Nanyang Polytechnic (NYP) on 29 June, the initiative aims to empower youths from polytechnics and ITE to be change-makers in their community and increase awareness and support for sustainability. 
 
-
 In this year-long initiative, students from each polytechnic and ITE college will “adopt” three residential blocks near their campuses. They will engage residents at least once a month through workshops and visits to encourage them to reduce their water and electricity consumption, as well as increase recycling and greening efforts. 
 
 For example, 30 NYP students engaged Teck Ghee residents during the launch on upcycling and recycling efforts, and will be encouraging greening in their community through tree planting and community gardens.
@@ -19,7 +18,7 @@ For example, 30 NYP students engaged Teck Ghee residents during the launch on up
 In the spirit of the Go Green SG movement, stakeholders across the Public Service have stepped forward to support this initiative too. Grassroots organisations under the People’s Association will help out with engagement efforts, while 31 Public Service officers will also be working with students to develop and strategise community outreach methods, accompany students on household visits, and participate in community events run by the various institutions. 
 
 ![NYP students engaging with Teck Ghee residents at the “Adopt a Block” launch event](/images/Blog/Adopt%20a%20Block/AAB_Discussion.png)
-<div style="text-align:center">NYP students engaging with Teck Ghee residents at the “Adopt a Block” launch event</div>
+<center><i>NYP students engaging with Teck Ghee residents at the “Adopt a Block” launch event.</i></center>
 
 The launch event of “Adopt a Block” was attended by over 400 residents, students and staff from polytechnics and ITEs and public service officers from various agencies. The event featured a showcase of sustainability-related booths from students and alumni. 
 
@@ -30,7 +29,7 @@ Additionally, another booth named “The Thrift Market” employed principles of
 Students are looking forward to doing their part too. “I hope that this [initiative] would [encourage residents to] incorporate [waste reduction habits] into their lives, [and help them understand] that they don’t really need to buy new items ”, Year 3 NYP student, Lee Quan Yao, shared.
 
 ![A Teck Ghee resident at one of the sustainability booths](/images/Blog/Adopt%20a%20Block/AAB_Booth.png)
-<div style="text-align:center">A Teck Ghee resident at one of the sustainability booths showcased at the “Adopt a Block” launch event </div>
+<center><i>A Teck Ghee resident at one of the sustainability booths showcased at the “Adopt a Block” launch event. </i></center>
 
 The “Adopt a Block” initiative aims to bring about a brighter, more sustainable future for all of us, in line with Singapore’s Green Plan 2030. 
 
