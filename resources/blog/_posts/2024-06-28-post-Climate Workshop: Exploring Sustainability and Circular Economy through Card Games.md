@@ -8,6 +8,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+Written by Teo Jia Xin, MSE Intern
+
 Go Green SG is back this year! Thanks to the strong support of over 180 partners, MSE has curated more than 360 activities for everyone to learn about how we can build a cleaner, greener and more climate-resilient Singapore, and take collective action. In addition to activities that are open to the public, partners also organised smaller-scale activities to engage their own communities. These activities also go a long way in encouraging more to adopt sustainable living!
 
 One such example is the Climate Workshop on 16 June 2024, organised by Ismaili CIVIC, Henderson-Dawson Green Action for Communities (HDGAC) under Henderson-Dawson CCC and City Sprouts. 20 Henderson-Dawson residents tried their hand at card games that aimed to share insights into climate change and resource management challenges, and cultivate a sense of environmental stewardship. The participants were split into two groups, with one experiencing the Climate Fresk Workshop, and the other trying their hand at the Circular Economy Collage.
