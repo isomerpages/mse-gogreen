@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+Written by Wong Wai Cheng, MSE Intern
+
 Go Green SG 2024 has seen a variety of activities organised by more than 360 partners from different sectors – corporates, government, community groups and more. Schools are getting into the action too, organising events to champion sustainability within the community, and encouraging residents to do their part for the environment.
 
 Prior to Go Green SG, Yishun Secondary School (YSS) hosted YSS Green Day @ Zone H. YSS green class representatives (also known as Green Champions), YSS Girl Guides and students from Sec 2 Innovate, Sec 2 Respect and Sec 2 Seek worked together with the Nee Soon South Zone H Residents’ Committee and National Environment Agency (NEA) to engage Nee Soon South residents and YSS students on environmental sustainability.
