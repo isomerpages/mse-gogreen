@@ -18,8 +18,6 @@ sections:
       title: Go Green beyond July!
       description: Go Green SG 2024 is over, and we can't thank you enough for your
         support! Stay tuned for more fun-filled green activities next year!
-      url: /2024/tours/
-      button: Explore events listing
   - infopic:
       title: Tours
       id: infopic
