@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Written by Kevan Singh, MSE Intern
+Written by Canice Wong and Kevan Singh, MSE Interns
 
 With the support of 180 partners, this year’s Go Green SG 2024 features more than 360 activities for all to learn about the ways we can build a cleaner, greener and more climate-resilient Singapore. In addition to activities for the public to take part in, some partners also organised internal-facing activities to engage their own communities and other stakeholders. 
 
