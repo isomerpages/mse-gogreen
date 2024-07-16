@@ -26,8 +26,10 @@ this [happen], it helps to build awareness so that other people can start
 their own clean-ups,”</p>
 <p>Not only did NetWalking help keep the environment clean, but it also “[helped]
 people to connect with the environment around them”, Wesley shared.</p>
-<p></p>
-<p>Cleaning up East Coast Park as a team</p>
+
+![Cleaning up East Coast Park as a team](/images/Blog/NetWalking/Cleaning_Up_Litter.png)
+<div style="text-align:center">Cleaning up East Coast Park as a team</div>
+
 <p>Cigarette butts made up the bulk of the litter collected during the activity.
 Yasser Amin, Chief Stridy Officer, Stridy, educated participants on the
 fact that cigarette filters are constructed of cellulose acetate, which
