@@ -25,7 +25,7 @@ motivate them to keep Singapore clean as well. When public events like
 this [happen], it helps to build awareness so that other people can start
 their own clean-ups,”</p>
 <p>Not only did NetWalking help keep the environment clean, but it also “[helped]
-people to connect with the environment around them,” Wesley shared.</p>
+people to connect with the environment around them”, Wesley shared.</p>
 <p></p>
 <p>Cleaning up East Coast Park as a team</p>
 <p>Cigarette butts made up the bulk of the litter collected during the activity.
