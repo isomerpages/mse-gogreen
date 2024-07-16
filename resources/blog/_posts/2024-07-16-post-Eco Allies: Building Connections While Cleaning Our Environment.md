@@ -40,8 +40,10 @@ can be as efficient as possible.</p>
 student, who took part in the event despite the hot weather, remarked that
 there was also an additional significance to the event to remind people
 to do their part for climate change.</p>
-<p></p>
-<p>Yasser (left) advising the ways to tackle litter</p>
+
+![Yasser (left) advising the ways to tackle litter](/images/Blog/NetWalking/Educating.png)
+<div style="text-align:center">Yasser (left) advising the ways to tackle litter</div>
+
 <p>Participants ended the activity on a positive note. After a discussion,
 participants shared their thoughts on the future of Long Island, hoping
 that it would achieve the goals of coastal protection, while providing
