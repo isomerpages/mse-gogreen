@@ -22,8 +22,8 @@ of environmental ideas.</p>
 appreciated that the clean-up event also encouraged environmental discussion.
 “When people see [others] working together to help Singapore, it helps
 motivate them to keep Singapore clean as well. When public events like
-this [happen], it helps to build awareness so that other people can start
-their own clean-ups”, Wesley added.</p>
+this [happen], it helps to build awareness so that other people can then start
+ their own clean-ups”, Wesley added.</p>
 <p>Not only did NetWalking help keep the environment clean, but it also “[helped]
 people to connect with the environment around them”, Wesley further shared.</p>
 
