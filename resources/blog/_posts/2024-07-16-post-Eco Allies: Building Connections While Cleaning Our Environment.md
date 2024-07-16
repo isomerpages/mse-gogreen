@@ -48,8 +48,10 @@ to do their part for climate change.</p>
 participants shared their thoughts on the future of Long Island, hoping
 that it would achieve the goals of coastal protection, while providing
 a conducive environment for biodiversity conservation and recreation activities.</p>
-<p></p>
-<p>Exchanging ideas for a sustainable Singapore</p>
+
+![Exchanging ideas for a sustainable Singapore](/images/Blog/NetWalking/Discussion.png)
+<div style="text-align:center">Exchanging ideas for a sustainable Singapore</div>
+
 <p>Oviya further added, “Go Green SG is all about awareness and getting the
 general environmental knowledge out to the public. I’m happy to see that
 Singaporeans are actually interested in going for these initiatives all
