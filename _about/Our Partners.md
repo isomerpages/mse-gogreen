@@ -641,6 +641,10 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/anchor_green_primary_school.png">
+</div>
+	
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/anglo_chinese_school_primary.png">
 </div>
 
@@ -844,6 +848,10 @@ transform: rotate(0);
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Tampines_Meridian_JC.png">
 </div>	
+	
+	<div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/tampines_secondary_school.png">
+</div>
 	
 <div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Telok_Kurau_Primary_School.png">
