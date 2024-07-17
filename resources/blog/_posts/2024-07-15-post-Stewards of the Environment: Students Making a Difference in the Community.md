@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+Written by Kevan Singh
+
 The second week of Go Green SG 2024 capped off with the “Adopt a Block” initiative, piloted by the Ministry of Education in polytechnics and the Institute of Technical Education (ITE).
 
 Launched by Second Minister for Education, Dr Maliki Osman, at Nanyang Polytechnic (NYP) on 29 June, the initiative aims to empower youths from polytechnics and ITE to be change-makers in their community and increase awareness and support for sustainability. 
