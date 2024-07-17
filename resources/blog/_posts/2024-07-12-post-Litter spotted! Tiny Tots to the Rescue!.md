@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Written by Denise Tay, MSE Intern
+Written by Denise Tay
 
 <p>You’re never too young to keep Singapore clean and green!</p>
 <p>On 28 June, 20 preschoolers from PCF Sparkletots Preschool @ Punggol Coast
