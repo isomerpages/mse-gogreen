@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Written by Wong Wai Cheng, MSE Intern
+Written by Wong Wai Cheng
 
 Go Green SG 2024 has seen a variety of activities organised by more than 360 partners from different sectors – corporates, government, community groups and more. Schools are getting into the action too, organising events to champion sustainability within the community, and encouraging residents to do their part for the environment.
 
