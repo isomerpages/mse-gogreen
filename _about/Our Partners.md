@@ -709,6 +709,9 @@ transform: rotate(0);
 <img src="/images/Our_Partners_2024/Educational_Institutions/kiddi_winkie_schoolhouse.png">
 </div>
 <div class="col is-one-quarter">
+<img src="/images/Our_Partners_2024/Educational_Institutions/kindle_kids.png">
+</div>
+<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/Learning_Vision_at_Work_Ptd_Ltd.png">
 </div>
 <div class="col is-one-quarter">
