@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>Written by Kevan Singh, MSE Intern</p>
+<p>Written by Kevan Singh</p>
 <p>With 2024 designated as the Year of Public Hygiene, activities centred
 around public cleanliness were a key feature of Go Green SG 2024.</p>
 <p>Besides public clean-ups, partners also organised smaller-scale clean-ups
