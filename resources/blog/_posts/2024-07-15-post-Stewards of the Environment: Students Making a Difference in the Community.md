@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Written by Kevan Singh, MSE Intern
+Written by Kevan Singh
 
 The second week of Go Green SG 2024 capped off with the “Adopt a Block” initiative, piloted by the Ministry of Education in polytechnics and the Institute of Technical Education (ITE).
 
