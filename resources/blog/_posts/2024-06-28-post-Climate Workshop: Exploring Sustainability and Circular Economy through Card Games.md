@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-Written by Teo Jia Xin, MSE Intern
+Written by Teo Jia Xin
 
 Go Green SG is back this year! Thanks to the strong support of over 180 partners, MSE has curated more than 360 activities for everyone to learn about how we can build a cleaner, greener and more climate-resilient Singapore, and take collective action. In addition to activities that are open to the public, partners also organised smaller-scale activities to engage their own communities. These activities also go a long way in encouraging more to adopt sustainable living!
 
