@@ -10,9 +10,9 @@ image: /images/YOPH.jpg
 
 Go Green SG returns with a focus on public hygiene!
 
-With 2024 designated as the Year of Public Hygiene, this year's Go Green SG will feature activities and programmes to raise public awareness and nudge citizens to do their part for a cleaner and greener Singapore.
+With 2024 designated as the Year of Public Hygiene, this year's Go Green SG featured activities and programmes to raise public awareness and nudge citizens to do their part for a cleaner and greener Singapore.
 
-Check out the activities below! 
+Check out how you can get involved!! 
 
 <style>
   .row_custom {
@@ -100,7 +100,7 @@ Check out the activities below!
 
 <hr> 
 
-#### Go Green SG Jingle
+#### Go Green SG Jingle with Annette and Glenn
 Get into the groove with this brand new Go Green SG jingle, produced in collaboration with local artists Annette Lee and Glenn Yong. 
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jKVtIQkIgo4?si=T2Qtfet54FqFhIeu" height="500" width="100%"></iframe>
@@ -679,4 +679,3 @@ Click&nbsp;[here](https://www.mse.gov.sg/year-of-public-hygiene/YoPH-social-medi
     </div>
   </div>
 </div>
-
