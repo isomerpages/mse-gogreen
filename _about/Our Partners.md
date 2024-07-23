@@ -455,10 +455,6 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Corporates/Lazarus_Sea_Sports_Centre.png">
-</div>
-
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Corporates/Life_Architech_Pte_Ltd.png">
 </div>
 <div class="col is-one-quarter">
@@ -1055,13 +1051,7 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SIT_Action_for_Environmental_Conservation.png">
-</div>
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SL2_Impact.png">
-</div>
-<div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Community_and_Interest_Groups/SMU_Verts_Environmental_Club.png">
 </div>
 	
 <div class="col is-one-quarter">
