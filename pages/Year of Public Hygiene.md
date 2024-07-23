@@ -14,8 +14,6 @@ With 2024 designated as the Year of Public Hygiene, this year's Go Green SG will
 
 Check out the activities below! 
 
-**More activities are being added progressively.**
-
 <style>
   .row_custom {
     gap: 1rem;
@@ -98,6 +96,40 @@ Check out the activities below!
     color: #43b453 !important;
   }
 </style>
+
+
+<hr> 
+
+#### Go Green SG Jingle
+Get into the groove with this brand new Go Green SG jingle, produced in collaboration with local artists Annette Lee and Glenn Yong. 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jKVtIQkIgo4?si=T2Qtfet54FqFhIeu" height="500" width="100%"></iframe>
+
+<hr>
+
+#### Hygiene Heroes - a Go Green SG Short Film
+Little things can have a big impact! Our actions – or lack of them – add up, and if we're not careful, it could have a big effect on public hygiene. 
+
+Watch Andy, a young boy who has the unique ability to shrink and visit his magical miniature world. However, when he ends up in a sticky situation due to others' carelessness, it's up to his friend Rishi to save him. 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vTWxqhsuQaQ?si=q5EztaCpYfzwPY2S" height="500" width="100%"></iframe>
+
+####  Year of Public Hygiene Profile Frame
+
+Show your support by adopting the Year of Public Hygiene profile image frame!
+
+Click&nbsp;[here](https://www.mse.gov.sg/year-of-public-hygiene/YoPH-social-media-frame-template-and-guide.pptx)&nbsp;to download the frame, and a guide on how to add the frame to your profile image.
+
+<hr>
+
+#### Other Resources
+
+[NEA's Year of Public Hygiene webpage](http://www.nea.gov.sg/our-services/year-of-public-hygiene)<br>
+[Public Hygiene Council's website](http://www.publichygienecouncil.sg/)<br>
+[Clean &amp; Green Singapore](http://www.cgs.gov.sg/)
+
+
+#### Check out the Public Hygiene-related events you missed at Go Green SG 2024
 
 <div class="row row_custom">
 			<div class="programmes__item col is-one-third">
@@ -648,27 +680,3 @@ Check out the activities below!
   </div>
 </div>
 
-
-<hr> 
-
-#### Go Green SG Jingle
-Get into the groove with this brand new Go Green SG jingle, produced in collaboration with local artists Annette Lee and Glenn Yong. 
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jKVtIQkIgo4?si=T2Qtfet54FqFhIeu" height="500" width="100%"></iframe>
-
-<hr>
-
-
-####  Year of Public Hygiene Profile Frame
-
-Show your support by adopting the Year of Public Hygiene profile image frame!
-
-Click&nbsp;[here](https://www.mse.gov.sg/year-of-public-hygiene/YoPH-social-media-frame-template-and-guide.pptx)&nbsp;to download the frame, and a guide on how to add the frame to your profile image.
-
-<hr>
-
-#### Other Resources
-
-[NEA's Year of Public Hygiene webpage](http://www.nea.gov.sg/our-services/year-of-public-hygiene)<br>
-[Public Hygiene Council's website](http://www.publichygienecouncil.sg/)<br>
-[Clean &amp; Green Singapore](http://www.cgs.gov.sg/)
