@@ -699,9 +699,6 @@ transform: rotate(0);
 </div>
 
 <div class="col is-one-quarter">
-<img src="/images/Our_Partners_2024/Educational_Institutions/Jurong_Primary_School.png">
-</div>
-<div class="col is-one-quarter">
 <img src="/images/Our_Partners_2024/Educational_Institutions/kiddi_winkie_schoolhouse.png">
 </div>
 <div class="col is-one-quarter">
