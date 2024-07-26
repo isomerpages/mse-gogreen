@@ -14,14 +14,14 @@ With 2024 designated as the Year of Public Hygiene, Go Green SG 2024 has seen nu
 
 St Andrew’s Secondary School (SASS) was one of the Go Green SG partners doing just that, organising a litter picking activity   in the Potong Pasir neighbourhood for its students.
 
-![A big group photo of SPS Baey Yam Keng with the students of St Andrew Sec in the auditorium](/images/Blog/SASS_1.png)
+![A big group photo of SPS Baey Yam Keng with the students of St Andrew Sec in the auditorium](/images/Blog/SASS/SASS_1.png)
 <div style="text-align:center"><i>Thumbs up for the insightful session!</i></div>
 
 Graced by Senior Parliamentary Secretary (SPS) Baey Yam Keng, the afternoon began with student presentations on recent Project E.C.O. (Educate. Challenge. Organise.) SASS had initiated earlier this year. [Project E.C.O.](https://www.cgs.gov.sg/what-we-do/cgs2023/eco-schools/public-health-secondary-school/) are student-led projects organised by primary and secondary schools in support of Clean and Green Singapore. Students can launch recycling initiatives, conduct studies, hold collection drives for recyclables to raise awareness of environmental sustainability among their peers and the community.
 
 For example, one of the projects, by SASS’ green class representatives – otherwise known as Green Envoys,  embarked on an investigative study on the cleanliness of their school’s toilets, and how to improve the state of public hygiene in them. These Green Envoys conducted interviews with school cleaners and their peers to determine areas of improvement.
 
-![Students Simon and Ze Xuan sharing with their schoolmates on their Project E.C.O.](/images/Blog/SASS_2.png)
+![Students Simon and Ze Xuan sharing with their schoolmates on their Project E.C.O.](/images/Blog/SASS/SASS_2.png)
 <div style="text-align:center"><i>Simon Lim (left) and Koh Ze Xuan (right) sharing the highlights of their Project E.C.O..</i></div>
 
 After that, SPS Baey, the students, and teachers made their way to the Potong Pasir neighbourhood. The students were quick to find small pieces of plastic wrappers on the grass patches adjacent to the pavements along the way. Utilising trusty ‘trash busters’  equipment and the Stridy App logbook, the students picked up various types of trash and recorded their quantities. These included plastic food wrappers, used tissue papers, and beer bottle caps. The most common item was cigarette butts  , which were found more prevalently next to rubbish bins.
