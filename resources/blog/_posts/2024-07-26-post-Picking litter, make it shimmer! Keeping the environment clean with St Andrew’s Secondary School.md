@@ -45,4 +45,4 @@ Another way the school advocates for a clean environment is through Project E.C.
 
 The whole-school approach adopted by the teachers and school leaders at St Andrew’s Secondary School provides students with opportunities to be engaged in sustainability-related initiatives on a regular basis. Other than litter-picking sessions, the school embodies sustainability in various ways, like having blue bins in each classroom, having student-led presentations on the Clean Toilets Campaign, and through tying up with alumni members such as urban farmer Christopher Leow, and external partners such as SembWaste.
 
-In the community and public spaces, everyone can play their part to positively impact the community and maintain good public hygiene. To find out more about nationwide efforts for public hygiene, check out [this page](https://www.gogreen.gov.sg/year-of-public-hygiene)! 
+In the community and public spaces, everyone can play their part to positively impact the community and maintain good public hygiene. To find out more about nationwide efforts for public hygiene, check out [this page](https://www.gogreen.gov.sg/year-of-public-hygiene)!
