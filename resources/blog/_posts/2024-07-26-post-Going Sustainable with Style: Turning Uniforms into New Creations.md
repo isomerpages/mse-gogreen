@@ -26,8 +26,7 @@ Students then upcycled old uniforms donated by NJC alumni into pouches. The TCC 
 ![Uniforms creatively turned into pouches!](/images/Blog/TCC%20x%20NJC/33.png)
 <div style="text-align:center"><i>Uniforms creatively turned into pouches!</i></div>
 
-**Encouraging circularity through partnerships**
-
+**Encouraging circularity through partnerships**<br>
 The “Circularity in Action: School Uniforms for a Greener Singapore” initiative has been spreading the word about itself, with primary and secondary schools joining in as well. For example, at Anglo-Chinese School (ACS) Primary, TCC and the Parent Support Group engaged close to 40 students and parents for a parent-student bonding workshop. Pre-loved ACS uniforms were repurposed into hand-sewn, fun-sized owls. 
 
 In addition, TCC partnered with Science teachers, students and the Parent Support Group of River Valley Primary School (RVPS) to develop recess activities about the SG Green Plan, sustainable textiles and school uniforms and organised a uniform donation drive. 
@@ -40,8 +39,7 @@ TCC also collaborated with Tampines Meridian Junior College (TMJC) on a three-we
 The activities promoted sustainability and brought together participants in the spirit of collective action. “You need school leaders who are interested in exploring experiential learning opportunities for their students” Leonie shared, as she expressed her appreciation for the school leaders who encouraged such partnerships. 
 
 
-**Using mobile exhibitions to inspire change**
-
+**Using mobile exhibitions to inspire change**<br>
 As they go school to school, TCC’s initiative is accompanied by a mobile exhibition, conceptualised by TCC and designed by students of ITE (Institute of Technical Education) Central, highlighting the lifecycle of school uniforms, from the extraction of raw materials to production, transportation, and distribution.
 
 ![Gaining insight on the life cycle of a cotton plant, and the life cycle of school uniforms.](/images/Blog/TCC%20x%20NJC/34.png)
