@@ -18,7 +18,7 @@ Go Green Week kicked off with a Sustainability Fair on 8 July, graced by Ministe
 Lining the foyer of the Environment Building was a showcase of green initiatives by local farmers, environmental organisations, and Government agencies. Officers from the Singapore Civil Defence Force (SCDF) showed how they upcycled their old uniforms and decommissioned fire hoses and equipment into useful items such as card holders and pouches. SCDF also shared that their donations of decommissioned fire hoses to the Singapore Zoo made great enrichment toys for the animals. 
  
 ![SCDF's booth at the Sustainability Fair, featuring items creatively upcycled from old items](/images/Blog/Go%20Green%20Week/GGW_1.png)
-<div style="text-align:center"><i>Card holders and dog toys are some examples of products that SCDF repurposed from their old uniforms and equipment.</i></div>
+<div style="text-align:center"><i>Card holders and dog toys are some examples of products that SCDF repurposed from their old uniforms, decommissioned fire hoses and equipment.</i></div>
 
 Officers attending the fair could also try their hand at making their very own upcycled plastic carabiner with Plastify’s injector machine. The machine works by melting the shredded plastic, then moulding it into various items, such as carabiners or coasters.
  
