@@ -10,7 +10,7 @@ variant: markdown
 Written by Teo Jia Xin and Wong Wai Cheng
 
 Go Green SG 2024 featured a wide range of activities organised by over 180 partners. These activities have seen collaborations between partners from different sectors to inspire participants to foster a cleaner, greener environment. 
-One such example was ‘Go Green with Changi Airport’, a game designed through a collaboration between CHIJ St. Joseph's Convent (CHIJ SJC), Changi Airport Group, and Hidden.SG, a local social enterprise. The five SJC students involved are part of the school’s Eco-Stewardship programme, through which the Ministry of Education aims to strengthen environmental efforts in schools, in line with the Singapore Green Plan 2030.
+One such example was ‘Sustainability Trail @ Changi Airport’, a game designed through a collaboration between CHIJ St. Joseph's Convent (CHIJ SJC), Changi Airport Group, and Hidden.SG, a local social enterprise. The five SJC students involved are part of the school’s Eco-Stewardship programme, through which the Ministry of Education aims to strengthen environmental efforts in schools, in line with the Singapore Green Plan 2030.
 
 ![Participants of the sustainability trail smiling for a group picture at Changi Airport](/images/Blog/CHIJ%20SJC/CHIJ_SJC_1.png)
 <div style="text-align:center"><i>Cheers to a fun sustainability trail!</i></div>
@@ -33,7 +33,7 @@ After each correct answer, participants would receive a factoid on environmental
 
 The clues and information in the trail were designed by a team of five Eco-Stewards from CHIJ St. Joseph’s Convent. The iterative design process saw the team refining the trail after pilot runs with fellow Eco-Stewards in the same school.  They shared that not only did they learn more about Changi Airport’s initiatives, but they also got to hone their project management skills and teamwork.
 
-Teacher Miss Cheak Ching Hui feels this is an engaging way for students to learn about sustainability initiatives around them. She hopes this experience has raised their awareness of sustainability issues and inspire them to take action, starting with their everyday habits.
+Subject Head for Character and Citizenship Education, Miss Cheak Ching Hui, feels that this is an engaging way for students to learn about sustainability initiatives around them. She hopes this experience has raised their awareness of sustainability issues and inspire them to take action, starting with their everyday habits.
 
 ![The team of 5 student organisers taking a group selfie](/images/Blog/CHIJ%20SJC/CHIJ_SJC_5.png)
 <div style="text-align:center"><i>The team of Eco-Stewards who designed the game, remembering this special day with a selfie.</i></div>
