@@ -15,7 +15,7 @@ Go Green SG is a yearly, nationwide movement to rally citizens, organisations, a
 **Sustainability Fair**<br>
 Go Green Week kicked off with a Sustainability Fair on 8 July, graced by Minister Grace Fu and Senior Minister of State Dr Amy Khor. The fair aimed to rally our officers to support key green messages – Reduce Waste, Save Water, Save Energy, and Buy Local Produce.
 
-Lining the foyer of the Environment Building was a showcase of green initiatives by local farmers, environmental organisations, and Government agencies. Officers from the Singapore Civil Defence Force (SCDF) showed how they upcycled their old uniforms and fire extinguishers into useful items such as card holders and tissue box holders. SCDF also shared that their donations of old fire hoses to the Singapore Zoo made great enrichment toys for the animals. 
+Lining the foyer of the Environment Building was a showcase of green initiatives by local farmers, environmental organisations, and Government agencies. Officers from the Singapore Civil Defence Force (SCDF) showed how they upcycled their old uniforms and decommissioned fire hoses and equipment into useful items such as card holders and pouches. SCDF also shared that their donations of decommissioned fire hoses to the Singapore Zoo made great enrichment toys for the animals. 
  
 ![SCDF's booth at the Sustainability Fair, featuring items creatively upcycled from old items](/images/Blog/Go%20Green%20Week/GGW_1.png)
 <div style="text-align:center"><i>Card holders and dog toys are some examples of products that SCDF repurposed from their old uniforms and equipment.</i></div>
