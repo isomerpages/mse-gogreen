@@ -14,17 +14,17 @@ variant: markdown
 <p>Not only did NetWalking help keep the environment clean, but it also “[helped] people to connect with the environment around them”, Wesley further shared.</p>
 
 ![Cleaning up East Coast Park as a team](/images/Blog/NetWalking/Cleaning_Up_Litter.png)
-<div style="text-align:center"><i>Cleaning up East Coast Park as a team</i></div>
+<div style="text-align:center"><i>Cleaning up East Coast Park as a team.</i></div>
 
 <p>Cigarette butts made up the bulk of the litter collected during the activity. Yasser Amin, Chief Stridy Officer, Stridy, educated participants on the fact that cigarette filters are constructed of cellulose acetate, which is non-biodegradable. He also emphasised the importance of using different techniques for removing various types of environmental litter so that clean-ups can be as efficient as possible.</p>
 <p>Oviya Namo, a Singapore Institute of Technology aerospace engineering student, who took part in the event despite the hot weather, remarked that there was also an additional significance to the event to remind people to do their part for climate change.</p>
 
 ![Yasser (left) advising the ways to tackle litter](/images/Blog/NetWalking/Educating.png)
-<div style="text-align:center"><i>Yasser (left) advising the ways to tackle litter</i></div>
+<div style="text-align:center"><i>Yasser (left) advising the ways to tackle litter.</i></div>
 
 <p>Participants ended the activity on a positive note. After a discussion, participants shared their thoughts on the future of Long Island, hoping that it would achieve the goals of coastal protection, while providing a conducive environment for biodiversity conservation and recreation activities.</p>
 
 ![Exchanging ideas for a sustainable Singapore](/images/Blog/NetWalking/Discussion.png)
-<div style="text-align:center"><i>Exchanging ideas for a sustainable Singapore</i></div>
+<div style="text-align:center"><i>Exchanging ideas for a sustainable Singapore.</i></div>
 
 <p>Oviya further added, “Go Green SG is all about awareness and getting the general environmental knowledge out to the public. I’m happy to see that Singaporeans are actually interested in going for these initiatives all around Singapore!”</p>
