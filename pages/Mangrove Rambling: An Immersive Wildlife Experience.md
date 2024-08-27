@@ -23,23 +23,3 @@ As you immerse yourself in nature, experienced naturalist facilitators will impa
 Please apply the promo code **GOGREEN24** before checkout to enjoy a 10% discount! 
 
 This activity is suitable for people with mobility issues.
-
-
-
-
-<a class="btn-link" target="_blank" href="https://theuntamedpaths.com/m-r/">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
