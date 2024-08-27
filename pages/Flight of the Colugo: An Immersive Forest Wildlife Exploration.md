@@ -21,23 +21,3 @@ In the field with The Untamed Paths' wildlife guides, peek into the secretive li
 Experienced naturalist facilitators will guide you as you delve into the intricacies of the rainforest ecosystem, and witness the intrinsic beauty of local biodiversity. This immersive experience also offers the possibility of encountering delightful surprises such as small brown tarantulas, roosting whip snakes, dwarf bark scorpions, sunda scops owl, lowland freshwater crabs, common palm civets, and many more!
 
 Please apply the promo code **GOGREEN24** before checkout to enjoy a 10% discount! 
-
-
-
-
-<a class="btn-link" target="_blank" href="https://theuntamedpaths.com/f-o-t-c/">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
