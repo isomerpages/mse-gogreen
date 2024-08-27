@@ -15,21 +15,3 @@ Stridy = Stride + Tidy!&nbsp;<br>
 Join Stridy members as they walk and clean up around the Jalan Besar neighbourhood. Get an hour of walking exercise in and meet like-minded individuals while learning something new! Stridy invites all to join!&nbsp;
 
 Litter-picking equipment will be provided.
-
-
-<a class="btn-link" target="_blank" href="https://stridy.com/events/litter-vanture-go-green-sg">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
