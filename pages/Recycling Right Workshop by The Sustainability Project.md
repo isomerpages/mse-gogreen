@@ -30,20 +30,3 @@ Plus, you will receive a booklet with all the information and best practices on 
 This activity is suitable for participants with mobility issues.
 
 Make a $2 donation to contribute towards a good cause! All proceeds will go to The Coffee Project, an initiative that collects used coffee grounds from F&amp;B establishments, recycles and recirculates it to the community for other uses. The Coffee Project aims to rehome 30kg of unwanted or used coffee grounds in 2024.  
-
-<a class="btn-link" target="_blank" href="https://thesustainabilityproject.life/shop/product/recycling-right-workshop/">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
