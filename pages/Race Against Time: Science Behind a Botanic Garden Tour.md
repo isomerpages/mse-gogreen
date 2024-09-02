@@ -20,19 +20,3 @@ In addition, learn about NParks’ hybridisation programme for orchids, a proces
 This tour is recommended for participants above 9 years old and suitable for individuals with mobility issues. No pets are allowed.
 
 Registration is required by 9.45am at the Tanglin Visitor Services Desk. Limited slots are available on a first-come-first-served basis.
-
-<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/rat-tour-jun-2024">
-	<img src="/images/more-info-btn.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
