@@ -20,19 +20,3 @@ Among the rich species of plants found in the Rainforest are trees of economic i
 This tour is recommended for participants above 6 years old. No pets are allowed.
 
 Registration is required in-person at Nassim Visitor Services Desk by 8:45 am. Limited slots are available on a first-come-first-served basis.
-
-<a class="btn-link" target="_blank" href="https://www.nparks.gov.sg/sbg/whats-happening/calendar-of-events/rain-tour-jul-2024">
-	<img src="/images/more-info-btn.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
