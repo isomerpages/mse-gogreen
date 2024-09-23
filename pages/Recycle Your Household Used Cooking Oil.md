@@ -15,4 +15,4 @@ Join Apeiron Bioenergy and Tanjong Pagar Town Council as they launch Singapore's
 
 Attend an interactive talk and observe the proper way of disposing used cooking oil and the detrimental effects of improper disposal.
 
-Participants are encouraged to bring their own used cooking oil for recycling. Simply pour the cooled oil into a bottle, screw the cap on tightly, and drop it off at the designated recycling point at Our Green Hub. 
+Participants are encouraged to bring their own used cooking oil for recycling. Simply pour the cooled oil into a bottle, screw the cap on tightly, and drop it off at the designated recycling point at Our Green Hub.
