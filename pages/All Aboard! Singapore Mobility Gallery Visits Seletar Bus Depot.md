@@ -19,21 +19,3 @@ safely, reliably and efficiently for everyone!
 Journey into the world of sustainable transport and discover how you can make a positive difference!
 
 The tour is ideal for individuals, families, and groups.
-
-<font color="red"><b>[All Dates Fully Booked]</b></font><br>
-
-<a class="btn-link" target="_blank" href="https://go.gov.sg/smg-events/">
-  <img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-  .btn-link {
-    display: inline-block;
-  }
-  a.btn-link[target="_blank"]:after {
-  display: none;
-}
-  .btn-link > img {
-    width: 100%;
-  }
-</style>
