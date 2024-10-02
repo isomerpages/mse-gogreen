@@ -23,23 +23,3 @@ Changi Airport Group will also share real life examples and insights into how ve
 *   Admission fee of $10 (for each accompanying child) includes 1 drink.&nbsp;&nbsp;
 
 This activity is suitable for participants with mobility issues.
-
- 
-
-<a target="_blank" class="btn-link" href="https://www.changiairport.com/en/discover/latest-happenings/wiggle-works.html"><img src="/images/gogreensg_website-32.png"></a> 
-
- 
-
-<style> 
-.btn-link { 
-display: inline-block; 
-} 
-
-a.btn-link[target="_blank"]:after { 
-display: none; 
-} 
-
-.btn-link > img { 
-width: 100%; 
-} 
-</style>
