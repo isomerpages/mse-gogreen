@@ -14,7 +14,7 @@ Participate in susGain's 'Clean &amp; Green' App Challenge and earn points by co
 
 With the susGain app, discover various activities and challenges on topics such as zero waste, carbon footprint, and well-being. Use your points to redeem one of three impact rewards – planting a tree, donating a meal, or removing trash from Singapore's waterways.
 
-<a class="btn-link" target="_blank" href="https://www.susgain.com/">
+<a class="btn-link" target="_blank" href="http://www.susgain.com/">
 	<img src="/images/more-info-btn.png">
 </a>
 
