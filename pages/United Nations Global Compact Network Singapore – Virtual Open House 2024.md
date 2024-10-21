@@ -22,20 +22,3 @@ Participate in the Global Compact Network Singapore (GCNS) Virtual Open House 20
 - About activities, partnerships, and connections that companies can tap on to advance your sustainability journey  
 
 Also, hear from GCNS members on how sustainability pillars can work for all organisations, and their journeys with UNGC.
-
-<a class="btn-link" target="_blank" href="https://us02web.zoom.us/webinar/register/7616836217213/WN_byQnPejLSzK36NyqXoaOkw#/registration">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
