@@ -20,20 +20,3 @@ Through gameplay, you will then be introduced to Singapore's various energy opti
 Challenge yourself and your friends to achieve net-zero emissions while efficiently managing financial resources – the player who manages to reduce the most carbon emissions while balancing the economy will win!  
 
 This activity is open to families and those aged 13 and above.
-
-<a class="btn-link" target="_blank" href="http://ptix.at/79QT53">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
