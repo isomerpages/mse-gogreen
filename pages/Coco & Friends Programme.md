@@ -21,6 +21,3 @@ Each child will receive a Coco nature kit consisting of a creative and colourful
 The guided walk will be held around Hindhede Nature Park.
 
 This programme is recommended for children aged 5 – 7 years old.
-
-
-
