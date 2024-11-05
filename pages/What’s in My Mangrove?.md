@@ -18,18 +18,3 @@ The mangrove habitat, which occurs between the land and sea, poses a challenging
 Learn about the unique features that these plants possess and the importance of mangrove habitats in this guided walk.
 
 
-<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/SBWM0006/356_What-s-in-my-Mangrove">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
