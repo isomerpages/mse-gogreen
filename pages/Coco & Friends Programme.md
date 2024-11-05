@@ -22,18 +22,5 @@ The guided walk will be held around Hindhede Nature Park.
 
 This programme is recommended for children aged 5 – 7 years old.
 
-<a class="btn-link" target="_blank" href="https://beta.nparks.gov.sg/visit/events/event-detail/Coco_003/376_Coco-Friends-Programme">
-	<img src="/images/gogreensg_website-32.png">
-</a>
 
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: inline-block;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
+
