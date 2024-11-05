@@ -16,18 +16,3 @@ Embark on an adventure of fun and discovery at Earth Explorers, where sustainabi
 Learn about the importance of a circular economy and recycling and discover how small actions can make a big impact on preserving our environment.
 
 
-<a class="btn-link" target="_blank" href="https://docs.google.com/forms/d/1ub2O-8kbBCoIh4AX2uJwK6ZGbkF5i3EFdKva2QDJOKo/viewform?edit_requested=true%22%20\t%20%22_blank">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
