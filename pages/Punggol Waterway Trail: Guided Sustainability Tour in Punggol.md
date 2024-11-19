@@ -16,21 +16,4 @@ description: ""
 
 Embark on a guided Punggol Waterway Trail  to learn about the evolution of Punggol over the years and the efforts that went into developing Singapore’s first eco town!  
 
-This trail covers Punggol Discovery Cube, MyWaterway@Punggol, Singapore’s very first man-made waterway, and Treelodge@Punggol, HDB’s eco-precinct. Learn about the green technologies and solutions in place to support high-rise eco-living.  
-
-<a class="btn-link" target="_blank" href="https://www.hdb.gov.sg/community/practising-ecoliving/eco-trails">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-	
-</style>
+This trail covers Punggol Discovery Cube, MyWaterway@Punggol, Singapore’s very first man-made waterway, and Treelodge@Punggol, HDB’s eco-precinct. Learn about the green technologies and solutions in place to support high-rise eco-living
