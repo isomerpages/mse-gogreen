@@ -21,20 +21,3 @@ During this two-hour workshop, you will:
 You will also get to bring home one free bag of vegetables from a local indoor farm.
 
 This activity is suitable for individuals with mobility issues.
-
-
-<a class="btn-link" target="_blank" href="https://urbangreendot.sg/product/think-micro-green-learn-how-to-grow-and-cook-microgreens/">
-	<img src="/images/gogreensg_website-32.png">
-</a>
-
-<style>
-	.btn-link {
-		display: inline-block;
-	}
-	a.btn-link[target="_blank"]:after {
-	display: none;
-}
-	.btn-link > img {
-		width: 100%;
-	}
-</style>
